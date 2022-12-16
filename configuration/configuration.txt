@@ -1,4 +1,4 @@
-// Weblog Configuration
+// Weblog Configuration v2 - https://github.com/newbold/weblog_test
 
 # About your weblog
 
@@ -24,18 +24,4 @@ Tag path: /tag/
 #Timezone: UTC
 Date format: F j, Y
 
-# Posts
-
-Post path format: /Y/m/d/
-Default post: <<[---
-Date: $date
----
-
-# Your new post
-
-This is a new blog post. You can author it in _Markdown_, which is **awesome**.]>>
-
-Navigation: home, another-page
-# Navigation: home, [Profile](https://profile.omg.lol/rb/), 2022/12/apple-post, another-page
-
-Random post location: /random-post
+Random post location: /random
