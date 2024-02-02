@@ -7,4 +7,4 @@ slug: archive
 
 # <i class="far fa-newspaper"></i> all **{post-count}** posts 
 
-{recent-posts}
+{post-list}
