@@ -1,6 +1,3 @@
-Type: Template
-Title: Landing Page Template
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -43,7 +40,7 @@ body {
 	color: var(--foreground);
 	background: var(--background);
 }
-	
+
 nav {
     margin: 0;
     padding: 0;
@@ -112,7 +109,7 @@ nav li a:link, nav li a:visited {
 .post-info, .post-tags {
 	font-size: 85%;
 	color: var(--accent);
-	text-align: left;
+	text-align: right;
 }
 
 .post-info i:nth-child(2) {
@@ -235,8 +232,11 @@ div.weblog-info div.statuslol_emoji_container {
 }
 
 .statuslol_content p {
+  padding-left: 0.3em;
   line-height: 100%;
-  margin-bottom: 0.5em;
+  margin-bottom: 0.8em;
+  font-size: 90%;
+  font-style: italic;
 }
 
 .statuslol_time {
@@ -269,7 +269,7 @@ h3.contact-me:before {
 }
 
 h3.about-this:before {
-	content: "\f059";
+	content: "\f05a";
 	font: var(--fa-font-solid);
 	margin-right: 0.8rem;
 }
@@ -301,29 +301,34 @@ article > ol {
 	<div class="item">
 		<h3 class="current-status">status</h3>
 		<script src="https://status.lol/ericmwalk.js?time&link"></script>
-		<br\>
-		<h3 clsss="about-this"><i class="fa-solid fa-circle-question"></i> about this weblog: </h3>
-			<p><i>Trying to give this a little more of a go in 2024. Don't expect much but maybe expect something... 🤷‍♂️</i></p>
-		<br\>
-		<h3 class="contact-me">contact me: <a href="mailto:ericmwalk@omg.lol" title="Email me"> <i class="far fa-envelope"> </i></a>&nbsp;<a rel="me" href="https://social.lol/@ericmwalk" title="My Mastodon instance."> <i class="fa-brands fa-fw fa-mastodon"></i> </a></h3>
+		
+		<h3 clsss="about-this"> about this weblog:</h3>
+		For the life of me I cannot get this section to format correctly.
+
+		<h3 class="contact-me">contact me: &nbsp;<a href="mailto:ericmwalk@omg.lol" title="Email me"> <i class="far fa-envelope"> </i></a>&nbsp;<a rel="me" href="https://social.lol/@ericmwalk" title="My Mastodon instance."> <i class="fa-brands fa-fw fa-mastodon"></i> </a></h3>
+
+		
 	</div>
 	<div class="item">
 		<h3 class="recent-posts">recent posts</h3>
 		{recent-posts}
+		<br\>
 		<br\>
 		<h3 class="more-posts">more posts</h3>
 		<ul>
 			<li><a href="/archive"><i class="fa-solid fa-box-archive"></i> Full Archive</a></li>
 			<li><a href="/random"><i class="fa-solid fa-dice"></i> Random Post</a></li>
 		</ul>
-		<br\>
+		
 	</div>
 </div>
 
 </main>
 
 <footer>
-	<p>Made with <a href="https://home.omg.lol/" title="Love by prami at omg.lol"><i class="fa-solid fa-heart"></i></a> at <a href="https://weblog.lol">weblog.lol</a> &copy; 2022 - {year}</p>
+	<p><a href="mailto:ericmwalk@omg.lol" title="Email me"> <i class="far fa-envelope"></i> </a>&nbsp;<a rel="me" href="https://social.lol/@ericmwalk" title="My Mastodon instance."> <i class="fa-brands fa-fw fa-mastodon"></i></a> &nbsp;<a href="https://micro.blog/ericmwalk" title="Micro.blog"> <i class="fa-brands fa-microblog"> </i></a>&nbsp;
+	<br>
+	Made with <a href="https://home.omg.lol/" title="Love by prami at omg.lol"><i class="fa-solid fa-heart"></i></a> at <a href="https://weblog.lol">weblog.lol</a> &copy; 2022 - {year}</p>
 </footer>
 
 </body>
