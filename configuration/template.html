@@ -1,464 +1,277 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-{feeds}
 <title>{weblog-title}{separator}{post-title}</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+{feeds}
+<link rel="apple-touch-icon" sizes="180x180" href="https://raw.githubusercontent.com/PhilStollery/phils.weblog.lol/master/images/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://raw.githubusercontent.com/PhilStollery/phils.weblog.lol/master/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://raw.githubusercontent.com/PhilStollery/phils.weblog.lol/master/images/favicon-16x16.png">
+<link rel="manifest" href="https://raw.githubusercontent.com/PhilStollery/phils.weblog.lol/master/images/site.webmanifest">
 <style>
-	@import url('https://static.omg.lol/type/font-honey.css');
-	@import url('https://static.omg.lol/type/font-lato-regular.css');
-	@import url('https://static.omg.lol/type/font-lato-bold.css');
-	@import url('https://static.omg.lol/type/font-lato-italic.css');
-	@import url('https://static.omg.lol/type/font-md-io.css');
-	@import url('https://static.omg.lol/type/fontawesome-free/css/all.css');
+@import url('https://static.omg.lol/type/font-honey.css');
+@import url('https://static.omg.lol/type/font-lato-regular.css');
+@import url('https://static.omg.lol/type/font-lato-bold.css');
+@import url('https://static.omg.lol/type/font-lato-italic.css');
+@import url('https://static.omg.lol/type/font-md-io.css');
+@import url('https://static.omg.lol/type/fontawesome-free/css/all.css');
 
+:root {
+	--foreground: #212529;
+	--background: #f8f9fa;
+	--link: #0b7285;
+	--accent: #868e96;
+	--articleBG: #313437;
+}
+
+@media (prefers-color-scheme: dark) {
 	:root {
-		--foreground: #212529;
-		--background: #f8f9fa;
-		--link: #0b7285;
-		--accent: #868e96;
+		--foreground: #eee;
+		--background: #222;
+		--link: #99e9f2;
+		--accent: #ced4da;
 	}
+}
 
-	@media (prefers-color-scheme: dark) {
-		:root {
-			--foreground: #eee;
-			--background: #222;
-			--link: #99e9f2;
-			--accent: #ced4da;
-		}
-	}
+* {
+	box-sizing: border-box;
+}
 
-	* {
-		box-sizing: border-box;
-	}
+body {
+	font-family: 'Lato', sans-serif;
+	font-size: 120%;
+	color: var(--foreground);
+	background: var(--background);
+}
 
-	body {
-		font-family: 'Lato', sans-serif;
-		font-size: 120%;
-		color: var(--foreground);
-		background: var(--background);
-		-webkit-font-smoothing: antialiased;
-		-moz-osx-font-smoothing: grayscale;
-	}
+nav {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: var(--articleBG);
+    border-radius: 0.5em;
+    font-family: 'VC Honey Deck', sans-serif;
+    line-height: 100%;
+}
 
-	a:link { color: var(--link); text-decoration: underline; text-underline-offset: 3px; }
-	a:visited { color: var(--link); }
-	a:hover { color: var(--link); text-decoration: none; }
-	a:active { color: var(--link); }
+nav li {
+    list-style-type: none;
+}
 
-	h1.weblog-title a.weblog-link:link {
-		text-decoration: none;
-	}
+nav ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding: 0;
+    margin: 10px 15px 10px 15px;
+    align-content: center;
+}
 
-	h1.weblog-title a.weblog-link:before {
-		content: "\f044";
-		font: var(--fa-font-solid);
-		margin-right: 0.8rem;
-	}
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'VC Honey Deck', serif;
+	margin: 1rem 0;
+}
 
-	body.archive article a:link, 
-	body.archive article a:visited {
-		text-decoration: none;
-	}
+p, li {
+	line-height: 160%;
+}
 
-	body.archive article a:hover, 
-	body.archive article a:active {
-		text-decoration: underline;
-	}
+header, main, footer {
+	max-width: 50em;
+	margin: 3em auto;
+	padding: 0 0.5em;
+}
 
-	body.search-results article a:link, 
-	body.search-results article a:visited {
-		text-decoration: none;
-	}
+header {
+	margin-top: 3em;
+}
 
-	body.search-resultse article a:hover, 
-	body.search-results article a:active {
-		text-decoration: underline;
-	}
+header h1 { 
+	text-align: center;
+}
 
-	body[class*='posts-tagged'] article a:link, 
-	body[class*='posts-tagged'] article a:visited {
-		text-decoration: none;
-	}
+header h1 a:hover { 
+	text-decoration: none;
+}
 
-	body[class*='posts-tagged'] article a:hover, 
-	body[class*='posts-tagged'] article a:active {
-		text-decoration: underline;
-	}
+footer p {
+	margin-top: 5em;
+	font-size: 90%;
+	text-align: center;
+}
 
-	aside.post-reply a:link, 
-	aside.post-reply a:visited {
-		text-decoration: none;
-	}
+a:link { color: var(--link); text-decoration: none; }
+a:visited { color: var(--link); text-decoration: none; }
+a:hover { color: var(--link); text-decoration: underline; }
+a:active { color: var(--link); text-decoration: underline; }
 
-	aside.post-reply a:hover, 
-	aside.post-reply a:active {
-		text-decoration: underline;
-	}
+nav li a:link, nav li a:visited {
+    color: white;
+}
 
-	aside.post-info a:link, 
-	aside.post-info a:visited {
-		color: var(--link);
-		text-decoration: none;
-	}
+.post-info, .post-tags {
+	font-size: 85%;
+	color: var(--accent);
+	text-align: left;
+}
 
-	aside.post-info a:hover, 
-	aside.post-info a:active {
-		color: var(--link);
-		text-decoration: underline;
-	}
+.post-info i:nth-child(2) {
+	margin-left: .75em;
+}
 
-	div.weblog-info a:link,
-	div.weblog-info a:visited {
-		text-decoration: none;
-	}
+.post-tags {
+	padding-bottom: 1em;
+}
 
-	div.weblog-info a:hover,
-	div.weblog-info a:active {
-		text-decoration: underline;
-	}
+.tag {
+	background: var(--accent);
+	color: var(--background) !important;
+	padding: .3em .4em;
+	margin: .8em 0 0 .4em;
+	border-radius: .5em;
+	text-decoration: none;
+	display: inline-block;
+}
 
-	header, 
-	main, 
-	footer {
-		max-width: 40em;
-		margin: 2em auto;
-		padding: 0 1em;
-	}
+hr {
+	border: 0;
+	height: 1px;
+	background: #333;
+	margin: 2em 0;
+}
 
-	header {
-		margin-top: 4em;
-	}
+code {
+	padding: .2em .3em;
+	border: 1px solid var(--accent);
+	white-space: pre-wrap;
+	word-wrap: break-word; 
+}
 
-	header nav {
-		font-family: 'Lato', sans-serif;
-		font-size: 1.2rem;
-		font-weight: bold;
-		white-space: nowrap;
-	}
+pre, code {
+	font-family: 'MD IO 0.4';
+	font-size: 90%;
+}
 
-	header nav, 
-	header nav ul, 
-	header nav li {
-		display: inline;
-	}
+pre code {
+	background:  #000;
+	color:  #eee;
+	display: inline-block;
+	padding: 1em;
+	white-space: pre-wrap;
+	word-wrap: break-word;   
+}
 
-	header nav ul {
-		list-style-type: none;
-		margin: 0;
-		padding: 0;
-	}
+table {
+	border-collapse: collapse;
+}
 
-	header nav ul li a {
-		margin-right: 0.8rem;
-	}
+td, th {
+	padding: .75em;
+	text-align: left;
+	border: 1px solid var(--accent);
+}
+	
+.weblog-title a {
+	text-decoration: none;
+	color: var(--foreground);
+}
 
-	h1, 
-	h2, 
-	h3, 
-	h4, 
-	h5, 
-	h6 {
-		font-family: 'VC Honey Deck', serif;
-		margin: 1rem 0;
-	}
+img {
+	display: block;
+	width: auto;
+	height: auto;
+	max-width: 100%;
+	border-radius: 0.5em;
+}
 
-	h1.weblog-title {
-		display: inline;
-		margin-bottom: 0.5rem;
-		margin-right: 0.8rem;
-	}
+div.table-container {
+	display: flex; 
+	flex-direction: row;
+}
 
-	div.notice {
-		border: 3px dashed var(--link);
-		border-radius: 1rem;
-		color: var(--link);
-		font-style: italic;
-		margin-bottom: 1.75rem;
-		padding-left: 1.5rem;
-		padding-right: 1.5rem;
-	}
+div.table-cell {
+	padding-right: 1em;
+	padding-bottom: 1em;
+}
 
-	article h1 {
-		display: none;
-	}
+div.weblog-info {
+	display: flex;
+        flex-direction: row;
+        gap: 2rem;
+        margin-top: 7rem;
+        padding: 1rem 2rem 0.75rem;
+	background-color: var(--articleBG);
+	border-radius: 0.5em;
+}
 
-	body.notfound article h2:first-of-type, 
-	body.search-results article h2:first-of-type {
-		display: none;
-	}
+div.weblog-info div.item {
+	flex: 1;
+}
 
-	div.weblog-info h3 {
-		margin-top: 0.2rem;
-	}
-
-	h3.recent-posts:before {
-		content: "\f1da";
-		font: var(--fa-font-solid);
-		margin-right: 0.8rem;
-	}
-
-	h3.more-posts:before {
-		content: "\f133";
-		font: var(--fa-font-regular);
-		margin-right: 0.8rem;
-	}
-
-	h3.search-posts:before {
-		content: "\f002";
-		font: var(--fa-font-solid);
-		margin-right: 0.8rem;
-	}
-
-	h3.current-status:before {
-		content: "\f0a1";
-		font: var(--fa-font-solid);
-		margin-right: 0.8rem;
-	}
-
-	h3.about-this:before {
-		content: "\f059";
-		font: var(--fa-font-solid);
-		margin-right: 0.8rem;
-	}
-
-	p, li {
-		line-height: 160%;
-	}
-
-	p, article li {
-		text-align: justify;
-		-webkit-hyphens: auto;
-		-ms-hyphens: auto;
-		hyphens: auto;
-	}
-
-	article blockquote {
-		font-style: italic;
-		border-left: 3px solid var(--link);
-		margin-left: 0;
-		margin-right: 0;
-		padding-left: 1.5rem;
-		opacity: 0.7;
-	}
-
-	article em em {
-		font-style: normal;
-	}
-
-	body.archive article ol {
-		list-style-position: inside;
-	}
-
-	body.archive span.list-date, 
-	body.search-results span.list-date {
-		font-size: 0.95rem;
-	}
-
-	code {
-		padding: .2em .3em;
-		border: 1px solid var(--accent);
-		white-space: pre-wrap;
-		word-wrap: break-word; 
-	}
-
-	pre, code {
-		font-family: 'MD IO 0.4';
-		font-size: 90%;
-	}
-
-	pre code {
-		background:  #000;
-		color:  #eee;
-		display: inline-block;
-		padding: 1em;
-		white-space: pre-wrap;
-		word-wrap: break-word;   
-	}
-
-	img {
-		max-width: 100%;
-	}
-
-	table {
-		border-collapse: collapse;
-	}
-
-	td, th {
-		padding: .75em;
-		text-align: left;
-		border: 1px solid var(--accent);
-	}
-
-	aside.post-reply {
-		margin-bottom: 1em;
-		margin-top: 1em;
-	}
-
-	aside.post-info, 
-	aside.post-tags {
-	/*	font-size: 85%;*/
-		color: var(--accent);
-		margin: 0.5em 0;
-		text-align: right;
-	}
-
-	aside.post-info {
-		color: var(--foreground);
-		font-family: 'VC Honey Deck', serif;
-	}
-
-	body.notfound aside.post-reply, 
-	body.notfound aside.post-info {
-		display: none;
-	}
-
-	body.archive aside.post-reply, 
-	body.archive aside.post-info {
-		display: none;
-	}
-
-	body.search-results aside.post-reply, 
-	body.search-results aside.post-info {
-		display: none;
-	}
-
-	body[class*='posts-tagged'] aside.post-reply, 
-	body[class*='posts-tagged'] aside.post-info {
-		display: none;
-	}
-
-	aside.post-tags a.tag:link, 
-	aside.post-tags a.tag:visited {
-		color: var(--link);
-		text-decoration: none;
-	}
-
-	aside.post-tags a.tag:hover, 
-	aside.post-tags a.tag:active {
-		color: var(--link);
-		text-decoration: underline;
-	}
-
-	aside.post-tags {
-		text-transform: uppercase;
-		font-size: 80%;
-	}
-
-	aside.post-tags a.tag:not(:last-child) {
-		margin-right: 0.5rem;
-	}
-
-	/*aside.post-tags ul, 
-	aside.post-tags ul li {
-		display: inline;
-	}
-
-	aside.post-tags ul li:not(:last-child):after {
-		content: ", ";
-		margin-right: 0.1rem;
-	}*/
-
-	hr {
-		border: 0;
-		height: 1px;
-		background: #333;
-		margin: 2em 0;
-	}
-
-	hr.divider {
-		height: 1px;
-		background-color: transparent;
-		color: var(--background);
-		border-bottom: 3px dashed var(--link);
-		border-style: none none dashed;
-		margin: 2em 0;
-	}
-
+@media only screen and (max-width: 750px) {
 	div.weblog-info {
 		display: flex;
-		flex-direction: row;
-		gap: 2rem;
+		flex-direction: column;
+		gap: 0;
 	}
-
 	div.weblog-info div.item {
 		flex: 1;
 	}
 
-	@media only screen and (max-width: 730px) {
-		div.weblog-info {
-			display: flex;
-			flex-direction: column;
-			gap: 0;
-		}
-		div-weblog-info div.item {
-			flex: 1;
-		}
+	div.table-container {
+		display: flex; 
+		flex-direction: column;
+gap: 0;
 	}
+}
 
-	div.weblog-info ul {
-		 margin-left: 1.2rem;
-		 padding-left: 0;
-	}
+div.weblog-info ul {
+	 margin-left: 1.2rem;
+		padding-left: 0;
+}
 
-	div.weblog-info div.statuslol_emoji_container {
-		display: none;
-	}
+div.weblog-info div.statuslol_emoji_container {
+	display: none;
+}
 
-	div.weblog-info div.search-form {
-		margin-bottom: 1.5rem;
-		margin-top: 1.5rem;
-	}
+.statuslol_content p {
+  line-height: 100%;
+  margin-bottom: 0.5em;
+}
 
-	div.weblog-info div.search-form form input[type=text] {
-		background-color: var(--background);
-		border: 1px solid var(--foreground);
-		border-radius: 0px;
-		color: var(--foreground);
-		font-family: 'Lato', sans-serif;
-		font-size: 1rem;
-		line-height: 1.25rem;
-		padding: 5px;
-		width: 100%;
-	}
+.statuslol_time {
+    padding-left: 0.5em;
+    font-size: 0.8em;
+}
 
-	div.weblog-info div.search-form form button[type=submit] {
-		display: none;
-		background-color: var(--link);
-		border: 1px solid var(--link);
-		border-radius: 0px;
-		color: var(--background);
-		font-family: 'Lato', sans-serif;
-		font-size: 1rem;
-		line-height: 1.25rem;
-		padding: 5px;
-	}
+h3.recent-posts:before {
+	content: "\f1da";
+	font: var(--fa-font-solid);
+	margin-right: 0.8rem;
+}
 
-	div.weblog-info div.search-form form button[type=submit]:hover {
-		background-color: var(--background);
-		border: 1px solid var(--foreground);
-		border-radius: 0px;
-		color: var(--foreground);
-		font-family: 'Lato', sans-serif;
-		font-size: 1rem;
-		line-height: 1.25rem;
-		padding: 5px;
-	}
+h3.more-posts:before {
+	content: "\f0ca";
+	font: var(--fa-font-solid);
+	margin-right: 0.8rem;
+}
 
-	footer p {
-		margin-top: 5em;
-		font-size: 90%;
-		text-align: center;
-		-webkit-hyphens: none;
-		-ms-hyphens: none;
-		hyphens: none;
-	}
+h3.current-status:before {
+	content: "\f0a1";
+	font: var(--fa-font-solid);
+	margin-right: 0.8rem;
+}
 
-	footer span.weblog-description {
-		font-family: 'VC Honey Deck', serif;
-	}
-	</style>
+article > h1 {
+	padding-bottom: 0.5em;
+}
+
+article > ol {
+	margin-left: 0.5em;
+}
+
+</style>
 </head>
 <body>
 
@@ -468,52 +281,41 @@
 </header>
 
 <main>
+
 <article>
-	{body}
 	<aside class="post-info">
 		<i class="fa-solid fa-clock"></i> {date}
 	</aside>
+	{body}
 	<aside class="post-tags">
 		{tags}
 	</aside>
 </article>
 
-<hr class="divider">
-	<div class="weblog-info">
-		<div class="item">
-			<h3 class="recent-posts">Recent posts</h3>	
-				{recent-posts}
-			<h3 class="more-posts">More posts</h3>
-			<ul>
-				<li><a href="/archive"><i class="fa-solid fa-box-archive"></i> Full Archive</a></li>
-				<li><a href="/random"><i class="fa-solid fa-dice"></i> Random Post</a></li>
-			</ul>
-		</div>
-		<div class="item">
-			<h3 class="search-posts">Search posts</h3>
-			<div class="search-form">
-				<form action="/?" method="get">
-					<label for="search"></label>
-					<input type="text" name="search" placeholder="Enter terms and hit return">
-					<button type="submit">Search</button>
-				</form>
-			</div>
-	<!--status.lol block -->
-			<h3 class="current-status">Current status</h3>
-			<i><script src="https://status.lol/ericmwalk.js?time&link"></script></i>
-
-			<h3 class="about-this">About this</h3>
-			<p>
-<!--Could add some more text here -->
-			</p>
-		</div>
+<div class="weblog-info">
+	<div class="item">
+		<h3 class="current-status">Current status</h3>
+		<script src="https://status.lol/ericmwalk.js?time&link"></script>
+		<br\>
+		<h3 class="contact-me">Contact me: <a href="mailto:ericmwalk@omg.lol" title="Email me"><i class="far fa-envelope"></i></a>&nbsp;<a rel="me" href="https://social.lol/@ericmwalk" title="My Mastodon instance."><i class="fa-brands fa-fw fa-mastodon"></i></a></h3>
 	</div>
+	<div class="item">
+		<h3 class="recent-posts">Recent Posts</h3>
+		{recent-posts}
+		<br\>
+		<h3 class="more-posts">More Posts</h3>
+		<ul>
+			<li><a href="/archive"><i class="fa-solid fa-box-archive"></i> Full Archive</a></li>
+			<li><a href="/random"><i class="fa-solid fa-dice"></i> Random Post</a></li>
+		</ul>
+		<br\>
+	</div>
+</div>
 
-	
 </main>
 
 <footer>
-	<p>Made with <a href="https://home.omg.lol/" title="Love by prami at omg.lol"><i class="fa-solid fa-heart"></i></a> at <a href="https://weblog.lol">weblog.lol</a> &copy; 2022 - {year}</p>
+	<p>Made with <a href="https://home.omg.lol/" title="Love by prami at omg.lol"><i class="fa-solid fa-heart"></i></a> at <a href="https://weblog.lol">weblog.lol</a> &copy; 2018 - {year}</p>
 </footer>
 
 </body>
