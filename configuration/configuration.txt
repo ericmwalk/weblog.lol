@@ -14,7 +14,7 @@ Author: Eric
 
 Separator:  ·
 // Navigation: about, another-page, <a href="https://example.com">Example</a>, [Example](https://example.com)
-Navigation: home, archive, [find me](https://ericmwalk.omg.lol), [{rss}](/rss.xml)
+Navigation: home, archive, [find me](https://ericmwalk.omg.lol), [<i class="fa-solid fa-rss"></i>](/rss.xml)
 Landing page: home
 Random post location: /random
 
