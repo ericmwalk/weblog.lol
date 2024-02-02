@@ -1,6 +1,6 @@
 ---
 date: 2022-12-12 12:00
-title: Archive
+title: 🗃️ archive
 type: page
 slug: archive
 ---
