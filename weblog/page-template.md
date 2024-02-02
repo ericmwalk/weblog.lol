@@ -1,5 +1,5 @@
 Type: Template
-Title: Landing Page Template
+Title: Post Page Template
 
 <!DOCTYPE html>
 <html lang="en">
