@@ -7,7 +7,7 @@ Weblog title: a weblog
 Weblog description: Let's see what this is going to be
 Author: Eric
 // Canonical domain: elsewhere.tld
-// Landing page: /
+Landing page: home
 Landing page template: Landing Page Template
 Random post location: /random
 
