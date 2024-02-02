@@ -307,7 +307,7 @@ article > ol {
 		<br\>
 		<br\>
 
-		<h3 class="contact-me">contact me: &nbsp;<a href="mailto:ericmwalk@omg.lol" title="Email me"> <i class="far fa-envelope"> </i></a>&nbsp;<a rel="me" href="https://social.lol/@ericmwalk" title="My Mastodon instance."> <i class="fa-brands fa-fw fa-mastodon"></i> </a></h3>
+		<h3 class="contact-me">reach out: &nbsp;<a href="mailto:ericmwalk@omg.lol" title="Email me"> <i class="far fa-envelope"> </i></a>&nbsp;<a rel="me" href="https://social.lol/@ericmwalk" title="My Mastodon instance."> <i class="fa-brands fa-fw fa-mastodon"></i> </a></h3>
 
 		
 	</div>
