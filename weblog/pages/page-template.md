@@ -301,10 +301,10 @@ article > ol {
 	<div class="item">
 		<h3 class="current-status">status</h3>
 		<script src="https://status.lol/ericmwalk.js?time&link"></script>
-		<br/>
+		<p></p>
 		<h3 clsss="current-status">about this weblog:</h3>
 			<p><i>Trying to give this a little more of a go in 2024. Don't expect much but maybe expect something... 🤷‍♂️</i></p>
-		<br/>
+		
 		<h3 class="contact-me"><i class="fa-solid fa-file-signature"></i> contact me: <a href="mailto:ericmwalk@omg.lol" title="Email me"> <i class="far fa-envelope"> </i></a>&nbsp;<a rel="me" href="https://social.lol/@ericmwalk" title="My Mastodon instance."> <i class="fa-brands fa-fw fa-mastodon"></i> </a></h3>
 	</div>
 	<div class="item">
