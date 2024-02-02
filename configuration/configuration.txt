@@ -8,6 +8,11 @@ Weblog Title: a weblog
 Weblog Description: Let's see what this is going to be
 Author: Eric
 ;; Canonical domain: weblog.ericmwalk.blog
+Landing page: home
+Landing page template: Landing Page Template
+Random post location: /random
+
+
 
 ;; General config stuff
 ;; --------------------
@@ -15,8 +20,7 @@ Author: Eric
 Separator:  ·
 // Navigation: about, another-page, <a href="https://example.com">Example</a>, [Example](https://example.com)
 Navigation: home, archive, [find me](https://ericmwalk.omg.lol), [<i class="fa-solid fa-rss"></i>](/rss.xml)
-Landing page: home
-Random post location: /random
+// Post template: 
 
 ;; Time stuff
 ; You can use a timezone value from the "TZ database name" column on this 
