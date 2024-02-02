@@ -463,14 +463,8 @@
 <body>
 
 <header>
-	<h1 class="weblog-title">{weblog-title}</h1>
-	
-<nav>
-	<ul>
-	<li><a href="/">Home</a></li>
-	<li><a href="/about">About</a></li>
-	</ul>
-</nav>
+	<h1 class="weblog-title"><a href="/">{weblog-title}</a></h1>
+	{navigation}
 </header>
 
 <main>
@@ -488,11 +482,11 @@
 	<div class="weblog-info">
 		<div class="item">
 			<h3 class="recent-posts">Recent posts</h3>	
-{recent-posts}
+				{recent-posts}
 			<h3 class="more-posts">More posts</h3>
 			<ul>
-				<li><a href="/archive"><i class="fa-solid fa-box-archive"></i>Full Archive</a></li>
-				<li><a href="/random"><i class="fa-solid fa-dice"></i>Random Post</a></li>
+				<li><a href="/archive"><i class="fa-solid fa-box-archive"></i> Full Archive</a></li>
+				<li><a href="/random"><i class="fa-solid fa-dice"></i> Random Post</a></li>
 			</ul>
 		</div>
 		<div class="item">
@@ -506,7 +500,7 @@
 			</div>
 	<!--status.lol block -->
 			<h3 class="current-status">Current status</h3>
-			<script src="https://status.lol/ericmwalk.js?"></script>
+			<i><script src="https://status.lol/ericmwalk.js?time&link"></script></i>
 
 			<h3 class="about-this">About this</h3>
 			<p>
