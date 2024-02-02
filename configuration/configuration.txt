@@ -4,7 +4,7 @@
 ;; About your weblog
 ;; -----------------
 
-Weblog Title: EricMWalk weblog
+Weblog Title: a weblog
 Weblog Description: Let's see what this is going to be
 Author: Eric
 ;; Canonical domain: weblog.ericmwalk.blog
