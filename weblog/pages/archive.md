@@ -5,5 +5,6 @@ type: page
 slug: archive
 ---
 
-# Blog Post Archive
+# <i class="far fa-newspaper"></i> all **{post-count}** posts 
+
 {recent-posts}
