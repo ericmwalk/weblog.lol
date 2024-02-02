@@ -1,6 +1,6 @@
 Location: home
 Type: Page
-Title: home
+Title: <i class="fas fa-door-open"></i>home
 
 # <i class="fas fa-door-open"></i> home
 
