@@ -1,5 +1,5 @@
 Type: Template
-Title: Post Page Template
+Title: Page Template
 
 <!DOCTYPE html>
 <html lang="en">
