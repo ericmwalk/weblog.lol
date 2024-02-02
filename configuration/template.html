@@ -485,10 +485,37 @@
 	</aside>
 </article>
 
-<hr>
-{recent-posts}
-
 <hr class="divider">
+	<div class="weblog-info">
+		<div class="item">
+			<h3 class="recent-posts">Recent posts</h3>	
+{recent-posts}
+			<h3 class="more-posts">More posts</h3>
+			<ul>
+				<li><a href="/archive">Full Archive</a></li>
+				<li><a href="/random">Random Post</a></li>
+			</ul>
+		</div>
+		<div class="item">
+			<h3 class="search-posts">Search posts</h3>
+			<div class="search-form">
+				<form action="/?" method="get">
+					<label for="search"></label>
+					<input type="text" name="search" placeholder="Enter terms and hit return">
+					<button type="submit">Search</button>
+				</form>
+			</div>
+
+			<h3 class="current-status">Current status</h3>
+			<script src="https://status.lol/ericmwalk.js?"></script>
+
+			<h3 class="about-this">About this</h3>
+			<p>
+				I'm mostly just playing around with this site and platform for the time being. I'm not sure what I will end up doing with it. All credit for design & layout goes to <a href="https://bix.blog">bix</a>.
+			</p>
+		</div>
+	</div>
+
 	
 </main>
 
