@@ -29,7 +29,7 @@ Date format: F j, Y
 ;; Feeds
 ;; -----
 
-Feed post count: 25
+Feed post count: 10
 
 
 ;; Posts
