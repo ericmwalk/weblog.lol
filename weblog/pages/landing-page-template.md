@@ -262,6 +262,12 @@ h3.current-status:before {
 	margin-right: 0.8rem;
 }
 
+h3.contact-me:before {
+  content: "\f573";
+  font: var(--fa-font-solid);
+  margin-right: 0.8rem;
+}
+
 h3.about-this:before {
 	content: "\f059";
 	font: var(--fa-font-solid);
