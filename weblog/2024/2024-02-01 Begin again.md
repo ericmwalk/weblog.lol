@@ -1,5 +1,6 @@
 ---
 Date: 2024-02-01 9:01
+Tags: weblog 
 ---
 
 # It works, but how does this work again?
