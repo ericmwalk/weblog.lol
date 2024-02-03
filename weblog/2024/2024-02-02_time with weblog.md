@@ -1,6 +1,5 @@
 ---
 Date: 2024-02-02 17:15
-Status: Draft
 Tags: weblog, thoughts
 ---
 
