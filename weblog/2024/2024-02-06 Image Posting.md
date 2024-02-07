@@ -1,7 +1,6 @@
 ---
 Date: 2024-02-06 21:29
-Status: Draft
-// Tags: weblog, thoughts
+Tags: weblog, thoughts
 ---
 
 # Posts with Images
