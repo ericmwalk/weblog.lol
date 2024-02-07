@@ -19,7 +19,7 @@ Title: Page Template
 :root {
     --foreground: #f8f8f2;
     --background: #282a36;
-    --link: #6272a4;
+    --link: #0b7285;
     --accent: #44475a;
     --articleBG: #44475a;
 }
