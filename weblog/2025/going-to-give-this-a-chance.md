@@ -1,5 +1,5 @@
 ---
-title: going-to-give-this-a-chance
+title: going to give this a chance
 Date: 2025-01-24 9:31
 tags: weblog
 ---
