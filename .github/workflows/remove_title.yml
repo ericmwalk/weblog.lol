@@ -2,35 +2,36 @@ name: Remove Title Line
 
 on:
   push:
+    branches:
+      - main  # Replace with the branch you want to monitor
     paths:
-      - "**/*.md" # Adjust this pattern for your file types or directories
+      - '**/*.md' # Specify file types to watch (e.g., Markdown files)
 
 jobs:
   process-files:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v3
+    - name: Checkout Repository
+      uses: actions/checkout@v3
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: 16
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
 
-      - name: Install dependencies
-        run: npm install js-yaml
+    - name: Remove Title Line
+      run: |
+        for file in $(git diff --name-only HEAD~1 HEAD | grep '.md'); do
+          echo "Processing $file..."
+          # Use sed to remove the line containing 'title'
+          sed -i '/^title:/d' "$file"
+        done
 
-      - name: Process Markdown files
-        run: |
-          node <<EOF
-          const fs = require('fs');
-          const path = require('path');
-          const yaml = require('js-yaml');
-
-          const files = fs.readdirSync('./').filter(f => f.endsWith('.md'));
-          files.forEach(file => {
-            const content = fs.readFileSync(file, 'utf8');
-            const match = content.match(/^---[\\s\\S]*?---/);
-            if (match) {
-              const frontMatter = yaml.load(match[0].slice(3, -3)); // Load YAML
-              const updatedFrontMatter = Object.entries(frontMatter).filter((['But title'] != title).replace in the passed write }
+    - name: Commit Changes
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git add .
+        git commit -m "Removed title line from updated files" || echo "No changes to commit"
+        git push
