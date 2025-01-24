@@ -9,19 +9,23 @@ jobs:
         with:
           fetch-depth: 0  # Fetch full Git history
 
-      - name: Remove Title Line
+      - name: Update File Titles
         run: |
           for file in $(git diff --name-only HEAD~1 HEAD | grep '.md'); do
             echo "Processing $file..."
-            sed -i '/^title:/d' "$file"
+            # Only delete the title line if it doesn't have any text after "title:"
+            sed -i '/^title:\s*$/d' "$file"
           done
 
       - name: Commit Changes
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # Configure your username and email
+          git config --global user.name "Your Name"
+          git config --global user.email "your-email@example.com"
+          
           git add .
-          git diff --cached --quiet || git commit -m "Removed title line from updated files"
+          # Check for changes before committing
+          git diff --cached --quiet || git commit -m "Updated files to handle title lines"
           git push
 
       - name: Debug Repository State
@@ -51,8 +55,10 @@ jobs:
 
       - name: Pull Latest Changes
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # Configure your username and email
+          git config --global user.name "ericcmwalk"
+          git config --global user.email "eric@brebs.net"
+          
           git pull origin main  # Ensure the latest changes are pulled from the main branch
 
       - name: Debug Repository State
