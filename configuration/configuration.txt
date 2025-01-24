@@ -52,7 +52,7 @@ Feed post count: 25
 ;; Posts
 ;; -----
 
-Post path format: /Y/m/
+Post path format: /Y/m/d/
 
 Default post: <<[---
 Date: $date
@@ -65,7 +65,7 @@ This is a new blog post. You can author it in _Markdown_, which is **awesome**.
 ]>>
 
 Titleless title length: 3 words
-// Truncation appendix:  […]
+Truncation appendix:  […]
 // Title format: <h1><a href="$permalink">$title</a></h1>
 
 Multiple posts count: 10
