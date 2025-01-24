@@ -6,6 +6,7 @@ tags:
 permalink: 2025/01/19/blog-question-challenge
 url: https://ericmwalk.blog/2025/01/19/blog-question-challenge.html
 ---
+
 It seems as though [Jason](https://social.lol/@jason) has challenged me to do some work this weekend and answer questions. 🫠 
 
 ### Why did you start blogging in the first place?
