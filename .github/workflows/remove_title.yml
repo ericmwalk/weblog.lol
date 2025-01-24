@@ -3,9 +3,7 @@ name: Remove Title Line
 on:
   push:
     branches:
-      - main # Replace with your target branch
-    paths:
-      - '**/*.md' # Monitor changes to Markdown files specifically
+      - main
 
 jobs:
   process-files:
