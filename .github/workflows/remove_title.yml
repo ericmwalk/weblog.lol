@@ -1,9 +1,6 @@
 name: Remove Title Line
 
-on:
-  push:
-    paths:
-      - '*.md' # Adjust the file pattern if needed
+on: [push]  # Corrected trigger syntax
 
 jobs:
   remove_title:
