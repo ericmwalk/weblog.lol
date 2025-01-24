@@ -2,7 +2,7 @@
 publish: "true"
 date: 2025-01-03
 tags:
-  - Running
+Running
 permalink: /2025/01/03/cold-one-out-running-today
 url: https://ericmwalk.blog/2025/01/03/cold-one-out-running-today.html
 ---
