@@ -1,7 +1,7 @@
 on:
   workflow_run:
     workflows:
-      - remove_title
+      - Remove Title Line
     types:
       - completed
 
