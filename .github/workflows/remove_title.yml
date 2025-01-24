@@ -1,4 +1,9 @@
-on: [push]
+name: Remove Title Line
+
+on:
+  push:
+    paths:
+      - '*.md' # Adjust the file pattern if needed
 
 jobs:
   remove_title:
@@ -9,7 +14,9 @@ jobs:
 
       - name: Remove title line
         run: |
-          sed -i '/^title:/d' *.md # Adjust the file pattern if needed
+          for file in *.md; do
+            sed -i '/^title:/d' "$file"
+          done
 
       - name: Commit changes
         run: |
