@@ -6,6 +6,6 @@ permalink: 2025/01/24/post-title
 url: 
 ---
 
-# If a title is here
+# If title here
 
 Then nothing needs to be in the above properties
