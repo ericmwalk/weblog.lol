@@ -41,4 +41,25 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           # Find the first open pull request and merge it
-          pr_number=$(gh pr list --state open --json number --jq '.[0].number
+          pr_number=$(gh pr list --state open --json number --jq '.[0].number')
+          if [ -n "$pr_number" ]; then
+            echo "Merging pull request #$pr_number..."
+            gh pr merge $pr_number --merge --admin
+          else
+            echo "No open pull requests to merge."
+          fi
+
+      - name: Pull Latest Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git pull origin main  # Ensure the latest changes are pulled from the main branch
+
+      - name: Debug Repository State
+        run: git log --oneline -5
+
+      - id: weblog_import
+        uses: neatnik/weblog.lol@v1
+        env:
+          ADDRESS: ericmwalk
+          WEBLOG_API_KEY: ${{ secrets.WEBLOG_API_KEY }}
