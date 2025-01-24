@@ -1,7 +1,8 @@
 ---
+title: 
 publish: "true"
 date: 2025-01-11
-tags: []
+tags: 
 permalink: 2025/01/11/my-daughter-got-moved-to
 url: https://ericmwalk.blog/2025/01/11/my-daughter-got-moved-to.html
 ---
