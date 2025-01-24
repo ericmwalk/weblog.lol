@@ -3,9 +3,9 @@ name: Remove Title Line
 on:
   push:
     branches:
-      - main  # Replace with the branch you want to monitor
+      - main # Replace with your target branch
     paths:
-      - '**/*.md' # Specify file types to watch (e.g., Markdown files)
+      - '**/*.md' # Monitor changes to Markdown files specifically
 
 jobs:
   process-files:
@@ -22,9 +22,9 @@ jobs:
 
     - name: Remove Title Line
       run: |
+        # Find and process files that were changed
         for file in $(git diff --name-only HEAD~1 HEAD | grep '.md'); do
           echo "Processing $file..."
-          # Use sed to remove the line containing 'title'
           sed -i '/^title:/d' "$file"
         done
 
