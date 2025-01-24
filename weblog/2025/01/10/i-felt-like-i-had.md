@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 tags:
   - Running
