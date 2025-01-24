@@ -12,6 +12,7 @@ Time: 53:04
 Pace: 8:27/mi || 5:15/km
 Strava link: https://strava.com/activities/13345991938
 ---
+
 It was not as cold out as I thought it was going to be which was a good thing as it was 0°F. It was good to get out for a [run](https://strava.com/activities/13345991938)  after a busy hockey tournament weekend.
 
 ![Snow-covered field stretches wide, bordered by a line of tall, bare trees under a bright blue sky. Shadows create soft patterns across the smooth, white surface.](https://ericmwalk.blog/uploads/2025/c4fac5ef85.jpeg)
