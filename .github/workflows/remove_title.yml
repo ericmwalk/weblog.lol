@@ -4,6 +4,8 @@ on:
   push:
     branches:
       - main
+    paths:
+      - '**/*.md' # Monitor Markdown files only
 
 jobs:
   process-files:
@@ -13,16 +15,12 @@ jobs:
     - name: Checkout Repository
       uses: actions/checkout@v3
 
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.x'
-
     - name: Remove Title Line
       run: |
-        # Find and process files that were changed
+        # Find and process Markdown files that changed
         for file in $(git diff --name-only HEAD~1 HEAD | grep '.md'); do
           echo "Processing $file..."
+          # Remove the line that starts with 'title:'
           sed -i '/^title:/d' "$file"
         done
 
