@@ -16,10 +16,9 @@ jobs:
             echo "Processing $file..."
             # Remove lines where 'title:' is present with no content after it (spaces are ignored)
             sed -i '/^title:\\s*$/d' "$file"
+            # Stage the modified file for commit
+            git add "$file"
           done
-
-      - name: Debug Repository State
-        run: git log --oneline -5
 
       - name: Commit Changes
         run: |
@@ -27,7 +26,6 @@ jobs:
           git config --global user.name "Your Name"
           git config --global user.email "your-email@example.com"
           
-          git add .
           git diff --cached --quiet || git commit -m "Updated files to handle title lines"
           git push origin main  # Push changes to the main branch
 
