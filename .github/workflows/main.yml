@@ -28,31 +28,3 @@ jobs:
           
           git diff --cached --quiet || git commit -m "Updated files to handle title lines"
           git push origin main  # Push changes to the main branch
-
-  weblog_import:
-    runs-on: ubuntu-latest
-    needs: process-files
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
-        with:
-          fetch-depth: 0  # Fetch full Git history
-          ref: main  # Ensure you are on the main branch
-
-      - name: Pull Latest Changes
-        run: |
-          # Configure your username and email
-          git config --global user.name "Your Name"
-          git config --global user.email "your-email@example.com"
-          
-          git checkout main  # Ensure you are on the main branch
-          git pull --no-rebase origin main  # Pull latest changes from main
-
-      - name: Debug Repository State
-        run: git log --oneline -5
-
-      - id: weblog_import
-        uses: neatnik/weblog.lol@v1
-        env:
-          ADDRESS: ericmwalk
-          WEBLOG_API_KEY: ${{ secrets.WEBLOG_API_KEY }}
