@@ -11,4 +11,3 @@ Had the trail to myself on this New Year’s Day [run](https://strava.com/activi
 ![Dirt path stretches forward, bordered by sparse snow and dry leaves, surrounded by leafless trees in a quiet forest setting under an overcast sky.](https://ericmwalk.blog/uploads/2025/img-1585.jpeg)
 
 going to see how this works on a republish
-
