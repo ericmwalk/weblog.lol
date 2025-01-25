@@ -1,41 +1,63 @@
-on: [push]
+name: Remove Empty Titles
+
+on:
+  push:
+    branches:
+      - main
 
 jobs:
-  process-files:
+  clean_empty_titles:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout Repository
+      - name: Checkout repository
         uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
         with:
-          fetch-depth: 0  # Fetch full Git history
-          ref: main  # Ensure you are on the main branch
+          python-version: '3.x'
 
-      - name: Update File Titles
+      - name: Install dependencies
         run: |
-          for file in $(git diff --name-only HEAD~1 HEAD | grep '.md'); do
-            echo "Processing $file..."
-            # Remove lines where 'title:' is present with no content after it (spaces are ignored)
-            sed -i '/^title:\\s*$/d' "$file"
-            # Stage the modified file for commit
-            git add "$file"
-          done
+          python -m pip install --upgrade pip
+          pip install pyyaml
 
-      - name: Commit and Push Changes
+      - name: Remove empty titles from files
         run: |
-          # Configure your username and email
-          git config --global user.name "Your Name"
-          git config --global user.email "your-email@example.com"
-          
-          # Pull the latest changes from the remote repository
-          git pull --no-rebase origin main || true  # Avoid failing if there are no changes to pull
-          
-          # Commit and push changes if there are any
-          git diff --cached --quiet || git commit -m "Updated files to handle title lines"
-          git push origin main  # Push changes to the main branch
+          #!/usr/bin/env python3
+          import os
+          import yaml
 
-      - name: Debug Repository State
+          # Path to the directory where the files are located
+          content_dir = os.getcwd()
+
+          for root, _, files in os.walk(content_dir):
+              for file in files:
+                  if file.endswith(".md") or file.endswith(".yaml"):
+                      file_path = os.path.join(root, file)
+
+                      with open(file_path, 'r') as f:
+                          content = f.read()
+
+                      if 'title:' in content:
+                          lines = content.splitlines()
+                          new_lines = []
+                          for line in lines:
+                              if line.strip().startswith('title:') and line.strip() == 'title:':
+                                  continue  # Skip this line if empty title
+                              new_lines.append(line)
+
+                          new_content = "\n".join(new_lines)
+
+                          with open(file_path, 'w') as f:
+                              f.write(new_content)
+
+      - name: Commit changes
         run: |
-          echo "Current branch status:"
-          git status
-          echo "Latest commits:"
-          git log --oneline -5
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Remove empty title fields"
+          git push
+        continue-on-error: true
