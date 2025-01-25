@@ -1,5 +1,4 @@
 ---
-title: Still Here
 publish: "true"
 date: 2025-01-07
 tags: Obsidian
