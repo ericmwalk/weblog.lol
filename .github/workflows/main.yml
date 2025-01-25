@@ -20,11 +20,22 @@ jobs:
             git add "$file"
           done
 
-      - name: Commit Changes
+      - name: Commit and Push Changes
         run: |
           # Configure your username and email
           git config --global user.name "Your Name"
           git config --global user.email "your-email@example.com"
           
+          # Pull the latest changes from the remote repository
+          git pull --no-rebase origin main || true  # Avoid failing if there are no changes to pull
+          
+          # Commit and push changes if there are any
           git diff --cached --quiet || git commit -m "Updated files to handle title lines"
           git push origin main  # Push changes to the main branch
+
+      - name: Debug Repository State
+        run: |
+          echo "Current branch status:"
+          git status
+          echo "Latest commits:"
+          git log --oneline -5
