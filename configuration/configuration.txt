@@ -52,7 +52,7 @@ Feed post count: 25
 ;; Posts
 ;; -----
 
-Post path format: /Y/m/
+Post path format: /Y/m/d/
 
 Default post: <<[---
 Date: $date
@@ -64,9 +64,10 @@ Tags: 2023,
 This is a new blog post. You can author it in _Markdown_, which is **awesome**.
 ]>>
 
-Titleless title length: 3 words
-// Truncation appendix:  […]
+Titleless title length: 5 words
+Truncation appendix:  […]
 // Title format: <h1><a href="$permalink">$title</a></h1>
+Title format: <h1>$title</h1>
 
 Multiple posts count: 10
 Multiple posts format: <<[
