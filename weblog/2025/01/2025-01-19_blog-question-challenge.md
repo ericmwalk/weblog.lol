@@ -1,5 +1,4 @@
 ---
-title: Blog Question Challenge 2025
 publish: "true"
 date: 2025-01-19
 tags: 
