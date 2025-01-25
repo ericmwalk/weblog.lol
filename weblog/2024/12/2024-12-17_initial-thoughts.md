@@ -2,8 +2,7 @@
 title: Initial Thoughts on Obsidian Publish
 publish: "true"
 date: 2024-12-18
-tags:
-  - Obsidian
+tags: Obsidian
 permalink: 2024/12/17/initial-thoughts
 url: 
 ---
@@ -31,4 +30,3 @@ Below are a couple of Sites using Obsidian Publish I stumbled upon as I was figu
 | [Joschuasgarden.com](https://joschuasgarden.com/) | [Selfire1](https://github.com/selfire1/obsidian-publish-css)                                     |
 | [Wormwood Saga](https://story.wormwoodsaga.com/)  | [Isaac-Tait](https://github.com/Isaac-Tait)                                                      |
 
-###### 🕒* December 17, 2024*
