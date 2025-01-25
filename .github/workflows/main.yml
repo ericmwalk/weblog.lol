@@ -21,8 +21,6 @@ jobs:
           git add .
           git diff --cached --quiet || git commit -m "Removed title line from updated files"
           git push
-      - name: Debug Repository State
-        run: git log --oneline -5
 
   weblog_import:
     runs-on: ubuntu-latest
@@ -32,7 +30,11 @@ jobs:
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
-      - name: Debug Repository State
+      - name: Pull Latest Changes
+        run: |
+          git pull origin main  # Pull the latest changes from the main branch
+
+      - name: Debug Repository State  # (Optional, but helpful for debugging)
         run: git log --oneline -5
       - id: weblog_import
         uses: neatnik/weblog.lol@v1
