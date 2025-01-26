@@ -1,6 +1,7 @@
 ---
+title: ""
 publish: "true"
-date: 2025-01-26
+date: 2025-01-26 9:32
 tags: 
 permalink: 2025/01/26/while-i-wait-the-cold
 url: https://ericmwalk.blog/2025/01/26/while-i-wait-the-cold.html
