@@ -2,10 +2,7 @@
 title: Obsidian Publish Update
 publish: "true"
 date: 2025-01-26 11:37
-tags:
-  - Obsidian
-  - Obsidian
-  - Publish
+tags: Obsidian, Obsidian Publish
 permalink: 2025/01/26/obsidian-publish-update
 url: https://ericmwalk.blog/2025/01/26/obsidian-publish-update.html
 ---
