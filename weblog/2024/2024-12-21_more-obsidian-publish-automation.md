@@ -1,9 +1,7 @@
 ---
 publish: "true"
 date: 2024-12-21
-tags:
-  - Obsidian
-  - Obsidian Sync
+tags: Obsidian, Obsidian Sync
 permalink: 2024/12/21/more-obsidian-automation
 url: https://ericmwalk.blog/2024/12/21/more-obsidian-publish-automation.html
 ---
