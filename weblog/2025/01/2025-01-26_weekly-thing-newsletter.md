@@ -1,8 +1,9 @@
 ---
+title: Weekly Thing Newsletter
 publish: "true"
-date: 2025-01-25
-tags: []
-permalink: 2025/01/25/weekly-thing-newsletter
+date: 2025-01-26 8:32
+tags: 
+permalink: 2025/01/26/weekly-thing-newsletter
 url: https://ericmwalk.blog/2025/01/26/weekly-thing-newsletter.html
 ---
 
