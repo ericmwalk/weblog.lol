@@ -1,5 +1,4 @@
 ---
-title: Initial Thoughts on Obsidian Publish
 publish: "true"
 date: 2024-12-18
 tags:

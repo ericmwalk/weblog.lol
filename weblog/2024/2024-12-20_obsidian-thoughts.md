@@ -1,5 +1,4 @@
 ---
-title: Obsidian Thoughts
 publish: "true"
 date: 2024-12-19
 tags:

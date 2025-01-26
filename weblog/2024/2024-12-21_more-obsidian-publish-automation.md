@@ -1,5 +1,4 @@
 ---
-title: More Obsidian Publish Automation
 publish: "true"
 date: 2024-12-21
 tags:
