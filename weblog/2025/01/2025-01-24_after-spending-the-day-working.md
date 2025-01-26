@@ -1,8 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2025-01-24
-tags:
-  - Running
+tags: Running
 permalink: 2025/01/24/after-spending-the-day-working
 url: https://ericmwalk.blog/2025/01/24/after-spending-the-day-working.html
 ---
