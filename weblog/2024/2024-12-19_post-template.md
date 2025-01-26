@@ -1,5 +1,4 @@
 ---
-title: Obsidian Post Template
 publish: "true"
 date: 2024-12-19
 tags: Obsidian, Obsidian Sync
