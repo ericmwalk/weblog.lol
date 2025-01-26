@@ -1,9 +1,8 @@
 ---
+title: Obsidian Post Template
 publish: "true"
 date: 2024-12-19
-tags:
-  - Obsidian
-  - Obsidian Sync
+tags: Obsidian, Obsidian Sync
 permalink: 2024/12/19/post-template
 url: https://ericmwalk.blog/2024/12/19/obsidian-post-template.html
 ---
