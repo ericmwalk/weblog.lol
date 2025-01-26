@@ -1,5 +1,4 @@
 ---
-title: Weekly Thing Newsletter
 publish: "true"
 date: 2025-01-26 8:32
 tags: 
