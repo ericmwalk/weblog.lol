@@ -1,5 +1,4 @@
 ---
-title: Setup with Working Copy
 publish: "true"
 Date: 2024-02-04 8:34
 tags: weblog
