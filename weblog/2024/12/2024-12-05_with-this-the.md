@@ -1,7 +1,7 @@
 ---
 publish: "true"
 date: 2024-12-05 19:16:50
-tags: Backyard, Rink
+tags: Backyard Rink
 permalink: /2024/12/05/with-this-the
 url: https://ericmwalk.blog/2024/12/05/with-this-the.html
 ---
