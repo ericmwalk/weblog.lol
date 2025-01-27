@@ -1,7 +1,7 @@
 ---
 title: ""
 publish: "true"
-date: 2024-12-19 08:39:58-0600
+date: 2024-12-19 08:39:58
 permalink: /2024/12/19/sometimes-you-just
 url: https://ericmwalk.blog/2024/12/19/sometimes-you-just.html
 ---
