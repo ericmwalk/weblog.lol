@@ -1,5 +1,4 @@
 ---
-title: Posts with Images
 publish: "true"
 Date: 2024-02-06 21:29
 tags: weblog
