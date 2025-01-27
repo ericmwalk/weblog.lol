@@ -1,6 +1,7 @@
 ---
+title: ""
 publish: "true"
-date: 2025-01-26
+date: 2025-01-26 12:39
 tags: Running
 permalink: 2025/01/26/couldnt-pass-up-on-this
 url: https://ericmwalk.blog/2025/01/26/couldnt-pass-up-on-this.html
