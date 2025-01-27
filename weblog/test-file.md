@@ -1,4 +1,5 @@
 ---
+title: begining again weblogs
 publish: "true"
 Date: 2024-02-01 9:01
 tags: weblog
@@ -19,8 +20,3 @@ However, as I had been trying some of these and almost pulled the trigger to try
 > Not a problem! If you have something that fits the bill, of course, we’d love to have you along for the ride. But don’t force it!
 >
 > lets get this to WOOOOORK come on this has to do something......
-
-
-# begining again weblogs
-
-# begining again weblogs
