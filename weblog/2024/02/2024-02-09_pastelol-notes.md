@@ -1,5 +1,4 @@
 ---
-title: Paste.lol Notes
 publish: "true"
 Date: 2024-02-09 22:25
 tags: weblog
