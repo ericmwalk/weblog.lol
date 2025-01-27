@@ -14,10 +14,9 @@ jobs:
       - name: Process Title Line
         run: |
           for file in $(git diff --name-only HEAD~1 HEAD | grep '.md'); do
-            echo "Processing $file..."
-            title=$(head -n 1 "$file")
-            sed -i '1d' "$file"  # Remove the title line
-            sed -i '/^---$/a # '$title' '$file"  # Add title after the second '---' with a space after '#'
+            echo "Processing <span class="math-inline">file\.\.\."title\=</span>(head -n 1 "$file")
+            sed -i '1d' "<span class="math-inline">file"  \# Remove the title line
+            sed \-i "/^\-\-\-\\</span>/a # $title" "$file"  # Add title after the second '---'
           done
       - name: Commit Changes
         run: |
