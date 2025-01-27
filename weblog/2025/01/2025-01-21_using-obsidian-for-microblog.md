@@ -1,4 +1,5 @@
 ---
+title: Using Obsidian for Micro.blog
 publish: "true"
 date: 2025-01-21
 tags: Obsidian
@@ -6,7 +7,6 @@ permalink: 2025/01/21/using-obsidian-for-microblog
 url: https://ericmwalk.blog/2025/01/21/using-obsidian-for-microblog.html
 ---
 
-# Using Obsidian for Micro.blog
 I was doing my yearly backup of my Micro.blog site as well as other things I have online just to pull them down and store them on my local storage. As I was curious about what was in the zip file, I was reminded that all of the posts are in Markdown, and then I got this crazy idea: why not just load all these Micro.blog Markdown files into my Obsidian vault? Mostly because for almost the last 10 months, I have been using Obsidian for the start of all my posts and then publishing them using Micro.Publish. So I decided to do exactly that, and now I have a full backup in Obsidian, which is really nice.
 
 Honestly, it was too easy to just get everything in here, and in the Properties part of the file, it had everything I really would need in order to make changes locally and use Micro.Publish to update old posts as part of my blog gardening from time to time. Well, it was all there, but some of the information needed to be modified. Seeing how I didn't want to go to each file and update things, I turned to my friend AI to assist in this process and create a Python script to do all the work for me. This is where AI really shines, as I figured out what I needed the end results to look like and then just asked with an example of what it is now and what it needs to look like. More specifically, the changes I wanted to make in each file were as follows:
