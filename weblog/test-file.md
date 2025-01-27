@@ -1,6 +1,5 @@
 ---
-
-# $title_value
+title: beginning again weblogs
 publish: "true"
 Date: 2024-02-01 9:01
 tags: weblog
