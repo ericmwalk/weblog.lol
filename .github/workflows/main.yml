@@ -5,23 +5,23 @@ on:
 
 jobs:
   process-files:
-      runs-on: ubuntu-latest
-      steps:
-        - name: Checkout Repository
-          uses: actions/checkout@v3
-          with:
-            fetch-depth: 0  # Fetch full Git history
-        - name: Update Title Line
-          run: |
-            for file in $(git diff --name-only HEAD~1 HEAD | grep '.md'); do
-              echo "Processing $file..."
-              if grep -q '^title:' "$file"; then
-                title_line=$(grep '^title:' "$file")
-                title_value="$(echo "$title_line" | sed 's/^title: //')"
-                sed -i '/^title:/d' "$file"  # Remove the title line
-                sed -i "0,/---/{N; s/---\\n/---\\n\\n# $title_value\\n/}" "$file"  # Insert the title after the second ---
-              fi
-            done
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # Fetch full Git history
+      - name: Update Title Line
+        run: |
+          for file in $(git diff --name-only HEAD~1 HEAD | grep '.md'); do
+            echo "Processing $file..."
+            if grep -q '^title:' "$file"; then
+              title_line=$(grep '^title:' "$file")
+              title_value="$(echo "$title_line" | sed 's/^title: //')"
+              sed -i '/^title:/d' "$file"  # Remove the title line
+              sed -i "0,/---/{N; s/---\\n/---\\n\\n# $title_value\\n/}" "$file"  # Insert the title after the second ---
+            fi
+          done
       - name: Commit Changes
         run: |
           git config --global user.name "ericmwalk"
@@ -41,6 +41,7 @@ jobs:
       - name: Pull Latest Changes
         run: |
           git pull origin main  # Pull the latest changes from the main branch
+
       - name: Debug Repository State  # (Optional, but helpful for debugging)
         run: git log --oneline -5
       - id: weblog_import
