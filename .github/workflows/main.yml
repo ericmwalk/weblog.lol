@@ -19,8 +19,10 @@ jobs:
               title_line=$(grep '^title:' "$file")
               title_value="$(echo "$title_line" | sed 's/^title: //')"
               sed -i '/^title:/d' "$file"  # Remove the title line
-              # Insert the title after the second ---
-              awk -v title="# $title_value" 'BEGIN {found = 0} {print $0} /^---$/ {found++} found == 2 {print ""; print title; found++}' "$file" > temp && mv temp "$file"
+              if [ -n "$title_value" ]; then
+                # Insert the title after the second --- only if there is a valid title value
+                awk -v title="# $title_value" 'BEGIN {found = 0} {print $0} /^---$/ {found++} found == 2 {print ""; print title; found++}' "$file" > temp && mv temp "$file"
+              fi
             fi
           done
       - name: Commit Changes
