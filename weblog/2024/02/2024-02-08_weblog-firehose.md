@@ -1,5 +1,4 @@
 ---
-title: weblog firehose?
 publish: "true"
 Date: 2024-02-08 20:41
 tags: weblog
