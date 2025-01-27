@@ -1,5 +1,4 @@
 ---
-title: 2024 Application Defaults
 publish: "true"
 date: 2024-12-31T23:46:27-0600
 permalink: /2024/12/31/application-defaults
