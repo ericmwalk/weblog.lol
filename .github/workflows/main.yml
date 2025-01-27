@@ -17,7 +17,7 @@ jobs:
             echo "Processing $file..."
             title=$(head -n 1 "$file")
             sed -i '1d' "$file"  # Remove the title line
-            sed -i '/^---$/a # '$title'' "$file"  # Add title after the second '---'
+            sed -i '/^---$/a # '$title' '$file"  # Add title after the second '---' with a space after '#'
           done
       - name: Commit Changes
         run: |
