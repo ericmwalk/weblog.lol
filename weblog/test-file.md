@@ -18,4 +18,6 @@ With all of the new fun blogging tools that have been coming out lately, I have 
 However, as I had been trying some of these and almost pulled the trigger to try the other one, I thought to myself. I still have this amazing weblog.lol site that I have not touched for a year that I should get back to. If anything, just to see what it is all about and what has changed, so maybe that is what I will do instead of diving too much further into the three listed above. In fact, as I was messaging [Barry Hess](https://bjhess.com) who helped create Pika.Page briefly about this exact topic, I found his response just refreshing when I said I am not sure I can fully switch to another platform:
 
 > Not a problem! If you have something that fits the bill, of course, we’d love to have you along for the ride. But don’t force it!
+>
+> lets get this to WOOOOORK
 
