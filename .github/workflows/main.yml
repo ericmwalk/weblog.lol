@@ -11,20 +11,22 @@ jobs:
         uses: actions/checkout@v3
         with:
           fetch-depth: 0  # Fetch full Git history
-      - name: Process Title Line
+      - name: Update Title Line
         run: |
           for file in $(git diff --name-only HEAD~1 HEAD | grep '.md'); do
             echo "Processing $file..."
-            title=$(head -n 1 "$file")
-            sed -i '1d' "$file"  # Remove the title line
-            sed -i "/^---\$/a \# $title" "$file"  # Add title after the second '---'
+            if grep -q '^title:' "$file"; then
+              title_line=$(grep '^title:' "$file")
+              sed -i '/^title:/d' "$file"  # Remove the title line
+              sed -i '0,/---/{s/---/---\n\n# ${title_line#title: }\n/}' "$file"  # Add the title after the second --- with a blank line before it
+            fi
           done
       - name: Commit Changes
         run: |
           git config --global user.name "ericmwalk"
           git config --global user.email "eric@brebs.net"
           git add .
-          git diff --cached --quiet || git commit -m "Moved title line to body in updated files"
+          git diff --cached --quiet || git commit -m "Updated title line in updated files"
           git push
 
   weblog_import:
