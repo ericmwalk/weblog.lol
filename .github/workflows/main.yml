@@ -18,7 +18,8 @@ jobs:
             if grep -q '^title:' "$file"; then
               title_line=$(grep '^title:' "$file")
               sed -i '/^title:/d' "$file"  # Remove the title line
-              sed -i '0,/---/{s/---/---\n\n# ${title_line#title: }\n/}' "$file"  # Add the title after the second --- with a blank line before it
+              sed -i '0,/---/{s/---/---\n\n#\n# ${title_line#title: }\n/}' "$file"  # Add a # before and after the title
+              # sed -i '0,/---/{s/---/---\n\n# ${title_line#title: }\n/}' "$file"  # Add the title after the second --- with a blank line before it
             fi
           done
       - name: Commit Changes
