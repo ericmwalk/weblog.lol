@@ -1,5 +1,4 @@
 ---
-title: 
 publish: "true"
 date: 2024-12-27T12:58:39-0600
 permalink: /2024/12/27/here-we-are-december-th
