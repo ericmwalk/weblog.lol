@@ -1,5 +1,7 @@
 ---
-title: Beginning Again Weblogs
+
+# ${title_line#title: }
+
 publish: "true"
 Date: 2024-02-01 9:01
 tags: weblog
