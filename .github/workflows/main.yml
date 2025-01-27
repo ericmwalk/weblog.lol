@@ -17,9 +17,9 @@ jobs:
               echo "Processing $file..."
               if grep -q '^title:' "$file"; then
                 title_line=$(grep '^title:' "$file")
-                sed -i '/^title:/d' "$file"  # Remove the title line
                 title_value="$(echo "$title_line" | sed 's/^title: //')"
-                sed -i '0,/---/{s/---/---\n\n# $title_value\n/2;}' "$file"  # Insert the title after the second ---
+                sed -i '/^title:/d' "$file"  # Remove the title line
+                sed -i '0,/---/{N; s/---\n/---\n\n# $title_value\n/}' "$file"  # Insert the title after the second ---
               fi
             done
         - name: Commit Changes
