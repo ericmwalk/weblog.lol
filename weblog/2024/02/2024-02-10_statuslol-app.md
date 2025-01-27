@@ -1,5 +1,4 @@
 ---
-title: Status.lol App
 publish: "true"
 Date: 2024-02-10 9:31
 tags: weblog
