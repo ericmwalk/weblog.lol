@@ -1,5 +1,4 @@
 ---
-title: Spending time with Weblog
 publish: "true"
 Date: 2024-02-02 17:15
 tags: weblog
