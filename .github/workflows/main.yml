@@ -11,24 +11,24 @@ jobs:
           uses: actions/checkout@v3
           with:
             fetch-depth: 0  # Fetch full Git history
-          - name: Update Title Line
-            run: |
-              for file in $(git diff --name-only HEAD~1 HEAD | grep '.md'); do
-                echo "Processing $file..."
-                if grep -q '^title:' "$file"; then
-                  title_line=$(grep '^title:' "$file")
-                  title_value="$(echo "$title_line" | sed 's/^title: //')"
-                  sed -i '/^title:/d' "$file"  # Remove the title line
-                  sed -i "0,/---/{N; s/---\\n/---\\n\\n# $title_value\\n/}" "$file"  # Insert the title after the second ---
-                fi
-              done
-        - name: Commit Changes
+        - name: Update Title Line
           run: |
-            git config --global user.name "ericmwalk"
-            git config --global user.email "eric@brebs.net"
-            git add .
-            git diff --cached --quiet || git commit -m "Updated title line in updated files"
-            git push
+            for file in $(git diff --name-only HEAD~1 HEAD | grep '.md'); do
+              echo "Processing $file..."
+              if grep -q '^title:' "$file"; then
+                title_line=$(grep '^title:' "$file")
+                title_value="$(echo "$title_line" | sed 's/^title: //')"
+                sed -i '/^title:/d' "$file"  # Remove the title line
+                sed -i "0,/---/{N; s/---\\n/---\\n\\n# $title_value\\n/}" "$file"  # Insert the title after the second ---
+              fi
+            done
+      - name: Commit Changes
+        run: |
+          git config --global user.name "ericmwalk"
+          git config --global user.email "eric@brebs.net"
+          git add .
+          git diff --cached --quiet || git commit -m "Updated title line in updated files"
+          git push
 
   weblog_import:
     runs-on: ubuntu-latest
