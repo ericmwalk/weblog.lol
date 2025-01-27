@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2024-12-06 18:20:16
 tags: Backyard, Rink
