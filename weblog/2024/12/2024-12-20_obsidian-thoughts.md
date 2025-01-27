@@ -1,5 +1,4 @@
 ---
-title: Obsidian Thoughts
 publish: "true"
 date: 2024-12-20
 tags: Obsidian, Obsidian Sync
