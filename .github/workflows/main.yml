@@ -17,7 +17,7 @@ jobs:
             echo "Processing $file..."
             if grep -q '^title:' "$file"; then
               title_line=$(grep '^title:' "$file")
-              title_value="$(echo "$title_line" | sed 's/^title: //')"
+              title_value="$(echo "$title_line" | sed 's/^title: //; s/"//g')"
               sed -i '/^title:/d' "$file"  # Remove the title line
               if [ -n "$title_value" ]; then
                 # Insert the title after the second --- only if there is a valid title value
