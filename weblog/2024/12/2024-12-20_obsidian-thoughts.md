@@ -1,6 +1,7 @@
 ---
+title: Obsidian Thoughts
 publish: "true"
-date: 2024-12-19
+date: 2024-12-20
 tags: Obsidian, Obsidian Sync
 permalink: 2024/12/20/obsidian-thoughts
 url: https://ericmwalk.blog/2024/12/20/obsidian-thoughts.html
