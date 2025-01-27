@@ -1,8 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2024-12-23 23:11:34
-tags:
-  - Running
+tags: Running
 permalink: /2024/12/23/very-sluggish-run-today-maybe
 url: https://ericmwalk.blog/2024/12/23/very-sluggish-run-today-maybe.html
 ---
