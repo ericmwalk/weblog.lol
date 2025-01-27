@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2024-12-29T18:50:44-0600
 permalink: /2024/12/29/tonight-hockey-game-viewing-after
