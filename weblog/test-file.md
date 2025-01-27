@@ -7,7 +7,7 @@ permalink: 2024/02/01/beginning-again-weblogs
 url: https://ericmwalk.blog/2024/02/01/begining-again-weblogs.html
 ---
 
-It works, but how does this work again?ddddd
+It works, but how does this work again?
 
 With all of the new fun blogging tools that have been coming out lately, I have been wanting to try every single one of them, and I am probably still missing some of them. However, here are the ones that caught my eye, and I have tried two of them, and I know the other one would be amazing too:
 
