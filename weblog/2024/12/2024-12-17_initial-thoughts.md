@@ -1,6 +1,7 @@
 ---
+title: Initial Thoughts on Obsidian Publish
 publish: "true"
-date: 2024-12-18
+date: 2024-12-17
 tags: Obsidian, Obsidian Sync
 permalink: 2024/12/17/initial-thoughts
 url: https://ericmwalk.blog/2024/12/17/initial-thoughts-on-obsidian-publish.html
