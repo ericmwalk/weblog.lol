@@ -1,11 +1,12 @@
 ---
-title: beginning again weblogs
 publish: "true"
 Date: 2024-02-01 9:01
 tags: weblog
 permalink: 2024/02/01/beginning-again-weblogs
 url: https://ericmwalk.blog/2024/02/01/begining-again-weblogs.html
 ---
+
+# beginning again weblogs
 
 It works, but how does this work again?
 
