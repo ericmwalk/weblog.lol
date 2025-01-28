@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "false"
 date: 2024-07-18 07:51:58
 permalink: /2024/07/18/going-to-try

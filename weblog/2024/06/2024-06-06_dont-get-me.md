@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "false"
 date: 2024-06-06 16:11:43
 permalink: /2024/06/06/dont-get-me

@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "false"
 date: 2024-07-28 18:31:07
 permalink: /2024/07/28/fresh-homemade-salsa

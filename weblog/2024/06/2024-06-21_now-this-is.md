@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "false"
 date: 2024-06-21 22:12:00
 permalink: /2024/06/21/now-this-is

@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "false"
 date: 2024-07-13 20:35:51
 permalink: /2024/07/13/spending-some-time

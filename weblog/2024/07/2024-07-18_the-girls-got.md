@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "false"
 date: 2024-07-18 22:39:53
 permalink: /2024/07/18/the-girls-got

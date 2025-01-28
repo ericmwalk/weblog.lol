@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "false"
 date: 2024-06-01 12:39:00
 permalink: /2024/06/01/i-might-have

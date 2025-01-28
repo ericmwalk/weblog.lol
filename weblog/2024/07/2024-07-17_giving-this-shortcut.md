@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "false"
 date: 2024-07-17 21:36:55
 permalink: /2024/07/17/giving-this-shortcut

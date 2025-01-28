@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "false"
 date: 2024-06-29 22:01:08
 permalink: /2024/06/29/unplanned-camper-landscaping
