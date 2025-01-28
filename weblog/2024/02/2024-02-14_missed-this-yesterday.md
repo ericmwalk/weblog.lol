@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "false"
 date: 2024-02-14 10:54:18
 permalink: /2024/02/14/missed-this-yesterday

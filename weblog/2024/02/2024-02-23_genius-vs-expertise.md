@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "false"
 date: 2024-02-23 18:43:14
 permalink: /2024/02/23/genius-vs-expertise

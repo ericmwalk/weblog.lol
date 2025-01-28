@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "false"
 date: 2024-02-04 17:37:04
 permalink: /2024/02/04/finishing-the-weekend

@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "false"
 date: 2024-02-25 08:36:13
 permalink: /2024/02/25/well-didnt-see

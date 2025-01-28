@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "false"
 date: 2024-02-11 17:15:33
 tags: "Running"

@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "false"
 date: 2024-02-29 22:06:26
 permalink: /2024/02/29/this-is-why

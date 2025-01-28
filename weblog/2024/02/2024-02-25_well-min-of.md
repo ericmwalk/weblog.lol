@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "false"
 date: 2024-02-25 19:52:08
 permalink: /2024/02/25/well-min-of

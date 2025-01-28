@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "false"
 date: 2024-02-02 23:16:36
 permalink: /2024/02/02/some-days-it

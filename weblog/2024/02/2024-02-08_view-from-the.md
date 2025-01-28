@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "false"
 date: 2024-02-08 22:42:44
 permalink: /2024/02/08/view-from-the

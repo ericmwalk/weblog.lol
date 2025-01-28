@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "false"
 date: 2024-02-14 09:02:07
 permalink: /2024/02/14/empty-street-at
