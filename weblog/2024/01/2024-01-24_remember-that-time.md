@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "false"
 date: 2024-01-24 11:12:56
 permalink: /2024/01/24/remember-that-time

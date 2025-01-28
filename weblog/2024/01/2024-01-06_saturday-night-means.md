@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "false"
 date: 2024-01-06 18:19:05
 permalink: /2024/01/06/saturday-night-means

@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "false"
 date: 2024-01-21 14:25:26
 permalink: /2024/01/21/birds-eye-view

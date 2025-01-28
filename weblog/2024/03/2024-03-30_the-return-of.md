@@ -1,10 +1,11 @@
 ---
-title: "The Return of Record Monsters..🦖"
 publish: "false"
 date: 2024-03-30 21:36:19
 permalink: /2024/03/30/the-return-of
 url: https://ericmwalk.blog/2024/03/30/the-return-of.html
 ---
+
+# The Return of Record Monsters..🦖
 
 Well not really the return of the actual company or products but as I was looking at past blog posts today I found [My First Post that was posted on March 30, 2011](https://ericmwalk.blog/2011/03/30/my-first-post.html) about an interesting Kickstarter called Record Monsters *(well that is as much as I had retained to this point)*. I probably would haven't backed it at all but back in the days of earlier Twitter one of the creators [Andrew Hyde](https://andrewhy.de/) and I followed each other as well as exchanged some messages from time to time. So sure enough when I saw him and another guy were doing this I figured why not support it. Not only becasue I knew one of the two and appreciated what he was doing on the internet at the time but also because it was a really cool idea to create 3D dinosaurs puzzles out of old records.
 

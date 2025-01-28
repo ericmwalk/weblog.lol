@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "false"
 date: 2024-03-16 10:20:31
 permalink: /2024/03/16/decided-to-take

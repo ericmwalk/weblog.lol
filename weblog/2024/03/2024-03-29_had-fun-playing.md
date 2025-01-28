@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "false"
 date: 2024-03-29 22:44:00
 permalink: /2024/03/29/had-fun-playing

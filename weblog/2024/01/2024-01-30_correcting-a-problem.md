@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "false"
 date: 2024-01-30 19:08:05
 permalink: /2024/01/30/correcting-a-problem

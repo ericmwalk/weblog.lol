@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "false"
 date: 2024-03-09 08:52:58
 permalink: /2024/03/09/guess-today-is

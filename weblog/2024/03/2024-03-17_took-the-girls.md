@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "false"
 date: 2024-03-17 21:04:42
 permalink: /2024/03/17/took-the-girls

@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "false"
 date: 2024-01-17 07:34:00
 permalink: /2024/01/17/made-a-grave

@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "false"
 date: 2024-01-21 20:35:56
 permalink: /2024/01/21/ended-today-with

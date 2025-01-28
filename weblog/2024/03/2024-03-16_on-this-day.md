@@ -1,10 +1,11 @@
 ---
-title: "On this day..."
 publish: "false"
 date: 2024-03-16 08:31:40
 permalink: /2024/03/16/on-this-day
 url: https://ericmwalk.blog/2024/03/16/on-this-day.html
 ---
+
+# On this day...
 
 In my [blog gardening](https://www.thingelstad.com/2023/09/04/blog-gardening.html) *(thank you [Jamie](https://www.thingelstad.com/) I am stealing your term)* I have stumbled across when I was in Germany for two weeks for work back in 2018. Granted I only have a handful of pictures that are in this blog and most of them came through my Instagram import I did a while back.
 

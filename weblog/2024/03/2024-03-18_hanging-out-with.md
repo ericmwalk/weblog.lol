@@ -1,10 +1,11 @@
 ---
-title: "Spending a day with my girls..."
 publish: "false"
 date: 2024-03-18 18:52:00
 permalink: /2024/03/18/hanging-out-with
 url: https://ericmwalk.blog/2024/03/18/hanging-out-with.html
 ---
+
+# Spending a day with my girls...
 
 Spent today with these two girls and had fun with limited plans. We played some Arcade games at Dave and Busters, ate some rolled Ice Cream, did some shopping 😵, played in an empty pool, and then ended the night with a yummy dessert from the lounge while watching a movie in the hotel room.
 

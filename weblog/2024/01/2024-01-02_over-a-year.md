@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "false"
 date: 2024-01-02 19:37:50
 permalink: /2024/01/02/over-a-year

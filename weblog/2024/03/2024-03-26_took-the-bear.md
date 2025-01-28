@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "false"
 date: 2024-03-26 22:15:38
 tags: "Dogs"

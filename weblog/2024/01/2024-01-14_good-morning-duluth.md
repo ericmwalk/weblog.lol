@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "false"
 date: 2024-01-14 09:13:00
 permalink: /2024/01/14/good-morning-duluth

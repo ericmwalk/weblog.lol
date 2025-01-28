@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "false"
 date: 2024-03-07 18:40:00
 permalink: /2024/03/07/these-bacon-wrapped

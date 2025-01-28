@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "false"
 date: 2024-01-17 21:27:48
 permalink: /2024/01/17/finally-the-last

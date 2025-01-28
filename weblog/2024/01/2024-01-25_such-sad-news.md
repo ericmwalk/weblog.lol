@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "false"
 date: 2024-01-25 14:56:41
 permalink: /2024/01/25/such-sad-news

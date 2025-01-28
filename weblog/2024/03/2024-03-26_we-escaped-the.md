@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "false"
 date: 2024-03-26 22:22:34
 permalink: /2024/03/26/we-escaped-the

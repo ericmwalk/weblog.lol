@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "false"
 date: 2024-01-12 13:11:56
 permalink: /2024/01/12/hockey-tournament-weekend

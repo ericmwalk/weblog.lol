@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "false"
 date: 2024-01-05 13:42:08
 permalink: /2024/01/05/seems-to-be

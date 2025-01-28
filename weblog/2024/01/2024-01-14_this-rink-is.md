@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "false"
 date: 2024-01-14 10:41:27
 permalink: /2024/01/14/this-rink-is

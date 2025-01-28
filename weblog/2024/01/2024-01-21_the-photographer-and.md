@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "false"
 date: 2024-01-21 16:29:00
 permalink: /2024/01/21/the-photographer-and
