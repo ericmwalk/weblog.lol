@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2024-11-26 19:16:28
 tags: "Backyard Rink"
