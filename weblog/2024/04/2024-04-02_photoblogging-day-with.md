@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "false"
 date: 2024-04-02 21:49:57
 permalink: /2024/04/02/photoblogging-day-with

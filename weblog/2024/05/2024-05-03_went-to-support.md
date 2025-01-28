@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "false"
 date: 2024-05-03 22:05:18
 permalink: /2024/05/03/went-to-support

@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "false"
 date: 2024-05-16 13:08:44
 permalink: /2024/05/16/of-course-right

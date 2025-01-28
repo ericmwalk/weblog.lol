@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "false"
 date: 2024-04-06 20:02:51
 permalink: /2024/04/06/photoblogging-day-seems

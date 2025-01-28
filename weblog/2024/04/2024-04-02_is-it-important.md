@@ -1,10 +1,11 @@
 ---
-title: "Is it important?"
 publish: "false"
 date: 2024-04-02 11:15:28
 permalink: /2024/04/02/is-it-important
 url: https://ericmwalk.blog/2024/04/02/is-it-important.html
 ---
+
+# Is it important?
 
 A little word of advice, but honestly it just seems like common knowledge...
 

@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "false"
 date: 2024-04-23 05:15:00
 permalink: /2024/04/23/what-better-way

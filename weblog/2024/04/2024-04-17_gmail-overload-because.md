@@ -1,10 +1,11 @@
 ---
-title: "Gmail Overload - Because of Calendar Invites and Document Shares"
 publish: "false"
 date: 2024-04-17 20:46:06
 permalink: /2024/04/17/gmail-overload-because
 url: https://ericmwalk.blog/2024/04/17/gmail-overload-because.html
 ---
+
+# Gmail Overload - Because of Calendar Invites and Document Shares
 
 For any of you working somewhere that uses G-Suite products you might be able to relate to my issues. To preface, working in all sorts of time zones are great to keep things moving in a smaller team. However, the days you wake up with 60+ unread emails in your inbox of which 95% are probably just calendar invitations (and corrections to times) and document shares you might become slightly frustrated. Today was that day for me and it broke the camel’s back as you would say. I was done with having those types of items cluttering all of the other normal emails that are mostly more time critical things to address or action in the morning for me. So I decided to do some digging tonight to see how best I could filter out these offending emails so I could get to what I wanted.
 

@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "false"
 date: 2024-04-09 20:26:00
 permalink: /2024/04/09/photoblogging-day-now

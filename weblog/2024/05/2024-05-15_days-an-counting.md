@@ -1,11 +1,12 @@
 ---
-title: "100 days an counting..."
 publish: "false"
 date: 2024-05-15 22:02:34
 tags: "Running", "WeblogPoMo2024"
 permalink: /2024/05/15/days-an-counting
 url: https://ericmwalk.blog/2024/05/15/days-an-counting.html
 ---
+
+# 100 days an counting...
 
 Something I didn't do when I decided to run a [5k a day](https://ericmwalk.blog/2019/09/30/k-a-day.html) was talk about or even mention it. Thinking back I believe I told only one person over coffee one morning. 😉
 

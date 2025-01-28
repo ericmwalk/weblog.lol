@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "false"
 date: 2024-04-16 21:18:41
 permalink: /2024/04/16/it-is-tough

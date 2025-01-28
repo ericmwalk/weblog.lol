@@ -1,11 +1,12 @@
 ---
-title: "Writing with Obsidian"
 publish: "false"
 date: 2024-05-06 19:24:24
 tags: "Running", "WeblogPoMo2024"
 permalink: /2024/05/06/writing-with-obsidian
 url: https://ericmwalk.blog/2024/05/06/writing-with-obsidian.html
 ---
+
+# Writing with Obsidian
 
 For the past couple of posts I have made, everything has been written in Obsidian and then pushed to Micro.blog via [Micro.Publish](https://micropublish.blog/) created by Otavio Cordeiro.
 

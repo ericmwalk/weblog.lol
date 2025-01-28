@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "false"
 date: 2024-05-13 19:26:31
 permalink: /2024/05/13/sometimes-single-and

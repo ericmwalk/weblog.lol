@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "false"
 date: 2024-04-14 14:57:34
 permalink: /2024/04/14/guess-it-is

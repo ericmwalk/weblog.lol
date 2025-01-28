@@ -1,11 +1,12 @@
 ---
-title: "Portland Observatory"
 publish: "false"
 date: 2024-05-10 20:41:29
 tags: "Running"
 permalink: /2024/05/10/portland-observatory
 url: https://ericmwalk.blog/2024/05/10/portland-observatory.html
 ---
+
+# Portland Observatory
 
 Running the other day I ran by the [Portland Observatory](https://en.m.wikipedia.org/wiki/Portland_Observatory) which is on my list to actual goto when it is open but I haven't had a chance as it isn't open year round.
 

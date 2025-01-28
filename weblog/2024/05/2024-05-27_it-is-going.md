@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "false"
 date: 2024-05-27 17:23:30
 permalink: /2024/05/27/it-is-going

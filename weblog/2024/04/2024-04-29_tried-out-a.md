@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "false"
 date: 2024-04-29 22:06:08
 permalink: /2024/04/29/tried-out-a

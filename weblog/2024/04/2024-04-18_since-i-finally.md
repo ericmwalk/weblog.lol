@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "false"
 date: 2024-04-18 22:22:24
 permalink: /2024/04/18/since-i-finally

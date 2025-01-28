@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "false"
 date: 2024-05-07 17:15:30
 permalink: /2024/05/07/changed-it-up

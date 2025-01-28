@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "false"
 date: 2024-05-19 20:28:13
 permalink: /2024/05/19/so-proud-of
