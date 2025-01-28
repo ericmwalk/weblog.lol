@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "false"
 date: 2024-08-20 10:30:39
 permalink: /2024/08/20/new-coffee-day

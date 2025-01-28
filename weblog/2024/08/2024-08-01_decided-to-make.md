@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "false"
 date: 2024-08-01 21:53:52
 permalink: /2024/08/01/decided-to-make

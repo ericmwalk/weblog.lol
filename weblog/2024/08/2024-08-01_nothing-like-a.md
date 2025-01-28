@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "false"
 date: 2024-08-01 10:41:26
 permalink: /2024/08/01/nothing-like-a

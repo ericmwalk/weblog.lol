@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "false"
 date: 2024-09-21 20:43:00
 permalink: /2024/09/21/created-a-backing

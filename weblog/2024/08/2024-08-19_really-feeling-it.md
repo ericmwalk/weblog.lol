@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "false"
 date: 2024-08-19 16:45:00
 permalink: /2024/08/19/really-feeling-it
