@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "false"
 date: 2024-10-31 22:04:17
 permalink: /2024/10/31/this-years-halloween

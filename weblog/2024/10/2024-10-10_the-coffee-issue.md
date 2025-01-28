@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "false"
 date: 2024-10-10 12:45:15
 permalink: /2024/10/10/the-coffee-issue

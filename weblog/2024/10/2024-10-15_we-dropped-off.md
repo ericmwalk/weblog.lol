@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "false"
 date: 2024-10-15 05:34:28
 permalink: /2024/10/15/we-dropped-off

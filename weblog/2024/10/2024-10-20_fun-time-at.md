@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "false"
 date: 2024-10-19 23:05:43
 permalink: /2024/10/20/fun-time-at
