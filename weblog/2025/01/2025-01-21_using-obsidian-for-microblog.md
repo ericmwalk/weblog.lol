@@ -1,10 +1,11 @@
 ---
-title: Using Obsidian for Micro.blog
 publish: "true"
 date: 2025-01-21
 tags: Obsidian
 url: https://ericmwalk.blog/2025/01/21/using-obsidian-for-microblog.html
 ---
+
+# Using Obsidian for Micro.blog
 
 I was doing my yearly backup of my Micro.blog site as well as other things I have online just to pull them down and store them on my local storage. As I was curious about what was in the zip file, I was reminded that all of the posts are in Markdown, and then I got this crazy idea: why not just load all these Micro.blog Markdown files into my Obsidian vault? Mostly because for almost the last 10 months, I have been using Obsidian for the start of all my posts and then publishing them using [Micro.Publish](https://micropublish.blog/). So I decided to do exactly that, and now I have a full backup in Obsidian, which is really nice.
 
