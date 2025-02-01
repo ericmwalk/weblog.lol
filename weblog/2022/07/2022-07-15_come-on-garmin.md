@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-07-15 17:36:34
 url: https://ericmwalk.blog/2022/07/15/come-on-garmin.html

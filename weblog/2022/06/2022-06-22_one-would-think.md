@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-06-22 09:51:49
 url: https://ericmwalk.blog/2022/06/22/one-would-think.html
