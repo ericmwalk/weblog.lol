@@ -1,10 +1,11 @@
 ---
+title: ""
 publish: "true"
 date: 2023-09-02 12:10:00
-tags:
-- "Running"
+tags: "Running"
 url: https://ericmwalk.blog/2023/09/02/decided-to-hit.html
 ---
+
 Decided to hit the trails of the Lowry Nature Center Today. It was a warm one out there but I really enjoyed the change of scenery for this [run](https://strava.com/activities/9769195149).
 
 ![](https://ericmwalk.blog/uploads/2023/bd4da974-6d0b-4828-b412-54a914d29481.jpg)

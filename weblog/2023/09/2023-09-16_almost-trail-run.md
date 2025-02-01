@@ -1,10 +1,11 @@
 ---
+title: ""
 publish: "true"
 date: 2023-09-16 22:17:43
-tags:
-- "Running"
+tags: "Running"
 url: https://ericmwalk.blog/2023/09/16/almost-trail-run.html
 ---
+
 Almost 100% trail [run](https://strava.com/activities/9862004614)  along the Minnesota River bottoms today.  Let’s just say that was fun exploring! My friend thought I got us lost at one point because we drifted far from the water but the trail reconnected so all was well.
 
 ![](https://ericmwalk.blog/uploads/2023/defb1614-a664-4c10-9297-cfff2813a745.jpg)

@@ -1,8 +1,10 @@
 ---
+title: ""
 publish: "true"
 date: 2023-09-05 14:55:00
 url: https://ericmwalk.blog/2023/09/05/another-summer-is.html
 ---
+
 Another summer is gone and it was time for the kids to head back to school today… 🚌
 
 ![](https://ericmwalk.blog/uploads/2023/3d4f9125-b542-4630-b63f-1f1c7d2f3d85.jpg)
