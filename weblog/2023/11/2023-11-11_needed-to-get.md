@@ -1,10 +1,11 @@
 ---
+title: ""
 publish: "true"
 date: 2023-11-11 14:53:01
-tags:
-- "Running"
+tags: "Running"
 url: https://ericmwalk.blog/2023/11/11/needed-to-get.html
 ---
+
 Needed to get this one done early with kid activities today. Wasn’t sure how far I was going to [run](https://strava.com/activities/10199908577) but happy with how it turned out and where I went. Last mile talked with my wife the whole time on the phone which was different but fun too.
 
 ![](https://ericmwalk.blog/uploads/2023/ba10cb03-74ed-40fc-9d3e-a9558916f717.jpg)

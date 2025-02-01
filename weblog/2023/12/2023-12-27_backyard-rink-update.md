@@ -1,12 +1,11 @@
 ---
+title: "Backyard Rink Update: December 27"
 publish: "true"
 date: 2023-12-27 23:05:35
-tags:
-- "Backyard Rink"
+tags: "Backyard Rink"
 url: https://ericmwalk.blog/2023/12/27/backyard-rink-update.html
 ---
 
-# Backyard Rink Update: December 27
 Such a strange winter this has been... I should step back to say that originally I was kind of on the fence if I didn't want to do a hockey rink this year just because I felt it was not used as much as I would have liked to have seen it last year. However, on a whim and looking at weather forecasts in November I quickly decided to put the boards up and then order a tarp from a new company. Then the weather started to get warm and I waited.... and waited... Like I have done since learning that valuable lesson in my earlier years. However, fast forward to today and it is December 27th and the weather may maybe getting close to the right conditions as you can see from my chart below but I am asking myself a very important question. Am I going to finish building the rink for the 2023-2024 Season?
 
 Such a hard questions as I have a streak going of 9 years and not to mention a good handful of the work is already done with the [boards up](https://ericmwalk.blog/2023/11/17/well-decisions-were.html).
