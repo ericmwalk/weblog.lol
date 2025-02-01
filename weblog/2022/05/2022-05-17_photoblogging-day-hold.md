@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-05-17 20:30:07
 url: https://ericmwalk.blog/2022/05/17/photoblogging-day-hold.html

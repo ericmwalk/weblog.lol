@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-05-11 20:14:05
 url: https://ericmwalk.blog/2022/05/11/photoblogging-day-maroon.html

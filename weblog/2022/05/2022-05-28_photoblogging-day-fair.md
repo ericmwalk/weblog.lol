@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-05-28 18:46:15
 url: https://ericmwalk.blog/2022/05/28/photoblogging-day-fair.html

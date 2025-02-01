@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-05-29 20:59:06
 url: https://ericmwalk.blog/2022/05/29/photoblogging-day-stripes.html

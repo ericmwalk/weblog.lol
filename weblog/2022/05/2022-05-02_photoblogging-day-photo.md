@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-05-02 20:46:17
 url: https://ericmwalk.blog/2022/05/02/photoblogging-day-photo.html
