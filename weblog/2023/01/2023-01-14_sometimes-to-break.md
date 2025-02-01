@@ -1,10 +1,11 @@
 ---
+title: ""
 publish: "true"
 date: 2023-01-14 22:26:09
-tags:
-- "Running"
+tags: "Running"
 url: https://ericmwalk.blog/2023/01/14/sometimes-to-break.html
 ---
+
 Sometimes to break up a long drive you just need to stop at a random park and go for a [run](http://www.strava.com/activities/8392797766).
 
 ![](https://ericmwalk.blog/uploads/2023/9d78729813.jpg)

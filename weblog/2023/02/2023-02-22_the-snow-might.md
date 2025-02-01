@@ -1,10 +1,11 @@
 ---
+title: ""
 publish: "true"
 date: 2023-02-22 22:49:29
-tags:
-- "Running"
+tags: "Running"
 url: https://ericmwalk.blog/2023/02/22/the-snow-might.html
 ---
+
 The snow might not be as bad as people thought but [running](http://www.strava.com/activities/8607370877) through it was a fun little challenge tonight. Also, probably shouldn’t have done it 20 min after eating dinner 🤷🏻‍♂️ 🌨️
 
 
