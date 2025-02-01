@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-09-28 09:12:45
 url: https://ericmwalk.blog/2022/09/28/trying-to-get.html

@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-09-30 12:54:13
 url: https://ericmwalk.blog/2022/09/30/taking-the-doodle.html

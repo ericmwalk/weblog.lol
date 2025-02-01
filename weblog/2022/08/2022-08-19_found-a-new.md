@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-08-19 11:48:45
 url: https://ericmwalk.blog/2022/08/19/found-a-new.html
