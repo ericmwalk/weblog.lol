@@ -1,9 +1,10 @@
 ---
-title: "Squirrel 1 - Eric 0"
 publish: "true"
 date: 2022-11-22 11:10:01
 url: https://ericmwalk.blog/2022/11/22/squirrel-eric.html
 ---
+
+# Squirrel 1 - Eric 0
 Last week Wednesday my parents dropped off this new bird feeder called a suet feeder. It took a couple of days for the birds to show up and start getting interested in it and then yesterday for some reason this squirrel was all over the suet feeder. I thought it was most amusing as I figured he can’t really get too much of the food out as there is a wire cage around the whole thing. I was working inside in the morning so I from time to time would open the deck door and scare him away.
 
 ![](https://ericmwalk.blog/uploads/2022/9431ea58f4.jpg)

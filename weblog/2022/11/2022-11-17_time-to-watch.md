@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-11-17 18:25:13
 url: https://ericmwalk.blog/2022/11/17/time-to-watch.html

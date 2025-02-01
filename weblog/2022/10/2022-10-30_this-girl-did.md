@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-10-30 21:29:33
 url: https://ericmwalk.blog/2022/10/30/this-girl-did.html

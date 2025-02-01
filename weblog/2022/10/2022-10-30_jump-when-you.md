@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-10-30 14:34:11
 url: https://ericmwalk.blog/2022/10/30/jump-when-you.html

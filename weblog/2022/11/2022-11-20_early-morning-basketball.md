@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-11-20 07:07:19
 url: https://ericmwalk.blog/2022/11/20/early-morning-basketball.html

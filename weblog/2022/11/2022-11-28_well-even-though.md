@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-11-28 18:06:49
 url: https://ericmwalk.blog/2022/11/28/well-even-though.html

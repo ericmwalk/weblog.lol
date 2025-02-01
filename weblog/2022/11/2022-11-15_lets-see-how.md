@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-11-15 23:49:39
 url: https://ericmwalk.blog/2022/11/15/lets-see-how.html

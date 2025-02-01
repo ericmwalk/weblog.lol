@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-10-30 22:29:56
 url: https://ericmwalk.blog/2022/10/30/her-first-piano.html
