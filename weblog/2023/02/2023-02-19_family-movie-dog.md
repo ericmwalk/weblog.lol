@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2023-02-19 22:39:07
 url: https://ericmwalk.blog/2023/02/19/family-movie-dog.html

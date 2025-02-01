@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2023-02-05 20:46:08
 url: https://ericmwalk.blog/2023/02/05/family-movie-puss.html

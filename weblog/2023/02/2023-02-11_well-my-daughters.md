@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2023-02-11 00:04:50
 url: https://ericmwalk.blog/2023/02/11/well-my-daughters.html

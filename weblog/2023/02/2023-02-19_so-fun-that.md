@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2023-02-19 21:54:16
 url: https://ericmwalk.blog/2023/02/19/so-fun-that.html

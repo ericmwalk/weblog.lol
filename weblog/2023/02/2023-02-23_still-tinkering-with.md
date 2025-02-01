@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2023-02-23 08:44:03
 url: https://ericmwalk.blog/2023/02/23/still-tinkering-with.html

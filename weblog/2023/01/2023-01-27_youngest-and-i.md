@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2023-01-27 21:15:27
 url: https://ericmwalk.blog/2023/01/27/youngest-and-i.html

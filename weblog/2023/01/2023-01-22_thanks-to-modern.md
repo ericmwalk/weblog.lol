@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2023-01-22 20:51:03
 url: https://ericmwalk.blog/2023/01/22/thanks-to-modern.html

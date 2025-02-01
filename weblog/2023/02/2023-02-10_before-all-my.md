@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2023-02-10 13:14:18
 url: https://ericmwalk.blog/2023/02/10/before-all-my.html
