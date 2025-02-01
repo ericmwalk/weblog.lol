@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-12-22 10:15:39
 url: https://ericmwalk.blog/2022/12/22/welcome-to-chaos.html

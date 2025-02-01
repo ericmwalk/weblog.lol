@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-12-08 21:19:06
 url: https://ericmwalk.blog/2022/12/08/this-last-second.html

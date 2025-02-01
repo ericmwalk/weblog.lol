@@ -1,11 +1,12 @@
 ---
-title: "Readwise Reader"
 publish: "true"
 date: 2022-12-16 01:55:00
 tags:
 - "Running"
 url: https://ericmwalk.blog/2022/12/16/readwise-reader.html
 ---
+
+# Readwise Reader
 It doesn't seem like it was that long ago I was talking about [Rethinking my Information flow](https://ericmwalk.blog/2022/11/22/rethinking-my-information.html) and I believe I said something along the lines that I use multiple tools to kind of piece together what I want.
 
 > I feel like there is not a 100% solution I have seen and maybe that is where my expectations are too high or maybe what I am looking for is not what everyone else needs.

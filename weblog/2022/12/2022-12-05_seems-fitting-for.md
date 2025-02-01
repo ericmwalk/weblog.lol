@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-12-05 22:30:48
 url: https://ericmwalk.blog/2022/12/05/seems-fitting-for.html

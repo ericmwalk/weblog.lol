@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-12-23 13:35:15
 url: https://ericmwalk.blog/2022/12/23/what-ended-as.html
