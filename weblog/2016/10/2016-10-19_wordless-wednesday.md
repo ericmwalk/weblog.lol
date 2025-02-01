@@ -1,0 +1,10 @@
+---
+title: "Wordless Wednesday 10/19"
+publish: "true"
+date: 2016-10-19 17:40:08
+tags: "Wordless Wednesday"
+url: https://ericmwalk.blog/2016/10/19/wordless-wednesday.html
+---
+
+![](https://ericmwalk.blog/uploads/2022/28d716dad3.jpg)
+*Rainbow during my daughters Birthday Party (October 2016, Eden Prairie, MN*
