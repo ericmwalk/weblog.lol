@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-10-14 07:24:59
 tags: "Dogs"

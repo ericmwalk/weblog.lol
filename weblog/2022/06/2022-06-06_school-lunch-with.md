@@ -1,9 +1,10 @@
 ---
-title: "School lunch with the Boo… 👻"
 publish: "true"
 date: 2022-06-06 21:11:32
 url: https://ericmwalk.blog/2022/06/06/school-lunch-with.html
 ---
+
+# School lunch with the Boo… 👻
 
 Decided to change my plans today and surprise this girl for lunch today 😁. She had been begging us for the last month now that visitors can come into the school and seeing how this is the last week of school it had to get done.
 

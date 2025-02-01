@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-05-17 16:03:30
 url: https://ericmwalk.blog/2022/05/17/i-think-the.html

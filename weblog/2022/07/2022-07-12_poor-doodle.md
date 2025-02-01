@@ -1,10 +1,11 @@
 ---
-title: "Poor doodle 🐶"
 publish: "true"
 date: 2022-07-12 09:18:06
 tags: "Running", "Dogs"
 url: https://ericmwalk.blog/2022/07/12/poor-doodle.html
 ---
+
+# Poor doodle 🐶
 
 Yesterday our dog woke up and nothing seemed off as I took her outside as I normally do. However, when we got back inside and I normally give her a treat with her daily pill in it she sniffed it and just walked away. That is not normal at all...
 

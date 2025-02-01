@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-04-24 22:40:11
 url: https://ericmwalk.blog/2022/04/24/finished-reading-a.html

@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-05-31 18:10:26
 url: https://ericmwalk.blog/2022/05/31/i-appreciated-the.html

@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-11-13 07:47:10
 url: https://ericmwalk.blog/2022/11/13/such-a-busy.html

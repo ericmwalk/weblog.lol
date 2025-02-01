@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-09-27 08:52:20
 url: https://ericmwalk.blog/2022/09/27/time-to-mess.html

@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-11-10 06:41:47
 url: https://ericmwalk.blog/2022/11/10/thank-you-detroit.html

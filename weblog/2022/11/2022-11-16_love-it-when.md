@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-11-16 14:02:17
 url: https://ericmwalk.blog/2022/11/16/love-it-when.html

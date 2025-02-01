@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-10-28 22:26:49
 url: https://ericmwalk.blog/2022/10/28/doing-some-database.html

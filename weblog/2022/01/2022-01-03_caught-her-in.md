@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-01-03 22:02:58
 url: https://ericmwalk.blog/2022/01/03/caught-her-in.html

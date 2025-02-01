@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-01-18 13:51:00
 url: https://ericmwalk.blog/2022/01/18/catching-up-on.html

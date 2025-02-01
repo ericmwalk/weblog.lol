@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-11-16 21:27:29
 tags: "Backyard Rink", "Project Shed"

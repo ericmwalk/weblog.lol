@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-01-10 16:42:00
 url: https://ericmwalk.blog/2022/01/10/well-at-least.html

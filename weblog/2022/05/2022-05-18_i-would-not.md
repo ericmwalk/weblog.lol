@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-05-18 13:31:36
 url: https://ericmwalk.blog/2022/05/18/i-would-not.html

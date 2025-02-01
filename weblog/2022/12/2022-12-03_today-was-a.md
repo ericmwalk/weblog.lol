@@ -1,10 +1,11 @@
 ---
-title: "Today was a bust!"
 publish: "true"
 date: 2022-12-03 23:08:17
 tags: "house projects"
 url: https://ericmwalk.blog/2022/12/03/today-was-a.html
 ---
+
+# Today was a bust!
 
 It was supposed to be a day to get stuff done or at least just relax as the only things we had on was something in the morning and then evening. However, we were getting some new doors delivered for the upstairs and I have someone lined up to install them on Monday. Then as a perfect storm, the delivery people dropped it off when I wasn't home and once I got home I found out they were not the doors I was thinking I purchased 🤦🏻‍♂️. Hoping they had made a mistake I quickly realized checking my email that I did indeed order the wrong doors. I kind of blame the store as I had everything in my online cart and then for some reason it got cleared so then I was trying to redo it and instead of getting prestained boards I got the ready-to-stain boards.
 

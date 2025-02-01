@@ -1,9 +1,10 @@
 ---
-title: "Fishing and hanging out at the farm 🎣🚜"
 publish: "true"
 date: 2022-07-12 16:08:35
 url: https://ericmwalk.blog/2022/07/12/fishing-and-hanging.html
 ---
+
+# Fishing and hanging out at the farm 🎣🚜
 
 This past weekend we went down to the Gott Family farm in small town [Ollie, Iowa](https://en.m.wikipedia.org/wiki/Ollie,_Iowa). It is a little bit of a hike to get there from where we live but the kids loved every minute of it as they get to do all the things they don’t do in the cities (e.g., ride tractors, 4-wheelers, and have a personal finishing pond). I am pretty sure if you couldn’t catch a fish in this pond something is really wrong.
 

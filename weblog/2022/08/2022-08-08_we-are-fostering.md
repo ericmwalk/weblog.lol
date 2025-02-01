@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-08-08 06:45:45
 url: https://ericmwalk.blog/2022/08/08/we-are-fostering.html

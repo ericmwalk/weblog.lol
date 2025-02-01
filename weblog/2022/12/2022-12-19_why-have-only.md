@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-12-19 12:50:38
 tags: "house projects"
