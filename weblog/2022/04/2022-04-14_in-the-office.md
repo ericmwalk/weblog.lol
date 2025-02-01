@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-04-14 09:41:00
 tags: "Project Shed"

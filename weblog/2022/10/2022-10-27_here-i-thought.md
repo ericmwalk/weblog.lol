@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-10-27 08:29:05
 url: https://ericmwalk.blog/2022/10/27/here-i-thought.html

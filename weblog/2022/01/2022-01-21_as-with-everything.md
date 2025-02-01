@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-01-21 08:54:46
 url: https://ericmwalk.blog/2022/01/21/as-with-everything.html

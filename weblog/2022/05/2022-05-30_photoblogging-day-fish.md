@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-05-30 19:03:16
 url: https://ericmwalk.blog/2022/05/30/photoblogging-day-fish.html

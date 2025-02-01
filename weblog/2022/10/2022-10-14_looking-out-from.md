@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-10-14 09:44:17
 url: https://ericmwalk.blog/2022/10/14/looking-out-from.html

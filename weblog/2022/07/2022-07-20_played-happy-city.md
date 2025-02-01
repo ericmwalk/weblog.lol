@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-07-20 06:54:28
 url: https://ericmwalk.blog/2022/07/20/played-happy-city.html

@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-02-07 10:33:17
 url: https://ericmwalk.blog/2022/02/07/one-of-those.html

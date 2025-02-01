@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-12-31 19:10:24
 url: https://ericmwalk.blog/2022/12/31/what-better-way.html

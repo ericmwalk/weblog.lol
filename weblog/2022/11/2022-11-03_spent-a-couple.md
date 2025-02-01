@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-11-03 07:06:07
 url: https://ericmwalk.blog/2022/11/03/spent-a-couple.html

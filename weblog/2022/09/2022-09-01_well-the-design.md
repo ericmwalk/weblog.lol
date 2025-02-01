@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-09-01 21:44:45
 url: https://ericmwalk.blog/2022/09/01/well-the-design.html

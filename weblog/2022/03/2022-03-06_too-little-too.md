@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-03-06 19:17:33
 url: https://ericmwalk.blog/2022/03/06/too-little-too.html

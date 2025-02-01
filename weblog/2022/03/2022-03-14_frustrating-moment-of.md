@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-03-14 09:38:17
 url: https://ericmwalk.blog/2022/03/14/frustrating-moment-of.html

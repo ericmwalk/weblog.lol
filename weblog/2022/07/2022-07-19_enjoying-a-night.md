@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-07-19 21:15:41
 url: https://ericmwalk.blog/2022/07/19/enjoying-a-night.html

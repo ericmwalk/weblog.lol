@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-04-11 08:49:43
 url: https://ericmwalk.blog/2022/04/11/over-the-weekend.html

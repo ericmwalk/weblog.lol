@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-05-17 10:51:19
 url: https://ericmwalk.blog/2022/05/17/listening-to-a.html

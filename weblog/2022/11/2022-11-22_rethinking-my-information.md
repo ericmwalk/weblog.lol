@@ -1,9 +1,10 @@
 ---
-title: "Rethinking My Information Flow"
 publish: "true"
 date: 2022-11-22 14:39:31
 url: https://ericmwalk.blog/2022/11/22/rethinking-my-information.html
 ---
+
+# Rethinking My Information Flow
 
 Sometimes I spend more time tinkering with things to try to get to the ideal solution than using the ones I currently have. Last night I was digging into the "optimal" way to consume information (e.g., blog posts, articles, news) and also how to retain the interesting parts of any of that or save the link for another point in time. I feel like there is not a 100% solution I have seen and maybe that is where my expectations are to high or maybe what I am looking for is not what everyone else needs. I don't mind using multiple tools to get the job done but sometimes trying to get the information from one to the next is more friction than it is worth and that is what I am trying to change. However, this is my current cobbled together parts that I am using *(I might even be missing something)*:
 

@@ -1,9 +1,10 @@
 ---
-title: "Duluth Hockey Weekend"
 publish: "true"
 date: 2022-01-18 13:38:00
 url: https://ericmwalk.blog/2022/01/18/duluth-hockey-weekend.html
 ---
+
+# Duluth Hockey Weekend
 
 Had such a great weekend watching this our #11 and her team play their hearts out. Not to mention they all just had fun hanging out as much as they could and still being as safe as they could.
 
