@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2023-07-04 10:13:46
 url: https://ericmwalk.blog/2023/07/04/how-darbys-first.html

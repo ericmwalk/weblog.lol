@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2023-08-02 12:46:05
 url: https://ericmwalk.blog/2023/08/02/cant-believe-i.html

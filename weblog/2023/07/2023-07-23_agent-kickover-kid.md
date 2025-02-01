@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2023-07-23 08:39:22
 url: https://ericmwalk.blog/2023/07/23/agent-kickover-kid.html
