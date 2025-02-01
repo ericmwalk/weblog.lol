@@ -1,10 +1,11 @@
 ---
-title: "Foundry by Eliot Peper"
 publish: "true"
 date: 2023-10-26 12:07:39
 tags: "books", 9781735016528
 url: https://ericmwalk.blog/2023/10/26/foundry-by-eliot.html
 ---
+
+# Foundry by Eliot Peper
 
 What can I say Eliot Peper did it again with [Foundry](https://micro.blog/books/9781735016528)! From the moment it started the whole story was a fast-paced, entertaining, and almost too close-to-reality near-future spy novel. Needless to say, I could not put the book down or stop listening to it when I was away from the physical book. I really enjoyed how this book (compared to his others) took a different style in approach by being written in first person and I even found when listening to it (also appreciated it was his voice) it was like someone was telling me a story as we sat across a table drinking a cortado.
 

@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2023-10-26 21:25:59
 url: https://ericmwalk.blog/2023/10/26/had-to-create.html

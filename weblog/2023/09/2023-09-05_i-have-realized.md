@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2023-09-05 06:37:00
 url: https://ericmwalk.blog/2023/09/05/i-have-realized.html

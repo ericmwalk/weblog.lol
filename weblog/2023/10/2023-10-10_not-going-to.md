@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2023-10-10 19:21:47
 tags: "books"
