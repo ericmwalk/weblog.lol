@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2023-05-21 07:02:16
 url: https://ericmwalk.blog/2023/05/21/the-dog-has.html

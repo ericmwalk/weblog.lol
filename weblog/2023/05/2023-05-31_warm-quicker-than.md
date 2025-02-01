@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2023-05-31 14:42:00
 tags: "Running"

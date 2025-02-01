@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2023-05-02 22:36:58
 url: https://ericmwalk.blog/2023/05/02/i-dont-take.html

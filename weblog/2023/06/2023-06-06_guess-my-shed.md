@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2023-06-06 21:04:35
 url: https://ericmwalk.blog/2023/06/06/guess-my-shed.html
