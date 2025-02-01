@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2023-01-06 21:13:59
 url: https://ericmwalk.blog/2023/01/06/for-what-started.html

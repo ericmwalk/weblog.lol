@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2023-02-03 23:27:04
 url: https://ericmwalk.blog/2023/02/03/had-a-little.html

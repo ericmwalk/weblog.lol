@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2023-01-07 20:21:00
 url: https://ericmwalk.blog/2023/01/07/family-movie-matilda.html

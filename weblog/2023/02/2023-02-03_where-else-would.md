@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2023-02-03 17:35:37
 url: https://ericmwalk.blog/2023/02/03/where-else-would.html

@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2023-01-10 08:18:29
 url: https://ericmwalk.blog/2023/01/10/it-is-going.html
