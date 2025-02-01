@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2023-11-28 08:59:59
 url: https://ericmwalk.blog/2023/11/28/i-have-enjoyed.html

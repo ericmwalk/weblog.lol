@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2023-11-27 15:26:25
 url: https://ericmwalk.blog/2023/11/27/i-realized-a.html

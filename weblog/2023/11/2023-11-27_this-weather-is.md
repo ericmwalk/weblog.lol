@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2023-11-27 10:00:05
 url: https://ericmwalk.blog/2023/11/27/this-weather-is.html

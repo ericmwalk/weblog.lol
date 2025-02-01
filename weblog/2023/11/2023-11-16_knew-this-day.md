@@ -1,9 +1,10 @@
 ---
-title: "Knew this day would come... ⛹️‍♂️"
 publish: "true"
 date: 2023-11-16 12:01:36
 url: https://ericmwalk.blog/2023/11/16/knew-this-day.html
 ---
+
+# Knew this day would come... ⛹️‍♂️
 
 I had worried about this day from the point my kids went to a bigger school 8x the size of the one that I did growing up. Yes from an education perspective where we live is a great place to be but,  growing up for me I loved playing sports too. To be fair I just liked playing sports to hang out with friends but also because I just liked doing things. True some sports I was probably more “in it to win it” focused than others but overall I could do them all and that isn’t because I was a stellar athlete. Running sure, I worked hard after my Freshman and Sophomore years to make sure I was one of our top runners for cross country and found a niche for myself in track running 800s and 400s.
 
