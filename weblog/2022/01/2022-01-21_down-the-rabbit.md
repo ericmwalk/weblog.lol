@@ -1,10 +1,10 @@
 ---
+title: "Down the rabbit hole of projects..."
 publish: "true"
 date: 2022-01-21 07:33:28
 url: https://ericmwalk.blog/2022/01/21/down-the-rabbit.html
 ---
 
-# Down the rabbit hole of projects...
 I am not sure how this happened but I have gone down what I will call the rabbit hole of projects lately by having too many and all of them are in flight right now. Each will be great when they are done and all serve different purposes. Here they are in somewhat a specific order of events:
 
 - **Micro.blog** - I got this idea finally to try making Micro.blog my home for all Posts, and Pictures. This involved rolling up my old Website and then importing my Instagram photos. Both of the projects are “Done” in theory. However, there is a lot more clean-up than I anticipated so this will be an ongoing project for a while. I thought I had the website import done and cleaned up but now that I am still working on the Instagram stuff I am finding more that did not come through due to the issues I outlined in that [post](https://ericmwalk.blog/2022/01/05/all-in-on.html).

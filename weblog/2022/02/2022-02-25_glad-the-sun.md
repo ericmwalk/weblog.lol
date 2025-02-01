@@ -1,10 +1,11 @@
 ---
+title: ""
 publish: "true"
 date: 2022-02-25 16:46:56
-tags:
-- "Running"
+tags: "Running"
 url: https://ericmwalk.blog/2022/02/25/glad-the-sun.html
 ---
+
 Glad the sun was out today but still a good amount of snow (with hidden ice) to [trudge](http://www.strava.com/activities/6736982367) through.  🏃🏻‍♂️
 
 

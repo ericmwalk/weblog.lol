@@ -1,10 +1,10 @@
 ---
+title: "Getting Organized 🗃"
 publish: "true"
 date: 2022-03-03 11:11:25
 url: https://ericmwalk.blog/2022/03/03/getting-organized.html
 ---
 
-# Getting Organized 🗃
 I am not completely there yet but it seems a lot of my other projects as of lately have revolved around this idea of organizing things...
 
 This probably started back in early January when I went down the rabbit hole of getting all my old DVDs on a computer to use with Plex as a way to free up some shelf space in the basement. I don’t remember the last time we have used any of those DVDs except a very small handful we take along in the RV. However, since putting them all on the computer, I think we have watched 10 movies off there so far. The next step in this process was getting a better handle on our Picture organization too, it aligned nicely with the first project because we had to get more HD space and in that purchase, we got a *new* computer so everything needed to be transferred from the old drive. With the new computer, the nice advantage is I have been able to remotely log into it and it is fast enough that I could look through old stuff and organize other things to fit with the process we use now. In fact, our picture process has even changed since I first had thought about it so maybe I will expand on that at another time.

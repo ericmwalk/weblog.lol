@@ -1,8 +1,10 @@
 ---
+title: ""
 publish: "true"
 date: 2022-05-11 20:14:05
 url: https://ericmwalk.blog/2022/05/11/photoblogging-day-maroon.html
 ---
+
 📸 Photoblogging - Day 11: **Maroon**
 
 Calm before the Tornado and Thunderstorm warnings.

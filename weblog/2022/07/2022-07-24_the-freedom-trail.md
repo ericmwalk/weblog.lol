@@ -1,10 +1,11 @@
 ---
+title: ""
 publish: "true"
 date: 2022-07-24 12:34:37
-tags:
-- "Running"
+tags: "Running"
 url: https://ericmwalk.blog/2022/07/24/the-freedom-trail.html
 ---
+
 [The Freedom Trail](https://www.thefreedomtrail.org) [run](http://www.strava.com/activities/7520621361) in Boston today. I figured I had never done the full trail before that I can remember. It was nice as I didn’t have any crowds in the streets and was sometimes all by myself. 🏃🏻‍♂️
 
 ![](https://ericmwalk.blog/uploads/2022/41146fbd8e.jpg)

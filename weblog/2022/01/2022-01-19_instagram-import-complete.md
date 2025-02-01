@@ -1,10 +1,10 @@
 ---
+title: "Instagram Import - Complete!"
 publish: "true"
 date: 2022-01-19 15:50:40
 url: https://ericmwalk.blog/2022/01/19/instagram-import-complete.html
 ---
 
-# Instagram Import - Complete!
 Another step in migrating a lot of my stuff in one place has been completed. I wish I could say this was a super simple process that took an hour or less and was done. However, due to some **user** confusion, it took me more hours than I would like to add up. I was probably trying to do too many tasks at once but I ended up uploading a lot of duplicates which then required me to click into each Uploads page and Posts page and remove said duplicates 🤦‍♂️. Now in theory I would not have had to do this as it would only annoy anyone flipping through old posts but seeing how that for sure will be me it would annoy me and now seemed like the best time to clean it up before it really annoys me in the future *(future Eric better thank me)*.
 
 Thinking back there are probably two things I should have done differently or paid closer attention to:

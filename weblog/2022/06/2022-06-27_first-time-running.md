@@ -1,10 +1,11 @@
 ---
+title: ""
 publish: "true"
 date: 2022-06-27 16:00:00
-tags:
-- "Running"
+tags: "Running"
 url: https://ericmwalk.blog/2022/06/27/first-time-running.html
 ---
+
 First time [running](http://www.strava.com/activities/7377291756) along a beach for most of the run. It was fun but I did get a little too close tempting the water and soaked a foot 🏃🏻‍♂️
 
 ![](https://ericmwalk.blog/uploads/2023/f6ca2cad87.jpg)

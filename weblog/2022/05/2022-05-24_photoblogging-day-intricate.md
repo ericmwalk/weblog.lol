@@ -1,8 +1,10 @@
 ---
+title: ""
 publish: "true"
 date: 2022-05-24 19:00:00
 url: https://ericmwalk.blog/2022/05/24/photoblogging-day-intricate.html
 ---
+
 📸 Photoblogging - Day 24: **Intricate**
 
 Not sure why I always enjoy stained glass.

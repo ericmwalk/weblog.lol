@@ -1,10 +1,11 @@
 ---
+title: ""
 publish: "true"
 date: 2022-06-08 20:04:43
-tags:
-- "Running"
+tags: "Running"
 url: https://ericmwalk.blog/2022/06/08/new-place-to.html
 ---
+
 New place to [run](http://www.strava.com/activities/7277125032) but my legs were not ready for the rough terrain and up and down of these trails. However, some of the scenery might have made it worth while. 🏃🏻‍♂️
 
 ![](https://ericmwalk.blog/uploads/2022/e7fef1751c.jpg)

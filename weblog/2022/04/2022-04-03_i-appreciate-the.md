@@ -1,10 +1,11 @@
 ---
+title: ""
 publish: "true"
 date: 2022-04-03 17:42:03
-tags:
-- "Running"
+tags: "Running"
 url: https://ericmwalk.blog/2022/04/03/i-appreciate-the.html
 ---
+
 I appreciate the sign someone left and I think it is a great idea 🏃🏻‍♂️🍻.
 
 ![](https://ericmwalk.blog/uploads/2022/c94880ca50.jpg)

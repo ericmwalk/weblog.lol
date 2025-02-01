@@ -1,8 +1,10 @@
 ---
+title: ""
 publish: "true"
 date: 2022-04-15 09:55:19
 url: https://ericmwalk.blog/2022/04/15/well-this-was.html
 ---
+
 Well this was quite the embarrassing find digging for something in a closet upstairs….. Yep this is 41 unopened Christmas cards 🫣😵‍💫
 
 ![](https://ericmwalk.blog/uploads/2022/17244a37c0.jpg)

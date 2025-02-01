@@ -1,10 +1,10 @@
 ---
+title: "Rethinking My Information Flow"
 publish: "true"
 date: 2022-11-22 14:39:31
 url: https://ericmwalk.blog/2022/11/22/rethinking-my-information.html
 ---
 
-# Rethinking My Information Flow
 Sometimes I spend more time tinkering with things to try to get to the ideal solution than using the ones I currently have. Last night I was digging into the "optimal" way to consume information (e.g., blog posts, articles, news) and also how to retain the interesting parts of any of that or save the link for another point in time. I feel like there is not a 100% solution I have seen and maybe that is where my expectations are to high or maybe what I am looking for is not what everyone else needs. I don't mind using multiple tools to get the job done but sometimes trying to get the information from one to the next is more friction than it is worth and that is what I am trying to change. However, this is my current cobbled together parts that I am using *(I might even be missing something)*:
 
 - [**FreshRSS**](https://freshrss.org/) - This is really where anything I would like to subscribe to comes in and I will triage it from here (or using Reeder on iOS). It is the current firehose of information that I have cobbled even newsletters to come in through various other means. In fact, synced up [Feedland](http://feedland.org/) feeds in there which has been interesting (more on that later).  When using just the Web version, I was able to create a quick button next to the feed item that I can send it directly to Wallabag (see below) without having to click multiple items to get it to share to it behind the scenes. I wish I could do more of these little changes as it might help my overall simplification.

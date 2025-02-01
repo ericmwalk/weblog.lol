@@ -1,11 +1,11 @@
 ---
+title: ""
 publish: "true"
 date: 2022-07-18 16:41:07
-tags:
-- "house projects"
-- "Dogs"
+tags: "house projects", "Dogs"
 url: https://ericmwalk.blog/2022/07/18/are-you-done.html
 ---
+
 “Are you done with work yet?” - Doodle 🐶
 
 

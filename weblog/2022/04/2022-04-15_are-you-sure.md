@@ -1,10 +1,11 @@
 ---
+title: ""
 publish: "true"
 date: 2022-04-15 15:51:00
-tags:
-- "Running"
+tags: "Running"
 url: https://ericmwalk.blog/2022/04/15/are-you-sure.html
 ---
+
 Are you sure?... That bridge looks completely safe to me.
 
 ![](https://ericmwalk.blog/uploads/2022/30cc6f9eb7.jpg)

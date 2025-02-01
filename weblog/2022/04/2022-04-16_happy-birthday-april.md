@@ -1,10 +1,10 @@
 ---
+title: "Happy Birthday April"
 publish: "true"
 date: 2022-04-16 20:19:00
 url: https://ericmwalk.blog/2022/04/16/happy-birthday-april.html
 ---
 
-# Happy Birthday April
 Happy Birthday to the wonderful April!
 
 ![](https://ericmwalk.blog/uploads/2022/0bb632615d.jpg)

@@ -1,8 +1,10 @@
 ---
+title: ""
 publish: "true"
 date: 2022-02-11 22:46:16
 url: https://ericmwalk.blog/2022/02/11/this-girl-was.html
 ---
+
 This girl was super excited to sell two **creations** to her friends for her **Lainey’s Creations’s** business!
 
 ![](https://ericmwalk.blog/uploads/2022/494564b88d.jpg)

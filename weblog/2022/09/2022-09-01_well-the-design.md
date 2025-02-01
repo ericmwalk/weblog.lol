@@ -1,8 +1,10 @@
 ---
+title: ""
 publish: "true"
 date: 2022-09-01 21:44:45
 url: https://ericmwalk.blog/2022/09/01/well-the-design.html
 ---
+
 Well the design crew [@hemisphericviews](https://micro.blog/hemisphericviews)   have out done themselves for the 2022 Arcadia June awards.🏆
 
 ![](https://ericmwalk.blog/uploads/2022/05017eee77.jpg)
