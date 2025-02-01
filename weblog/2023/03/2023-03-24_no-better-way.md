@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2023-03-24 10:00:56
 tags:

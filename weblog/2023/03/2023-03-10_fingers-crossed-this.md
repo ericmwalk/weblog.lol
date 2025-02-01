@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2023-03-10 08:27:41
 url: https://ericmwalk.blog/2023/03/10/fingers-crossed-this.html

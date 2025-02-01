@@ -1,11 +1,12 @@
 ---
-title: "Darby Hatrick Walker"
 publish: "true"
 date: 2023-03-22 09:34:18
 tags:
 - "Dogs"
 url: https://ericmwalk.blog/2023/03/22/darby-hatrick-walker.html
 ---
+
+# Darby Hatrick Walker
 Welcome to the family Darby ”Hatrick” Walker…
 
 ![](https://ericmwalk.blog/uploads/2023/62d6550a79.jpg)

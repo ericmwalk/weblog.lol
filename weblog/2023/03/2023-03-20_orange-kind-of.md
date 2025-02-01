@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2023-03-20 07:28:25
 url: https://ericmwalk.blog/2023/03/20/orange-kind-of.html

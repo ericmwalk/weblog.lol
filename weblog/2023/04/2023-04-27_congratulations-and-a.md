@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2023-04-27 08:48:49
 url: https://ericmwalk.blog/2023/04/27/congratulations-and-a.html

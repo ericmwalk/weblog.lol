@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2023-04-15 19:15:17
 url: https://ericmwalk.blog/2023/04/15/doing-a-little.html
