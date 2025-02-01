@@ -1,10 +1,11 @@
 ---
-title: It's Your Ship by Captain D. Michael Abrashoff
 publish: "true"
 date: 2020-01-28 06:18:00
 url: https://ericmwalk.blog/2020/01/28/its-your-ship.html
 tags: 
 ---
+
+# It's Your Ship by Captain D. Michael Abrashoff
 
 
 It's Your Ship: Management Techniques from the Best Damn Ship in the Navy by Captain D. Michael Abrashoff is a really good book if you are ever contemplating a management position or are currently in a management position. The story does a great job laying out examples of how Captain Abrashoff took a poor performing ship in the navy to become one of the sought after ships people wanted to be assigned to.

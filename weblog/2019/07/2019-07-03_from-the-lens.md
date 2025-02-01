@@ -1,10 +1,11 @@
 ---
-title: From the Lens - Grand Lake
 publish: "true"
 date: 2019-07-03 10:15:00
 tags: Photos, Wordless Wednesday, Exploring, From the Lens
 url: https://ericmwalk.blog/2019/07/03/from-the-lens.html
 ---
+
+# From the Lens - Grand Lake
 
 ![](https://ericmwalk.blog/uploads/2021/a37e9c19b0.jpg)
 

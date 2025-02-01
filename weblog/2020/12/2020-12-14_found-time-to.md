@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2020-12-14 09:44:00
 url: https://ericmwalk.blog/2020/12/14/found-time-to.html

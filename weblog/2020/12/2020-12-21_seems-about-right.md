@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2020-12-21 07:56:53
 url: https://ericmwalk.blog/2020/12/21/seems-about-right.html

@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2019-04-27 08:54:00
 tags: "Running", "Dogs"

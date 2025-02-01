@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2020-10-21 12:28:43
 url: https://ericmwalk.blog/2020/10/21/want-to-change.html

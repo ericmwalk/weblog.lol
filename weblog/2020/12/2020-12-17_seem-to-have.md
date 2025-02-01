@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2020-12-17 08:18:00
 tags: "Status"

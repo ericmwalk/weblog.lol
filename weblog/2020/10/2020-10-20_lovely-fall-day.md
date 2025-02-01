@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2020-10-20 15:56:46
 tags: "Running"

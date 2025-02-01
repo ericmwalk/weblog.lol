@@ -1,10 +1,11 @@
 ---
-title: From The Lens - Summer Sunset
 publish: "true"
 date: 2019-06-26 21:23:32
 tags: Running, Photos, Wordless Wednesday, Exploring, From the Lens
 url: https://ericmwalk.blog/2019/06/26/from-the-lens.html
 ---
+
+# From The Lens - Summer Sunset
 
 
 ![](https://ericmwalk.blog/uploads/2021/2d2e676b02.jpg)
