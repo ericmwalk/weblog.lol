@@ -1,7 +1,7 @@
 ---
 publish: "true"
 date: 2023-02-13 20:05:00
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/02/13/after-a-busy.html
 ---
 
