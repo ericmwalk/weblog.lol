@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2019-01-20 08:00:00
 url: https://ericmwalk.blog/2022/01/12/fun-sunday-basketball.html

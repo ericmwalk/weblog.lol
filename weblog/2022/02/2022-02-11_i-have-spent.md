@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-02-11 09:28:39
 url: https://ericmwalk.blog/2022/02/11/i-have-spent.html

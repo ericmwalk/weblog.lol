@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-01-02 10:45:00
 url: https://ericmwalk.blog/2022/01/02/finally-found-a.html

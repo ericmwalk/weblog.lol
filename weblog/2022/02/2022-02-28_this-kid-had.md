@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-02-28 10:51:23
 url: https://ericmwalk.blog/2022/02/28/this-kid-had.html

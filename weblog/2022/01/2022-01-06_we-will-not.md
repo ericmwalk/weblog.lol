@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-01-06 07:51:04
 url: https://ericmwalk.blog/2022/01/06/we-will-not.html

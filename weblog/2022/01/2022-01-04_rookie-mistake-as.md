@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-01-04 10:00:32
 url: https://ericmwalk.blog/2022/01/04/rookie-mistake-as.html

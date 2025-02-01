@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-01-05 22:07:36
 url: https://ericmwalk.blog/2022/01/05/we-finally-dismantled.html

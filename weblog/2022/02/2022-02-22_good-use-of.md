@@ -1,9 +1,10 @@
 ---
-title: "Good use of time?"
 publish: "true"
 date: 2022-02-22 08:18:35
 url: https://ericmwalk.blog/2022/02/22/good-use-of.html
 ---
+
+# Good use of time?
 I spent more time that I like to admit thinking about using a Read it Later service I ran across called [Wallabag](https://www.wallabag.it/en) only to on a wim sign up for a trial subscription. However, I never got an email to log into it which was super frustrating and then I was about ready to just setup the service on my own server as that is an option. However, I wanted to trial their service and who know maybe I would have just paid for it as it wasn’t that expensive. Long story short, I realized not recieving the email was 100z5 my fault because when I moved a domain over to Porkbun I didn’t setup the email forwarding right 🤦‍♂️. After getting that fixed, I decided to try to login to Wallabag again and see what this Read it Later service was all about.
 
 Honestly, in the 2 min I used it and set up the Chrome Extension I had this feeling that I didn’t want it and probably would not use it anyways 😁. I think I realized again that anything I would stick in the *Read it Later* tool I would **NEVER** read later. It would just be a place of notes and I already have enough apps and tools that do that.
