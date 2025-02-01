@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-03-05 19:07:55
 url: https://ericmwalk.blog/2022/03/05/wish-me-luck.html

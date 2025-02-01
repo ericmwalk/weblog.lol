@@ -1,11 +1,12 @@
 ---
-title: "Apple Watch ⌚️ - Strange Stop or Results"
 publish: "true"
 date: 2022-03-04 19:45:00
 tags:
 - "Running"
 url: https://ericmwalk.blog/2022/03/04/apple-watch-strange.html
 ---
+
+# Apple Watch ⌚️ - Strange Stop or Results
 I have been collecting this data and been reading articles for some time about the discrepancies in my **Apple Watch 6 vs my Garmin fēnix 5x**. However, I have not finished all of that yet and felt compelled to post this quickly as I ran across a very puzzling issue today that I am not even really sure where to start but this is how it went.
 
 On my run today I started both watches at the same time as always waiting for the Apple Watch to do it’s 3 second countdown and then I hit start on my Garmin. Today was colder out so I had a jacket over both watches so to that point I only looked once at both watches to see how the time was as I knew I needed to make a loop (or thought I did) because I wasn’t going to hit the mileage I was shooting for. However, the Apple Watch was back at the main screen and not in the Workout screen. This is only irritating as I had to type in my pin to get into the watch. I thought for sure then it must have stopped timing but this had also happened earlier in the week and once I clicked back into the Workout app I could see the time was still ticking away. I did the same thing today and glanced that it was still running but didn’t look close enough to know what the time said or anything.

@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-04-07 08:55:47
 url: https://ericmwalk.blog/2022/04/07/excluding-the-rather.html

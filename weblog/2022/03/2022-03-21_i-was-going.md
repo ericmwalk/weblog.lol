@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-03-21 08:45:47
 url: https://ericmwalk.blog/2022/03/21/i-was-going.html

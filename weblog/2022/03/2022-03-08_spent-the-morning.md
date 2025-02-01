@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-03-08 09:13:13
 url: https://ericmwalk.blog/2022/03/08/spent-the-morning.html

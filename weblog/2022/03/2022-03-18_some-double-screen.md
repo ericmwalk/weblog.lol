@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-03-18 18:51:50
 url: https://ericmwalk.blog/2022/03/18/some-double-screen.html
