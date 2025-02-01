@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2023-06-17 20:36:59
 url: https://ericmwalk.blog/2023/06/17/weather-held-out.html

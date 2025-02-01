@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2023-06-19 11:08:05
 url: https://ericmwalk.blog/2023/06/19/thanks-to-delta.html

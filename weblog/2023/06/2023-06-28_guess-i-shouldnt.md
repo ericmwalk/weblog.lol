@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2023-06-28 13:49:25
 url: https://ericmwalk.blog/2023/06/28/guess-i-shouldnt.html
