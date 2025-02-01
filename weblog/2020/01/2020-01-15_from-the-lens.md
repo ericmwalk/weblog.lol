@@ -1,10 +1,11 @@
 ---
-title: From the Lens - Air Travel
 publish: "true"
 date: 2020-01-15 20:01:57
 tags: Photos, Wordless Wednesday, Exploring, From the Lens
 url: https://ericmwalk.blog/2020/01/15/from-the-lens.html
 ---
+
+# From the Lens - Air Travel
 
 
 ![](https://ericmwalk.blog/uploads/2021/898450632f.jpg)

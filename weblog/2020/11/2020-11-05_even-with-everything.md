@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2020-11-05 15:17:00
 url: https://ericmwalk.blog/2020/11/05/even-with-everything.html

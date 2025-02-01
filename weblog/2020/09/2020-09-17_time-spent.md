@@ -1,10 +1,11 @@
 ---
-title: Time Spent
 publish: "true"
 date: 2020-09-17 10:19:06
 url: https://ericmwalk.blog/2020/09/17/time-spent.html
 tags: 
 ---
+
+# Time Spent
 
 More than ever I am guessing people are (or maybe are not) noticing how they are spending their time or maybe not as various schedules have been disputed over the last 6 months. I know mine has as I have gone from working in an office every day to working at home daily now.</p>
 

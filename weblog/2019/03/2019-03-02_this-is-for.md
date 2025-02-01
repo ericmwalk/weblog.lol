@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2019-03-02 08:22:00
 url: https://ericmwalk.blog/2019/03/02/this-is-for.html

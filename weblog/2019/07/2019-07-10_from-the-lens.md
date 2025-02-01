@@ -1,10 +1,11 @@
 ---
-title: "From the Lens - Great Wall"
 publish: "true"
 date: 2019-07-10 12:47:09
 tags: Running, Photos, Wordless Wednesday, Exploring, From the Lens
 url: https://ericmwalk.blog/2019/07/10/from-the-lens.html
 ---
+
+# From the Lens - Great Wall
 
 ![](https://ericmwalk.blog/uploads/2021/6212420a50.jpg)
 **Looking towards Tower 23 in the far distance at the Mutianyu Great Wall before the steep climb to come with no one in sight. (May 2019, Mutianyu Great Wall, Beijing China)**

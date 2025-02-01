@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2020-02-05 22:02:00
 url: https://ericmwalk.blog/2020/02/05/this-girl-is.html

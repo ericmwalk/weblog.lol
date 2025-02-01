@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2020-02-13 09:53:00
 url: https://ericmwalk.blog/2020/02/13/getting-ready-to.html
