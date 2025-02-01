@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2023-10-30 21:59:33
 url: https://ericmwalk.blog/2023/10/30/guess-we-couldnt.html
