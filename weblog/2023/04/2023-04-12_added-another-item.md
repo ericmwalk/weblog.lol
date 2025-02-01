@@ -1,8 +1,10 @@
 ---
+title: ""
 publish: "true"
 date: 2023-04-12 09:47:15
 url: https://ericmwalk.blog/2023/04/12/added-another-item.html
 ---
+
 Added another item to the collection 🧡
 
 
