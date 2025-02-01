@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2023-03-17 21:43:00
 url: https://ericmwalk.blog/2023/03/17/photoblogging-day-never.html

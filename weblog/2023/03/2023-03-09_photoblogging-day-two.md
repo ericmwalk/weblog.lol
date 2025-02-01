@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2023-03-09 22:19:02
 url: https://ericmwalk.blog/2023/03/09/photoblogging-day-two.html

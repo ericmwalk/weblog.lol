@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2023-04-01 13:24:42
 url: https://ericmwalk.blog/2023/04/01/hindsight-maybe-i.html

@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2023-04-16 09:02:09
 url: https://ericmwalk.blog/2023/04/16/guess-spring-summer.html

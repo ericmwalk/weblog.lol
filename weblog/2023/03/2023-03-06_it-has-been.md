@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2023-03-06 20:15:17
 url: https://ericmwalk.blog/2023/03/06/it-has-been.html
