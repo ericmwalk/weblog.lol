@@ -1,0 +1,26 @@
+---
+title: "Princess Jezzabella"
+publish: "true"
+date: 2018-02-06 07:05:33
+url: https://ericmwalk.blog/2018/02/06/princess-jezzabella.html
+---
+
+A little over a week ago we had to make another tough decision in our house as our last dog Princess Jezzabella the Diva of Pink aka PJ was put down. It was honestly like deja vu all over again as my wife and I have talked about it since the passing of <a href="https://ericmwalk.blog/2016/10/07/tucker-buddy.html">Tucker</a> a year and a half ago. We honestly never thought PJ was going to survive without him but she proved us wrong. In fact, I feel like she changed her normal behavior of a dog who kept to herself into one wanting more attention and love from us than ever before.
+
+PJ had been with us for 13 years, with another birthday knocking on the door this June 21st. She was the second of our "kids", and she has lived in Michigan (where we got her from), Illinois and Minnesota. It was a really tough decision to make, one that we thought two years ago would have been easier than it really was. However, with the different version of PJ over the last couple of years becoming closer with our kids and the fact that we would then soon be a household with no pets for the first time in the last 15 years.
+
+In these final weeks she was throwing up almost daily and her breathing was sounding labored. This was on top of her eyesight fading as well as her hearing is going as well. So she would often bark at us and get scared as people would move around the house or come near her. Not that we will ever know how much pain she was in but we could tell she was not enjoying life as she knew it anymore.
+
+We believe our decision was right as we saw her health declining we didn't want her to suffer from day to day. Also, selfishly we didn't want her last days to be ones where we would be angry that she was throwing up all over and barking at us constantly.
+
+As with our first dog, we wanted to be with her until the end and in our minds, that was again non-negotiable. We ended up using the same place that comes out to your house and performs the procedure with you being able to be right next to them.
+<h4>Final Day</h4>
+We all tried to spend as much time with PJ as we could on the final day. I took her for a walk in the morning which I normally never do. Since it was a Sunday, we didn’t have as many commitments during the afternoon, so we were able to spend more time with her but since the weather was cold out we were unable to just be outside most of the day. However, while grocery shopping in the morning, my youngest and I decided to pick up some Frosty Paws <i>(Dog Ice Cream if you don’t know)</i> as well as a stuffed toy to let her play within the afternoon. When we got home and my daughter gave her the stuffed toy and PJ just sniffed it right away but it didn't really phase her too much. So I walked over to the toy, picked it up and gave it a squeeze, to which the toy made a squeaking sound and then I tossed it. Instantly, PJ seemed young again as she attacked the toy. She instantly grabbed hold of it and started shaking it violently and tossing it around and then jumping on it again. You see for some reason PJ has always had this thing about stuffed animals with squeakers in it. She is so persistent about disabling the squeaker that she will shred the toy and remove all stuffing just to find the squeaker and destroy it. Once she accomplishes this, she will not really play with the toy again. We had fun watching her play with the new toy and eventually moved on to the Frosty Paws that she really enjoys. After that, it was getting late in the afternoon and I figured since I couldn’t take an evening walk with her that now was probably the best time. It felt so strange walking down the same path we had so many times over the last year and a half, knowing it would be the last time. It is not that I will never walk on that path as it leads to a Lending Library by our house, but I knew I would be walking with more purpose other times as I wouldn’t have a dog to take on this walk after today.
+
+Finally around 5:20 we got the knock on the door and we knew that our time was finally up. It was a little harder this time as we knew what was going to happen and who knows PJ probably knew as well. I am glad that we could be with her the entire time as I still think it would be just as hard dropping her off someplace and then turning around and walking the other way.
+
+PJ, you truly were an amazing dog and I will miss you dearly. You never were the super cuddle bunny that Tucker was but you stepped up and filled that void in a time we needed it most. In fact, maybe it was always in your nature but you just let Tucker fill that role as you liked to be the ferocious protector. Thanks again for the times you were there for me and making my life a little bit better/more exciting. You will always be remembered.
+
+[gallery type="rectangular" ids="51122500,51122502,51120912,51122505,51122503,51122501,51122510,51122499,51122504,51121571,51122511,51122512,51122509,51122508,51122507,51122506,51122498,51122513,51122495,51122514"]
+
+&nbsp;
