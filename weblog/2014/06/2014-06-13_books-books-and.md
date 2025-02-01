@@ -1,13 +1,10 @@
 ---
+title: Books, Books, and more Books
 publish: "true"
 date: 2014-06-13 07:16:00
-tags:
-  - HouseProjects
-  - Books
+tags: HouseProjects, Books
 url: https://ericmwalk.blog/2014/06/13/books-books-and.html
 ---
-
-# Books, Books, and more Books
 
 I have been spending a lot of my spare time lately <del>reading</del> listening to books.   So far this year I have completed 24 books (listened to 22, read 2).  I won't list out all of the books as it probably wouldn't be all that interesting but if you are curious you can check it out <a href="https://www.goodreads.com/review/list/28274725-eric-walker?read_at=2014" target="_blank" rel="noopener">here</a>.  I have found that listening to books is a good way to pass the time while working on various house projects (e.g., Painting the House).
 
