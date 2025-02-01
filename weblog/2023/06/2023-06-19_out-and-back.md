@@ -1,10 +1,11 @@
 ---
+title: ""
 publish: "true"
 date: 2023-06-19 21:12:56
-tags:
-- "Running"
+tags: "Running"
 url: https://ericmwalk.blog/2023/06/19/out-and-back.html
 ---
+
 Out and back to Bug Light! It felt good [running](https://strava.com/activities/9297923464) after what seems like a day of travel with a little work from time to time.
 
 ![](https://ericmwalk.blog/uploads/2023/1bf8a4f51e.jpg)
