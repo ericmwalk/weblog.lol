@@ -1,9 +1,10 @@
 ---
-title: "Knew this day would come... ⛹️‍♂️"
 publish: "true"
 date: 2023-11-16 12:01:36
 url: https://ericmwalk.blog/2023/11/16/knew-this-day.html
 ---
+
+# Knew this day would come... ⛹️‍♂️
 I had worried about this day from the point my kids went to a bigger school 8x the size of the one that I did growing up. Yes from an education perspective where we live is a great place to be but,  growing up for me I loved playing sports too. To be fair I just liked playing sports to hang out with friends but also because I just liked doing things. True some sports I was probably more “in it to win it” focused than others but overall I could do them all and that isn’t because I was a stellar athlete. Running sure, I worked hard after my Freshman and Sophomore years to make sure I was one of our top runners for cross country and found a niche for myself in track running 800s and 400s.
 
 However, this isn’t just a story about my memories yet I should in my future right more of them down so when I am old I won’t forget. This is a story about my kids, but more specifically my oldest who found out tonight that he did not make a Freshman team 😔. I had a feeling this day would come as he was mostly always on the 3 team out of 4 for Travel basketball and once you hit Freshman year they only take 2 teams ~18-20 kids out of the 64 that tried out this year. Granted other years my son in theory was in the top 18-27 (as they took 9 to a team) so it wasn’t that there wasn’t a chance but he had a hill to climb as you also get new kids coming out or kids that moved into the district. So here we are today and the die has been cast unfortunately not in his favor.

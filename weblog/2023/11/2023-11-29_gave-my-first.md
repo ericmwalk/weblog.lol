@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2023-11-29 22:07:28
 url: https://ericmwalk.blog/2023/11/29/gave-my-first.html

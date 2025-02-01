@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2023-11-12 08:28:01
 url: https://ericmwalk.blog/2023/11/12/sometimes-it-just.html

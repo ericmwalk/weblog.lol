@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2023-12-22 12:04:29
 url: https://ericmwalk.blog/2023/12/22/thanks-for-taking.html

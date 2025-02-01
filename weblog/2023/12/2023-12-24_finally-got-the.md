@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2023-12-24 11:59:00
 url: https://ericmwalk.blog/2023/12/24/finally-got-the.html

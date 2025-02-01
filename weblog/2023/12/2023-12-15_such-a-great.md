@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2023-12-16 08:19:32
 url: https://ericmwalk.blog/2023/12/15/such-a-great.html

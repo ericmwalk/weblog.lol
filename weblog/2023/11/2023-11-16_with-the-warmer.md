@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2023-11-16 07:30:09
 url: https://ericmwalk.blog/2023/11/16/with-the-warmer.html

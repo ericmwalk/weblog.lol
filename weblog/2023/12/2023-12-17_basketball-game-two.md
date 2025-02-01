@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2023-12-17 21:30:00
 url: https://ericmwalk.blog/2023/12/17/basketball-game-two.html
