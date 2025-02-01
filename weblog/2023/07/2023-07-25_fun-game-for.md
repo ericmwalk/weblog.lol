@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2023-07-25 21:56:14
 url: https://ericmwalk.blog/2023/07/25/fun-game-for.html

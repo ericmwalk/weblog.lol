@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2023-08-07 10:15:21
 url: https://ericmwalk.blog/2023/08/07/testing-out-amit.html
