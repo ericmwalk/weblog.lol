@@ -1,8 +1,10 @@
 ---
+title: ""
 publish: "true"
 date: 2023-07-04 10:13:46
 url: https://ericmwalk.blog/2023/07/04/how-darbys-first.html
 ---
+
 How Darby’s first 4th of July parade started….
 
 ![](https://ericmwalk.blog/uploads/2023/359980726b.jpg)
