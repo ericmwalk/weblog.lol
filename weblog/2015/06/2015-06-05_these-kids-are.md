@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2015-06-05 16:40:25
 url: https://ericmwalk.blog/2015/06/05/these-kids-are.html

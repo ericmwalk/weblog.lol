@@ -1,10 +1,11 @@
 ---
-title: "Back to Running"
 publish: "true"
 date: 2016-02-09 22:31:00
 tags: "Running", "blogging101"
 url: https://ericmwalk.blog/2016/02/09/back-to-running.html
 ---
+
+# Back to Running
 
 Yep, I was the person outside in Minnesota on January 9 when it was -4 degrees running around the streets.
 

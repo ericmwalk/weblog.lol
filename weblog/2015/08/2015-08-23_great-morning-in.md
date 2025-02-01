@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2015-08-23 21:34:56
 url: https://ericmwalk.blog/2015/08/23/great-morning-in.html

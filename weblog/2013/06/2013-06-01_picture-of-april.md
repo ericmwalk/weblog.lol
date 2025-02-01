@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2013-06-01 20:43:47
 url: https://ericmwalk.blog/2013/06/01/picture-of-april.html

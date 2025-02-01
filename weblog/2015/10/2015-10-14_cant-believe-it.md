@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2015-10-14 22:29:07
 url: https://ericmwalk.blog/2015/10/14/cant-believe-it.html

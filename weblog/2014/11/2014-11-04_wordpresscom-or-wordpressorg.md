@@ -1,10 +1,11 @@
 ---
-title: "WordPress.com or WordPress.org and why?"
 publish: "true"
 date: 2014-11-04 18:08:00
 tags: "blogging101", "Blogging"
 url: https://ericmwalk.blog/2014/11/04/wordpresscom-or-wordpressorg.html
 ---
+
+# WordPress.com or WordPress.org and why?
 
 I have never really thought it mattered to me as I have had a blog for a couple years but have never really consistently published stuff.   So I used the cheaper alternative of using WordPress.org (or a self-hosted site) because I have had the server and storage space for some other projects I work on.  It works well for me and I appreciate being able to have full control of the site and can make any changes as necessary.
 

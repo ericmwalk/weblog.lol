@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2013-09-17 18:27:28
 url: https://ericmwalk.blog/2013/09/17/doing-some-homework.html

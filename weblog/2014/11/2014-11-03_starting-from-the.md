@@ -1,10 +1,11 @@
 ---
-title: "Starting from the Beginning.."
 publish: "true"
 date: 2014-11-03 23:16:00
 tags: "blogging101", "Blogging"
 url: https://ericmwalk.blog/2014/11/03/starting-from-the.html
 ---
+
+# Starting from the Beginning..
 
 In a hope to continue to jump-start my writing on this blog I decided to sign up for a Blogging 101 course through <a href="http://dailypost.wordpress.com/">The Daily Post</a>.  I have blogged off and on for many years now but only seriously thought about putting my blog together about 3 years ago (that wasn’t for family travel/photo purposes).
 

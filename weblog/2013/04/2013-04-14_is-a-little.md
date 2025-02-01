@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2013-04-14 06:26:22
 url: https://ericmwalk.blog/2013/04/14/is-a-little.html

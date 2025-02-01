@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2012-12-09 10:02:09
 url: https://ericmwalk.blog/2012/12/09/snow-is-falling.html

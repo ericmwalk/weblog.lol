@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2017-02-03 18:17:05
 url: https://ericmwalk.blog/2017/02/03/gymnastics-boo.html

@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2012-09-03 22:06:58
 url: https://ericmwalk.blog/2012/09/03/white-screen-of.html

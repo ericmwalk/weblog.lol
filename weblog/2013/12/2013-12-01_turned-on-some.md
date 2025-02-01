@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2013-12-01 22:18:16
 url: https://ericmwalk.blog/2013/12/01/turned-on-some.html

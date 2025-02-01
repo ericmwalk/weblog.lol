@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2015-10-30 12:53:50
 url: https://ericmwalk.blog/2015/10/30/someone-seems-to.html

@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2014-12-09 11:15:46
 url: https://ericmwalk.blog/2014/12/09/letting-the-big.html

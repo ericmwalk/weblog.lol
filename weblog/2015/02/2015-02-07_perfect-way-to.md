@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2015-02-07 21:09:10
 url: https://ericmwalk.blog/2015/02/07/perfect-way-to.html

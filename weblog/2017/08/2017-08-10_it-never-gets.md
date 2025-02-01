@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2017-08-10 19:01:10
 url: https://ericmwalk.blog/2017/08/10/it-never-gets.html

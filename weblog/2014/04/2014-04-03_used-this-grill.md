@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2014-04-03 23:43:49
 url: https://ericmwalk.blog/2014/04/03/used-this-grill.html

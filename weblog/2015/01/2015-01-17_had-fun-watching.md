@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2015-01-17 15:21:21
 url: https://ericmwalk.blog/2015/01/17/had-fun-watching.html

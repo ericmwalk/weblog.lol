@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2014-09-13 11:54:52
 url: https://ericmwalk.blog/2014/09/13/train-ride-min.html

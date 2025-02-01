@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2015-08-06 22:17:42
 url: https://ericmwalk.blog/2015/08/06/time-to-start.html

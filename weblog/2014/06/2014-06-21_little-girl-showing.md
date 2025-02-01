@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2014-06-21 12:17:35
 url: https://ericmwalk.blog/2014/06/21/little-girl-showing.html

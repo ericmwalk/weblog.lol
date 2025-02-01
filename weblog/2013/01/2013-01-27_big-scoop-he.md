@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2013-01-27 21:54:25
 url: https://ericmwalk.blog/2013/01/27/big-scoop-he.html

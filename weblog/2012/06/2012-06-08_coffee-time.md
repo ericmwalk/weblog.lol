@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2012-06-08 08:57:31
 url: https://ericmwalk.blog/2012/06/08/coffee-time.html

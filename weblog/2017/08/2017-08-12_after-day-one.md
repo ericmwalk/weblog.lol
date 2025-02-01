@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2017-08-12 20:17:40
 url: https://ericmwalk.blog/2017/08/12/after-day-one.html

@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2012-10-03 19:18:06
 url: https://ericmwalk.blog/2012/10/03/practicing-his-hockey.html

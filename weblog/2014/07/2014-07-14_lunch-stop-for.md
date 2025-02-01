@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2014-07-14 11:37:26
 url: https://ericmwalk.blog/2014/07/14/lunch-stop-for.html

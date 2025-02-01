@@ -1,9 +1,10 @@
 ---
-title: "Slowing Down to Redirect"
 publish: "true"
 date: 2017-10-03 05:54:09
 url: https://ericmwalk.blog/2017/10/03/slowing-down-to.html
 ---
+
+# Slowing Down to Redirect
 
 I stumbled across this article over the weekend and it really resonated with me and I had to share. You should take the time to go read it and come back, but honestly, Seth Levine’s 5 points are really all you need to know.
 <blockquote>

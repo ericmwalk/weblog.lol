@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2014-07-31 18:30:44
 url: https://ericmwalk.blog/2014/07/31/practicing-her-backhand.html

@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2014-03-05 07:43:58
 url: https://ericmwalk.blog/2014/03/05/deviated-from-the.html

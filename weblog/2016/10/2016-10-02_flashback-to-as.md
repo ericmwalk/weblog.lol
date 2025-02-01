@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2016-10-02 15:26:40
 url: https://ericmwalk.blog/2016/10/02/flashback-to-as.html

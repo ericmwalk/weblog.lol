@@ -1,10 +1,11 @@
 ---
-title: "Everything is a Remix Remastered and Kickstarter"
 publish: "true"
 date: 2015-09-24 10:10:00
 tags: "Running", "video"
 url: https://ericmwalk.blog/2015/09/24/everything-is-a.html
 ---
+
+# Everything is a Remix Remastered and Kickstarter
 
 I can't believe I missed the announcement that Everything is a Remix by Kirby Ferguson was remastered and all four parts were put together in a nice single video.  I stumbled upon Everything is a Remix a couple years ago and <a href="https://ericmwalk.blog/2012/08/14/everything-is-a.html" target="_blank">wrote</a> about how great the work was back then.
 

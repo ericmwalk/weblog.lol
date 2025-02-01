@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2017-02-16 21:54:48
 url: https://ericmwalk.blog/2017/02/16/the-girls-having.html

@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2017-10-14 22:03:48
 url: https://ericmwalk.blog/2017/10/14/happy-th-anniversary.html

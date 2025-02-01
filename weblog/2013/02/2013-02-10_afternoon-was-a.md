@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2013-02-10 20:26:42
 url: https://ericmwalk.blog/2013/02/10/afternoon-was-a.html

@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2014-12-02 08:29:34
 url: https://ericmwalk.blog/2014/12/02/watching-the-girls.html

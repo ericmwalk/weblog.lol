@@ -1,10 +1,11 @@
 ---
-title: WordPress.com vs WordPress.org
 publish: "true"
 date: 2017-12-05 16:50:00
 tags: Blogging
 url: https://ericmwalk.blog/2017/12/05/wordpresscom-vs-wordpressorg.html
 ---
+
+# WordPress.com vs WordPress.org
 
 Have you ever wondered which WordPress platform is right for you? Maybe you are just curious what some of the differences (pros and cons) between WordPress.com and WordPress.org. I am going to walk you through my most recent thought process because after using WordPress.com for the past two years I am moving it back to the self-hosted WordPress.org.
 

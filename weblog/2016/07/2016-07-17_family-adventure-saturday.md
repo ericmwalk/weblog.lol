@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2016-07-17 11:53:00
 url: https://ericmwalk.blog/2016/07/17/family-adventure-saturday.html

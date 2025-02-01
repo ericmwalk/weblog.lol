@@ -1,10 +1,11 @@
 ---
-title: "Power of the Habit"
 publish: "true"
 date: 2016-02-19 06:45:00
 tags: "Running", "Quotes", "blogging101"
 url: https://ericmwalk.blog/2016/02/19/power-of-the.html
 ---
+
+# Power of the Habit
 
 I finally got around to catching up on some blogs and podcasts that I listen to late last week and I realized that two of them seemed to be touching on the same topic, "***Habits***".
 

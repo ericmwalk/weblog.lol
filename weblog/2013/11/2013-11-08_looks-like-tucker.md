@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2013-11-08 15:09:21
 url: https://ericmwalk.blog/2013/11/08/looks-like-tucker.html

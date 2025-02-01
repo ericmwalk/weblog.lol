@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2015-11-23 19:46:17
 url: https://ericmwalk.blog/2015/11/23/fooding-the-rink.html

@@ -1,9 +1,10 @@
 ---
-title: "Thoughts on Medium"
 publish: "true"
 date: 2015-02-25 12:46:37
 url: https://ericmwalk.blog/2015/02/25/thoughts-on-medium.html
 ---
+
+# Thoughts on Medium
 
 For the last couple of months, I have been more interested in <a href="https://medium.com/">Medium</a> as some of the writers/bloggers I follow have been cross-posting to there. It is actually a very interesting platform as it seems to attract people who want to write longer articles and don't really have a personal site to do so. Also, since it is a place that houses a collection of public writings from various people on various topics it allows people who don't get there writing exposed to the masses a better shot of getting more exposure.
 

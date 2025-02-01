@@ -1,10 +1,11 @@
 ---
-title: "Reflecting on a Strange Week"
 publish: "true"
 date: 2016-09-16 15:39:00
 tags: "Running"
 url: https://ericmwalk.blog/2016/09/16/reflecting-on-a.html
 ---
+
+# Reflecting on a Strange Week
 
 A little over a week ago I was not feeling like myself, in fact, my muscles were sore like I just ran a marathon and did 1000 push-ups at the same time.  I have never had that feeling before and it lasted for quite some time which was concerning.  I actually ended up going to the doctor after day two but all they told me was that it was probably some sort of virus.  *Gee thanks for the help doc.*
 

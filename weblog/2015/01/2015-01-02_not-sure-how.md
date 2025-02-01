@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2015-01-02 13:29:04
 url: https://ericmwalk.blog/2015/01/02/not-sure-how.html

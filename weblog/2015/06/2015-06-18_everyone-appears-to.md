@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2015-06-18 07:24:23
 url: https://ericmwalk.blog/2015/06/18/everyone-appears-to.html

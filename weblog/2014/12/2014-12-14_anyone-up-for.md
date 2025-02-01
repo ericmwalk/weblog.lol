@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2014-12-14 14:31:57
 url: https://ericmwalk.blog/2014/12/14/anyone-up-for.html

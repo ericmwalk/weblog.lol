@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2016-03-21 22:20:19
 url: https://ericmwalk.blog/2016/03/21/someone-is-not.html

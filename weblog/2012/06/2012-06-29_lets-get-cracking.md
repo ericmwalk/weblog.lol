@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2012-06-29 20:22:28
 url: https://ericmwalk.blog/2012/06/29/lets-get-cracking.html

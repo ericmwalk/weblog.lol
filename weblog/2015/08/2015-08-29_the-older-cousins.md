@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2015-08-29 07:42:14
 url: https://ericmwalk.blog/2015/08/29/the-older-cousins.html

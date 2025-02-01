@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2013-02-24 01:01:46
 url: https://ericmwalk.blog/2013/02/24/added-some-more.html

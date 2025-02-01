@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2014-08-08 17:39:07
 url: https://ericmwalk.blog/2014/08/08/so-much-going.html

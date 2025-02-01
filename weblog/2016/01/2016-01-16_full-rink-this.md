@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2016-01-16 16:03:32
 url: https://ericmwalk.blog/2016/01/16/full-rink-this.html

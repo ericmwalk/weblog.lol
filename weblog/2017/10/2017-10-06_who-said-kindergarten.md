@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2017-10-06 22:03:36
 url: https://ericmwalk.blog/2017/10/06/who-said-kindergarten.html

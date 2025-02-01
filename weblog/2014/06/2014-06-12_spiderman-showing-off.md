@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2014-06-12 18:26:13
 url: https://ericmwalk.blog/2014/06/12/spiderman-showing-off.html

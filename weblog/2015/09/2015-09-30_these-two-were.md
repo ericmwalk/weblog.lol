@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2015-09-30 19:14:32
 url: https://ericmwalk.blog/2015/09/30/these-two-were.html

@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2013-04-28 19:47:20
 url: https://ericmwalk.blog/2013/04/28/whos-up-for.html

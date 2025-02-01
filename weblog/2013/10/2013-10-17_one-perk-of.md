@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2013-10-17 20:18:17
 url: https://ericmwalk.blog/2013/10/17/one-perk-of.html

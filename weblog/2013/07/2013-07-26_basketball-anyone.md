@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2013-07-26 18:26:10
 url: https://ericmwalk.blog/2013/07/26/basketball-anyone.html

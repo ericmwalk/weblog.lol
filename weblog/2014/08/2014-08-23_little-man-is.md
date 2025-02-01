@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2014-08-23 12:22:00
 url: https://ericmwalk.blog/2014/08/23/little-man-is.html

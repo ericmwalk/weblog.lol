@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2014-06-27 19:47:44
 url: https://ericmwalk.blog/2014/06/27/relaxing-night-of.html

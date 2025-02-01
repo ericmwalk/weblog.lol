@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2013-04-25 18:51:31
 url: https://ericmwalk.blog/2013/04/25/finally-time-to.html

@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2017-08-03 11:50:11
 url: https://ericmwalk.blog/2017/08/03/wahlburgers-boo-mnmaine.html

@@ -1,10 +1,11 @@
 ---
-title: Master Bathroom Remodel
 publish: "true"
 date: 2012-03-15 13:57:00
 tags: house, projects
 url: https://ericmwalk.blog/2012/03/15/master-bathroom-remodel.html
 ---
+
+# Master Bathroom Remodel
 
 I just wanted to start off again by saying this shouldn't have taken as long as it did but it wasn't of the highest priority over the past three years.  Not that I didn't want to get it done but when owning a house that needs fixing up, you have to tackle things one at a time, which normally means 10 projects going at the same time.
 

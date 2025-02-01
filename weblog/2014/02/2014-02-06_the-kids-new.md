@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2014-02-06 19:50:02
 url: https://ericmwalk.blog/2014/02/06/the-kids-new.html

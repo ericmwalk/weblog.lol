@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2015-07-03 21:50:57
 url: https://ericmwalk.blog/2015/07/03/made-some-more.html

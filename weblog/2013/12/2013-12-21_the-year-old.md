@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2013-12-21 16:59:51
 url: https://ericmwalk.blog/2013/12/21/the-year-old.html

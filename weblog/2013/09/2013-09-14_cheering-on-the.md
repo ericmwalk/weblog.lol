@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2013-09-14 20:27:08
 url: https://ericmwalk.blog/2013/09/14/cheering-on-the.html

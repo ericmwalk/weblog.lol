@@ -1,10 +1,11 @@
 ---
-title: "Crash! Asphalt 1 - Eric 0"
 publish: "true"
 date: 2017-06-09 15:14:48
 tags: "Running", "Quotes"
 url: https://ericmwalk.blog/2017/06/09/crash-asphalt-eric.html
 ---
+
+# Crash! Asphalt 1 - Eric 0
 
 I had a great post for you a couple of weeks back I was in a slump about running and getting motivated to get out and run every morning.  I was thinking now that I am back at it 100% and fully motivated it would be a great time to share but then this happened this morning:
 

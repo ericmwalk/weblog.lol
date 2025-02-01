@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2013-03-24 19:21:48
 url: https://ericmwalk.blog/2013/03/24/putting-her-little.html

@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2013-12-07 20:16:01
 url: https://ericmwalk.blog/2013/12/07/books-and-pinterest.html

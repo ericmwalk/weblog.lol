@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2012-10-12 15:57:20
 url: https://ericmwalk.blog/2012/10/12/happy-early-anniversary.html

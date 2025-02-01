@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2017-08-12 14:44:39
 url: https://ericmwalk.blog/2017/08/12/blue-skys-and.html
