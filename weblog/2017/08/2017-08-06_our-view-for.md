@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2017-08-06 15:00:00
 url: https://ericmwalk.blog/2017/08/06/our-view-for.html

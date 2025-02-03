@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2013-06-28 11:48:40
 url: https://ericmwalk.blog/2013/06/28/having-fun-walking.html

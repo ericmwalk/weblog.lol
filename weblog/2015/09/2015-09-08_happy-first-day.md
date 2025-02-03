@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2015-09-08 08:35:42
 url: https://ericmwalk.blog/2015/09/08/happy-first-day.html

@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2015-09-13 10:29:14
 url: https://ericmwalk.blog/2015/09/13/had-some-big.html

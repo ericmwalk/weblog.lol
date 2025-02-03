@@ -1,11 +1,10 @@
 ---
+title: "Conference Call in Real Life"
 publish: "true"
 date: 2016-03-04 16:30:00
 tags: "video"
 url: https://ericmwalk.blog/2016/03/04/conference-call-in.html
 ---
-
-# Conference Call in Real Life
 
 As I have been in what seems like a day full of meetings today, of which most were conference calls, I was reminded of these two great videos by <a href="http://www.trippandtyler.tv/" target="_blank">Trip and Tyler</a> that I stumbled upon a while back.  If you have ever been on video calls or just normal conference calls I am sure they will resonate with you too.
 

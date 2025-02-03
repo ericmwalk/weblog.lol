@@ -1,10 +1,9 @@
 ---
+title: "Thirty-Five"
 publish: "true"
 date: 2016-03-24 05:52:00
 url: https://ericmwalk.blog/2016/03/24/thirtyfive.html
 ---
-
-# Thirty-Five
 
 My thirty-fifth birthday has finally come after what has been a unique year, to say the least.  I am actually not one to really talk about my birthday so this is kind of a rare post as I am actually admitting to when it is.  Part of my reason for doing it this year is I feel like going forward it would be a good place to reflect on the year instead of marking my year on Jan 1st when most others would.  So without further ado...
 

@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2019-06-02 22:04:00
 url: https://ericmwalk.blog/2019/06/02/happy-double-digit.html

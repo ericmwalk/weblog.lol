@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2014-09-26 08:14:20
 url: https://ericmwalk.blog/2014/09/26/after-a-busy.html

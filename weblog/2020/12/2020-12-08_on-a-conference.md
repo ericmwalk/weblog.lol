@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2020-12-08 08:33:00
-tags: "Status"
+tags: 
 url: https://ericmwalk.blog/2020/12/08/on-a-conference.html
 ---
 

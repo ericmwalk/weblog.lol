@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2016-04-24 13:24:31
 url: https://ericmwalk.blog/2016/04/24/lets-go-wild.html

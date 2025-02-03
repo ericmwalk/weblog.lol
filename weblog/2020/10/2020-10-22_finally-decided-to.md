@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2020-10-22 21:07:47
 url: https://ericmwalk.blog/2020/10/22/finally-decided-to.html

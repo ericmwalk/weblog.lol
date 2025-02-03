@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2017-05-29 21:43:37
 url: https://ericmwalk.blog/2017/05/29/grocery-shopping-boo.html

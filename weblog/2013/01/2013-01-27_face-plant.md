@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2013-01-27 19:23:32
 url: https://ericmwalk.blog/2013/01/27/face-plant.html

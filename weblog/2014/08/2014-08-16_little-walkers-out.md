@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2014-08-16 09:44:34
 url: https://ericmwalk.blog/2014/08/16/little-walkers-out.html

@@ -1,11 +1,10 @@
 ---
+title: "'Johnny Express' by Kyungmin Woo"
 publish: "true"
 date: 2014-09-29 07:07:32
 tags: "video"
 url: https://ericmwalk.blog/2014/09/29/johnny-express-by.html
 ---
-
-# 'Johnny Express' by Kyungmin Woo
 
 Funny short animated film to start off the week.
 

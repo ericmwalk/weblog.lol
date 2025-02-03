@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2016-07-13 21:52:47
 url: https://ericmwalk.blog/2016/07/13/add-your-own.html

@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2012-06-26 12:01:09
 url: https://ericmwalk.blog/2012/06/26/following-the-freedom.html

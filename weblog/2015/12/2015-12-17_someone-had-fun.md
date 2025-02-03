@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2015-12-17 20:42:23
 url: https://ericmwalk.blog/2015/12/17/someone-had-fun.html

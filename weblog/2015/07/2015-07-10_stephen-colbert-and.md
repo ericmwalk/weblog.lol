@@ -1,11 +1,10 @@
 ---
+title: "Stephen Colbert and Jerry Seinfeld"
 publish: "true"
 date: 2015-07-10 10:44:00
 tags: "blogging101"
 url: https://ericmwalk.blog/2015/07/10/stephen-colbert-and.html
 ---
-
-# Stephen Colbert and Jerry Seinfeld
 
 ![](https://ericmwalk.blog/uploads/2022/7aaf3966f7.jpg)
 

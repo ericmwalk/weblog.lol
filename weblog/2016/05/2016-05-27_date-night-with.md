@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2016-05-27 18:07:47
 url: https://ericmwalk.blog/2016/05/27/date-night-with.html

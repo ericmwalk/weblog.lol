@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2013-07-31 08:17:00
 url: https://ericmwalk.blog/2013/07/31/my-view-this.html

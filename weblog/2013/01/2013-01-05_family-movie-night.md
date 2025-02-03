@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2013-01-05 21:43:08
 url: https://ericmwalk.blog/2013/01/05/family-movie-night.html

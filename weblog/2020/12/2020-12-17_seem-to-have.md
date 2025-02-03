@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2020-12-17 08:18:00
-tags: "Status"
+tags: 
 url: https://ericmwalk.blog/2020/12/17/seem-to-have.html
 ---
 

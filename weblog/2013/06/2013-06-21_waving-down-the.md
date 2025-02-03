@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2013-06-21 22:19:12
 url: https://ericmwalk.blog/2013/06/21/waving-down-the.html

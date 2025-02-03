@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2017-01-01 08:02:21
 url: https://ericmwalk.blog/2017/01/01/happy-new-year.html

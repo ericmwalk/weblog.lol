@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2013-02-27 19:25:28
 url: https://ericmwalk.blog/2013/02/27/after-dinner-playtime.html

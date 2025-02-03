@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2013-07-27 19:55:09
 url: https://ericmwalk.blog/2013/07/27/monkey-see-monkey.html

@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2014-12-05 15:13:29
-tags: "Backyard Rink"
+tags: backyardrink
 url: https://ericmwalk.blog/2014/12/05/are-you-thinking.html
 ---
 

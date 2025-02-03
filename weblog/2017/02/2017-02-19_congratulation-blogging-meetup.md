@@ -1,11 +1,10 @@
 ---
+title: "Congratulation Blogging Meetup on 1 year"
 publish: "true"
 date: 2017-02-19 14:25:00
 tags: "BloggingMeetup"
 url: https://ericmwalk.blog/2017/02/19/congratulation-blogging-meetup.html
 ---
-
-# Congratulation Blogging Meetup on 1 year
 
 The “<em><strong>little</strong></em>” side project that some of you may or may not know about call <a href="https://bloggingmeetup.com/">Blogging Meetup</a> just hit another major milestone today...  It has been one year since I wrote the first post on that site as well as my own (<a href="https://ericmwalk.blog/2016/02/24/community-bloggers-meetup.html" target="_blank">Community - Blogging Meetup</a>) that started it all out.  I took a couple minutes to thank everyone on the site which you can find the repost below with a link to the original here (Blogging Meetup - <a href="https://bloggingmeetup.com/2017/02/19/congratulations-on-1-year/" target="_blank">Congratulation on 1 year</a>).
 

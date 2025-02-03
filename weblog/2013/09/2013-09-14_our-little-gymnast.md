@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2013-09-14 13:29:03
 url: https://ericmwalk.blog/2013/09/14/our-little-gymnast.html

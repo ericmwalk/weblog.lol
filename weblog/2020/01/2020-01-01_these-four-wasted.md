@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2020-01-01 08:31:00
-tags: Backyard, Rink
+tags: BackyardRink
 url: https://ericmwalk.blog/2020/01/01/these-four-wasted.html
 ---
 

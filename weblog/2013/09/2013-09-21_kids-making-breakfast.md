@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2013-09-21 10:45:15
 url: https://ericmwalk.blog/2013/09/21/kids-making-breakfast.html

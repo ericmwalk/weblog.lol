@@ -1,8 +1,8 @@
 ---
-title: "5 Years of US Pond Hockey Championships"
+title: 5 Years of US Pond Hockey Championships
 publish: "true"
 date: 2018-01-26 06:51:00
-tags: "Backyard Rink"
+tags: backyardrink
 url: https://ericmwalk.blog/2018/01/26/years-of-us.html
 ---
 

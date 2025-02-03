@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2018-01-01 14:52:11
-tags: "Backyard Rink"
+tags: backyardrink
 url: https://ericmwalk.blog/2018/01/01/these-kids-are.html
 ---
 

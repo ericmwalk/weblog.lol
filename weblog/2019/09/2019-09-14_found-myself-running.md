@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2019-09-14 10:02:00
-tags: "Running"
+tags: running
 url: https://ericmwalk.blog/2019/09/14/found-myself-running.html
 ---
 

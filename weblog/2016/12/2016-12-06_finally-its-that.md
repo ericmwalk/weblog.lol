@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2016-12-06 07:50:54
-tags: "Backyard Rink"
+tags: backyardrink
 url: https://ericmwalk.blog/2016/12/06/finally-its-that.html
 ---
 

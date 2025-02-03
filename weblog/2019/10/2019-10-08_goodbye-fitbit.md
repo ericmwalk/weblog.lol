@@ -1,11 +1,10 @@
 ---
+title: "Goodbye Fitbit…"
 publish: "true"
 date: 2019-10-08 14:05:00
 tags: "Running"
 url: https://ericmwalk.blog/2019/10/08/goodbye-fitbit.html
 ---
-
-# Goodbye Fitbit…
 
 I have used my <a href="https://www.fitbit.com/">Fitbit</a> since January 2014 after what I remember was a long time trying to decide if I really wanted one and if so which one. Thinking back it has served its purpose well and I will give it some credit for keeping me active over the past years.
 

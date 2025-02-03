@@ -1,11 +1,10 @@
 ---
+title: "My Traveling Myth"
 publish: "true"
 date: 2016-12-16 08:47:00
 tags: "Travel"
 url: https://ericmwalk.blog/2016/12/16/my-traveling-myth.html
 ---
-
-# My Traveling Myth
 
 I am flying back from a 3-day work trip, and thanks to the WordPress offline app I can write while at 10k feet.
 

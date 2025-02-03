@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2014-11-12 21:21:42
 url: https://ericmwalk.blog/2014/11/12/get-cold-out.html

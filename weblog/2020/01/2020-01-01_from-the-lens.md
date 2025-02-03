@@ -1,11 +1,10 @@
 ---
+title: From the Lens - Jump
 publish: "true"
 date: 2020-01-01 10:53:00
-tags: Photos, Wordless Wednesday, Exploring, From the Lens
+tags: Photos, WordlessWednesday, Exploring, FromtheLens
 url: https://ericmwalk.blog/2020/01/01/from-the-lens.html
 ---
-
-# From the Lens - Jump
 
 
 ![](https://ericmwalk.blog/uploads/2021/b8a6cdcf90.jpg)

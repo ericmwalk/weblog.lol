@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2017-04-11 18:24:16
 url: https://ericmwalk.blog/2017/04/11/swinging-boo-enjoying.html

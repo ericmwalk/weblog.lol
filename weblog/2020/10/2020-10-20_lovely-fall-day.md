@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2020-10-20 15:56:46
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2020/10/20/lovely-fall-day.html
 ---
 

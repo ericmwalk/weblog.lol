@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2015-05-15 12:20:13
 url: https://ericmwalk.blog/2015/05/15/my-coworker-for.html

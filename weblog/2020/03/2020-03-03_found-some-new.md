@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2020-03-03 19:54:00
-tags: "Running"
+tags: running
 url: https://ericmwalk.blog/2020/03/03/found-some-new.html
 ---
 

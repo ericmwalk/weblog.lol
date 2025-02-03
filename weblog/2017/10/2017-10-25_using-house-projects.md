@@ -1,11 +1,10 @@
 ---
+title: Using House Projects to help Declutter your Life
 publish: "true"
 date: 2017-10-25 10:02:00
-tags: house, projects
+tags: HouseProjects
 url: https://ericmwalk.blog/2017/10/25/using-house-projects.html
 ---
-
-# Using House Projects to help Declutter your Life
 
 In our journey of living a more intentional life by decluttering our belongings and owning less. We have recently found out that house projects have helped us make larger strides in this overall journey.
 

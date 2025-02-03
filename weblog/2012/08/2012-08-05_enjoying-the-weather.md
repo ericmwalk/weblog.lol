@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2012-08-05 14:52:07
 url: https://ericmwalk.blog/2012/08/05/enjoying-the-weather.html

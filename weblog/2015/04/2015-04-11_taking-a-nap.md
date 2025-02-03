@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2015-04-11 08:49:16
 url: https://ericmwalk.blog/2015/04/11/taking-a-nap.html

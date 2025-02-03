@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2017-02-15 18:43:43
 url: https://ericmwalk.blog/2017/02/15/its-boo-nothing.html

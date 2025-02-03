@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2014-07-26 13:19:33
 url: https://ericmwalk.blog/2014/07/26/nice-day-to.html

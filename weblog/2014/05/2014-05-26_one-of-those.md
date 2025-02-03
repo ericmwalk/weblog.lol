@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2014-05-26 06:17:43
 url: https://ericmwalk.blog/2014/05/26/one-of-those.html

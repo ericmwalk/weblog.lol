@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2012-06-29 20:17:58
 url: https://ericmwalk.blog/2012/06/29/adding-another-photo.html

@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2014-11-13 08:00:00
 tags: "books"

@@ -1,11 +1,10 @@
 ---
+title: From the Lens - Kölner Dom
 publish: "true"
 date: 2019-10-16 22:13:24
-tags: Photos, Wordless Wednesday, Exploring, From the Lens
+tags: Photos, WordlessWednesday, Exploring, FromtheLens
 url: https://ericmwalk.blog/2019/10/16/from-the-lens.html
 ---
-
-# From the Lens - Kölner Dom
 
 ![](https://ericmwalk.blog/uploads/2021/39fffcc884.jpg)
 *A morning I won't forget anytime soon as I was the first to the top of the 533 steps of the Kölner Dom (February 2018, Cologne Cathedral, Cologne, Germany)* 

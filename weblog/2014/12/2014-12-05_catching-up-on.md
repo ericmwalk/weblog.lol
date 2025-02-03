@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2014-12-05 07:45:45
 url: https://ericmwalk.blog/2014/12/05/catching-up-on.html

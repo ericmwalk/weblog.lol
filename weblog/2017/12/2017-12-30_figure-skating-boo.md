@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2017-12-30 18:27:39
-tags: "Backyard Rink"
+tags: backyardrink
 url: https://ericmwalk.blog/2017/12/30/figure-skating-boo.html
 ---
 

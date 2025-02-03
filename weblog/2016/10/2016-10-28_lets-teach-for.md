@@ -1,11 +1,10 @@
 ---
+title: "Let's teach for mastery - not test scores"
 publish: "true"
 date: 2016-10-28 07:34:00
 tags: "video"
 url: https://ericmwalk.blog/2016/10/28/lets-teach-for.html
 ---
-
-# Let's teach for mastery - not test scores
 
 <div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/lang/en/sal_khan_let_s_teach_for_mastery_not_test_scores" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
 *Sal Khan: Let's teach for mastery -- not test scores | TED Talk | TED.com*

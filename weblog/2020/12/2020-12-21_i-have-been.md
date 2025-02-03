@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2020-12-21 10:01:00
-tags: "Status"
+tags: 
 url: https://ericmwalk.blog/2020/12/21/i-have-been.html
 ---
 

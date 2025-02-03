@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2014-07-26 11:43:19
 url: https://ericmwalk.blog/2014/07/26/these-two-woke.html

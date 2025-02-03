@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2015-08-07 20:08:24
 url: https://ericmwalk.blog/2015/08/07/its-been-fun.html

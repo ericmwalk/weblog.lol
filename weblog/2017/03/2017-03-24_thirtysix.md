@@ -1,11 +1,10 @@
 ---
+title: "Thirty-Six"
 publish: "true"
 date: 2017-03-24 03:31:00
 tags: "Running"
 url: https://ericmwalk.blog/2017/03/24/thirtysix.html
 ---
-
-# Thirty-Six
 
 Another year has come and gone but not without leaving a great impact to end 35. This past year the continued theme for me was to lead a healthier life, which mostly involved me spending more time outside running, biking with the kids, and ultimately trying to stay more active on a week-to-week basis.
 

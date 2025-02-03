@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2017-08-28 22:05:57
 url: https://ericmwalk.blog/2017/08/28/pizza-and-ice.html

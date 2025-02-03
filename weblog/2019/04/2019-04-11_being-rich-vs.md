@@ -1,11 +1,10 @@
 ---
+title: Being Rich vs Being Poor
 publish: "true"
 date: 2019-04-11 13:45:00
 url: https://ericmwalk.blog/2019/04/11/being-rich-vs.html
 tags: 
 ---
-
-# Being Rich vs Being Poor
 
 Watching this video by Casey Neistat the other day brought a couple of thoughts to mind that I wanted to share. However, before I jump into my own thoughts I really think you should watch the video as he brings up some really good points on being Rich vs being Poor.
 

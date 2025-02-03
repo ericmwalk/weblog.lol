@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2013-09-21 10:40:06
 url: https://ericmwalk.blog/2013/09/21/saturday-morning-stroll.html

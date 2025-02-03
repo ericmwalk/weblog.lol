@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2018-11-11 23:48:21
-tags: "Backyard Rink"
+tags: backyardrink
 url: https://ericmwalk.blog/2018/11/11/someone-is-confused.html
 ---
 

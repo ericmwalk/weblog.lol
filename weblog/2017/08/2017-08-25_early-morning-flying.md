@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2017-08-25 06:02:26
 url: https://ericmwalk.blog/2017/08/25/early-morning-flying.html

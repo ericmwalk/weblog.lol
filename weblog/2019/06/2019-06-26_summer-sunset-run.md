@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2019-06-26 21:22:00
-tags: "Running"
+tags: running
 url: https://ericmwalk.blog/2019/06/26/summer-sunset-run.html
 ---
 

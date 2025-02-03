@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2014-03-24 21:29:37
 url: https://ericmwalk.blog/2014/03/24/birthday-meal-with.html

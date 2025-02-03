@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2014-09-27 19:14:35
 url: https://ericmwalk.blog/2014/09/27/kids-are-super.html

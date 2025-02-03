@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2017-08-03 05:07:40
 url: https://ericmwalk.blog/2017/08/03/niagara-falls-boo.html

@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2013-12-05 20:56:37
-tags: "Backyard Rink"
+tags: backyardrink
 url: https://ericmwalk.blog/2013/12/05/first-time-out.html
 ---
 

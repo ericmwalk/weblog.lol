@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2013-08-05 17:18:22
 url: https://ericmwalk.blog/2013/08/05/enjoying-family-time.html

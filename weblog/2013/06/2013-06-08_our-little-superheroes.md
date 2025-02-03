@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2013-06-08 16:23:20
 url: https://ericmwalk.blog/2013/06/08/our-little-superheroes.html

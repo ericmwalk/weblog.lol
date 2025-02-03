@@ -1,11 +1,10 @@
 ---
+title: One of those days trilogy
 publish: "true"
 date: 2016-03-30 10:59:00
 tags: video
 url: https://ericmwalk.blog/2016/03/30/one-of-those.html
 ---
-
-# One of those days trilogy
 
 I stumbled across these videos a while back and forgot to share them as they are really amazing, especially if you enjoy skiing.  In fact, the videos don't seem really fitting anymore since all of the snow was gone long ago in Minnesota.
 
@@ -23,4 +22,4 @@ I am always reminded of that tradition whenever I see pictures of mountains or o
 
 Finally, if you made it this far, is there a place you used to go as a child with your family that when watching a video, looking at someone else's pictures, or even just talking about something remind you of that time?  I would love to hear about the place and what seems to trigger that memory the most.
 
-[#WednesdayWeeklyPrompts - Memory](https://bloggersmeetup.wordpress.com/2016/03/30/wednesday-weekly-prompts-2/)
+[WednesdayWeeklyPrompts - Memory](https://bloggersmeetup.wordpress.com/2016/03/30/wednesday-weekly-prompts-2/)

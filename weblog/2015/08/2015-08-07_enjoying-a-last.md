@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2015-08-07 18:43:42
 url: https://ericmwalk.blog/2015/08/07/enjoying-a-last.html

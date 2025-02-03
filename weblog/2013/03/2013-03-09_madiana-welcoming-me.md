@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2013-03-09 21:59:54
 url: https://ericmwalk.blog/2013/03/09/madiana-welcoming-me.html

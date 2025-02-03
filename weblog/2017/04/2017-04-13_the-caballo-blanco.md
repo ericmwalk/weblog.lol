@@ -1,11 +1,10 @@
 ---
+title: The Caballo Blanco Experience - Ryan Van Duzer
 publish: "true"
 date: 2017-04-13 12:55:00
 tags: Running, video
 url: https://ericmwalk.blog/2017/04/13/the-caballo-blanco.html
 ---
-
-# The Caballo Blanco Experience - Ryan Van Duzer
 
 For anyone who has read the book <a href="https://www.amazon.com/Born-Run-Christopher-McDougall-ebook/dp/B0028MBKVG/?tag=stthink-20" rel="nofollow">Born to Run</a> or enjoys running, in general, needs to check out this series of videos that Ryan Van Duzer put together of his trek down to run the Caballo Blanco Ultra Marathon earlier this year.
 

@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2017-05-21 08:55:06
 url: https://ericmwalk.blog/2017/05/21/we-spent-yesterday.html

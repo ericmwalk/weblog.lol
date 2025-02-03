@@ -1,11 +1,10 @@
 ---
+title: Camera Card Issues
 publish: "true"
 date: 2012-07-09 21:17:40
 tags: Running
 url: https://ericmwalk.blog/2012/07/09/camera-card-issues.html
 ---
-
-# Camera Card Issues
 
 A couple weeks ago we went to the zoo and took our Cannon Digital XLR camera along as we always do in order to capture pictures of our kids.  However, after a full morning of taking pictures we got home and were going to load them on the Mac when we got a lovely message that the camera card needed to be reformatted and no pictures were found...
 

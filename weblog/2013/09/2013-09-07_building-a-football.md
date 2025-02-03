@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2013-09-07 09:30:04
 url: https://ericmwalk.blog/2013/09/07/building-a-football.html

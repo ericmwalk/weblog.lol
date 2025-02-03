@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2015-04-15 21:51:30
 url: https://ericmwalk.blog/2015/04/15/girls-getting-a.html

@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2013-11-17 15:02:07
 url: https://ericmwalk.blog/2013/11/17/the-boards-are.html

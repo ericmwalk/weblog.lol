@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2020-10-21 22:28:17
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2020/10/21/sometimes-the-only.html
 ---
 

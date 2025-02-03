@@ -1,11 +1,10 @@
 ---
+title: From the Lens - Stone Stairs
 publish: "true"
 date: 2019-09-25 15:04:34
-tags: Running, Photos, Wordless Wednesday, Exploring, From the Lens
+tags: Running, Photos, WordlessWednesday, Exploring, FromtheLens
 url: https://ericmwalk.blog/2019/09/25/from-the-lens.html
 ---
-
-# From the Lens - Stone Stairs
 
 ![](https://ericmwalk.blog/uploads/2021/c9ad913aea.jpg)
 *Stone Steps to start the journey up Cadillac Mountain from the North Ridge Trailhead (July 2004, Cadillac Mountain, Bar Harbor, ME)*

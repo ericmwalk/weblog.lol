@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2014-12-31 10:45:52
 url: https://ericmwalk.blog/2014/12/31/working-on-a.html

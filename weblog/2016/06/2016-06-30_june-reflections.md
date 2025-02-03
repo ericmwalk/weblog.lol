@@ -1,10 +1,9 @@
 ---
+title: "June Reflections"
 publish: "true"
 date: 2016-06-30 15:44:42
 url: https://ericmwalk.blog/2016/06/30/june-reflections.html
 ---
-
-# June Reflections
 
 It has been a really crazy past couple of weeks probably month as I look back and I am still trying to digest all of what has happened.  To give a little background a couple of weekends ago my 4-year-old daughter had her very first dance recital on the same day we celebrated my son's 7th birthday with all of our family.  It is always good to have our family in town for these events as it always seems we never see each other enough and these events are a great way to force us getting together.
 

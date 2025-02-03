@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2017-08-01 21:48:24
 url: https://ericmwalk.blog/2017/08/01/stanley-cup-boo.html

@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2014-12-25 06:48:10
 url: https://ericmwalk.blog/2014/12/25/enjoying-a-couple.html

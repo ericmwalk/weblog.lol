@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2016-01-15 16:47:58
-tags: "Backyard Rink"
+tags: backyardrink
 url: https://ericmwalk.blog/2016/01/15/love-his-priorities.html
 ---
 

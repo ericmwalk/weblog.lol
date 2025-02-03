@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2013-08-01 20:49:17
 url: https://ericmwalk.blog/2013/08/01/late-night-crafting.html

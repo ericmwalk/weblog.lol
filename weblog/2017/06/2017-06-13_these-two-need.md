@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2017-06-13 18:34:49
 url: https://ericmwalk.blog/2017/06/13/these-two-need.html

@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2013-07-19 19:58:36
 url: https://ericmwalk.blog/2013/07/19/watching-the-polar.html

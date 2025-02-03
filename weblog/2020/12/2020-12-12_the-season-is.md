@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2020-12-12 23:33:49
-tags: "Backyard Rink"
+tags: BackyardRink
 url: https://ericmwalk.blog/2020/12/12/the-season-is.html
 ---
 

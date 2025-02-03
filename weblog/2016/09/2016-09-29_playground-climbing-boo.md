@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2016-09-29 19:52:48
 url: https://ericmwalk.blog/2016/09/29/playground-climbing-boo.html

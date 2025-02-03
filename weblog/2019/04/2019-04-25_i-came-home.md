@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2019-04-25 21:47:00
 url: https://ericmwalk.blog/2019/04/25/i-came-home.html

@@ -1,11 +1,10 @@
 ---
+title: Embracing Awkwardness
 publish: "true"
 date: 2014-01-31 06:04:10
 tags: video
 url: https://ericmwalk.blog/2014/01/31/embracing-awkwardness.html
 ---
-
-# Embracing Awkwardness
 
 >"Everyone at some point has felt awkward and that must mean you are human."
 

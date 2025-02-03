@@ -1,11 +1,10 @@
 ---
+title: Pending Appointments - Air Travel Edition
 publish: "true"
 date: 2019-04-18 09:08:00
 tags: Travel
 url: https://ericmwalk.blog/2019/04/18/pending-appointments-air.html
 ---
-
-# Pending Appointments - Air Travel Edition
 
 I am no road warrior when it comes to traveling but I feel like over my 15+ year career I have traveled a fair amount. However, most of my travel comes in waves, a lot in a row and then nothing at all.
 

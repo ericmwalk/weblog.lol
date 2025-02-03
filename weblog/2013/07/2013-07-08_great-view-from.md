@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2013-07-08 17:46:51
 url: https://ericmwalk.blog/2013/07/08/great-view-from.html

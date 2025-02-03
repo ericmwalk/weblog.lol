@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2015-09-08 09:43:00
 url: https://ericmwalk.blog/2015/09/08/somehow-we-found.html

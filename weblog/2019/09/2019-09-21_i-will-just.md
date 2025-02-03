@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2019-09-21 21:26:00
-tags: "Dogs"
+tags: dogs
 url: https://ericmwalk.blog/2019/09/21/i-will-just.html
 ---
 

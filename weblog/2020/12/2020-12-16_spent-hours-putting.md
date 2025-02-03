@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2020-12-16 08:11:00
-tags: "Status"
+tags: 
 url: https://ericmwalk.blog/2020/12/16/spent-hours-putting.html
 ---
 

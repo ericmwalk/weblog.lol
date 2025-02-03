@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2013-09-29 13:21:59
 url: https://ericmwalk.blog/2013/09/29/enjoying-an-apple.html

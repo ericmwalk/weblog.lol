@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2013-10-19 12:45:30
 url: https://ericmwalk.blog/2013/10/19/nice-view-of.html

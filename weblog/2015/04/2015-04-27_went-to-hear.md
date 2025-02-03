@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2015-04-27 10:35:25
 url: https://ericmwalk.blog/2015/04/27/went-to-hear.html

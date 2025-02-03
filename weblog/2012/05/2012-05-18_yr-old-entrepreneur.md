@@ -1,11 +1,10 @@
 ---
+title: "9yr old Entrepreneur - (Replay)"
 publish: "true"
 date: 2012-05-18 15:01:00
 tags: "video"
 url: https://ericmwalk.blog/2012/05/18/yr-old-entrepreneur.html
 ---
-
-# 9yr old Entrepreneur - (Replay)
 
 This is very delayed from the original airing on the Today Show but I thought I would share it again to the world as I have gotten around to re-watching it and am still amazed by the 9 year old's imagination, spirit, and drive.
 

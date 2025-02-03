@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2020-11-02 10:34:22
 url: https://ericmwalk.blog/2020/11/02/i-went-though.html

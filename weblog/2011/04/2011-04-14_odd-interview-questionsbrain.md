@@ -1,11 +1,10 @@
 ---
+title: Odd Interview Questions/Brain Teasers
 publish: "true"
 date: 2011-04-14 19:25:46
 tags: 
 url: https://ericmwalk.blog/2011/04/14/odd-interview-questionsbrain.html
 ---
-
-# Odd Interview Questions/Brain Teasers
 
 I just ran across this article published by CNN Money titled "<a href="http://fortune.com/2011/04/05/the-most-ridiculous-job-interview-questions/?emc=lm">The most ridiculous job interview questions</a>".  All I will say is I am sure the interviewee gets a good kick out of the answers for some of these questions.  However, in reading through them here are a few of my favorite brain teasers, can you figure them out?
 

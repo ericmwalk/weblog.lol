@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2020-04-22 09:17:00
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2020/04/22/beautiful-morning-today.html
 ---
 

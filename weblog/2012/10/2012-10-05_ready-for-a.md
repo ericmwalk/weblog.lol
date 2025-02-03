@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2012-10-05 06:36:08
 url: https://ericmwalk.blog/2012/10/05/ready-for-a.html

@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2015-10-28 03:15:51
 url: https://ericmwalk.blog/2015/10/28/early-morning-flying.html

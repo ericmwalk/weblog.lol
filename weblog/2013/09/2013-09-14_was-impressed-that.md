@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2013-09-14 14:07:31
 url: https://ericmwalk.blog/2013/09/14/was-impressed-that.html

@@ -1,11 +1,10 @@
 ---
+title: From the Lens - Lainey Lou the Doodle
 publish: "true"
 date: 2019-12-18 12:45:00
-tags: Photos, From the Lens
+tags: Photos, FromtheLens
 url: https://ericmwalk.blog/2019/12/18/from-the-lens.html
 ---
-
-# From the Lens - Lainey Lou the Doodle
 
 
 ![](https://ericmwalk.blog/uploads/2021/dc8294199f.jpg)

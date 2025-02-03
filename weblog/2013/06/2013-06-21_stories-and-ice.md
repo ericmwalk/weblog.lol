@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2013-06-21 22:23:31
 url: https://ericmwalk.blog/2013/06/21/stories-and-ice.html

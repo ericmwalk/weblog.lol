@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2016-04-09 06:28:14
 url: https://ericmwalk.blog/2016/04/09/dinner-with-the.html

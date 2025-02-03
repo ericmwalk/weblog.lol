@@ -1,10 +1,9 @@
 ---
+title: "Wordless Wednesday 02/01"
 publish: "true"
 date: 2017-02-01 23:27:07
 url: https://ericmwalk.blog/2017/02/01/wordless-wednesday.html
 ---
-
-# Wordless Wednesday 02/01
 
 ![](https://ericmwalk.blog/uploads/2022/dacc8a5b25.jpg)
 

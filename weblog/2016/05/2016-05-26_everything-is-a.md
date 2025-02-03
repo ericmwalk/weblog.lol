@@ -1,11 +1,10 @@
 ---
+title: "Everything is a Remix: Star Wars Edition"
 publish: "true"
 date: 2016-05-26 06:49:00
 tags: "video"
 url: https://ericmwalk.blog/2016/05/26/everything-is-a.html
 ---
-
-# Everything is a Remix: Star Wars Edition
 
 I really can't say enough great things about Kirby Ferguson's work as I have written about it before (<a href="https://ericmwalk.blog/2012/08/14/everything-is-a.html">Everything is a Remix</a> and <a href="https://ericmwalk.blog/2015/09/24/everything-is-a.html">Everything is a Remix Remastered and Kickstarter</a>). However, he put together a new remix video around how Star Wars The Force Awakens is just one remix after another.  As always Kirby does an excellent job researching the topic and then putting the story/details altogether.  If you enjoyed his other videos this one will not disappoint either.
 
