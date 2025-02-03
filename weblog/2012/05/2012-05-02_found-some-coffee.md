@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2012-05-02 08:02:34
 url: https://ericmwalk.blog/2012/05/02/found-some-coffee.html

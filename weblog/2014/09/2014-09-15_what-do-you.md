@@ -1,10 +1,11 @@
 ---
-title: "What do you communicate to your audience?"
 publish: "true"
 date: 2014-09-15 20:21:38
 tags: "video"
 url: https://ericmwalk.blog/2014/09/15/what-do-you.html
 ---
+
+# What do you communicate to your audience?
 
 I actually ran across this video a while back but I am reminded of it on a weekly basis in the various meetings I attend.  It is very interesting how communication can change depending on who your audience is.
 

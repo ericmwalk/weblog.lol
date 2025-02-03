@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2014-06-22 21:32:05
 url: https://ericmwalk.blog/2014/06/22/enjoying-a-sparkling.html

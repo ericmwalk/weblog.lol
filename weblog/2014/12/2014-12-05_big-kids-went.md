@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2014-12-05 18:58:32
 url: https://ericmwalk.blog/2014/12/05/big-kids-went.html

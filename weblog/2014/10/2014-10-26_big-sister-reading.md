@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2014-10-26 19:49:07
 url: https://ericmwalk.blog/2014/10/26/big-sister-reading.html

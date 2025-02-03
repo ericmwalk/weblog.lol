@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2020-10-26 10:34:13
 url: https://ericmwalk.blog/2020/10/26/sometimes-large-organizations.html

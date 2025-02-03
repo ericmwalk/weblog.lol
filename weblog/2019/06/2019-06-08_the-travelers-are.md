@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2019-06-08 08:58:52
 url: https://ericmwalk.blog/2019/06/08/the-travelers-are.html

@@ -1,10 +1,11 @@
 ---
-title: Off The Couch podcast - Running 5k a Day for 365 Days
 publish: "true"
 date: 2020-02-18 22:44:00
 tags: Running
 url: https://ericmwalk.blog/2020/02/18/off-the-couch.html
 ---
+
+# Off The Couch podcast - Running 5k a Day for 365 Days
 
 As with my 365 days of running, I really didn't mention to anyone that I was going to be on a podcast episode of <a href="https://blisterreview.com/podcasts/eric-walker-on-running-5k-a-day-for-365-days-ep-39">Off The Couch</a> until right now as it went live today. You can find the Episode by clicking the link below or wherever you get your podcasts.
 

@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2014-12-29 09:32:26
 url: https://ericmwalk.blog/2014/12/29/decided-to-take.html

@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2014-10-19 19:26:38
 url: https://ericmwalk.blog/2014/10/19/finishing-last-min.html

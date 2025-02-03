@@ -1,10 +1,11 @@
 ---
-title: '"Uncommon Stock: Exit Strategy" by Eliot Peper'
 publish: "true"
 date: 2015-08-05 07:46:00
 tags: books
 url: https://ericmwalk.blog/2015/08/05/uncommon-stock-exit.html
 ---
+
+# 'Uncommon Stock: Exit Strategy by Eliot Peper'
 
 The final book in the Uncommon Stock series hit the shelves on July 29, 2015 and if you were like me you had already pre-ordered it so it would be instantly sent to your Kindle.
 

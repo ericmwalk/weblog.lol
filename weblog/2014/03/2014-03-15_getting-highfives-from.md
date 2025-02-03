@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2014-03-15 21:56:33
 url: https://ericmwalk.blog/2014/03/15/getting-highfives-from.html

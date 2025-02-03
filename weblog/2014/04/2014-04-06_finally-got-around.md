@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2014-04-06 19:51:11
 url: https://ericmwalk.blog/2014/04/06/finally-got-around.html

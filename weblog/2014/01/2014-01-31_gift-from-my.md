@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2014-01-31 07:42:42
 url: https://ericmwalk.blog/2014/01/31/gift-from-my.html

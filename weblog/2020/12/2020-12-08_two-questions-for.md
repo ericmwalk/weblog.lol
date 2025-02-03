@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2020-12-08 10:55:07
 url: https://ericmwalk.blog/2020/12/08/two-questions-for.html

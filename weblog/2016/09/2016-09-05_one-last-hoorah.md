@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2016-09-05 16:06:24
 url: https://ericmwalk.blog/2016/09/05/one-last-hoorah.html

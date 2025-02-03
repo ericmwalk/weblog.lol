@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2014-01-12 22:04:53
 url: https://ericmwalk.blog/2014/01/12/brother-is-showing.html

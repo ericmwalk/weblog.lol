@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2014-06-05 17:20:42
 url: https://ericmwalk.blog/2014/06/05/busy-night-in.html

@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2016-01-24 10:25:44
 url: https://ericmwalk.blog/2016/01/24/never-seem-to.html

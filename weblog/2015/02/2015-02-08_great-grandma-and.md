@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2015-02-08 13:54:13
 url: https://ericmwalk.blog/2015/02/08/great-grandma-and.html

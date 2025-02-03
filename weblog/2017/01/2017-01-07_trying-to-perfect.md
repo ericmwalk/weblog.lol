@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2017-01-07 10:30:04
 url: https://ericmwalk.blog/2017/01/07/trying-to-perfect.html

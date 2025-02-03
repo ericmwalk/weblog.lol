@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2013-03-22 21:22:17
 url: https://ericmwalk.blog/2013/03/22/tasting-my-first.html

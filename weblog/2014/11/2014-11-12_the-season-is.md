@@ -1,10 +1,11 @@
 ---
-title: "The Season is upon us..."
 publish: "true"
 date: 2014-11-12 07:21:00
 tags: blogging101, BackyardRink
 url: https://ericmwalk.blog/2014/11/12/the-season-is.html
 ---
+
+# The Season is upon us...
 
 The weather is finally turning cold in Minnesota and that means that people are starting to think of the one sport everyone in Minnesota seems to play... <strong>HOCKEY!</strong>
 

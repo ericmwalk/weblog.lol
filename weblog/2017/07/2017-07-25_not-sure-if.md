@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2017-07-25 07:28:32
 url: https://ericmwalk.blog/2017/07/25/not-sure-if.html

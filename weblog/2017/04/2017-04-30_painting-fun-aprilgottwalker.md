@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2017-04-30 21:56:25
 url: https://ericmwalk.blog/2017/04/30/painting-fun-aprilgottwalker.html

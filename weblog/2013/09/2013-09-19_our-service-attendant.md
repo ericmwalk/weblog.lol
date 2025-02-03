@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2013-09-19 19:22:45
 url: https://ericmwalk.blog/2013/09/19/our-service-attendant.html

@@ -1,9 +1,10 @@
 ---
-title: "Who is Busy?"
 publish: "true"
 date: 2014-03-28 09:55:59
 url: https://ericmwalk.blog/2014/03/28/who-is-busy.html
 ---
+
+# Who is Busy?
 
 This week has been busy.  The company I work for has a 3/31 year end and seeing how I am a Finance guy there is a lot of stuff happening and trying to get done before that date.  The nice thing is that my company has every other Friday off and this is one of them.  I decided to take this morning to step away from work stuff and slow down.
 

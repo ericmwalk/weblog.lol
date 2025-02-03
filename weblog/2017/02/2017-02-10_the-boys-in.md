@@ -1,10 +1,11 @@
 ---
-title: '"The Boys in the Boat" by Daniel James Brown'
 publish: "true"
 date: 2017-02-10 17:29:00
 tags: books
 url: https://ericmwalk.blog/2017/02/10/the-boys-in.html
 ---
+
+# 'The Boys in the Boat by Daniel James Brown'
 
 "The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics" by Daniel James Brown is a book I honestly probably would have never read this book if it wasn't at the suggestion of my Grandma during Thanksgiving.  She had mentioned two books she thought everyone should read and this was one of them.  Most of the time I read fiction books of mystery and suspense.  However, this non-fiction book proved to be more of a page-turner than the last couple books I had read during the holidays.
 

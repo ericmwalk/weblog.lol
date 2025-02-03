@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2015-05-26 22:59:42
 url: https://ericmwalk.blog/2015/05/26/mysterious-package-arrived.html

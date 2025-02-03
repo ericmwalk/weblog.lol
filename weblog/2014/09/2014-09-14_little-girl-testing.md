@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2014-09-14 16:38:23
 url: https://ericmwalk.blog/2014/09/14/little-girl-testing.html

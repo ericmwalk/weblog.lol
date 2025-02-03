@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2014-05-20 19:32:25
 url: https://ericmwalk.blog/2014/05/20/kids-were-busy.html

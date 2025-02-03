@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2013-06-14 21:23:18
 url: https://ericmwalk.blog/2013/06/14/watching-the-storm.html

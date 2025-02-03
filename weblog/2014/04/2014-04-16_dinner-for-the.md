@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2014-04-16 18:07:47
 url: https://ericmwalk.blog/2014/04/16/dinner-for-the.html

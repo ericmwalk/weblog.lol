@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2017-02-02 17:12:56
 url: https://ericmwalk.blog/2017/02/02/someone-really-likes.html

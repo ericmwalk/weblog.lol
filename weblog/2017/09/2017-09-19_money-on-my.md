@@ -1,10 +1,11 @@
 ---
-title: "Money on my Mind"
 publish: "true"
 date: 2017-09-19 22:04:14
 tags: "Running"
 url: https://ericmwalk.blog/2017/09/19/money-on-my.html
 ---
+
+# Money on my Mind
 
 Money has been on my mind for a post lately, in fact, you could say I think about it all the time. <i>(With my mind on my money and my money on my mind. - Snoop Dogg)</i>.  So when the Blogging Meetup prompt of the day was “<a href="https://bloggingmeetup.com/2017/09/19/tuesday-prompt/">Money</a>”, I knew this was the sign I had been waiting for.
 

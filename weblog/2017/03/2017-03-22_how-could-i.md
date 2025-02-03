@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2017-03-22 21:48:32
 url: https://ericmwalk.blog/2017/03/22/how-could-i.html

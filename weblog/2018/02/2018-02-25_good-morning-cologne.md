@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2018-02-25 04:39:24
 url: https://ericmwalk.blog/2018/02/25/good-morning-cologne.html

@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2019-08-08 09:01:00
 url: https://ericmwalk.blog/2019/08/08/when-at-the.html

@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2013-09-19 19:30:03
 url: https://ericmwalk.blog/2013/09/19/a-productive-thursday.html

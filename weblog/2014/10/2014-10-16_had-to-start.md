@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2014-10-16 12:49:37
 url: https://ericmwalk.blog/2014/10/16/had-to-start.html

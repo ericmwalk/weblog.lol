@@ -1,10 +1,11 @@
 ---
-title: "Break the Twitch Member Community"
 publish: "true"
 date: 2019-10-15 16:16:43
 tags: "Running"
 url: https://ericmwalk.blog/2019/10/15/break-the-twitch.html
 ---
+
+# Break the Twitch Member Community
 
 Have any of you been a part of an Online Community? If so I would be curious about what it is, how it works, does it cost you anything and if you feel you have gained any value from it? Feel free to leave a comment below.
 

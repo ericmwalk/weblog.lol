@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2012-12-23 19:50:21
 url: https://ericmwalk.blog/2012/12/23/head-to-head.html

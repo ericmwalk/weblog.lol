@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2017-01-29 19:25:42
 url: https://ericmwalk.blog/2017/01/29/brother-and-sister.html

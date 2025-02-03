@@ -1,10 +1,11 @@
 ---
-title: "Finding Your Tribe"
 publish: "true"
 date: 2016-08-11 06:25:00
 tags: "Running"
 url: https://ericmwalk.blog/2016/08/11/finding-your-tribe.html
 ---
+
+# Finding Your Tribe
 
 <p>I was listening to the <a href="https://player.fm/series/intentionally-wandering-1401772/episode-59-how-about-finding-your-tribe">Intentionally Wandering Podcast by Jeff Sandquist</a> last week and it really struck a chord with me.  The topic he was discussing was "How About Finding Your Tribe."</p>
 

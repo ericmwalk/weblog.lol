@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2020-12-29 10:16:22
 url: https://ericmwalk.blog/2020/12/29/rink-is-finally.html

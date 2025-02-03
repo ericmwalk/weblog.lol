@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2015-03-21 12:19:27
 url: https://ericmwalk.blog/2015/03/21/the-whole-crew.html

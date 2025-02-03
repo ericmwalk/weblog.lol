@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2014-01-12 22:01:18
 url: https://ericmwalk.blog/2014/01/12/the-whole-family.html

@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2015-01-18 20:17:16
 url: https://ericmwalk.blog/2015/01/18/happy-rd-birthday.html

@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2016-05-27 12:47:35
 url: https://ericmwalk.blog/2016/05/27/very-rainy-walk.html

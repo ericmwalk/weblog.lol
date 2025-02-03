@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2015-01-17 15:43:18
 url: https://ericmwalk.blog/2015/01/17/he-was-very.html

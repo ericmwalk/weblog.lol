@@ -1,10 +1,11 @@
 ---
-title: "Wordless Wednesday 11/30"
 publish: "true"
 date: 2016-11-30 18:13:40
 tags: Photos, WordlessWednesday
 url: https://ericmwalk.blog/2016/11/30/wordless-wednesday.html
 ---
+
+# Wordless Wednesday 11/30
 
 ![A variety of trees with autumn foliage stand before a grassy field under a clear blue sky.](https://ericmwalk.blog/uploads/2024/img-0847.jpeg)
 

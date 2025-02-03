@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2015-11-13 23:12:24
 url: https://ericmwalk.blog/2015/11/13/ready-for-winter.html

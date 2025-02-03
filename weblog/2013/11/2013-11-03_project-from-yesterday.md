@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2013-11-03 08:18:58
 url: https://ericmwalk.blog/2013/11/03/project-from-yesterday.html

@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2014-09-13 13:09:16
 url: https://ericmwalk.blog/2014/09/13/catch-me-if.html

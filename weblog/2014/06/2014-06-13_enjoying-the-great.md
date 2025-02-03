@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2014-06-13 17:10:24
 url: https://ericmwalk.blog/2014/06/13/enjoying-the-great.html

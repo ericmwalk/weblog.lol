@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2015-08-15 20:00:39
 url: https://ericmwalk.blog/2015/08/15/congrats-to-brent.html

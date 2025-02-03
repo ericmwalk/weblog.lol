@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2014-04-30 18:58:33
 url: https://ericmwalk.blog/2014/04/30/special-package-is.html

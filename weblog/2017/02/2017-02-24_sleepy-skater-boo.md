@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2017-02-24 20:49:03
 url: https://ericmwalk.blog/2017/02/24/sleepy-skater-boo.html

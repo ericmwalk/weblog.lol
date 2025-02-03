@@ -1,10 +1,11 @@
 ---
-title: 📚 Veil by Eliot Peper
 publish: "true"
 date: 2020-05-28 07:57:00
 tags: books
 url: https://ericmwalk.blog/2020/05/28/veil-by-eliot.html
 ---
+
+# 📚 Veil by Eliot Peper
 
 <a href="https://www.amazon.com/Veil-Eliot-Peper-ebook/dp/B085PSTJNC/?tag=stthink-20">Veil</a> by Eliot Peper (<a href="https://twitter.com/eliotpeper">@EliotPeper</a>) was just released a week ago and I really can’t say enough good things about it. If you are looking for a great book then look no further as Eliot has produced another great page-turner after not long ago finishing his most recent sequels.
 

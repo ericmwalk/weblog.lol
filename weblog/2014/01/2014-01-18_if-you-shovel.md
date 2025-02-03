@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2014-01-18 21:11:44
 url: https://ericmwalk.blog/2014/01/18/if-you-shovel.html

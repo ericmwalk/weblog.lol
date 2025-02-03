@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2013-08-07 20:42:50
 url: https://ericmwalk.blog/2013/08/07/brother-dancing-at.html

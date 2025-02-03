@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2017-06-11 14:39:19
 tags: "Exploring"

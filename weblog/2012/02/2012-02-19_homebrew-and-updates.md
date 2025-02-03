@@ -1,10 +1,11 @@
 ---
-title: Homebrew and Updates
 publish: "true"
 date: 2012-02-19 23:14:38
 url: https://ericmwalk.blog/2012/02/19/homebrew-and-updates.html
 tags: 
 ---
+
+# Homebrew and Updates
 
 So it has been over a month since my last post but for good reason. My daughter (second child) was born not long after that so that has been keeping me a little more occupied that normal.
 

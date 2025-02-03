@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2014-06-14 21:57:40
 url: https://ericmwalk.blog/2014/06/14/we-might-have.html

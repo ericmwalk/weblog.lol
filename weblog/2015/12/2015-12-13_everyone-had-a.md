@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2015-12-13 19:28:01
 url: https://ericmwalk.blog/2015/12/13/everyone-had-a.html
