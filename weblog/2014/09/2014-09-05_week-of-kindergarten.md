@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2014-09-05 20:50:01
 url: https://ericmwalk.blog/2014/09/05/week-of-kindergarten.html

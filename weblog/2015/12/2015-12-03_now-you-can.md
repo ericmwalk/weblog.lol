@@ -1,10 +1,11 @@
 ---
-title: "Now you can Explore Machu Picchu"
 publish: "true"
 date: 2015-12-03 13:32:00
 tags: Travel, Exploring
 url: https://ericmwalk.blog/2015/12/03/now-you-can.html
 ---
+
+# Now you can Explore Machu Picchu
 
 With Google Street View you can now visit Machu Picchu and walk around just as you were there in real life but from your home.  Since I have been fortunate to visit Machu Picchu two times in my life I had to check this out after finding this video published today.
 

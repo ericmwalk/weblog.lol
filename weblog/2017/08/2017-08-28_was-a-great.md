@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2017-08-28 21:13:15
 url: https://ericmwalk.blog/2017/08/28/was-a-great.html

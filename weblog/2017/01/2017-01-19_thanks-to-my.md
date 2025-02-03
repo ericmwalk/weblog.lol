@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2017-01-19 21:31:04
 url: https://ericmwalk.blog/2017/01/19/thanks-to-my.html

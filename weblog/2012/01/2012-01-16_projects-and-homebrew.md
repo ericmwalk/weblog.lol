@@ -1,10 +1,11 @@
 ---
-title: Projects and Homebrew
 publish: "true"
 date: 2012-01-16 14:45:39
 tags: 
 url: https://ericmwalk.blog/2012/01/16/projects-and-homebrew.html
 ---
+
+# Projects and Homebrew
 
 Two things that I have been devoting my time outside of work on these days, besides my family as well which we are expecting an addition to arrive any day now.
 

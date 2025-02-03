@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2012-08-17 14:16:21
 url: https://ericmwalk.blog/2012/08/17/lego-butterfly.html

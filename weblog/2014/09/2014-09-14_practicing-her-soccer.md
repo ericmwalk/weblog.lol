@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2014-09-14 22:23:38
 url: https://ericmwalk.blog/2014/09/14/practicing-her-soccer.html

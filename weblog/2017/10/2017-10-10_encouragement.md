@@ -1,10 +1,11 @@
 ---
-title: "Encouragement"
 publish: "true"
 date: 2017-10-10 10:12:00
 tags: "Running"
 url: https://ericmwalk.blog/2017/10/10/encouragement.html
 ---
+
+# Encouragement
 
 Sometimes things happen (<a href="https://ericmwalk.blog/2017/06/09/crash-asphalt-eric.html">Crash!</a>) and it is something that you don't or aren't really sure if someone is going to tell you to try again. Or give you that extra encouragement/voice you need to get back up and try it again. After that post, I wasn't up to what I had hoped for motivation as I struggled to motivate myself in the least.
 

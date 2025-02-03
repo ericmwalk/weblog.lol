@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2012-07-04 17:03:29
 url: https://ericmwalk.blog/2012/07/04/happy-th-of.html

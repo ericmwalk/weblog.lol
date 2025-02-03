@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2015-06-12 10:24:35
 url: https://ericmwalk.blog/2015/06/12/lazy-day-starting.html

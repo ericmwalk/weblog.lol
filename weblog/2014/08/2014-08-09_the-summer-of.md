@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2014-08-09 17:32:16
 url: https://ericmwalk.blog/2014/08/09/the-summer-of.html

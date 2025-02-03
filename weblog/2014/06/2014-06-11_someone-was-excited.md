@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2014-06-11 20:51:53
 url: https://ericmwalk.blog/2014/06/11/someone-was-excited.html

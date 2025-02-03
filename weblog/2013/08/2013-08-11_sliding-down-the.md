@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2013-08-11 15:52:32
 url: https://ericmwalk.blog/2013/08/11/sliding-down-the.html

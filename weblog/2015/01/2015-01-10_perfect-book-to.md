@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2015-01-10 16:52:00
 url: https://ericmwalk.blog/2015/01/10/perfect-book-to.html

@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2020-11-11 10:26:00
 url: https://ericmwalk.blog/2020/11/11/are-you-ready.html

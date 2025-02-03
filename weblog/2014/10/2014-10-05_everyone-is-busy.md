@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2014-10-05 10:26:56
 url: https://ericmwalk.blog/2014/10/05/everyone-is-busy.html

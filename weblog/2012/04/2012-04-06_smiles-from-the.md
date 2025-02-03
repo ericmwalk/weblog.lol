@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2012-04-06 18:29:53
 url: https://ericmwalk.blog/2012/04/06/smiles-from-the.html

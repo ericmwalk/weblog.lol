@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2019-05-07 08:16:00
 tags: running, travel

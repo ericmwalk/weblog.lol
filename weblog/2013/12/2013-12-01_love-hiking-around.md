@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2013-12-01 22:34:50
 url: https://ericmwalk.blog/2013/12/01/love-hiking-around.html

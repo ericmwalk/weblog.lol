@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2014-03-14 13:16:34
 url: https://ericmwalk.blog/2014/03/14/haircuts-for-the.html

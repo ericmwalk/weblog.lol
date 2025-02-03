@@ -1,9 +1,10 @@
 ---
-title: "What do you want to do?"
 publish: "true"
 date: 2014-02-07 07:43:57
 url: https://ericmwalk.blog/2014/02/07/what-do-you.html
 ---
+
+# What do you want to do?
 
 >"If you don't know where you want to go it doesn't matter what path you take, just enjoy the ride and your resume will probably build itself"
 

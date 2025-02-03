@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2013-12-17 23:17:05
 url: https://ericmwalk.blog/2013/12/17/always-fun-to.html

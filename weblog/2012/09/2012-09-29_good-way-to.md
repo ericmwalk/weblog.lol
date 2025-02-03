@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2012-09-29 22:14:59
 url: https://ericmwalk.blog/2012/09/29/good-way-to.html

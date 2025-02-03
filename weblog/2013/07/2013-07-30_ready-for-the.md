@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2013-07-30 08:40:23
 url: https://ericmwalk.blog/2013/07/30/ready-for-the.html

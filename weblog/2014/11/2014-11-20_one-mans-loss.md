@@ -1,10 +1,11 @@
 ---
-title: "'One Man's Loss' by Philip Sansom"
 publish: "true"
 date: 2014-11-20 12:28:00
 tags: "video"
 url: https://ericmwalk.blog/2014/11/20/one-mans-loss.html
 ---
+
+# 'One Man's Loss' by Philip Sansom
 
 <iframe src="https://player.vimeo.com/video/72844829?h=4c14fb083c&color=ffffff&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/72844829">ONE MAN&#039;S LOSS</a> from <a href="https://vimeo.com/philipsansom">Phil Sansom</a> on <a href="https://vimeo.com">Vimeo</a>.</p>

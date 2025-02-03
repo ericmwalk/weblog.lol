@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2014-07-03 13:28:05
 url: https://ericmwalk.blog/2014/07/03/checking-out-an.html

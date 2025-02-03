@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2020-12-10 22:57:34
 tags: Running, Dogs

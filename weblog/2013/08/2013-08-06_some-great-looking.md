@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2013-08-06 13:01:45
 url: https://ericmwalk.blog/2013/08/06/some-great-looking.html

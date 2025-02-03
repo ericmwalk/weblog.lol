@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2013-09-08 20:00:00
 url: https://ericmwalk.blog/2013/09/08/board-game-night.html

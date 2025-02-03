@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2016-09-23 06:58:56
 url: https://ericmwalk.blog/2016/09/23/bedhead-boo-daysofboo.html

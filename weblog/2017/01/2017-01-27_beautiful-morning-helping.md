@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2017-01-27 14:00:11
 url: https://ericmwalk.blog/2017/01/27/beautiful-morning-helping.html

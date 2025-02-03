@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2013-12-23 09:36:29
 url: https://ericmwalk.blog/2013/12/23/was-able-to.html

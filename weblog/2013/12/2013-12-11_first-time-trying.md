@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2013-12-11 08:21:17
 url: https://ericmwalk.blog/2013/12/11/first-time-trying.html

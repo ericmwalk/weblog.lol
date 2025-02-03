@@ -1,10 +1,11 @@
 ---
-title: "Where the Heck is Matt? - Kickstarter"
 publish: "true"
 date: 2015-12-02 06:15:00
 tags: "video"
 url: https://ericmwalk.blog/2015/12/02/where-the-heck.html
 ---
+
+# Where the Heck is Matt? - Kickstarter
 
 I stumbled across a video of Matt's a couple years back and at that time posted about the video titled <a href="https://ericmwalk.blog/2012/07/10/where-the-hell.html">"Where the Hell is Matt? - 2012"</a> .  I think the thing that interested me most then and now is the simple yet creative idea.  Travel around the world to some places people would never think of visiting and show a quick gimps of how those people are just like us and when asked will dance silly just like us.
 

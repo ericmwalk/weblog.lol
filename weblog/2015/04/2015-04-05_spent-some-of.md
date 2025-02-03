@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2015-04-05 21:52:00
 url: https://ericmwalk.blog/2015/04/05/spent-some-of.html

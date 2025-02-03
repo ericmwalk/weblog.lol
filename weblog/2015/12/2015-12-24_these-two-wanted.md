@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2015-12-24 22:35:37
 url: https://ericmwalk.blog/2015/12/24/these-two-wanted.html

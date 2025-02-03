@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2016-04-23 18:02:33
 url: https://ericmwalk.blog/2016/04/23/popcorn-and-movie.html

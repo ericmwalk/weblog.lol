@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2012-06-27 07:05:49
 url: https://ericmwalk.blog/2012/06/27/watching-the-boats.html

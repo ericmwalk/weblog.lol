@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2013-01-11 20:28:10
 url: https://ericmwalk.blog/2013/01/11/pond-hockey-forgot.html

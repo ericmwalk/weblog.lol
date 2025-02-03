@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2019-01-13 14:30:00
 url: https://ericmwalk.blog/2019/01/13/everybody-needs-their.html

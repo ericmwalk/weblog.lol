@@ -1,10 +1,11 @@
 ---
-title: Tetris like Life
 publish: "true"
 date: 2019-05-11 05:58:00
 tags: Quotes
 url: https://ericmwalk.blog/2019/05/11/tetris-like-life.html
 ---
+
+# Tetris like Life
 
 
 > If Tetris has taught me anything, it's that errors pile up and accomplishments disappear.

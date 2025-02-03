@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2014-10-19 21:52:24
 url: https://ericmwalk.blog/2014/10/19/i-really-like.html

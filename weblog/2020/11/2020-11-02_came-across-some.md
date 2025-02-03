@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2020-11-02 22:17:31
 url: https://ericmwalk.blog/2020/11/02/came-across-some.html

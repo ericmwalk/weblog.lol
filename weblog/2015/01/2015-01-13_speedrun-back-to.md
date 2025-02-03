@@ -1,10 +1,11 @@
 ---
-title: "Speedrun: Back to the Future I in 60 seconds"
 publish: "true"
 date: 2015-01-13 13:27:00
 tags: video
 url: https://ericmwalk.blog/2015/01/13/speedrun-back-to.html
 ---
+
+# Speedrun: Back to the Future I in 60 seconds
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yJZx99-lSnc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

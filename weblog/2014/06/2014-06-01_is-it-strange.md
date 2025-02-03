@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2014-06-01 17:42:37
 url: https://ericmwalk.blog/2014/06/01/is-it-strange.html

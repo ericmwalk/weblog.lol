@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2016-01-24 22:49:15
 url: https://ericmwalk.blog/2016/01/24/this-girl-was.html

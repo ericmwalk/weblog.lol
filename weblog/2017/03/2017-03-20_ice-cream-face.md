@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2017-03-20 18:41:01
 url: https://ericmwalk.blog/2017/03/20/ice-cream-face.html

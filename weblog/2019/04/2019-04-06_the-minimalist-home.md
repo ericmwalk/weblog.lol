@@ -1,10 +1,11 @@
 ---
-title: The Minimalist Home by Joshua Becker
 publish: "true"
 date: 2019-04-06 07:45:00
 tags: books
 url: https://ericmwalk.blog/2019/04/06/the-minimalist-home.html
 ---
+
+# The Minimalist Home by Joshua Becker
 
 The Minimalist Home: A Room-by-Room Guide to a Decluttered, Refocused Life by Joshua Becker overall is a great book for anyone that is looking to declutter their house and has possibly never done it before or just needs some more encouragement. However, if you have read other philosophies on decluttering or are 80% there, this book might not be for you then.
 

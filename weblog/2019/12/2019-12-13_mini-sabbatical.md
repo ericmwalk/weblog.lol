@@ -1,10 +1,11 @@
 ---
-title: "Mini Sabbatical"
 publish: "true"
 date: 2019-12-13 12:55:21
 tags: running, exploring
 url: https://ericmwalk.blog/2019/12/13/mini-sabbatical.html
 ---
+
+# Mini Sabbatical
 
 A couple weeks ago I was on what I called a mini sabbatical but in reality, it was just a week off of work before I started a new job. During that week I fully appreciate and understand why rest is important. I think the overall concept of time away from work is something more companies should figure out how to offer. I know some companies have programs like actual sabbaticals after putting in a number of years at companies. I think the idea is great and I think it could be something done on a smaller scale too. I think the most important aspect is to figure out how to allow people to have some time away from where they can really disconnect.
 

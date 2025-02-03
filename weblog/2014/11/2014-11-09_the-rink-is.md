@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2014-11-09 19:10:11
 url: https://ericmwalk.blog/2014/11/09/the-rink-is.html

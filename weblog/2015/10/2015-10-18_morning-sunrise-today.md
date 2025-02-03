@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2015-10-18 14:49:29
 url: https://ericmwalk.blog/2015/10/18/morning-sunrise-today.html

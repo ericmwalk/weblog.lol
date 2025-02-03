@@ -1,10 +1,11 @@
 ---
-title: "Tucker Buddy"
 publish: "true"
 date: 2016-10-07 06:45:00
 tags: dogs
 url: https://ericmwalk.blog/2016/10/07/tucker-buddy.html
 ---
+
+# Tucker Buddy
 
 A little over a week ago we had to make the tough decision to put our dog down.  Not that we will ever know how much pain he was in but we could tell he was in pain and couldn't control his body as he once could.  In fact, over the last couple of months he never really came out of his kennel except for to eat, drink, and go outside when we forced him to.  Then in the final week before we made the decision he was throwing up almost every day and the accidents were happening more frequently.
 

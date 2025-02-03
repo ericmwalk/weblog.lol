@@ -1,10 +1,11 @@
 ---
-title: "Hobbies and Side Projects"
 publish: "true"
 date: 2016-02-26 06:12:20
 tags: blogging101, running
 url: https://ericmwalk.blog/2016/02/26/hobbies-and-side.html
 ---
+
+# Hobbies and Side Projects
 
 **Can someone have too many hobbies or side projects?**
 

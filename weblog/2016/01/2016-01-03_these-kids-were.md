@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2016-01-03 21:30:54
 tags: backyardrink

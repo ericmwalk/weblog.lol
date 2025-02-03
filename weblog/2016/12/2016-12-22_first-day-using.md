@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2016-12-22 23:17:01
 url: https://ericmwalk.blog/2016/12/22/first-day-using.html

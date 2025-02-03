@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2016-09-12 18:12:48
 url: https://ericmwalk.blog/2016/09/12/peekaboo-in-a.html

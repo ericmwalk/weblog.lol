@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2020-10-28 15:08:42
 url: https://ericmwalk.blog/2020/10/28/after-some-really.html

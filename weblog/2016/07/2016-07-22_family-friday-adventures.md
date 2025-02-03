@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2016-07-22 15:01:22
 url: https://ericmwalk.blog/2016/07/22/family-friday-adventures.html

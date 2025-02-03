@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2015-06-12 17:41:46
 url: https://ericmwalk.blog/2015/06/12/afternoon-root-beer.html

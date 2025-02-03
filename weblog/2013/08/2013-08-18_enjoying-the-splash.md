@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2013-08-18 13:53:12
 url: https://ericmwalk.blog/2013/08/18/enjoying-the-splash.html

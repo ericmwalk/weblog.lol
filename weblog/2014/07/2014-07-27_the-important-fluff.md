@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2014-07-27 13:33:09
 url: https://ericmwalk.blog/2014/07/27/the-important-fluff.html

@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2014-04-19 15:29:31
 url: https://ericmwalk.blog/2014/04/19/having-a-good.html

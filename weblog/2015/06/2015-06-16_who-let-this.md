@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2015-06-16 16:57:03
 url: https://ericmwalk.blog/2015/06/16/who-let-this.html

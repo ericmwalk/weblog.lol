@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2016-01-24 07:00:31
 url: https://ericmwalk.blog/2016/01/24/having-an-early.html

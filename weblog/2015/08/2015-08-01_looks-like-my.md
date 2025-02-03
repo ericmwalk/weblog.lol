@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2015-08-01 07:45:14
 url: https://ericmwalk.blog/2015/08/01/looks-like-my.html

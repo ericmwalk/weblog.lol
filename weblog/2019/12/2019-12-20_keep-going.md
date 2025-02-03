@@ -1,10 +1,11 @@
 ---
-title: Keep Going…
 publish: "true"
 date: 2019-12-20 23:58:58
 tags: Running
 url: https://ericmwalk.blog/2019/12/20/keep-going.html
 ---
+
+# Keep Going…
 
 Some days you just have to keep going. That is what I told myself as I hit mile 2 of my 3.1 mile loop I have run many times before.
 

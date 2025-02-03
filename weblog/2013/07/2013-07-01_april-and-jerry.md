@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2013-07-01 21:52:55
 url: https://ericmwalk.blog/2013/07/01/april-and-jerry.html

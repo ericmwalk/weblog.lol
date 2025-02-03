@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2013-07-21 10:07:56
 url: https://ericmwalk.blog/2013/07/21/amusement-ride-for.html

@@ -1,10 +1,11 @@
 ---
-title: "True Blue by Eliot Peper: Now An Internet Art Project"
 publish: "true"
 date: 2019-04-02 05:45:00
 tags: books
 url: https://ericmwalk.blog/2019/04/02/true-blue-by.html
 ---
+
+# True Blue by Eliot Peper: Now An Internet Art Project
 
 You can now read [True Blue by Eliot Peper](https://truebluestory.com/) for free online as it has moved to An Internet Public Art Project.
 

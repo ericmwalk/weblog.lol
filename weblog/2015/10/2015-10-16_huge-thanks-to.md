@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2015-10-16 15:21:28
 url: https://ericmwalk.blog/2015/10/16/huge-thanks-to.html

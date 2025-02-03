@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2012-07-06 17:45:08
 url: https://ericmwalk.blog/2012/07/06/playing-in-the.html

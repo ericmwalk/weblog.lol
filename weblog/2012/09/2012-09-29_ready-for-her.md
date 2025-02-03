@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2012-09-29 08:03:09
 url: https://ericmwalk.blog/2012/09/29/ready-for-her.html
