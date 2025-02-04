@@ -1,9 +1,10 @@
 ---
-title: "Re: Electoral College"
 publish: "true"
 date: 2016-11-17 18:55:00
 url: https://ericmwalk.blog/2016/11/17/re-electoral-college.html
 ---
+
+# Re: Electoral College
 
 For anyone that found the last post on the <a href="https://ericmwalk.blog/2016/11/11/electoral-college.html">Electoral College</a> interesting in any way, I felt that I needed to share this as a follow up as I stumbled across last Friday evening.  It appears there is more than meets the eye to the Electoral College as you will find out in the CGP Grey video below.
 

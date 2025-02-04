@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2024-08-01 21:53:52
 url: https://ericmwalk.blog/2024/08/01/decided-to-make.html

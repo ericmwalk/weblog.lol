@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2024-04-29 22:06:08
 url: https://ericmwalk.blog/2024/04/29/tried-out-a.html

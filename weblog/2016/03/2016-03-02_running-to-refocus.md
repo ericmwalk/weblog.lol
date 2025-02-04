@@ -1,10 +1,11 @@
 ---
-title: "Running to Refocus"
 publish: "true"
 date: 2016-03-02 23:15:00
 tags: Running, Video, quotes
 url: https://ericmwalk.blog/2016/03/02/running-to-refocus.html
 ---
+
+# Running to Refocus
 
 >Here it was 9:30 pm at night and I was just going to quickly finish writing a blog post I had started a couple of days back, but I was stuck and it felt like it was taking me too long to write.  It wasn't just flowing out like some of the ones last week did.  Then I realized that it is getting pretty late and I **really** wanted to get a run in tonight.
 

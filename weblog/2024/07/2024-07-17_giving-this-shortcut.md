@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2024-07-17 21:36:55
 url: https://ericmwalk.blog/2024/07/17/giving-this-shortcut.html

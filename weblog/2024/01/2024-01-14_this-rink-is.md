@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2024-01-14 10:41:27
 url: https://ericmwalk.blog/2024/01/14/this-rink-is.html

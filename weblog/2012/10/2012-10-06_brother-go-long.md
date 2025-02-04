@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2012-10-06 21:46:42
 url: https://ericmwalk.blog/2012/10/06/brother-go-long.html

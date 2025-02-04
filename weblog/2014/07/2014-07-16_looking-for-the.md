@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2014-07-16 19:14:58
 url: https://ericmwalk.blog/2014/07/16/looking-for-the.html

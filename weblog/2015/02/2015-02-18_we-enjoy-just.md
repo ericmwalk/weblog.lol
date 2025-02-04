@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2015-02-18 22:52:19
 url: https://ericmwalk.blog/2015/02/18/we-enjoy-just.html

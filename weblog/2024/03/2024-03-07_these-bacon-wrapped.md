@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2024-03-07 18:40:00
 url: https://ericmwalk.blog/2024/03/07/these-bacon-wrapped.html

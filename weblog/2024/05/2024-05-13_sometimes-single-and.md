@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2024-05-13 19:26:31
 url: https://ericmwalk.blog/2024/05/13/sometimes-single-and.html

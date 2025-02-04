@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2023-06-10 10:30:53
 url: https://ericmwalk.blog/2023/06/10/ready-to-call.html

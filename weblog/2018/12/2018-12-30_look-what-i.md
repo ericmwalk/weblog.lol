@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2018-12-30 17:59:00
 tags: Running, BackyardRink

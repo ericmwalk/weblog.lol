@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2019-07-26 22:50:00
 url: https://ericmwalk.blog/2019/07/26/good-first-evening.html

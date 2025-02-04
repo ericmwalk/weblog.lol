@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2013-08-05 06:04:05
 url: https://ericmwalk.blog/2013/08/05/the-little-flower.html

@@ -1,9 +1,10 @@
 ---
-title: "Reminded why I like app based ride services "
 publish: "true"
 date: 2024-03-03 23:13:25
 url: https://ericmwalk.blog/2024/03/03/reminded-why-i.html
 ---
+
+# Reminded why I like app based ride services 
 
 Say what you will about ride-sharing companies, but honestly, a coworker and I arrived at the airport at the same time and were going to share a cab. However, we were staying at different hotels 2 blocks apart.
 

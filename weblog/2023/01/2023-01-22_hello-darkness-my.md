@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2023-01-22 15:14:18
 url: https://ericmwalk.blog/2023/01/22/hello-darkness-my.html

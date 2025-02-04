@@ -1,9 +1,10 @@
 ---
-title: "Siri on iOS 18.1 I finally Fixed my Issue"
 publish: "true"
 date: 2024-10-13 09:54:04
 url: https://ericmwalk.blog/2024/10/13/siri-on-ios.html
 ---
+
+# Siri on iOS 18.1 I finally Fixed my Issue
 
 Since the update that happend this last week my Siri has failed to work and I could not figure out why for the longest time. I should preface that I have Apple Intelligence running as well. Everytime I would try to ask it to do something it would quick flash and go away.
 

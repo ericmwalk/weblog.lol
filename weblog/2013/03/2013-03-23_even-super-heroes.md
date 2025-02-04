@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2013-03-23 11:25:51
 url: https://ericmwalk.blog/2013/03/23/even-super-heroes.html

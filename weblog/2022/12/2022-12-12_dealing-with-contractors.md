@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-12-12 10:19:05
 url: https://ericmwalk.blog/2022/12/12/dealing-with-contractors.html

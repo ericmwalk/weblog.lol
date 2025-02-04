@@ -1,10 +1,11 @@
 ---
-title: "Air Travel in Real Life by Tripp and Tyler"
 publish: "true"
 date: 2018-01-16 17:47:00
 tags: video
 url: https://ericmwalk.blog/2018/01/16/air-travel-in.html
 ---
+
+# Air Travel in Real Life by Tripp and Tyler
 
 Tripp and Tyler have nailed it again with another "In Real Life" video but this time tackling Air Travel in Real Life.  Also, I couldn't have watched this video at a better time as I just finished booking all my work travel for January and February.
 

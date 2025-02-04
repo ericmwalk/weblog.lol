@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2021-04-29 20:59:57
 tags: Running

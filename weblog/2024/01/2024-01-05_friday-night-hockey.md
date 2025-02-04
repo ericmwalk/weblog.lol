@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2024-01-05 21:11:35
 url: https://ericmwalk.blog/2024/01/05/friday-night-hockey.html

@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2023-01-27 14:00:04
 url: https://ericmwalk.blog/2023/01/27/i-am-starting.html

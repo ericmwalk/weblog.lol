@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2024-05-03 22:05:18
 url: https://ericmwalk.blog/2024/05/03/went-to-support.html

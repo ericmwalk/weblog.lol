@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2013-12-20 13:32:24
 url: https://ericmwalk.blog/2013/12/20/good-workout-this.html

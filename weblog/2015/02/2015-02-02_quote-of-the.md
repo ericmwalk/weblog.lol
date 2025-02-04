@@ -1,10 +1,11 @@
 ---
-title: Quote of the Week - 02.02.15
 publish: "true"
 date: 2015-02-02 11:56:00
 tags: Quotes
 url: https://ericmwalk.blog/2015/02/02/quote-of-the.html
 ---
+
+# Quote of the Week - 02.02.15
 
 > To the **world** you may be just one person, but to one **person**, you may be the **world**.
 > 	*- Brandi Snyder*

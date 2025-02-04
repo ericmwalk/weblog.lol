@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2024-02-14 10:54:18
 url: https://ericmwalk.blog/2024/02/14/missed-this-yesterday.html

@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2023-09-26 20:18:10
 url: https://ericmwalk.blog/2023/09/26/the-whole-team.html

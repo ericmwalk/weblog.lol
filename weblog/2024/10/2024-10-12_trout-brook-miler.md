@@ -1,10 +1,11 @@
 ---
-title: "2024 Trout Brook 10 Miler Trail Run"
 publish: "true"
 date: 2024-10-12 20:50:51
 tags: Running
 url: https://ericmwalk.blog/2024/10/12/trout-brook-miler.html
 ---
+
+# 2024 Trout Brook 10 Miler Trail Run
 
 Such a fun event and another [Trout Brook 10 Mile](https://strava.com/activities/12637582207)  run in the [books](https://ericmwalk.blog/2023/10/07/trout-brook-ten.html) at Willow River State Park in Wisconsin. Couldn’t have had better weather as not as cool as last year but just perfect short and short weather. Glad it was cooler as I took my water bottles along thinking I would take one just incase on the run only to find out I forgot the belt it goes with. Since I didn’t want to carry it I decided to just wing it as that was what this whole tail run was anyways.
 

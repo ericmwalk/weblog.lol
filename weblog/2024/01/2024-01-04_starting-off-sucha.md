@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2024-01-04 20:17:01
 url: https://ericmwalk.blog/2024/01/04/starting-off-sucha.html

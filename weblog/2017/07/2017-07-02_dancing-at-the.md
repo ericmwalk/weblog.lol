@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2017-07-02 15:00:00
 url: https://ericmwalk.blog/2017/07/02/dancing-at-the.html

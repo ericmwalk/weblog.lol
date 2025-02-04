@@ -1,10 +1,11 @@
 ---
-title: News Apps and Email Newsletters
 publish: "true"
 date: 2016-02-16 12:23:14
 tags: 
 url: https://ericmwalk.blog/2016/02/16/news-apps-and.html
 ---
+
+# News Apps and Email Newsletters
 
 As I was reading my email last night everything became clear just as Jason Calacanis laid out in his post the day before titled "[Knowing when, and how, to pivot (or, why didn’t news apps work?)](https://web.archive.org/web/20160216011947/http://calacanis.com/2016/02/14/knowing-when-and-how-to-pivot-or-why-didnt-news-apps-work/)".  It is a really good article and I would suggest checking it out.
 

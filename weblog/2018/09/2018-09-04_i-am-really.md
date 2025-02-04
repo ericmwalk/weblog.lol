@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2018-09-04 06:25:38
 tags: Running

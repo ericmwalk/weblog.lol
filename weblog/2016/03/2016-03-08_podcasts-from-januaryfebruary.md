@@ -1,10 +1,11 @@
 ---
-title: "Podcasts from January/February"
 publish: "true"
 date: 2016-03-08 07:19:00
 tags: running
 url: https://ericmwalk.blog/2016/03/08/podcasts-from-januaryfebruary.html
 ---
+
+# Podcasts from January/February
 
 Now in the second week of March (playing catch up), I thought I would give a quick list of some Podcasts (and favorite episodes) that have been keeping me company while running in the evenings.  My favorite part about all of them is that you can subscribe to them in iTunes, which makes it super easy to pull the next one up when you are heading out on a run or long car trip.
 

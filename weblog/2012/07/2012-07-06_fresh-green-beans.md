@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2012-07-06 17:43:09
 url: https://ericmwalk.blog/2012/07/06/fresh-green-beans.html

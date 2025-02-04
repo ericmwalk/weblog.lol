@@ -1,10 +1,11 @@
 ---
-title: '"True Blue (A Short Story)" by Eliot Peper'
 publish: "true"
 date: 2017-06-23 09:55:00
 tags: books
 url: https://ericmwalk.blog/2017/06/23/true-blue-a.html
 ---
+
+# 'True Blue (A Short Story) by Eliot Peper'
 
 
 <a href="https://www.amazon.com/True-Short-Story-Eliot-Peper-ebook/dp/B072WZSWMZ/?tag=stthink-20">True Blue</a> a short story by a favorite author of mine Eliot Peper (<a href="https://twitter.com/eliotpeper">@EliotPeper</a>) just released yesterday.

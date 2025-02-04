@@ -1,10 +1,11 @@
 ---
-title: "Jerry Seinfeld's Clio Acceptance Speech"
 publish: "true"
 date: 2014-10-08 06:49:56
 tags: video
 url: https://ericmwalk.blog/2014/10/08/jerry-seinfelds-clio.html
 ---
+
+# Jerry Seinfeld's Clio Acceptance Speech
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uHWX4pG0FNY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

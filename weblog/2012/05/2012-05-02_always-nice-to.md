@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2012-05-02 19:32:22
 url: https://ericmwalk.blog/2012/05/02/always-nice-to.html

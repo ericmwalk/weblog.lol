@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2017-05-14 20:24:16
 url: https://ericmwalk.blog/2017/05/14/happy-mothers-day.html

@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2023-01-06 17:39:01
 url: https://ericmwalk.blog/2023/01/06/going-to-call.html

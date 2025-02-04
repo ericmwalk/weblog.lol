@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2024-01-17 07:34:00
 url: https://ericmwalk.blog/2024/01/17/made-a-grave.html

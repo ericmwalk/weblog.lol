@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2024-02-08 22:42:44
 url: https://ericmwalk.blog/2024/02/08/view-from-the.html

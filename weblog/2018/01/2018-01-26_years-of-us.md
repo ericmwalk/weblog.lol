@@ -1,10 +1,11 @@
 ---
-title: 5 Years of US Pond Hockey Championships
 publish: "true"
 date: 2018-01-26 06:51:00
 tags: backyardrink
 url: https://ericmwalk.blog/2018/01/26/years-of-us.html
 ---
+
+# 5 Years of US Pond Hockey Championships
 
 I can't believe today would have marked my 6th consecutive year of helping out with the <a href="http://www.uspondhockey.com/">US Pond Hockey Championships</a> (USPHC). However, due to my travel schedule this year I will be unable to help. Instead, I am getting ready to fly back to Minnesota this morning from a work trip. As sad as it is to break such a good streak and tradition, I figured I would reflect back on my prior times volunteering and how I came to be a volunteer 6 years ago.
 

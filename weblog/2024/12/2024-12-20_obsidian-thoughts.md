@@ -1,10 +1,11 @@
 ---
-title: Obsidian Thoughts
 publish: "true"
 date: 2024-12-20
 tags: Obsidian, ObsidianPublish
 url: https://ericmwalk.blog/2024/12/20/obsidian-thoughts.html
 ---
+
+# Obsidian Thoughts
 
 # Obsidian Thoughts 🤔
 

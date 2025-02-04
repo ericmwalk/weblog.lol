@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-08-05 13:58:09
 url: https://ericmwalk.blog/2022/08/05/when-will-the.html

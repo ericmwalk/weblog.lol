@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2024-04-07 22:21:09
 url: https://ericmwalk.blog/2024/04/07/photoblogging-day-sparkling.html

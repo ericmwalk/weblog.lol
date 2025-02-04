@@ -1,10 +1,11 @@
 ---
-title: "Wordless Wednesday 04/12"
 publish: "true"
 date: 2017-04-12 15:36:00
 tags: Photos, WordlessWednesday, Dogs
 url: https://ericmwalk.blog/2017/04/12/wordless-wednesday.html
 ---
+
+# Wordless Wednesday 04/12
 
 ![](https://ericmwalk.blog/uploads/2021/bd0dd9c2d6.jpg)
 *Our two really amazing pups, Tucker and PJ (March 2014)*

@@ -1,10 +1,11 @@
 ---
-title: "📚 I H💛TE RUNNING AND YOU CAN TOO by Brendan Leonard"
 publish: "true"
 date: 2021-07-08 07:32:00
 tags: Running, books
 url: https://ericmwalk.blog/2021/07/08/i-hte-running.html
 ---
+
+# 📚 I H💛TE RUNNING AND YOU CAN TOO by Brendan Leonard
 
 If you are looking for a great motivational book to keep you going in whatever you are trying to do look no further. If you are looking for a book about how to run then this might not be what you are looking for but you should pick this one up as well to give you some laughs along your running journey.
 

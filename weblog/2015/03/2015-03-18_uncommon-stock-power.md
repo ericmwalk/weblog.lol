@@ -1,10 +1,11 @@
 ---
-title: "\"Uncommon Stock: Power Play\" by Eliot Peper"
 publish: "true"
 date: 2015-03-18 06:19:00
 tags: books
 url: https://ericmwalk.blog/2015/03/18/uncommon-stock-power.html
 ---
+
+# Uncommon Stock: Power Play by Eliot Peper
 
 Finally got around to putting some real thoughts into the book I read a while back called “<a href="https://www.amazon.com/Uncommon-Stock-Power-Play/dp/1517513642/?tag=stthink-20" target="_blank" rel="noopener noreferrer" rel="nofollow">Uncommon Stock: Power Play</a>” by Eliot Peper.  I actually got and read this book right around the time it was published back in November/December but things started to pick up at my old job and I never got a chance to put the rest of my thoughts in writing about the book.
 

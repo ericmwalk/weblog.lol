@@ -1,10 +1,11 @@
 ---
-title: "Now that's Marketing Drama"
 publish: "true"
 date: 2012-04-11 11:52:00
 tags: video
 url: https://ericmwalk.blog/2012/04/11/now-thats-marketing.html
 ---
+
+# Now that's Marketing Drama
 
 Great marketing campaign to get your point across.
 

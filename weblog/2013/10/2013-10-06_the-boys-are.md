@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2013-10-06 07:04:44
 url: https://ericmwalk.blog/2013/10/06/the-boys-are.html

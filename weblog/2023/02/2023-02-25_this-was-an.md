@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2023-02-25 22:55:39
 url: https://ericmwalk.blog/2023/02/25/this-was-an.html

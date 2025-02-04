@@ -1,10 +1,11 @@
 ---
-title: "Nostalgic November 🚂"
 publish: "true"
 date: 2021-11-18 23:00:05
 tags: Running
 url: https://ericmwalk.blog/2021/11/18/nostalgic-november.html
 ---
+
+# Nostalgic November 🚂
 
 Prompted from an episode of [Hemispheric Views](https://listen.hemisphericviews.com/041) where they brought up this subject of Nostalgic November where you would share a memory of anything from your past that brings a smile to your face. I hadn’t thought much of it since I listened to the episode but all of a sudden over the last couple of days I realized things I was doing, researching, or even talking about have been reminding me of something from my youth.
 

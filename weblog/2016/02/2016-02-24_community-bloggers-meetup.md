@@ -1,10 +1,11 @@
 ---
-title: "Community - Bloggers Meetup"
 publish: "true"
 date: 2016-02-24 08:22:00
 tags: blogging101, BloggingMeetup
 url: https://ericmwalk.blog/2016/02/24/community-bloggers-meetup.html
 ---
+
+# Community - Bloggers Meetup
 
 I have been in a couple Blogging 101 courses over the last couple of years and I have enjoyed them as they push me to continue writing and more importantly, I always stumble upon a couple great sites that I frequent well after the course is done.  One of the things I always enjoyed about the course is the sense of Community.  You had people of all different blogging/WordPress expertise working together and helping each other out along the way.  I was in a course a little over a year ago and was thinking wouldn't it be great to continue the conversation after the course was done?
 

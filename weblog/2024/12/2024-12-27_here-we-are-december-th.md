@@ -1,5 +1,4 @@
 ---
-title: 
 publish: "true"
 date: 2024-12-27 12:58:39
 url: https://ericmwalk.blog/2024/12/27/here-we-are-december-th.html

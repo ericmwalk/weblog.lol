@@ -1,10 +1,11 @@
 ---
-title: "Goodbye Blogging Meetup..."
 publish: "true"
 date: 2021-02-23 10:24:00
 tags: Running, BloggingMeetup
 url: https://ericmwalk.blog/2021/02/23/goodbye-blogging-meetup.html
 ---
+
+# Goodbye Blogging Meetup...
 
 It has been <a href="https://bloggingmeetup.com/welcome-to-the-bloggers-meetup/" target="_blank" rel="noreferrer noopener">5 years since</a> the Blogging Meetup was started as it came about from a group of us that wanted to keep the conversation going after a Blogging Bootcamp that was put on by WordPress.com. Honestly, in thinking back I can not believe it has been 5 years but also, I know in the past 1.5 years the site has kind of remained the same and there hasn't been the engagement as there was in the first couple of years.
 

@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2013-05-18 09:25:46
 url: https://ericmwalk.blog/2013/05/18/dont-be-afraid.html

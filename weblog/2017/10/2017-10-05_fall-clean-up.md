@@ -1,9 +1,10 @@
 ---
-title: "Fall Clean up and Clean out"
 publish: "true"
 date: 2017-10-05 10:01:00
 url: https://ericmwalk.blog/2017/10/05/fall-clean-up.html
 ---
+
+# Fall Clean up and Clean out
 
 Fall is definitely that time of year when things need to be cleaned up. You need to head out to the garage and start putting summer stuff away and bring out the winter stuff (wait not yet.. please not winter yet..). Honestly, though this is the perfect time of year to start decluttering. My wife and I did this last year and pretty much downsized our bedroom to 1 dresser (total) and a closet that is only 8x4. Needless to say, we got rid of a lot of stuff and it was the best thing to do.
 

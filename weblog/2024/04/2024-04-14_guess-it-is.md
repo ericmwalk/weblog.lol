@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2024-04-14 14:57:34
 url: https://ericmwalk.blog/2024/04/14/guess-it-is.html

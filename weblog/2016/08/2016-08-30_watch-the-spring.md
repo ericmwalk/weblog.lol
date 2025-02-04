@@ -1,10 +1,11 @@
 ---
-title: "Watch The Spring - 10 years of charity: water"
 publish: "true"
 date: 2016-08-30 15:12:32
 tags: video
 url: https://ericmwalk.blog/2016/08/30/watch-the-spring.html
 ---
+
+# Watch The Spring - 10 years of charity: water
 
 <iframe src="https://player.vimeo.com/video/180467014?h=6418a81526&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/180467014">The Spring</a> from <a href="https://vimeo.com/charitywater">charity: water</a> on <a href="https://vimeo.com">Vimeo</a>.</p>

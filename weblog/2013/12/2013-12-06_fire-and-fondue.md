@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2013-12-06 22:00:18
 url: https://ericmwalk.blog/2013/12/06/fire-and-fondue.html

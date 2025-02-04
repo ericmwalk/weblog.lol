@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-05-22 15:10:28
 url: https://ericmwalk.blog/2022/05/22/photoblogging-day-textile.html

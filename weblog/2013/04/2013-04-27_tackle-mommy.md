@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2013-04-27 18:55:06
 url: https://ericmwalk.blog/2013/04/27/tackle-mommy.html

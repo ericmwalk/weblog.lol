@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2024-11-23 13:06:58
 url: https://ericmwalk.blog/2024/11/23/hockey-team-photo.html

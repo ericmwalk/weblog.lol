@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2014-07-14 21:25:52
 url: https://ericmwalk.blog/2014/07/14/always-having-fun.html

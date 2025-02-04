@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2024-05-19 20:28:13
 url: https://ericmwalk.blog/2024/05/19/so-proud-of.html

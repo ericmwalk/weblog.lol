@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2020-04-05 14:41:53
 url: https://ericmwalk.blog/2020/04/05/todays-home-science.html

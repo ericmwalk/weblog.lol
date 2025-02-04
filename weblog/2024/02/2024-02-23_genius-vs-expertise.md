@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2024-02-23 18:43:14
 url: https://ericmwalk.blog/2024/02/23/genius-vs-expertise.html

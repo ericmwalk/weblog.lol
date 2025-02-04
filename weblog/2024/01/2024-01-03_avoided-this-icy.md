@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2024-01-03 20:13:44
 url: https://ericmwalk.blog/2024/01/03/avoided-this-icy.html

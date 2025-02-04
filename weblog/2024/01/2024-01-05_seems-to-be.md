@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2024-01-05 13:42:08
 url: https://ericmwalk.blog/2024/01/05/seems-to-be.html

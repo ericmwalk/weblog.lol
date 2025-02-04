@@ -1,9 +1,10 @@
 ---
-title: "Down the rabbit hole of projects..."
 publish: "true"
 date: 2022-01-21 07:33:28
 url: https://ericmwalk.blog/2022/01/21/down-the-rabbit.html
 ---
+
+# Down the rabbit hole of projects...
 
 I am not sure how this happened but I have gone down what I will call the rabbit hole of projects lately by having too many and all of them are in flight right now. Each will be great when they are done and all serve different purposes. Here they are in somewhat a specific order of events:
 

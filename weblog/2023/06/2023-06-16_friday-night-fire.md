@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2023-06-16 21:03:57
 url: https://ericmwalk.blog/2023/06/16/friday-night-fire.html

@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2016-04-26 18:39:53
 url: https://ericmwalk.blog/2016/04/26/girls-were-doing.html

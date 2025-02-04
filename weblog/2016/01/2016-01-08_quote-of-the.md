@@ -1,10 +1,11 @@
 ---
-title: "Quote of the Week - 01.08.2016"
 publish: "true"
 date: 2016-01-08 11:44:00
 tags: blogging101, quotes
 url: https://ericmwalk.blog/2016/01/08/quote-of-the.html
 ---
+
+# Quote of the Week - 01.08.2016
 
 This quote works perfectly for me as I end the first week in 2016. I know everyone has probably reflected on 2015 and they looking forward to what they will accomplish in 2016.
 

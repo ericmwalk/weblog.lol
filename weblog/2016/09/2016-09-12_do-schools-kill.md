@@ -1,10 +1,11 @@
 ---
-title: "Do Schools Kill Creativity?"
 publish: "true"
 date: 2016-09-12 05:22:50
 tags: video
 url: https://ericmwalk.blog/2016/09/12/do-schools-kill.html
 ---
+
+# Do Schools Kill Creativity?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iG9CE55wbtY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 *via <a href="https://youtu.be/iG9CE55wbtY">Do Schools Kill Creativity? | Sir Ken Robinson | TED Talks - YouTube</a>.*

@@ -1,10 +1,11 @@
 ---
-title: "Just hit send 📨"
 publish: "true"
 date: 2021-08-24 13:51:16
 tags: Running
 url: https://ericmwalk.blog/2021/08/24/just-hit-send.html
 ---
+
+# Just hit send 📨
 
 Honestly, I am not very good at keeping in touch with people. This could really be anyone, friends, old co-workers, newer acquaintances. For some reason, I always have great intentions of reaching out but just never feel it is the right time to reach out and say I will later.
 

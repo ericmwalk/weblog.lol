@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2014-07-17 20:36:57
 url: https://ericmwalk.blog/2014/07/17/watching-pekin-hs.html

@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2020-10-29 06:49:04
 url: https://ericmwalk.blog/2020/10/29/why-when-joining.html

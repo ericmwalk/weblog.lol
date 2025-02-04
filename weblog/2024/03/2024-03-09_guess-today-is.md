@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2024-03-09 08:52:58
 url: https://ericmwalk.blog/2024/03/09/guess-today-is.html

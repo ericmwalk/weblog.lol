@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2013-04-20 21:34:06
 url: https://ericmwalk.blog/2013/04/20/stop-number-of.html

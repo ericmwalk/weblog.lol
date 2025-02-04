@@ -1,10 +1,11 @@
 ---
-title: "Can you really tell if a kid is lying?"
 publish: "true"
 date: 2016-05-19 06:52:00
 tags: video
 url: https://ericmwalk.blog/2016/05/19/can-you-really.html
 ---
+
+# Can you really tell if a kid is lying?
 
 <div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/kang_lee_can_you_really_tell_if_a_kid_is_lying" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
 via <a href="http://www.ted.com/talks/kang_lee_can_you_really_tell_if_a_kid_is_lying">Kang Lee: Can you really tell if a kid is lying? | TED Talk | TED.com</a>

@@ -1,9 +1,10 @@
 ---
-title: "7th Grade State Champions 🏀⛹️🏆"
 publish: "true"
 date: 2022-03-14 13:14:00
 url: https://ericmwalk.blog/2022/03/14/th-grade-state.html
 ---
+
+# 7th Grade State Champions 🏀⛹️🏆
 
 Wow! All four games over the weekend were down to the wire last second buzzer beater games! The point differential in total was 8 (2,2,3,1 in that order). Proud of their team for not giving up as most of the games we came back from 8-10 points down but they played tough and didn’t give up. I am pretty sure all of us adults aged a bit more after those games.
 

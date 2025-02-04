@@ -1,10 +1,11 @@
 ---
-title: "📚 Reap3r by Eliot Peper"
 publish: "true"
 date: 2022-05-13 09:44:00
 tags: Running
 url: https://ericmwalk.blog/2022/05/13/reaper-by-eliot.html
 ---
+
+# 📚 Reap3r by Eliot Peper
 
 This book was just **awesome**! I had been looking for a book to read and this one dropped into my lap at the right time.
 

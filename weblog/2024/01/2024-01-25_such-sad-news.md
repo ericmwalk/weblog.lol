@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2024-01-25 14:56:41
 url: https://ericmwalk.blog/2024/01/25/such-sad-news.html

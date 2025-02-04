@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2024-10-19 23:05:43
 url: https://ericmwalk.blog/2024/10/20/fun-time-at.html

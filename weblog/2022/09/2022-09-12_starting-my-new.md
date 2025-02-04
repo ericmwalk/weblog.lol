@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-09-12 08:48:48
 url: https://ericmwalk.blog/2022/09/12/starting-my-new.html

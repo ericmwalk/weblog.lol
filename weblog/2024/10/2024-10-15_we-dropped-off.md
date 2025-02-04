@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2024-10-15 05:34:28
 url: https://ericmwalk.blog/2024/10/15/we-dropped-off.html

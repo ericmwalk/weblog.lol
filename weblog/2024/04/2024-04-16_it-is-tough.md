@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2024-04-16 21:18:41
 url: https://ericmwalk.blog/2024/04/16/it-is-tough.html

@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2013-10-05 12:51:23
 url: https://ericmwalk.blog/2013/10/05/little-girl-reading.html

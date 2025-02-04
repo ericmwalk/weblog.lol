@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2015-06-02 07:52:43
 url: https://ericmwalk.blog/2015/06/02/happy-birthday-brecken.html

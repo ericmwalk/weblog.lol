@@ -1,10 +1,11 @@
 ---
-title: "Everything is a Remix"
 publish: "true"
 date: 2012-08-14 21:33:00
 tags: video
 url: https://ericmwalk.blog/2012/08/14/everything-is-a.html
 ---
+
+# Everything is a Remix
 
 I stumbled upon Kirby Ferguson because of the TED Talk video that was posted a few days ago.  I would encourage you to watch the video as it really starts to make you think about copyright laws.  One of my favorite quotes is "Everything is a Remix, until you are the one getting remixed."
 

@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2023-02-26 14:17:06
 url: https://ericmwalk.blog/2023/02/26/hope-no-one.html

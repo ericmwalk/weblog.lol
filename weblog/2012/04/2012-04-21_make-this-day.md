@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2012-04-21 16:34:40
 url: https://ericmwalk.blog/2012/04/21/make-this-day.html

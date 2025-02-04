@@ -1,10 +1,11 @@
 ---
-title: "New Devices 🍏"
 publish: "true"
 date: 2021-08-20 11:55:00
 tags: Running
 url: https://ericmwalk.blog/2021/08/20/new-devices.html
 ---
+
+# New Devices 🍏
 
 I had been an Android user for as long as I can remember and have always enjoyed the phones and software. Maybe I should caveat that last statement with I have had a bunch of iPhones too but at one point I was drawn more to Android and then I really had not looked back and honestly kind of refused to for no real reason. However, after being nagged by my family I broke down in May of this year to get the iPhone mini.
 

@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2018-11-04 07:33:37
 tags: Dogs

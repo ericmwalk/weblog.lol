@@ -1,10 +1,11 @@
 ---
-title: Posts with Images
 publish: "true"
 Date: 2024-02-06 21:29
 tags: weblog
 url: https://ericmwalk.blog/2024/02/06/posts-with-images.html
 ---
+
+# Posts with Images
 
 In reading more chatter online, it seems like people are really checking out all of these newer indie blogging software which is great and each is on its own journey of what they doing. I think the one thing for weblog that people seem to run across as a downfall is getting images here because you really need to find another place to put them if you want more than a one-off. Through the OMG.lol suite of products, you can use [some.pics](https://some.pics) and honestly, it would probably work fine for one-off photos or if you were not planning on posting a ton of photos to the site. However, if you wanted to post say the picture from a trip or more than just one you might find it more difficult than other platforms where you can just drop them all in and away you go. I believe in this case you can upload them all but might then take a little back and forth to get the links to your post. Here is a photo that I uploaded a while back and it works fine as you can see using some.pics
 

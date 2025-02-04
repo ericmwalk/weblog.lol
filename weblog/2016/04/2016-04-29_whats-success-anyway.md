@@ -1,10 +1,11 @@
 ---
-title: "What’s success anyway? - Chris Sacca"
 publish: "true"
 date: 2016-04-29 11:13:44
 tags: Quotes
 url: https://ericmwalk.blog/2016/04/29/whats-success-anyway.html
 ---
+
+# What’s success anyway? - Chris Sacca
 
 Seeing how it is getting close to that time of year again for College Graduations, it reminded me of this video I saw a while back where <a href="https://twitter.com/sacca" target="_blank">Chris Sacca</a> gave an awesome Commencement speech to the Carlson School of Management back in 2011.
 

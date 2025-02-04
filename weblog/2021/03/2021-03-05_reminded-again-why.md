@@ -1,10 +1,11 @@
 ---
-title: "Reminded again why I got rid of my Fitbit!"
 publish: "true"
 date: 2021-03-05 10:49:09
 tags: Running
 url: https://ericmwalk.blog/2021/03/05/reminded-again-why.html
 ---
+
+# Reminded again why I got rid of my Fitbit!
 
 Last night I was looking for a place I ran in Germany when I was there on a work trip in 2015. I then realized when I stopped using my <a href="https://ericmwalk.blog/2019/10/08/goodbye-fitbit.html">Fitbit in 2019</a> I didn't import that far back to my Garmin as I wasn't using Strava then either.
 

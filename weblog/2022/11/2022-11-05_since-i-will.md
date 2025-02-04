@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-11-05 13:37:07
 url: https://ericmwalk.blog/2022/11/05/since-i-will.html

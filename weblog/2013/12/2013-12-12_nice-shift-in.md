@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2013-12-12 20:35:40
 url: https://ericmwalk.blog/2013/12/12/nice-shift-in.html

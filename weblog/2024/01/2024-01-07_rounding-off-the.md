@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2024-01-07 13:51:00
 url: https://ericmwalk.blog/2024/01/07/rounding-off-the.html

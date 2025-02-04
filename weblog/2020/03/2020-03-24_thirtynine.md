@@ -1,10 +1,11 @@
 ---
-title: "Thirty-Nine"
 publish: "true"
 date: 2020-03-24 07:16:00
 tags: running
 url: https://ericmwalk.blog/2020/03/24/thirtynine.html
 ---
+
+# Thirty-Nine
 
 It seems strange trying to look back at the last year when there is so much noise clouding the past couple of days/weeks/months.
 

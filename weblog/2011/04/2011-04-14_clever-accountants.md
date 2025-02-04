@@ -1,10 +1,11 @@
 ---
-title: Clever Accountants
 publish: "true"
 date: 2011-04-14 08:03:12
 tags: 
 url: https://ericmwalk.blog/2011/04/14/clever-accountants.html
 ---
+
+# Clever Accountants
 
 So I realized I have not been doing very good updating this so far.  I guess things have been busy with my day job and trying to save the world... errr...  Anyways, I got this email from a friend today and thought I would share.
 <div>--------------------------------------------------<br />

@@ -1,9 +1,10 @@
 ---
-title: "Plan vs Reality"
 publish: "true"
 date: 2014-02-06 08:14:35
 url: https://ericmwalk.blog/2014/02/06/plan-vs-reality.html
 ---
+
+# Plan vs Reality
 
 <img src="uploads/2022/b1447daa75.png" alt="2013 10 28 f1a0d7c" title="2013-10-28-f1a0d7c.png" border="0" width="600" height="450" />
 

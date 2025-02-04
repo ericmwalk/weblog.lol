@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2014-12-07 11:56:57
 url: https://ericmwalk.blog/2014/12/07/slept-in-this.html

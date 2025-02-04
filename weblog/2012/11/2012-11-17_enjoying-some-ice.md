@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2012-11-17 18:33:25
 url: https://ericmwalk.blog/2012/11/17/enjoying-some-ice.html

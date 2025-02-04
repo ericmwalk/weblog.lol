@@ -1,10 +1,11 @@
 ---
-title: "'The Adventures of Indiana Jones' by Patrick Schoenmaker"
 publish: "true"
 date: 2016-10-04 07:55:26
 tags: video
 url: https://ericmwalk.blog/2016/10/04/the-adventures-of.html
 ---
+
+# 'The Adventures of Indiana Jones' by Patrick Schoenmaker
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iE8v5WDbbC4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

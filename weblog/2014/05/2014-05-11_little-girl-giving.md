@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2014-05-11 20:21:51
 url: https://ericmwalk.blog/2014/05/11/little-girl-giving.html

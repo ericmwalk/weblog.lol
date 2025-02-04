@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2017-01-01 22:53:34
 url: https://ericmwalk.blog/2017/01/01/had-a-great.html

@@ -1,10 +1,11 @@
 ---
-title: Initial Thoughts on Obsidian Publish
 publish: "true"
 date: 2024-12-17
 tags: Obsidian, ObsidianPublish
 url: https://ericmwalk.blog/2024/12/17/initial-thoughts-on-obsidian-publish.html
 ---
+
+# Initial Thoughts on Obsidian Publish
 
 Now that I pretty much have a working example of Obsidian Publish going and have changed around some of the settings and CSS even to make it look like it is right now here are my initial thoughts:
 

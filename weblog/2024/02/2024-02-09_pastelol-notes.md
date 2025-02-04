@@ -1,10 +1,11 @@
 ---
-title: Paste.lol Notes
 publish: "true"
 Date: 2024-02-09 22:25
 tags: weblog
 url: https://ericmwalk.blog/2024/02/09/pastelol-notes.html
 ---
+
+# Paste.lol Notes
 
 I have not actually used [paste.lol](https://paste.lol/) all that much on but really it is a Pastebin for those of you who know what that is. I did use it already at one point to save a json to rss script file that I created with other help I found online for a specific use on my Micro.blog consumption. *More on that script another time.*
 

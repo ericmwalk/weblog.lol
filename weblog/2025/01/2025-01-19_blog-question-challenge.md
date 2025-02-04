@@ -1,10 +1,11 @@
 ---
-title: Blog Question Challenge 2025
 publish: "true"
 date: 2025-01-19
 tags: 
 url: https://ericmwalk.blog/2025/01/19/blog-question-challenge.html
 ---
+
+# Blog Question Challenge 2025
 
 It seems as though [Jason](https://social.lol/@jason) has challenged me to do some work this weekend and answer questions. 🫠 
 

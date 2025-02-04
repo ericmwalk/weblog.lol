@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2013-06-02 06:01:31
 url: https://ericmwalk.blog/2013/06/02/early-morning-coloring.html

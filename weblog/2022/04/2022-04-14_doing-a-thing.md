@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-04-19 10:40:25
 url: https://ericmwalk.blog/2022/04/14/doing-a-thing.html

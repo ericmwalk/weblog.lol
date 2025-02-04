@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2024-07-28 18:31:07
 url: https://ericmwalk.blog/2024/07/28/fresh-homemade-salsa.html

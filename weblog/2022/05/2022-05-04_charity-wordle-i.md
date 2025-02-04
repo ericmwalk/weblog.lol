@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-05-04 12:48:00
 url: https://ericmwalk.blog/2022/05/04/charity-wordle-i.html

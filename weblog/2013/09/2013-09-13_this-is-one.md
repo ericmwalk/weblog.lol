@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2013-09-13 22:12:20
 url: https://ericmwalk.blog/2013/09/13/this-is-one.html

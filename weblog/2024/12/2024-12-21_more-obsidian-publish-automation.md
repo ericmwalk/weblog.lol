@@ -1,10 +1,11 @@
 ---
-title: More Obsidian Publish Automation
 publish: "true"
 date: 2024-12-21
 tags: Obsidian, ObsidianPublish
 url: https://ericmwalk.blog/2024/12/21/more-obsidian-publish-automation.html
 ---
+
+# More Obsidian Publish Automation
 
 # More Obsidian Publish Automation
 

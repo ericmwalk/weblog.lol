@@ -1,10 +1,11 @@
 ---
-title: "One Decision"
 publish: "true"
 date: 2018-12-06 18:19:00
 tags: Quotes
 url: https://ericmwalk.blog/2018/12/06/one-decision.html
 ---
+
+# One Decision
 
 <p>When you stop and think about it, one decision is all it takes. The list of what that decision might have been or could be a number of different things.  For example, your job, family, friends, or finances to name a few common ones.</p>
 

@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2023-10-28 22:00:00
 url: https://ericmwalk.blog/2023/10/28/we-almost-missed.html

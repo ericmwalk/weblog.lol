@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2013-04-21 21:11:21
 url: https://ericmwalk.blog/2013/04/21/hello-minnesota-wild.html

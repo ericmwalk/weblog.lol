@@ -1,9 +1,10 @@
 ---
-title: "Consumption vs Creation"
 publish: "true"
 date: 2019-03-21 15:15:00
 url: https://ericmwalk.blog/2019/03/21/consumption-vs-creation.html
 ---
+
+# Consumption vs Creation
 
 It hit me that I have been consuming so much so fast that I haven’t had time to actually think about what it means. This is further expanding on the topic I discussed a while back titled <a href="https://ericmwalk.blog/2018/11/05/media-consumption.html">Media Consumption</a>. I have listened to some great Podcasts and read some great articles. Some of them have great nuggets of information that I write to myself thinking I will expand on it soon. The problem is that I never have time to execute that idea. I just end up with pages of notes that I will never look back at because I am already consuming the next block of information.
 

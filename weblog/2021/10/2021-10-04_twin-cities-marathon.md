@@ -1,10 +1,11 @@
 ---
-title: "2021 Twin Cities Marathon Recap"
 publish: "true"
 date: 2021-10-04 12:51:48
 tags: Running
 url: https://ericmwalk.blog/2021/10/04/twin-cities-marathon.html
 ---
+
+# 2021 Twin Cities Marathon Recap
 
 Well after all the build up for the past 9 months the race is done and I am happy with my own results. After, what has been a 20 year hiatus _(more on that below)_ I was glad to conquer this one in much more style, less pain, and a time I had not planned for 😁. As I have told most people who ask me, it is amazing what some real training does when preparing for a marathon.
 

@@ -1,10 +1,11 @@
 ---
-title: "WorkOutDoors App"
 publish: "true"
 date: 2024-05-02 21:02:25
 tags: Running, WeblogPoMo2024
 url: https://ericmwalk.blog/2024/05/02/workoutdoors-app.html
 ---
+
+# WorkOutDoors App
 
 I really do like my [Apple Ultra](https://ericmwalk.blog/2022/09/23/might-be-time.html) watch and am glad to only be rocking one watch on a daily basis unlike a couple years ago. However, having the Ultra well over a year now and knowing the Apple Watch itself has been out so long I still can't believe that the missed opportunity to have a route mapping function on the watch with in the stock Workout app. Typically I don't need it often but when I map out some really long runs on my phone I have to pull it out from time to time to make sure I catch the right trail or street, two things I don't love doing when I am out running and also further makes me not want to run with out my phone.
 

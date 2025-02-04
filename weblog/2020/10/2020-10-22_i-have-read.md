@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2020-10-22 06:48:22
 url: https://ericmwalk.blog/2020/10/22/i-have-read.html

@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2024-01-24 11:12:56
 url: https://ericmwalk.blog/2024/01/24/remember-that-time.html

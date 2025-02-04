@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2024-03-12 14:31:41
 url: https://ericmwalk.blog/2024/03/12/i-really-hope.html

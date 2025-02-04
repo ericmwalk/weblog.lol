@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2021-12-14 21:51:54
 tags: BackyardRink

@@ -1,10 +1,11 @@
 ---
-title: "4x4x40 Running Challenge 🏃‍♂️"
 publish: "true"
 date: 2021-12-01 00:58:00
 tags: running
 url: https://ericmwalk.blog/2021/12/01/xx-running-challenge.html
 ---
+
+# 4x4x40 Running Challenge 🏃‍♂️
 
 Earlier this year I had a plan to run 40 miles with a really good friend of mine through the mountains of Colorado. We thought it would be fun to run 40 miles since we both turned 40 this year. Not to mention suffering together and probably laughing along the way made it seem like a feat that could be pushed through to accomplishment. The timing was not going to be great for me as it was one month before my [Twin Cities Marathon](https://ericmwalk.blog/2021/10/04/twin-cities-marathon.html) but I was game to do it as it sounded amazing. Honestly, I wasn’t even sure how to train for such a thing but I just said yes and he said he would work out the details. The bummer is around May he hurt his ankle and knew the run wouldn’t happen. I was bummed that it fell apart but it probably worked out since I hadn’t run a marathon for 20 years and I wasn’t sure what I was in for. I am sure it probably wouldn’t have been great to come in not feeling the best from a 40 mile run through the mountains no matter how long it took us.
 

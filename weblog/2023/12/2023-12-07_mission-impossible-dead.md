@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2023-12-07 08:46:32
 url: https://ericmwalk.blog/2023/12/07/mission-impossible-dead.html

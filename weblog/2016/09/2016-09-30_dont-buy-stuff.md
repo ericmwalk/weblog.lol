@@ -1,10 +1,11 @@
 ---
-title: Don't Buy Stuff you Can't Afford
 publish: "true"
 date: 2016-09-30 12:06:00
 tags: video
 url: https://ericmwalk.blog/2016/09/30/dont-buy-stuff.html
 ---
+
+# Don't Buy Stuff you Can't Afford
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R3ZJKN_5M44" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

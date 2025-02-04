@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2023-03-28 12:26:30
 url: https://ericmwalk.blog/2023/03/28/come-min-early.html

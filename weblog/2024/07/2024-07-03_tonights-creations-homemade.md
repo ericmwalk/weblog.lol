@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2024-07-03 22:25:10
 url: https://ericmwalk.blog/2024/07/03/tonights-creations-homemade.html

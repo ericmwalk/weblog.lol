@@ -1,10 +1,11 @@
 ---
-title: "Posting Frequencies, Schedules and Drafts"
 publish: "true"
 date: 2016-04-19 08:29:16
 tags: Blogging
 url: https://ericmwalk.blog/2016/04/19/posting-frequencies-schedules.html
 ---
+
+# Posting Frequencies, Schedules and Drafts
 
 Lately, I have not been finding the time to write much on here or even remember to post something that I have found interesting.  However, that is not to say I haven't started a bunch of different posts from time to time (this is one of those).
 

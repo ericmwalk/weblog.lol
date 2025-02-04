@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2014-06-25 22:13:19
 url: https://ericmwalk.blog/2014/06/25/no-surprises-here.html

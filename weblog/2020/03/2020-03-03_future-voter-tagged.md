@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2020-03-03 08:43:27
 url: https://ericmwalk.blog/2020/03/03/future-voter-tagged.html

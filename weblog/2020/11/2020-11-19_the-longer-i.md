@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2020-11-19 14:47:31
 url: https://ericmwalk.blog/2020/11/19/the-longer-i.html

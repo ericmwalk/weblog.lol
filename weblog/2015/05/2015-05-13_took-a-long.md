@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2015-05-13 19:05:05
 url: https://ericmwalk.blog/2015/05/13/took-a-long.html

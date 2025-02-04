@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2013-08-01 12:29:55
 url: https://ericmwalk.blog/2013/08/01/serious-competition-it.html

@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2024-11-16 23:39:37
 url: https://ericmwalk.blog/2024/11/16/watched-matilda-tonight.html

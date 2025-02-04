@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2013-12-22 14:43:09
 url: https://ericmwalk.blog/2013/12/22/great-having-more.html

@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2024-02-13 17:10:48
 url: https://ericmwalk.blog/2024/02/13/just-two-best.html

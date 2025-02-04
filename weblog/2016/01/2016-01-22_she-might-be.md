@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2016-01-22 20:03:55
 url: https://ericmwalk.blog/2016/01/22/she-might-be.html

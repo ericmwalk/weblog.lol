@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-11-06 21:22:56
 url: https://ericmwalk.blog/2022/11/06/living-the-dream.html

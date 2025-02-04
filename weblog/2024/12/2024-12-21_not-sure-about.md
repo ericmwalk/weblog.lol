@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2024-12-21 10:34:52
 url: https://ericmwalk.blog/2024/12/21/not-sure-about.html

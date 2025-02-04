@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2023-08-02 06:32:55
 url: https://ericmwalk.blog/2023/08/02/always-enjoy-trying.html

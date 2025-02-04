@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2024-06-29 22:01:08
 url: https://ericmwalk.blog/2024/06/29/unplanned-camper-landscaping.html

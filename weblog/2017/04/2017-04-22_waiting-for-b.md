@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2017-04-22 09:55:48
 url: https://ericmwalk.blog/2017/04/22/waiting-for-b.html

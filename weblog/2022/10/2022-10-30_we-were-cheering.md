@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-10-30 22:16:21
 url: https://ericmwalk.blog/2022/10/30/we-were-cheering.html

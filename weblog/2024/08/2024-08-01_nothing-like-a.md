@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2024-08-01 10:41:26
 url: https://ericmwalk.blog/2024/08/01/nothing-like-a.html

@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-05-21 09:12:15
 url: https://ericmwalk.blog/2022/05/21/thank-you-murphy.html

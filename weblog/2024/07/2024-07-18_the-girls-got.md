@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2024-07-18 22:39:53
 url: https://ericmwalk.blog/2024/07/18/the-girls-got.html

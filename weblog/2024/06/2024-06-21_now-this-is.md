@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2024-06-21 22:12:00
 url: https://ericmwalk.blog/2024/06/21/now-this-is.html

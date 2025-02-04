@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2014-07-03 12:07:39
 url: https://ericmwalk.blog/2014/07/03/little-trip-to.html

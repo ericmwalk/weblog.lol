@@ -1,10 +1,11 @@
 ---
-title: Blogging to Learn
 publish: "true"
 date: 2012-06-18 21:10:32
 tags: running, blogging
 url: https://ericmwalk.blog/2012/06/18/blogging-to-learn.html
 ---
+
+# Blogging to Learn
 
 A while back I had read a blog post by [Chris Dixon](https://twitter.com/#!/cdixon) on [Blogging to Learn](http://cdixon.org/2012/05/10/blogging-to-learn/), it was a short post but the last point he made really made me think.
 

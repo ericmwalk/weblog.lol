@@ -1,10 +1,11 @@
 ---
-title: "Running Restart - 2021 Version"
 publish: "true"
 date: 2021-08-19 22:04:33
 tags: Running
 url: https://ericmwalk.blog/2021/08/19/running-restart-version.html
 ---
+
+# Running Restart - 2021 Version
 
 Sometimes you have to [start over](https://ericmwalk.blog/2016/02/09/back-to-running.html) at ground zero. Well technically I am probably not at ground zero this time because I only had four days off in a row.
 

@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2024-01-14 09:13:00
 url: https://ericmwalk.blog/2024/01/14/good-morning-duluth.html

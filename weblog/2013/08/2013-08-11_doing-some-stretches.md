@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2013-08-11 15:46:52
 url: https://ericmwalk.blog/2013/08/11/doing-some-stretches.html

@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2013-02-14 20:32:47
 url: https://ericmwalk.blog/2013/02/14/watching-hockey-on.html

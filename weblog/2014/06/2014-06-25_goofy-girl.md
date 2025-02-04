@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2014-06-25 22:15:58
 url: https://ericmwalk.blog/2014/06/25/goofy-girl.html

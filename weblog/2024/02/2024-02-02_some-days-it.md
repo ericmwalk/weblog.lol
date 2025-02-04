@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2024-02-02 23:16:36
 url: https://ericmwalk.blog/2024/02/02/some-days-it.html

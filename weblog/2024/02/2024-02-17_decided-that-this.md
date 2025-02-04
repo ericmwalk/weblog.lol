@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2024-02-17 21:11:00
 url: https://ericmwalk.blog/2024/02/17/decided-that-this.html

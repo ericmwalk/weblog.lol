@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-06-12 22:42:12
 url: https://ericmwalk.blog/2022/06/12/in-these-brief.html

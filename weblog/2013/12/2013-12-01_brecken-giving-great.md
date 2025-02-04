@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2013-12-01 22:25:55
 url: https://ericmwalk.blog/2013/12/01/brecken-giving-great.html

@@ -1,10 +1,11 @@
 ---
-title:
 publish: "true"
 date: 2025-01-01
 tags: 
 url: https://ericmwalk.blog/2025/01/01/i-enjoy-stumbling-upon-some.html
 ---
+
+# title:
 
 I enjoy stumbling upon some amazing rinks when I go for [runs](https://ericmwalk.blog/2025/01/01/had-the-trail-to-myself.html). Today did not disappoint as this one in the distance had a scoreboard. I mean what.?!?. Well done 👏 
 

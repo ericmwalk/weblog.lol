@@ -1,10 +1,11 @@
 ---
-title: "Forty-Three"
 publish: "true"
 date: 2024-03-24 07:57:44
 tags: Running
 url: https://ericmwalk.blog/2024/03/24/fortythree.html
 ---
+
+# Forty-Three
 
 What another year it has been. It has been an interesting year and still busy as always. I keep thinking to myself that I should start these days, if not a month or so before my actual birthday but I feel there is something blocking me off from this time to reflect quickly and jot some things down. It is not to say I haven’t thought about it but I also don’t want this to feel like work or something I *have* to do. I want it to be something I *want* to do, so that is why I am doing it now while watching some snow fall and drinking some coffee.
 

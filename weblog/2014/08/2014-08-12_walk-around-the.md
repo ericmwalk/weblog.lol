@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2014-08-12 07:21:26
 url: https://ericmwalk.blog/2014/08/12/walk-around-the.html

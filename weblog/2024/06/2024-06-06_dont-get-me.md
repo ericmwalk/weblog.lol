@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2024-06-06 16:11:43
 url: https://ericmwalk.blog/2024/06/06/dont-get-me.html

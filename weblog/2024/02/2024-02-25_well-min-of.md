@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2024-02-25 19:52:08
 url: https://ericmwalk.blog/2024/02/25/well-min-of.html

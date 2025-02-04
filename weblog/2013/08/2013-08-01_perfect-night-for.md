@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2013-08-01 20:37:19
 url: https://ericmwalk.blog/2013/08/01/perfect-night-for.html

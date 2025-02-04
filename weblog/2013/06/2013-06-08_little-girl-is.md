@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2013-06-08 08:26:17
 url: https://ericmwalk.blog/2013/06/08/little-girl-is.html

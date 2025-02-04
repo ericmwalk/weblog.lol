@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2021-01-06 09:31:00
 tags: Status

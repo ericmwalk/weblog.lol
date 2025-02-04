@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2015-04-18 08:23:45
 url: https://ericmwalk.blog/2015/04/18/breakfast-and-then.html

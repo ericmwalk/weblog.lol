@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2021-11-07 20:52:52
 tags: ProjectShed

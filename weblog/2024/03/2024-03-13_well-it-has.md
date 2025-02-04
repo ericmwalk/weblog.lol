@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2024-03-13 20:49:23
 url: https://ericmwalk.blog/2024/03/13/well-it-has.html

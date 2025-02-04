@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2014-03-30 16:41:57
 url: https://ericmwalk.blog/2014/03/30/its-bike-riding.html

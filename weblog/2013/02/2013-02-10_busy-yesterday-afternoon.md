@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2013-02-10 09:34:14
 url: https://ericmwalk.blog/2013/02/10/busy-yesterday-afternoon.html

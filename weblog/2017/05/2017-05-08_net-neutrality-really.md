@@ -1,10 +1,11 @@
 ---
-title: "Net Neutrality... Really Again?"
 publish: "true"
 date: 2017-05-08 12:38:25
 tags: video
 url: https://ericmwalk.blog/2017/05/08/net-neutrality-really.html
 ---
+
+# Net Neutrality... Really Again?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/92vuuZt7wak" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 *via <a href="https://www.youtube.com/watch?v=92vuuZt7wak&amp;t=1s">Net Neutrality II: Last Week Tonight with John Oliver (HBO) - YouTube</a>*

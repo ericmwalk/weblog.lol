@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2017-04-15 21:55:58
 url: https://ericmwalk.blog/2017/04/15/celebrating-easter-and.html

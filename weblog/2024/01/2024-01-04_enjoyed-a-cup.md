@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2024-01-04 13:51:04
 url: https://ericmwalk.blog/2024/01/04/enjoyed-a-cup.html

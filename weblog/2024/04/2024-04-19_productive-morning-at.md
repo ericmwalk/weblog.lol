@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2024-04-19 22:24:11
 url: https://ericmwalk.blog/2024/04/19/productive-morning-at.html

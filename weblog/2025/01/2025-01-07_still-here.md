@@ -1,10 +1,11 @@
 ---
-title: Still Here
 publish: "true"
 date: 2025-01-07
 tags: Obsidian
 url: 
 ---
+
+# Still Here
 
 I was on a good streak writing in this new form of Obsidian Publish as well as just tinkering around with everything to figure out what it is all about. however, for the last two weeks I really haven't been online much at all some by design and some just because there was a lot of things going on that needed to be done. 
 

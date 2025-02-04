@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2024-03-29 22:44:00
 url: https://ericmwalk.blog/2024/03/29/had-fun-playing.html

@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2014-08-09 09:08:41
 url: https://ericmwalk.blog/2014/08/09/getting-read-to.html

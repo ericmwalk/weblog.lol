@@ -1,10 +1,11 @@
 ---
-title: Status.lol App
 publish: "true"
 Date: 2024-02-10 9:31
 tags: weblog
 url: https://ericmwalk.blog/2024/02/10/statuslol-app.html
 ---
+
+# Status.lol App
 
 Since I've been trying to post more photos to some.pics, I found that even with the shortcut, it was a bit cumbersome. I had to then log into the website to add a description to it, or I was just uploading it directly to the app. However, as I was updating a status on status.lol the other day through the [status.lol app](https://apps.apple.com/app/apple-store/id6444921793) made by the amazing [Joanna](https://jmj.omg.lol/), I was reminded that you can upload pictures to some.pics through there as well. I can't believe I had forgotten this.
 

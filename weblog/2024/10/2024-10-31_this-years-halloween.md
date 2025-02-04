@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2024-10-31 22:04:17
 url: https://ericmwalk.blog/2024/10/31/this-years-halloween.html

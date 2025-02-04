@@ -1,10 +1,11 @@
 ---
-title: "Exclusive STAR WARZ Merch Revealed...By Topher Grace!"
 publish: "true"
 date: 2015-11-18 08:56:00
 tags: video
 url: https://ericmwalk.blog/2015/11/18/exclusive-star-warz.html
 ---
+
+# Exclusive STAR WARZ Merch Revealed...By Topher Grace!
 
 Just ran across this today and I had to post it as it is a very well done skit with with <a href="https://twitter.com/TopherGrace">Topher Grace</a> and <a href="https://twitter.com/joshuahorowitz" target="_blank">Josh Horowitz</a>
 

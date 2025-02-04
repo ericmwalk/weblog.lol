@@ -1,10 +1,11 @@
 ---
-title: "Unannounced Electricians… I am OK with it"
 publish: "true"
 date: 2021-11-08 12:49:00
 tags: ProjectShed
 url: https://ericmwalk.blog/2021/11/08/project-shed-is.html
 ---
+
+# Unannounced Electricians… I am OK with it
 
 Project “Shed” is quickly taking shape with the electricians stopping by unannounced and ready to string it all up 😁
 

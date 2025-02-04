@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2024-05-07 17:15:30
 url: https://ericmwalk.blog/2024/05/07/changed-it-up.html

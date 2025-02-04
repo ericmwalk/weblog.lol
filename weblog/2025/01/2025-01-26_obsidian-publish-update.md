@@ -1,10 +1,11 @@
 ---
-title: Obsidian Publish Update
 publish: "true"
 date: 2025-01-26 11:37
 tags: Obsidian, ObsidianPublish
 url: https://ericmwalk.blog/2025/01/26/obsidian-publish-update.html
 ---
+
+# Obsidian Publish Update
 
 Let's just say it was a good run and test. I published a handful of posts about things I was finding out about it and honestly it is very slick if you are using Obsidian to quickly posts something online and it just works. I think one of the bigger downsides to me if someone wanted to use it as an actual blogging platform is that the RSS is really not great at all. I am sure there could be ways to get that to work better or you could spend the time curating something to work better there but that seems like more friction than I would want to do. Even though I didn't mention it earlier it is $8 per month if you pay for a year and that is kind of hefty in comparison to other blogging platforms you can find out there that are built more for well blogging. If you are looking for one I would check out one of the following
 * **omg.lol** - For $20 a year you get access to all the great [omg.lol](https://home.omg.lol)apps which are worth much more than that in my option. From a blog perspective you can use Adam's weblog.lol that is part of the $20 per year. However, you you might want to hold off till Adam is done creating [Neato](https://neato.pub) as it sounds well... Neato!

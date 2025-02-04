@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2017-05-19 16:08:36
 url: https://ericmwalk.blog/2017/05/19/family-favorite-boo.html

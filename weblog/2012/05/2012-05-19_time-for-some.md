@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2012-05-19 17:37:55
 url: https://ericmwalk.blog/2012/05/19/time-for-some.html

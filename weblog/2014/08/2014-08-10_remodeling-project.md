@@ -1,10 +1,11 @@
 ---
-title: "Remodeling project"
 publish: "true"
 date: 2014-08-10 07:04:00
 tags: Running, HouseProjects
 url: https://ericmwalk.blog/2014/08/10/remodeling-project.html
 ---
+
+# Remodeling project
 
 Looking back I realized that in the last post I talked about how I was looking for new books to read and I was actually really excited about reading books instead of just listening to book tapes.  In fact, I received a copy of "<a href="http://fgpress.com/sleep-your-way-to-the-top/">Sleep your way to the Top</a>" by Jane Miller from <a href="http://fgpress.com/">FGPress</a> not long after publishing that post (perfect timing right).   Also, I had some other plans of spending time on some projects that were still very rough ideas in my mind.
 <p style="text-align:left;">No sooner did all of that happen than I found myself trying to figure out why there was water dripping in our basement from the ceiling.  What caused the leak you asked.. Well of course a leaky toilet seal.  So I did what every do-it-yourself handyman would do.... I decided to redo the entire bathroom instead of just fixing the leaky Toilet ring.  If you are going to do something do it right from the beginning.</p>

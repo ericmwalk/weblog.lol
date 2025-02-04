@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2013-06-02 06:38:21
 url: https://ericmwalk.blog/2013/06/02/happy-th-birthday.html

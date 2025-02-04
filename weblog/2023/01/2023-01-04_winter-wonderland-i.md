@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2023-01-04 08:44:23
 url: https://ericmwalk.blog/2023/01/04/winter-wonderland-i.html

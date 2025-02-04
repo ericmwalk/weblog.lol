@@ -1,9 +1,10 @@
 ---
-title: 2024 Application Defaults
 publish: "true"
 date: 2024-12-31T23:46:27-0600
 url: https://ericmwalk.blog/2024/12/31/application-defaults.html
 ---
+
+# 2024 Application Defaults
 
 # 2024 Application Defaults
 

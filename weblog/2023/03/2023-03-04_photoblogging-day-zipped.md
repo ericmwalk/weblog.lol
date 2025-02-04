@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2023-03-04 22:39:23
 url: https://ericmwalk.blog/2023/03/04/photoblogging-day-zipped.html

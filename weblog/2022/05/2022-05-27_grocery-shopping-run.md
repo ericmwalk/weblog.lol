@@ -1,10 +1,11 @@
 ---
-title: "Grocery Shopping Run"
 publish: "true"
 date: 2022-05-27 14:47:02
 tags: Running
 url: https://ericmwalk.blog/2022/05/27/grocery-shopping-run.html
 ---
+
+# Grocery Shopping Run
 
 I like how well the Apple AirPods just work with my iPhone. Only over the last year have I switched almost all of my personal devices back to [Apple devices](https://ericmwalk.blog/2021/08/20/new-devices.html) and today I was reminded why it just makes sense and it just works.
 

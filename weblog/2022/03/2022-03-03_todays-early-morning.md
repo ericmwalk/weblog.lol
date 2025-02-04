@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2022-03-03 06:09:50
 url: https://ericmwalk.blog/2022/03/03/todays-early-morning.html

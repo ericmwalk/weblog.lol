@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2017-08-01 12:26:54
 url: https://ericmwalk.blog/2017/08/01/afternoon-snack-next.html

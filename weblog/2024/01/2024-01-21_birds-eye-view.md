@@ -1,5 +1,4 @@
 ---
-title: ""
 publish: "true"
 date: 2024-01-21 14:25:26
 url: https://ericmwalk.blog/2024/01/21/birds-eye-view.html

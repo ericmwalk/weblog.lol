@@ -1,10 +1,11 @@
 ---
-title: "Congratulations and Thanks!"
 publish: "true"
 date: 2016-05-06 11:54:00
 tags: Blogging, BloggingMeetup
 url: https://ericmwalk.blog/2016/05/06/congratulations-and-thanks.html
 ---
+
+# Congratulations and Thanks!
 
 A "little" side project that some of you know about, <a href="https://bloggingmeetup.com/">Blogging Meetup</a> (formerly Bloggers Meetup), got some great news when it was featured on Wordpress's own Daily Post article talking about '<a href="https://dailypost.wordpress.com/2016/05/04/blogging-groups/">Stay Supported with a Blogging Group</a>'.  That was very exciting news for me and my co-founder <a href="http://web.archive.org/web/20160505045915/https://theroadtothere.live/2016/05/04/wordpress-featured/">Amanda</a> of the project.  For what started out based on some comments in a Blogging 101 course back on <a href="https://ericmwalk.blog/2016/02/24/community-bloggers-meetup.html">February 19, 2016</a>, is starting to really grow, grow, grow.
 
