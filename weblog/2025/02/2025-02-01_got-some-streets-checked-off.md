@@ -1,8 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2025-02-01 10:32
-tags:
-  - Running
+tags: Running
 url: https://ericmwalk.blog/2025/02/01/got-some-streets-checked-off.html
 ---
 
