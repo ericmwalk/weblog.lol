@@ -1,7 +1,7 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-02-08 22:42:44
-permalink: /2024/02/08/view-from-the
 url: https://ericmwalk.blog/2024/02/08/view-from-the.html
 ---
 

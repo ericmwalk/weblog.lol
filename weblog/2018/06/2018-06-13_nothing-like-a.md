@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2018-06-13 05:52:03
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2018/06/13/nothing-like-a.html
 ---
 

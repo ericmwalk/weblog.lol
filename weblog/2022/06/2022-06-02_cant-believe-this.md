@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2022-06-02 21:43:30
 url: https://ericmwalk.blog/2022/06/02/cant-believe-this.html

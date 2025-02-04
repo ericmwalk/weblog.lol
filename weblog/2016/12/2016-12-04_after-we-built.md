@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2016-12-04 21:08:35
 url: https://ericmwalk.blog/2016/12/04/after-we-built.html

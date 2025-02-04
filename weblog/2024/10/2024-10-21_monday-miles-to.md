@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-10-21 20:45:22
-tags: "Running"
-permalink: /2024/10/21/monday-miles-to
+tags: Running
 url: https://ericmwalk.blog/2024/10/21/monday-miles-to.html
 ---
 

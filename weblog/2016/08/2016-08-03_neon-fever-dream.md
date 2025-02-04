@@ -1,11 +1,10 @@
 ---
+title: "Neon Fever Dream by Eliot Peper"
 publish: "true"
 date: 2016-08-03 21:52:00
-tags: "books"
+tags: books
 url: https://ericmwalk.blog/2016/08/03/neon-fever-dream.html
 ---
-
-# Neon Fever Dream by Eliot Peper
 
 <a href="https://www.amazon.com/Neon-Fever-Dream-Eliot-Peper-ebook/dp/B01HUCXBTM/?tag=stthink-20">Neon Fever Dream</a> by Eliot Peper (<a href="https://twitter.com/eliotpeper">@EliotPeper</a>) was a really good page turner that once I finally started I couldn't put it down as I wanted to know what would happen next (<em>I probably should have read about one month ago but kept putting it off until Monday night</em>).  This is another book of his that I can't recommend enough as I have tried to read every one of Eliot's books since he first published Uncommon Stock: Version 1.0 a couple years back.
 

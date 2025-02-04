@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-04-13 21:04:16
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/04/13/wasnt-planning-on.html
 ---
 

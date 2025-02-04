@@ -1,7 +1,7 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-04-19 22:24:11
-permalink: /2024/04/19/productive-morning-at
 url: https://ericmwalk.blog/2024/04/19/productive-morning-at.html
 ---
 

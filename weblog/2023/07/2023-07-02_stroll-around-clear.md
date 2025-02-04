@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-07-02 14:54:36
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/07/02/stroll-around-clear.html
 ---
 

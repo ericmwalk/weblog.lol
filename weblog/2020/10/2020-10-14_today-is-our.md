@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2020-10-14 20:33:00
 url: https://ericmwalk.blog/2020/10/14/today-is-our.html

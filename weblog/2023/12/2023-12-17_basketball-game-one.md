@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2023-12-17 16:46:14
 url: https://ericmwalk.blog/2023/12/17/basketball-game-one.html
@@ -8,4 +9,4 @@ Basketball Game one of the day watching Iowa State Cyclones Women play against T
 
 
 
-<img src="uploads/2023/975c8f312a.jpg" width="600" height="450" alt="">
+![](https://ericmwalk.blog/uploads/2023/975c8f312a.jpg)

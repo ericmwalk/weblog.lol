@@ -1,11 +1,10 @@
 ---
+title: "North: Finding My Way While Running the Appalachian Trail by Scott Jurek"
 publish: "true"
 date: 2019-09-05 05:45:00
 tags: Running, books
 url: https://ericmwalk.blog/2019/09/05/north-finding-my.html
 ---
-
-# North: Finding My Way While Running the Appalachian Trail by Scott Jurek
 
 This summer based on the suggestion of others I decided to read pick up the book titled [North: Finding My Way While Running the Appalachian Trail](https://www.amazon.com/North-Finding-While-Running-Appalachian-ebook/dp/B01N6Z44OZ/) by [Scott Jurek](https://twitter.com/scottjurek) and Jenny Jurek. I always knew who Scott Jurek was but I for some reason I didn't really realize he had run the Appalachian Trail and/or wrote a book about it. So as a runner myself I figured this would be the perfect book to listen to. The book chronicles Scott’s 2015 attempt at the Application Trail FKT (fastest known time) that he made with the assistance of his wife Jenny.
 

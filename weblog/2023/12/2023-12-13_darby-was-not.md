@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-12-13 21:04:31
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/12/13/darby-was-not.html
 ---
 
@@ -9,4 +10,4 @@ Darby was not a fan of this [run](https://strava.com/activities/10376879855) as 
 
 
 
-<img src="uploads/2023/812300fd97.jpg" width="600" height="450" alt="">
+![](https://ericmwalk.blog/uploads/2023/812300fd97.jpg)

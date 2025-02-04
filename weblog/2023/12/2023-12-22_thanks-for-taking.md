@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2023-12-22 12:04:29
 url: https://ericmwalk.blog/2023/12/22/thanks-for-taking.html
@@ -8,4 +9,4 @@ Thanks for taking pictures with us today Santa but want am I supposed to do with
 
 
 
-<img src="uploads/2023/a7b557e6ea.jpg" width="600" height="450" alt="">
+![](https://ericmwalk.blog/uploads/2023/a7b557e6ea.jpg)

@@ -1,8 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2024-11-26 22:52:35
-tags: "Backyard Rink"
-permalink: /2024/11/26/flooding-update-well
+tags: BackyardRink, BackyardRink
 url: https://ericmwalk.blog/2024/11/26/flooding-update-well.html
 ---
 

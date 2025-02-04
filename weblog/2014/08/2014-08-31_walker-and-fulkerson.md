@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2014-08-31 15:47:31
 url: https://ericmwalk.blog/2014/08/31/walker-and-fulkerson.html

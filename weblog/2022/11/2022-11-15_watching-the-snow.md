@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2022-11-15 10:44:40
 url: https://ericmwalk.blog/2022/11/15/watching-the-snow.html

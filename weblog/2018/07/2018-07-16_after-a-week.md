@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2018-07-16 09:48:50
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2018/07/16/after-a-week.html
 ---
 

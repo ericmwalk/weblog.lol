@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2022-10-07 12:29:05
 url: https://ericmwalk.blog/2022/10/07/just-seems-like.html

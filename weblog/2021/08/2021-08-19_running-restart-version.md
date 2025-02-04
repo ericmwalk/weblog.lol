@@ -2,7 +2,7 @@
 title: "Running Restart - 2021 Version"
 publish: "true"
 date: 2021-08-19 22:04:33
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2021/08/19/running-restart-version.html
 ---
 

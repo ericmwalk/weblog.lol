@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2022-06-05 20:46:36
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2022/06/05/todays-unplanned-run.html
 ---
 

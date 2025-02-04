@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2022-10-12 17:11:26
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2022/10/12/another-beautiful-day.html
 ---
 

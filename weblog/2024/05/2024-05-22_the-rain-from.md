@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-05-22 18:32:59
-tags: "Running"
-permalink: /2024/05/22/the-rain-from
+tags: Running
 url: https://ericmwalk.blog/2024/05/22/the-rain-from.html
 ---
 

@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2022-12-08 18:00:12
 url: https://ericmwalk.blog/2022/12/08/building-some-random.html

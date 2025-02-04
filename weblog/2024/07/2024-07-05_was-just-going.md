@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-07-05 14:54:00
-tags: "Running"
-permalink: /2024/07/05/was-just-going
+tags: Running
 url: https://ericmwalk.blog/2024/07/05/was-just-going.html
 ---
 

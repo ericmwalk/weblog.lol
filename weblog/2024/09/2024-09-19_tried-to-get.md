@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-09-19 21:39:10
-tags: "Running"
-permalink: /2024/09/19/tried-to-get
+tags: Running
 url: https://ericmwalk.blog/2024/09/19/tried-to-get.html
 ---
 

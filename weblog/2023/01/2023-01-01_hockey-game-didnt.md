@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2023-01-01 00:17:43
 url: https://ericmwalk.blog/2023/01/01/hockey-game-didnt.html
@@ -8,4 +9,4 @@ Hockey game didn’t go as planned, they played hard but couldn’t put another 
 
 
 
-<img src="uploads/2023/f94ad0ed97.jpg" width="600" height="450" alt="">
+![](https://ericmwalk.blog/uploads/2023/f94ad0ed97.jpg)

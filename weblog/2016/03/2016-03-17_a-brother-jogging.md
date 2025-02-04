@@ -1,11 +1,10 @@
 ---
+title: "A Brother Jogging"
 publish: "true"
 date: 2016-03-17 08:03:00
 tags: running, video
 url: https://ericmwalk.blog/2016/03/17/a-brother-jogging.html
 ---
-
-# A Brother Jogging
 
 I was telling my wife last night about how running at night sometimes plays tricks with your mind.  Most of the time it is when someone suddenly comes up out of nowhere and is walking/running at you, behind you, or just someone in the shadows of their house porch coughs or starts talking to someone on the phone.
 

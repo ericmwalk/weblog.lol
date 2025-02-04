@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2022-09-28 05:36:57
 url: https://ericmwalk.blog/2022/09/28/wow-this-weather.html

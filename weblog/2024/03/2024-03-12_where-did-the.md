@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-03-12 21:39:55
-tags: "Running"
-permalink: /2024/03/12/where-did-the
+tags: Running
 url: https://ericmwalk.blog/2024/03/12/where-did-the.html
 ---
 

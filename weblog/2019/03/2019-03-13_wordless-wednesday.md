@@ -1,11 +1,10 @@
 ---
+title: "Wordless Wednesday 03/13"
 publish: "true"
 date: 2019-03-13 07:16:00
 tags: Photos, WordlessWednesday, Running
 url: https://ericmwalk.blog/2019/03/13/wordless-wednesday.html
 ---
-
-# Wordless Wednesday 03/13
 
 ![](https://ericmwalk.blog/uploads/2022/504ea91567.jpg)
 

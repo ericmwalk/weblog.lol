@@ -1,11 +1,10 @@
 ---
+title: "Quote of the Week - 11.14.2014"
 publish: "true"
 date: 2014-11-14 07:49:00
 tags: blogging101, Quotes
 url: https://ericmwalk.blog/2014/11/14/quote-of-the.html
 ---
-
-# Quote of the Week - 11.14.2014
 
 >"Just chuck it in the fuck it bucket and move on." - A. Wise Person
 

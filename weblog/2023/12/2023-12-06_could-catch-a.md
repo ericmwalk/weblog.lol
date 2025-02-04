@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-12-06 07:50:47
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/12/06/could-catch-a.html
 ---
 
@@ -9,4 +10,4 @@ Could catch a little bit of the sunrise on my [run](https://strava.com/activitie
 
 
 
-<img src="uploads/2023/a6cd0cf308.jpg" width="600" height="450" alt="">
+![](https://ericmwalk.blog/uploads/2023/a6cd0cf308.jpg)

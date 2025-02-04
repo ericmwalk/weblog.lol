@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2021-12-14 11:15:10
-tags: "Status"
+tags: 
 url: https://ericmwalk.blog/2021/12/14/checking-my-site.html
 ---
 

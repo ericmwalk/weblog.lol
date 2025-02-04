@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2012-06-28 09:14:21
 url: https://ericmwalk.blog/2012/06/28/perfect-day-today.html

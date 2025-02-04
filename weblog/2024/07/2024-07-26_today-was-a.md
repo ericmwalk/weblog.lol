@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-07-26 09:00:21
-tags: "Running"
-permalink: /2024/07/26/today-was-a
+tags: Running
 url: https://ericmwalk.blog/2024/07/26/today-was-a.html
 ---
 

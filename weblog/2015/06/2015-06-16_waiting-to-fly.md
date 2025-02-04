@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2015-06-16 16:02:23
 url: https://ericmwalk.blog/2015/06/16/waiting-to-fly.html

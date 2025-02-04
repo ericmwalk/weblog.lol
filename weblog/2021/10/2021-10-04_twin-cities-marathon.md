@@ -2,7 +2,7 @@
 title: "2021 Twin Cities Marathon Recap"
 publish: "true"
 date: 2021-10-04 12:51:48
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2021/10/04/twin-cities-marathon.html
 ---
 

@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2023-02-19 10:59:25
 url: https://ericmwalk.blog/2023/02/19/great-day-of.html

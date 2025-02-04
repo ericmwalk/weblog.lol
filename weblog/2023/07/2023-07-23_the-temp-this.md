@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-07-23 08:47:27
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/07/23/the-temp-this.html
 ---
 

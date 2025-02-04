@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2021-07-31 20:26:23
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2021/07/31/this-air-quality.html
 ---
 

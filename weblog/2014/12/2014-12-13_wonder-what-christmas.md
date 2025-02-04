@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2014-12-13 11:02:51
 url: https://ericmwalk.blog/2014/12/13/wonder-what-christmas.html

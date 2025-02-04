@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2022-04-10 15:59:39
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2022/04/10/explore-a-whole.html
 ---
 

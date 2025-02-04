@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2023-08-27 11:27:38
 url: https://ericmwalk.blog/2023/08/27/good-way-to.html

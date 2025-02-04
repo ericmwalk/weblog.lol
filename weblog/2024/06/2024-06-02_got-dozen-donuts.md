@@ -1,7 +1,7 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-06-02 09:49:24
-permalink: /2024/06/02/got-dozen-donuts
 url: https://ericmwalk.blog/2024/06/02/got-dozen-donuts.html
 ---
 

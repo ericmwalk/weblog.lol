@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2013-05-12 20:09:48
 url: https://ericmwalk.blog/2013/05/12/pretending-to-be.html

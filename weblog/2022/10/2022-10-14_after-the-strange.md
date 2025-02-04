@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2022-10-14 22:12:58
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2022/10/14/after-the-strange.html
 ---
 

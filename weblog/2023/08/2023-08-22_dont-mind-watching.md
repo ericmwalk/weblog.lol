@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2023-08-22 18:44:56
 url: https://ericmwalk.blog/2023/08/22/dont-mind-watching.html

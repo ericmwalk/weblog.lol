@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2023-12-08 19:12:39
 url: https://ericmwalk.blog/2023/12/08/first-apple-watch.html

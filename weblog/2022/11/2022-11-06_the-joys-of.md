@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2022-11-06 12:23:51
 url: https://ericmwalk.blog/2022/11/06/the-joys-of.html

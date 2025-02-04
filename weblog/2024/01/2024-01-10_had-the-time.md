@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-01-10 17:06:40
-tags: "Running"
-permalink: /2024/01/10/had-the-time
+tags: Running
 url: https://ericmwalk.blog/2024/01/10/had-the-time.html
 ---
 

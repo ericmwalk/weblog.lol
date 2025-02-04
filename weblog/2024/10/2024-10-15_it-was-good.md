@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-10-15 21:34:00
-tags: "Running"
-permalink: /2024/10/15/it-was-good
+tags: Running
 url: https://ericmwalk.blog/2024/10/15/it-was-good.html
 ---
 

@@ -1,8 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2024-11-24 22:04:15
-tags: "Backyard Rink"
-permalink: /2024/11/24/i-might-have
+tags: BackyardRink, BackyardRink
 url: https://ericmwalk.blog/2024/11/24/i-might-have.html
 ---
 

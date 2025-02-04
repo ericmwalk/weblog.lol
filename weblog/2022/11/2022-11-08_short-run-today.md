@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2022-11-08 21:37:22
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2022/11/08/short-run-today.html
 ---
 

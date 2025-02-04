@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2016-09-08 20:45:42
 url: https://ericmwalk.blog/2016/09/08/guitar-boo.html

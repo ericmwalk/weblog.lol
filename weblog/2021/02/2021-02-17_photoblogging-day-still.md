@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2021-02-17 23:47:02
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2021/02/17/photoblogging-day-still.html
 ---
 

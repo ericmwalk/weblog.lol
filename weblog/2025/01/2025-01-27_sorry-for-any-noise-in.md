@@ -1,8 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2025-01-27
 tags: Obsidian, weblog
-permalink: /2025/01/27/sorry-for-any-noise-in
 url: https://ericmwalk.blog/2025/01/27/sorry-for-any-noise-in.html
 ---
 

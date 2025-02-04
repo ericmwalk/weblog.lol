@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2022-02-03 17:05:32
 url: https://ericmwalk.blog/2022/02/03/for-some-reason.html

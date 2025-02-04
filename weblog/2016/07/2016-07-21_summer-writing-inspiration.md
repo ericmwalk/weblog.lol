@@ -1,10 +1,9 @@
 ---
+title: "Summer Writing Inspiration"
 publish: "true"
 date: 2016-07-21 06:05:00
 url: https://ericmwalk.blog/2016/07/21/summer-writing-inspiration.html
 ---
-
-# Summer Writing Inspiration
 
 I was on a good streak for a while there, at least it was a good streak for me.  Then June came and went and it is almost halfway through July and I really haven't written much on my site at all.  That is not to say I haven't posted anything as I have made a point to post something every week for the <a href="hhttps://ericmwalk.blog/categories/wordless-wednesday/">Wordless Wednesday</a>.  I have actually found this task enjoyable as I search through all of our old photos (<em>172,939 as of 07/20/2016</em>) and find something I feel is interesting to share.  Then I try to remember/figure out where I exactly was when I took the picture.  I really should expand on my photo searching topic and write more about the full experience instead of a caption.  Lately, I just haven't found the <del>time</del> motivation to write much more than a caption so it fits perfectly into how I have adapted the Wordless Wednesday.
 

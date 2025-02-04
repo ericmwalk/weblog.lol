@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-08-21 13:44:44
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/08/21/decided-to-stretch.html
 ---
 

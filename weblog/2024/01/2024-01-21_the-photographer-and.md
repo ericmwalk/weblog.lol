@@ -1,7 +1,7 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-01-21 16:29:00
-permalink: /2024/01/21/the-photographer-and
 url: https://ericmwalk.blog/2024/01/21/the-photographer-and.html
 ---
 

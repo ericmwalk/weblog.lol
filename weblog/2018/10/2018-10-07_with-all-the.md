@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2018-10-07 19:46:16
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2018/10/07/with-all-the.html
 ---
 

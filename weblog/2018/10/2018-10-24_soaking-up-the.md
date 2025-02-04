@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2018-10-24 18:27:53
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2018/10/24/soaking-up-the.html
 ---
 

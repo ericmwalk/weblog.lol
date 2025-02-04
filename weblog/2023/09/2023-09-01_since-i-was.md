@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-09-01 09:24:36
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/09/01/since-i-was.html
 ---
 

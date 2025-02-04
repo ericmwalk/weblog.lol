@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-04-08 19:53:13
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/04/08/couldnt-avoid-the.html
 ---
 

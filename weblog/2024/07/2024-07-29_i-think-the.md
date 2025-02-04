@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-07-29 22:48:13
-tags: "Running"
-permalink: /2024/07/29/i-think-the
+tags: Running
 url: https://ericmwalk.blog/2024/07/29/i-think-the.html
 ---
 

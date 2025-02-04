@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-12-16 23:22:53
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/12/16/boardwalks-bridges-and.html
 ---
 
@@ -9,4 +10,4 @@ Boardwalks, bridges, and really low tunnels. It was a wet one out there but by g
 
 
 
-<img src="uploads/2023/1b87a03c2b.jpg" width="600" height="450" alt=""><img src="uploads/2023/8556998c2e.jpg" width="600" height="450" alt="">
+![](https://ericmwalk.blog/uploads/2023/1b87a03c2b.jpg)![](https://ericmwalk.blog/uploads/2023/8556998c2e.jpg)

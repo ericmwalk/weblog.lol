@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2022-06-02 21:36:49
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2022/06/02/new-favorite-cut.html
 ---
 

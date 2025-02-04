@@ -1,7 +1,7 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-08-01 10:41:26
-permalink: /2024/08/01/nothing-like-a
 url: https://ericmwalk.blog/2024/08/01/nothing-like-a.html
 ---
 

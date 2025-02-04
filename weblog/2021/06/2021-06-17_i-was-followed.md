@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2021-06-17 10:10:00
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2021/06/17/i-was-followed.html
 ---
 

@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2022-04-13 13:30:14
 url: https://ericmwalk.blog/2022/04/13/ran-across-these.html

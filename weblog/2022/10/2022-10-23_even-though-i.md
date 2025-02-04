@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2022-10-23 19:32:04
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2022/10/23/even-though-i.html
 ---
 

@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-02-18 21:53:00
-tags: "Running"
-permalink: /2024/02/18/so-much-nicer
+tags: Running
 url: https://ericmwalk.blog/2024/02/18/so-much-nicer.html
 ---
 

@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-03-14 16:25:36
-tags: "Running"
-permalink: /2024/03/14/some-days-it
+tags: Running
 url: https://ericmwalk.blog/2024/03/14/some-days-it.html
 ---
 

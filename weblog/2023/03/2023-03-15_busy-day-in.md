@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2023-03-15 14:28:37
 url: https://ericmwalk.blog/2023/03/15/busy-day-in.html

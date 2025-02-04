@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-09-27 19:24:51
-tags: "Running"
-permalink: /2024/09/27/foggy-morning-run
+tags: Running
 url: https://ericmwalk.blog/2024/09/27/foggy-morning-run.html
 ---
 

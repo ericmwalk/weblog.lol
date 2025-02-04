@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-03-01 20:15:25
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/03/01/realized-i-had.html
 ---
 

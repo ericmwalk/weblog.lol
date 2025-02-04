@@ -1,8 +1,8 @@
 ---
+title: 
 publish: "true"
 tags: Running
 date: 2025-01-10
-permalink: 2025/01/10/i-felt-like-i-had
 url: https://ericmwalk.blog/2025/01/10/i-felt-like-i-had.html
 Date & Time: Jan 10, 2025 at 7:45 AM
 Distance: 5.03mi || 8.1km

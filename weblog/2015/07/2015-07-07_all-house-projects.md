@@ -1,11 +1,10 @@
 ---
+title: "All house projects are not created equal - Replacing interior Doors"
 publish: "true"
 date: 2015-07-07 09:31:47
 tags: HouseProjects, blogging101
 url: https://ericmwalk.blog/2015/07/07/all-house-projects.html
 ---
-
-# All house projects are not created equal - Replacing interior Doors
 
 Replacing interior doors in your house should not be a hard task to accomplish.  Just measure the rough opening, purchase a new door that should fit in the rough opening, and then install the new door in a matter of minutes.  However, if your house is like mine and you had previous owners like me you will understand why there is nothing "easy" or "standard" when it comes to house projects.
 

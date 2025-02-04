@@ -1,10 +1,9 @@
 ---
+title: "Lake Superior RV Trip 🚐"
 publish: "true"
 date: 2022-06-23 22:28:29
 url: https://ericmwalk.blog/2022/06/23/lake-superior-rv.html
 ---
-
-# Lake Superior RV Trip 🚐
 
 Today starts day 1 of 10 for our Lake Superior RV trip with some friends. This will mark the first long trip we have taken with the RV over the course of multiple days. We are going to be staying at 8 different campsites over the course of 10 days. We will be driving a minimum of 1560 miles through 3 states and 2 countries.
 

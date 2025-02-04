@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2022-12-07 11:25:35
-tags: "Backyard Rink"
+tags: BackyardRink, BackyardRink
 url: https://ericmwalk.blog/2022/12/07/now-that-my.html
 ---
 

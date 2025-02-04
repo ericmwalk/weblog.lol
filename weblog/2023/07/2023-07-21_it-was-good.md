@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-07-21 11:16:58
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/07/21/it-was-good.html
 ---
 

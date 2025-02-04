@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-10-19 08:58:37
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/10/19/mall-rats-run.html
 ---
 

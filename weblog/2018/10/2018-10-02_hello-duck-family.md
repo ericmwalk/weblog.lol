@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2018-10-02 21:08:59
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2018/10/02/hello-duck-family.html
 ---
 

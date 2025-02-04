@@ -1,11 +1,10 @@
 ---
+title: "Quote of the Week - 02.12.16"
 publish: "true"
 date: 2016-02-12 08:00:00
 tags: Running, Quotes, blogging101, Travel, Exploring
 url: https://ericmwalk.blog/2016/02/12/quote-of-the.html
 ---
-
-# Quote of the Week - 02.12.16
 
 >*"You weren't born to just pay bills and die."*
 

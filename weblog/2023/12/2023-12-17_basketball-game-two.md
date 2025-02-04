@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2023-12-17 21:30:00
 url: https://ericmwalk.blog/2023/12/17/basketball-game-two.html
@@ -8,4 +9,4 @@ Basketball Game two of the day watching Iowa State Cyclones Mens play against Fl
 
 
 
-<img src="uploads/2023/221f53448b.jpg" width="600" height="450" alt="">
+![](https://ericmwalk.blog/uploads/2023/221f53448b.jpg)

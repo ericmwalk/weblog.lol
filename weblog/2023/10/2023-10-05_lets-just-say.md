@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-10-05 18:47:33
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/10/05/lets-just-say.html
 ---
 

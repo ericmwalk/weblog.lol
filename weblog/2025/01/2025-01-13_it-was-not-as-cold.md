@@ -1,8 +1,8 @@
 ---
+title: 
 publish: "true"
 date: 2025-01-13
 tags: Running
-permalink: 2025/01/13/it-was-not-as-cold
 url: https://ericmwalk.blog/2025/01/13/it-was-not-as-cold.html
 Date & Time: Jan 13, 2025 at 10:14 AM
 Distance: 6.28mi || 10.1km

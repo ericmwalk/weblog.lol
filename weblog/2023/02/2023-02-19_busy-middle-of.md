@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-02-19 11:56:27
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/02/19/busy-middle-of.html
 ---
 
@@ -9,4 +10,4 @@ Busy middle of the day today with hockey so I had to force myself to get up earl
 
 
 
-<img src="uploads/2023/4a857839e0.jpg" width="600" height="450" alt="">
+![](https://ericmwalk.blog/uploads/2023/4a857839e0.jpg)

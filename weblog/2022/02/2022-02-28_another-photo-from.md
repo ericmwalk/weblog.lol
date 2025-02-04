@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2022-02-28 10:51:00
 url: https://ericmwalk.blog/2022/02/28/another-photo-from.html

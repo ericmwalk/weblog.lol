@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-05-18 21:51:50
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/05/18/smoke-run-i.html
 ---
 

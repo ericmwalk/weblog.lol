@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-04-23 22:04:45
-tags: "Running"
-permalink: /2024/04/23/overcast-day-but
+tags: running
 url: https://ericmwalk.blog/2024/04/23/overcast-day-but.html
 ---
 

@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2022-05-14 22:00:00
 url: https://ericmwalk.blog/2022/05/14/photoblogging-day-fence.html

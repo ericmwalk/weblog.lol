@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2021-12-22 16:51:02
-tags: "Status"
+tags: 
 url: https://ericmwalk.blog/2021/12/22/trying-to-join.html
 ---
 

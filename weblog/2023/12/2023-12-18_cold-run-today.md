@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-12-18 23:32:11
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/12/18/cold-run-today.html
 ---
 
@@ -9,4 +10,4 @@ Cold [run](https://strava.com/activities/10400990697) today but still no snow (o
 
 
 
-<img src="uploads/2023/bdcbc15d61.jpg" width="600" height="450" alt="">
+![](https://ericmwalk.blog/uploads/2023/bdcbc15d61.jpg)

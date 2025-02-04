@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-07-08 21:07:59
-tags: "Running"
-permalink: /2024/07/08/i-regretted-my
+tags: Running
 url: https://ericmwalk.blog/2024/07/08/i-regretted-my.html
 ---
 

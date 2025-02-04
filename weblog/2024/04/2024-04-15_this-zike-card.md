@@ -1,7 +1,7 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-04-15 21:37:18
-permalink: /2024/04/15/this-zike-card
 url: https://ericmwalk.blog/2024/04/15/this-zike-card.html
 ---
 

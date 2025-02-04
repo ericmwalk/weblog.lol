@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-09-10 18:22:03
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/09/10/hindsight-probably-shouldnt.html
 ---
 

@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-10-07 14:26:49
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/10/07/trout-brook-ten.html
 ---
 

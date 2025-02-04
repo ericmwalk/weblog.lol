@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-10-27 14:40:07
-tags: Running
+tags: 
 url: https://ericmwalk.blog/2023/10/27/i-still-like.html
 ---
 

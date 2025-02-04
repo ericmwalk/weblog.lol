@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2022-03-14 15:49:30
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2022/03/14/bridge-building-i.html
 ---
 

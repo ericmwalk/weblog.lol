@@ -1,8 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2024-11-27 04:45:00
-tags: "Backyard Rink"
-permalink: /2024/11/27/flooding-update-decided
+tags: BackyardRink, BackyardRink
 url: https://ericmwalk.blog/2024/11/27/flooding-update-decided.html
 ---
 

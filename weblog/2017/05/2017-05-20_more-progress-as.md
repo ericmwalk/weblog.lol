@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2017-05-20 20:10:16
 url: https://ericmwalk.blog/2017/05/20/more-progress-as.html

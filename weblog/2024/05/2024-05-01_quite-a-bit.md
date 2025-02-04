@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-05-01 20:01:29
-tags: "Running"
-permalink: /2024/05/01/quite-a-bit
+tags: Running
 url: https://ericmwalk.blog/2024/05/01/quite-a-bit.html
 ---
 

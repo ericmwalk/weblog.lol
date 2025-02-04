@@ -1,7 +1,7 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-04-29 06:52:24
-permalink: /2024/04/29/i-really-want
 url: https://ericmwalk.blog/2024/04/29/i-really-want.html
 ---
 

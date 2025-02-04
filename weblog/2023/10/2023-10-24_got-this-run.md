@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-10-24 16:32:31
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/10/24/got-this-run.html
 ---
 

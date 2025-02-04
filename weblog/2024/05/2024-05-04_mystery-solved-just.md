@@ -1,12 +1,10 @@
 ---
-publish: "false"
+title: "Mystery Solved just a NameDrop"
+publish: "true"
 date: 2024-05-04 21:11:33
-tags: "WeblogPoMo2024"
-permalink: /2024/05/04/mystery-solved-just
+tags: WeblogPoMo2024
 url: https://ericmwalk.blog/2024/05/04/mystery-solved-just.html
 ---
-
-# Mystery Solved just a NameDrop
 
 Last night I saw this random animation on my Apple Watch that I had seen once before but had no idea what it meant or why it started. It seemed to be telling me to do what the animation was suggesting but again no idea why. Honestly, it had an eerie sense to it like I was watching something on the show [Severance](https://www.themoviedb.org/tv/95396). This is a screenshot from my watch of what I saw:
 

@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2022-11-28 23:06:24
-tags: "Running"
+tags: running
 url: https://ericmwalk.blog/2022/11/28/lucky-that-i.html
 ---
 

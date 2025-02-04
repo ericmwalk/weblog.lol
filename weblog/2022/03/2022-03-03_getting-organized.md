@@ -1,10 +1,9 @@
 ---
+title: "Getting Organized 🗃"
 publish: "true"
 date: 2022-03-03 11:11:25
 url: https://ericmwalk.blog/2022/03/03/getting-organized.html
 ---
-
-# Getting Organized 🗃
 
 I am not completely there yet but it seems a lot of my other projects as of lately have revolved around this idea of organizing things...
 

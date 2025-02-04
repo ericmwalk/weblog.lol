@@ -1,7 +1,7 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-06-21 22:12:00
-permalink: /2024/06/21/now-this-is
 url: https://ericmwalk.blog/2024/06/21/now-this-is.html
 ---
 

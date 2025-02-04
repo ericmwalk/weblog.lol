@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2022-11-21 12:26:23
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2022/11/21/thankfully-the-sun.html
 ---
 

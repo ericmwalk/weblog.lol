@@ -1,7 +1,7 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-03-12 14:31:41
-permalink: /2024/03/12/i-really-hope
 url: https://ericmwalk.blog/2024/03/12/i-really-hope.html
 ---
 

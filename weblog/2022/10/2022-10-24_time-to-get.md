@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2022-10-24 06:33:23
 url: https://ericmwalk.blog/2022/10/24/time-to-get.html

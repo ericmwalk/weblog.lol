@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-08-26 08:40:08
-tags: "Running"
-permalink: /2024/08/26/the-new-day
+tags: Running
 url: https://ericmwalk.blog/2024/08/26/the-new-day.html
 ---
 

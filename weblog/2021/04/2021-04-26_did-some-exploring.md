@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2021-04-26 21:28:56
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2021/04/26/did-some-exploring.html
 ---
 

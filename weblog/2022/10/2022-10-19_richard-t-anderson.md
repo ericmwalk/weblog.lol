@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2022-10-19 17:11:35
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2022/10/19/richard-t-anderson.html
 ---
 

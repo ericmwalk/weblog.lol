@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2022-09-02 21:31:51
 url: https://ericmwalk.blog/2022/09/02/finally-cooled-off.html

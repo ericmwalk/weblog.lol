@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2023-09-05 14:55:00
 url: https://ericmwalk.blog/2023/09/05/another-summer-is.html

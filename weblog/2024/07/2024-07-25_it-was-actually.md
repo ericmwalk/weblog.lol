@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-07-25 21:47:36
-tags: "Running"
-permalink: /2024/07/25/it-was-actually
+tags: Running
 url: https://ericmwalk.blog/2024/07/25/it-was-actually.html
 ---
 

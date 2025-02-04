@@ -1,12 +1,10 @@
 ---
+title: Setup with Working Copy
 publish: "true"
 Date: 2024-02-04 8:34
 tags: weblog
-permalink: /2024/02/04/setup-with-working-copy
 url: https://ericmwalk.blog/2024/02/04/setup-with-working-copy.html
 ---
-
-# Setup with Working Copy
 
 So I tried to make a post yesterday and had no idea why I didn't see it, figuring it would show up eventually. This morning, when I still didn't see it, it dawned on me. I didn't put the `.md` at the end of it, so the file was never picked up and posted. 🤦‍♂️
 

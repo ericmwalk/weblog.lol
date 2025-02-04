@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-06-27 12:17:27
-tags: "Running"
-permalink: /2024/06/27/i-guess-the
+tags: Running
 url: https://ericmwalk.blog/2024/06/27/i-guess-the.html
 ---
 

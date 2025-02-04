@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-03-29 14:37:19
-tags: "Running"
-permalink: /2024/03/29/friday-morning-unplanned
+tags: Running
 url: https://ericmwalk.blog/2024/03/29/friday-morning-unplanned.html
 ---
 

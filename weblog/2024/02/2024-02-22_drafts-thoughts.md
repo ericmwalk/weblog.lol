@@ -1,11 +1,9 @@
 ---
-publish: "false"
+title: "Drafts Thoughts"
+publish: "true"
 date: 2024-02-22 06:36:00
-permalink: /2024/02/22/drafts-thoughts
 url: https://ericmwalk.blog/2024/02/22/drafts-thoughts.html
 ---
-
-# Drafts Thoughts
 
 I think the idea of drafts still is very compelling but there is a part of me thinking there is just to much it can do and I really just am overwhelmed by all the buttons and sidebars. 🤷‍♂️
 

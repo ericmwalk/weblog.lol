@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2013-08-05 10:48:56
 url: https://ericmwalk.blog/2013/08/05/lunch-stop.html

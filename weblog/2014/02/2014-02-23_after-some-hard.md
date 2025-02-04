@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2014-02-23 16:51:33
 url: https://ericmwalk.blog/2014/02/23/after-some-hard.html

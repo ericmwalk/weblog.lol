@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-02-09 19:46:25
-tags: "Running"
-permalink: /2024/02/09/well-the-ice
+tags: Running
 url: https://ericmwalk.blog/2024/02/09/well-the-ice.html
 ---
 

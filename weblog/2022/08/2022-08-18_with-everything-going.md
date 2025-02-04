@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2022-08-18 21:53:46
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2022/08/18/with-everything-going.html
 ---
 

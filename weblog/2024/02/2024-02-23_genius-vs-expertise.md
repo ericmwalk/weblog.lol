@@ -1,7 +1,7 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-02-23 18:43:14
-permalink: /2024/02/23/genius-vs-expertise
 url: https://ericmwalk.blog/2024/02/23/genius-vs-expertise.html
 ---
 

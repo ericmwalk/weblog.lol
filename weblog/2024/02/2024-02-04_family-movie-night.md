@@ -1,7 +1,7 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-02-04 20:14:14
-permalink: /2024/02/04/family-movie-night
 url: https://ericmwalk.blog/2024/02/04/family-movie-night.html
 ---
 

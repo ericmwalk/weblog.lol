@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2018-09-21 06:44:48
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2018/09/21/found-a-new.html
 ---
 

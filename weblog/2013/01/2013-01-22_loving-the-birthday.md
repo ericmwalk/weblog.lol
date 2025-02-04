@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2013-01-22 23:09:01
 url: https://ericmwalk.blog/2013/01/22/loving-the-birthday.html

@@ -1,11 +1,10 @@
 ---
+title: "Quote of the Week - 01.09.2015"
 publish: "true"
 date: 2015-01-09 07:28:00
 tags: video, Quotes, blogging101
 url: https://ericmwalk.blog/2015/01/09/quote-of-the.html
 ---
-
-# Quote of the Week - 01.09.2015
 
 >"You're either the **author** of your own book or a **character** is someone else's." - Christian Macy
 

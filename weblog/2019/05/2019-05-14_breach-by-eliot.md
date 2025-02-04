@@ -1,11 +1,10 @@
 ---
+title: “Breach” by Eliot Peper
 publish: "true"
 date: 2019-05-14 13:30:00
 tags: books
 url: https://ericmwalk.blog/2019/05/14/breach-by-eliot.html
 ---
-
-# “Breach” by Eliot Peper
 
 [Breach](https://www.amazon.com/Breach-Analog-Novel-Book-3-ebook/dp/B07HHY3MRM/)by Eliot Peper ([@EliotPeper](https://twitter.com/eliotpeper)) was a great ending to the Analog series as it compliments both [Bandwidth](https://ericmwalk.blog/2018/04/01/bandwidth-by-eliot.html) and [Borderless](https://ericmwalk.blog/2018/10/30/borderless-by-eliot.html). Not to jump too far to my conclusion but this is another great book by Eliot and I really enjoy how his books can stand by themselves but are also tied together to make a great series.
 

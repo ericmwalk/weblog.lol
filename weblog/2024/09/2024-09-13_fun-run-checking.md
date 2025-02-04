@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-09-13 21:58:54
-tags: "Running"
-permalink: /2024/09/13/fun-run-checking
+tags: Running
 url: https://ericmwalk.blog/2024/09/13/fun-run-checking.html
 ---
 

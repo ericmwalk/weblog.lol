@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-04-05 19:19:00
-tags: "Running"
-permalink: /2024/04/05/photoblogging-day-i
+tags: Running
 url: https://ericmwalk.blog/2024/04/05/photoblogging-day-i.html
 ---
 

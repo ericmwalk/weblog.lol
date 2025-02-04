@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-03-19 19:27:17
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/03/19/sun-was-out.html
 ---
 

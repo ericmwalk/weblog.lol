@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2021-04-21 14:23:24
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2021/04/21/cant-believe-i.html
 ---
 

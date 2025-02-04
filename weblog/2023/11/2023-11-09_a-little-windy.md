@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-11-09 19:31:44
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/11/09/a-little-windy.html
 ---
 

@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2014-09-02 08:51:33
 url: https://ericmwalk.blog/2014/09/02/first-day-of.html

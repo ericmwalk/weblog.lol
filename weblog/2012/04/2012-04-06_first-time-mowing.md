@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2012-04-06 15:56:24
 url: https://ericmwalk.blog/2012/04/06/first-time-mowing.html

@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2016-05-28 05:48:39
 url: https://ericmwalk.blog/2016/05/28/beautiful-and-quiet.html

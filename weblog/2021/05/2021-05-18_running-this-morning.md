@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2021-05-18 13:51:47
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2021/05/18/running-this-morning.html
 ---
 

@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2021-09-10 21:31:28
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2021/09/10/getting-spoiled-now.html
 ---
 

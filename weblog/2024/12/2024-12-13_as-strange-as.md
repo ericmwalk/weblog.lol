@@ -1,8 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2024-12-13 14:43:00
 tags: Running
-permalink: /2024/12/13/as-strange-as
 url: https://ericmwalk.blog/2024/12/13/as-strange-as.html
 ---
 

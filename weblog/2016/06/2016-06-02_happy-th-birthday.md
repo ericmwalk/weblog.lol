@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2016-06-02 17:26:12
 url: https://ericmwalk.blog/2016/06/02/happy-th-birthday.html

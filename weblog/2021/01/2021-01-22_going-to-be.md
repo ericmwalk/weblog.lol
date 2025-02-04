@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2021-01-22 07:29:00
-tags: "Status"
+tags: Status
 url: https://ericmwalk.blog/2021/01/22/going-to-be.html
 ---
 

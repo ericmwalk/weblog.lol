@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2015-11-23 19:31:11
 url: https://ericmwalk.blog/2015/11/23/busy-evening-outside.html

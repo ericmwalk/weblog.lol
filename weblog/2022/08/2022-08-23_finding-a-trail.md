@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2022-08-23 20:00:00
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2022/08/23/finding-a-trail.html
 ---
 

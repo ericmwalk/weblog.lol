@@ -1,7 +1,7 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-08-20 10:30:39
-permalink: /2024/08/20/new-coffee-day
 url: https://ericmwalk.blog/2024/08/20/new-coffee-day.html
 ---
 

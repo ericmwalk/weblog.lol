@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2022-09-27 15:54:50
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2022/09/27/i-dont-think.html
 ---
 

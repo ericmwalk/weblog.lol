@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2015-06-26 22:45:30
 url: https://ericmwalk.blog/2015/06/26/time-for-some.html

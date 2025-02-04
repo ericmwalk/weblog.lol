@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2022-05-05 21:05:45
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2022/05/05/it-was-another.html
 ---
 

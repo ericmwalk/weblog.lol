@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2018-07-26 08:25:18
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2018/07/26/had-a-guest.html
 ---
 

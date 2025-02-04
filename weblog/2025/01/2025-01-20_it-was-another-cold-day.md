@@ -1,8 +1,8 @@
 ---
+title: 
 publish: "true"
 date: 2025-01-20
 tags: Running
-permalink: 2025/01/20/it-was-another-cold-day
 url: https://ericmwalk.blog/2025/01/20/it-was-another-cold-day.html
 Date & Time: Jan 20, 2025 at 12:37 PM
 Distance: 4.04mi || 6.5km

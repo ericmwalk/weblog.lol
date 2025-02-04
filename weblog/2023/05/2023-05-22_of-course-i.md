@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-05-22 19:02:38
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/05/22/of-course-i.html
 ---
 
@@ -9,4 +10,4 @@ Of course I tried to take the deer trail that followed this stream. It was fun w
 
 
 
-<img src="uploads/2023/f509f77e0f.jpg" width="600" height="450" alt="">
+![](https://ericmwalk.blog/uploads/2023/f509f77e0f.jpg)

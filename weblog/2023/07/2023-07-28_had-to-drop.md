@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-07-28 14:32:51
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/07/28/had-to-drop.html
 ---
 
@@ -9,4 +10,4 @@ Had to drop the dogs off for the weekend and decided to do something productive 
 
 
 
-<img src="uploads/2023/80ce60b2cc.jpg" width="600" height="450" alt="">
+![](https://ericmwalk.blog/uploads/2023/80ce60b2cc.jpg)

@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2018-12-13 22:54:00
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2018/12/13/the-one-nice.html
 ---
 

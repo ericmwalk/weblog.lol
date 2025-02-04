@@ -1,8 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2024-11-12 22:46:44
 tags: Running
-permalink: /2024/11/12/under-the-light
 url: https://ericmwalk.blog/2024/11/12/under-the-light.html
 ---
 

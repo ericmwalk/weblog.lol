@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2021-10-06 12:30:45
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2021/10/06/photoblogging-day-street.html
 ---
 

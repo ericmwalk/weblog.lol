@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2021-12-14 21:47:56
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2021/12/14/seemed-like-a.html
 ---
 

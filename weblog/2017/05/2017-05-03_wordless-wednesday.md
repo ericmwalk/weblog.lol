@@ -1,11 +1,10 @@
 ---
+title: "Wordless Wednesday 05/03"
 publish: "true"
 date: 2017-05-03 18:19:44
 tags: Photos, WordlessWednesday, Travel
 url: https://ericmwalk.blog/2017/05/03/wordless-wednesday.html
 ---
-
-# Wordless Wednesday 05/03
 
 ![](https://ericmwalk.blog/uploads/2022/6c5388451b.jpg)
 *The only path to reach East Quoddy Light is at low tide so you can walk out there, but be careful (July 2004, Campobello Island, NB, CA)*

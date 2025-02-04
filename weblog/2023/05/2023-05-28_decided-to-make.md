@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-05-28 21:06:03
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/05/28/decided-to-make.html
 ---
 

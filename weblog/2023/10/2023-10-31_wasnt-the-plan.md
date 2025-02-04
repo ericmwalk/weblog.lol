@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-10-31 15:37:45
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/10/31/wasnt-the-plan.html
 ---
 

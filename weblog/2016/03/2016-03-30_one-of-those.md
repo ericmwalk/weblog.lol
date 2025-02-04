@@ -1,11 +1,10 @@
 ---
+title: One of those days trilogy
 publish: "true"
 date: 2016-03-30 10:59:00
 tags: video
 url: https://ericmwalk.blog/2016/03/30/one-of-those.html
 ---
-
-# One of those days trilogy
 
 I stumbled across these videos a while back and forgot to share them as they are really amazing, especially if you enjoy skiing.  In fact, the videos don't seem really fitting anymore since all of the snow was gone long ago in Minnesota.
 

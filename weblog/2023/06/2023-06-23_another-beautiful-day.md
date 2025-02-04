@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-06-23 13:17:57
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/06/23/another-beautiful-day.html
 ---
 

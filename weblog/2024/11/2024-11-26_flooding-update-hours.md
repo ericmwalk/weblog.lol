@@ -1,8 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2024-11-26 18:25:00
-tags: "Backyard Rink"
-permalink: /2024/11/26/flooding-update-hours
+tags: BackyardRink, BackyardRink
 url: https://ericmwalk.blog/2024/11/26/flooding-update-hours.html
 ---
 

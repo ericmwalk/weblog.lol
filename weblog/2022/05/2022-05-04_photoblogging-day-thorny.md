@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2022-05-04 11:39:37
 url: https://ericmwalk.blog/2022/05/04/photoblogging-day-thorny.html

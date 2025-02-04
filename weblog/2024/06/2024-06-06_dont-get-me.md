@@ -1,7 +1,7 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-06-06 16:11:43
-permalink: /2024/06/06/dont-get-me
 url: https://ericmwalk.blog/2024/06/06/dont-get-me.html
 ---
 

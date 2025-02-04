@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-08-16 19:19:49
-tags: "Running"
-permalink: /2024/08/16/rainy-miles-this
+tags: Running
 url: https://ericmwalk.blog/2024/08/16/rainy-miles-this.html
 ---
 

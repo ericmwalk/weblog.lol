@@ -1,7 +1,7 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-07-18 07:51:58
-permalink: /2024/07/18/going-to-try
 url: https://ericmwalk.blog/2024/07/18/going-to-try.html
 ---
 

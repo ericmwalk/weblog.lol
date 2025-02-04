@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-03-19 19:54:37
-tags: "Running"
-permalink: /2024/03/19/running-tonight-i
+tags: Running
 url: https://ericmwalk.blog/2024/03/19/running-tonight-i.html
 ---
 

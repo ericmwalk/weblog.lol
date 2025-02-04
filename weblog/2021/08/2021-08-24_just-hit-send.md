@@ -2,7 +2,7 @@
 title: "Just hit send 📨"
 publish: "true"
 date: 2021-08-24 13:51:16
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2021/08/24/just-hit-send.html
 ---
 

@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-01-02 19:43:49
-tags: "Running"
-permalink: /2024/01/02/time-to-start
+tags: running
 url: https://ericmwalk.blog/2024/01/02/time-to-start.html
 ---
 

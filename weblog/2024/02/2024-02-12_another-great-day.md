@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-02-12 21:32:18
-tags: "Running"
-permalink: /2024/02/12/another-great-day
+tags: Running
 url: https://ericmwalk.blog/2024/02/12/another-great-day.html
 ---
 

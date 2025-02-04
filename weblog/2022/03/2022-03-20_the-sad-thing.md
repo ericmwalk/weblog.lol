@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2022-03-20 22:25:16
 url: https://ericmwalk.blog/2022/03/20/the-sad-thing.html

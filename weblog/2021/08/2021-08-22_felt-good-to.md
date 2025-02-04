@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2021-08-22 22:00:56
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2021/08/22/felt-good-to.html
 ---
 

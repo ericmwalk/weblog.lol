@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2021-07-13 21:39:43
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2021/07/13/taking-to-the.html
 ---
 

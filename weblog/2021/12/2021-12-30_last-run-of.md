@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2021-12-30 22:34:05
-tags: "Running"
+tags: running
 url: https://ericmwalk.blog/2021/12/30/last-run-of.html
 ---
 

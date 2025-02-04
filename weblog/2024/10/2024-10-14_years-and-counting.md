@@ -1,7 +1,7 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-10-14 20:16:38
-permalink: /2024/10/14/years-and-counting
 url: https://ericmwalk.blog/2024/10/14/years-and-counting.html
 ---
 

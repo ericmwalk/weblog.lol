@@ -1,8 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2024-12-06 23:04:13
 tags: Running
-permalink: /2024/12/06/i-had-limited
 url: https://ericmwalk.blog/2024/12/06/i-had-limited.html
 ---
 

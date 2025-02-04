@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2022-11-23 08:56:28
 url: https://ericmwalk.blog/2022/11/23/work-up-this.html

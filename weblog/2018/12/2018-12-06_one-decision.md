@@ -2,7 +2,7 @@
 title: "One Decision"
 publish: "true"
 date: 2018-12-06 18:19:00
-tags: "Quotes"
+tags: Quotes
 url: https://ericmwalk.blog/2018/12/06/one-decision.html
 ---
 

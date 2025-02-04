@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-05-14 18:30:34
-tags: "Running"
-permalink: /2024/05/14/sun-was-really
+tags: Running
 url: https://ericmwalk.blog/2024/05/14/sun-was-really.html
 ---
 

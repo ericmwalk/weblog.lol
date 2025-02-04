@@ -1,7 +1,7 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-04-11 21:44:18
-permalink: /2024/04/11/photoblogging-day-luckily
 url: https://ericmwalk.blog/2024/04/11/photoblogging-day-luckily.html
 ---
 

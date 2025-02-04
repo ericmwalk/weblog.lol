@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2021-07-12 09:28:17
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2021/07/12/very-peaceful-and.html
 ---
 

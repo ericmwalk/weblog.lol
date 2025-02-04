@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-02-01 19:06:35
-tags: "Running"
-permalink: /2024/02/01/it-was-short
+tags: Running
 url: https://ericmwalk.blog/2024/02/01/it-was-short.html
 ---
 

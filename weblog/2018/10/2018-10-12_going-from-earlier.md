@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2018-10-12 08:21:48
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2018/10/12/going-from-earlier.html
 ---
 

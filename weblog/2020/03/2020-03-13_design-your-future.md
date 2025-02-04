@@ -1,11 +1,10 @@
 ---
+title: Design Your Future by Dominick Quartuccio
 publish: "true"
 date: 2020-03-13 18:30:00
 tags: books
 url: https://ericmwalk.blog/2020/03/13/design-your-future.html
 ---
-
-# Design Your Future by Dominick Quartuccio
 
 I can never pass up an interesting book and TCK Publishing reached out to me a while back to take a read through a book they had called <a href="https://www.amazon.com/dp/B077K9J6PT">Design Your Future: 3 Simple Steps to Stop Drifting and Start Living by Dominick Quartuccio</a>.
 

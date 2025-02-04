@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2023-07-01 06:58:25
 url: https://ericmwalk.blog/2023/07/01/the-coffee-from.html

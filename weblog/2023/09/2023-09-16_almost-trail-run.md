@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-09-16 22:17:43
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/09/16/almost-trail-run.html
 ---
 

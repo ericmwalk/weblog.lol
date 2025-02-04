@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2014-07-17 15:54:38
 url: https://ericmwalk.blog/2014/07/17/another-afternoon-sugar.html

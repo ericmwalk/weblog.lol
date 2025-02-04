@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-01-25 21:49:42
-tags: "Running"
-permalink: /2024/01/25/this-crazy-weather
+tags: Running
 url: https://ericmwalk.blog/2024/01/25/this-crazy-weather.html
 ---
 

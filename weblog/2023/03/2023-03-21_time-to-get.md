@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-03-21 12:59:13
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/03/21/time-to-get.html
 ---
 

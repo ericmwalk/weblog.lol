@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2015-03-28 21:28:02
 url: https://ericmwalk.blog/2015/03/28/great-day-hanging.html

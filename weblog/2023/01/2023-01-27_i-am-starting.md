@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2023-01-27 14:00:04
 url: https://ericmwalk.blog/2023/01/27/i-am-starting.html
@@ -8,4 +9,4 @@ I am starting to think this is the the plan from Evernote… Email me daily to s
 
 
 
-<img src="uploads/2023/669539897d.jpg" width="600" height="591" alt="">
+![](https://ericmwalk.blog/uploads/2023/669539897d.jpg)

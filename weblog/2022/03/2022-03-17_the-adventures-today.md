@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2022-03-17 21:36:06
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2022/03/17/the-adventures-today.html
 ---
 

@@ -1,8 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2025-01-28 15:48
-tags:
-  - Running
+tags: Running
 url: https://ericmwalk.blog/2025/01/28/it-was-an-amazing-day.html
 Strava link: https://strava.com/activities/13480298187
 ---

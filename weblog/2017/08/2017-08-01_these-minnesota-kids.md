@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2017-08-01 22:06:23
 url: https://ericmwalk.blog/2017/08/01/these-minnesota-kids.html

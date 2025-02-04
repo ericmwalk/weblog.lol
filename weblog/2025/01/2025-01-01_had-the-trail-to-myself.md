@@ -1,8 +1,8 @@
 ---
+title: 
 publish: "true"
 date: 2025-01-01
 tags: Running
-permalink: /2025/01/01/had-the-trail-to-myself
 url: https://ericmwalk.blog/2025/01/01/had-the-trail-to-myself.html
 ---
 

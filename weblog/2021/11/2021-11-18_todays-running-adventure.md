@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2021-11-18 17:54:10
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2021/11/18/todays-running-adventure.html
 ---
 

@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-10-17 21:58:11
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/10/17/finding-my-way.html
 ---
 

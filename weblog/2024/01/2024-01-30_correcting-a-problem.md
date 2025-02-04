@@ -1,7 +1,7 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-01-30 19:08:05
-permalink: /2024/01/30/correcting-a-problem
 url: https://ericmwalk.blog/2024/01/30/correcting-a-problem.html
 ---
 

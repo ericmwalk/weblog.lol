@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2021-02-26 23:23:36
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2021/02/26/photoblogging-day-favorite.html
 ---
 

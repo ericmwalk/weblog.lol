@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2023-03-26 19:36:58
 url: https://ericmwalk.blog/2023/03/26/first-time-taking.html

@@ -1,11 +1,10 @@
 ---
+title: "Rise of Audiobooks"
 publish: "true"
 date: 2020-02-13 16:45:00
 tags: books, BloggingMeetup
 url: https://ericmwalk.blog/2020/02/13/rise-of-audiobooks.html
 ---
-
-# Rise of Audiobooks
 
 These days most of the reading I do is listening to someone read me a book. I have written about this before but I came across a tweet by <a href="https://jamesclear.com">James Clear</a> laying out that audio is the biggest trend in books.
 

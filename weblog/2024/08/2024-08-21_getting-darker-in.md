@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-08-21 14:15:41
-tags: "Running"
-permalink: /2024/08/21/getting-darker-in
+tags: Running
 url: https://ericmwalk.blog/2024/08/21/getting-darker-in.html
 ---
 

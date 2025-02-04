@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-03-01 23:00:46
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/03/01/wasnt-many-tracks.html
 ---
 
@@ -9,4 +10,4 @@ Wasn’t many tracks out there today after the snowfall this morning. I did try 
 
 
 
-<img src="uploads/2023/776a9a7891.jpg" width="600" height="450" alt="">
+![](https://ericmwalk.blog/uploads/2023/776a9a7891.jpg)

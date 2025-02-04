@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2022-08-17 22:05:37
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2022/08/17/fitting-the-clouds.html
 ---
 

@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2022-04-23 20:51:23
-tags: "Running"
+tags: running
 url: https://ericmwalk.blog/2022/04/23/good-thing-we.html
 ---
 

@@ -1,7 +1,7 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-07-06 22:26:29
-permalink: /2024/07/06/first-time-playing
 url: https://ericmwalk.blog/2024/07/06/first-time-playing.html
 ---
 

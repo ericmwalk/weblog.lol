@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2021-06-20 22:28:52
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2021/06/20/happy-fathers-day.html
 ---
 

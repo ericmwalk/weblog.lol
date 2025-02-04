@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2022-07-30 19:42:03
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2022/07/30/exploring-bar-island.html
 ---
 

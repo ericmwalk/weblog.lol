@@ -2,7 +2,7 @@
 title: "Air Travel in Real Life by Tripp and Tyler"
 publish: "true"
 date: 2018-01-16 17:47:00
-tags: "video"
+tags: video
 url: https://ericmwalk.blog/2018/01/16/air-travel-in.html
 ---
 

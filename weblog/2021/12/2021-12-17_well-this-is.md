@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2021-12-17 10:58:34
-tags: "Status"
+tags: 
 url: https://ericmwalk.blog/2021/12/17/well-this-is.html
 ---
 

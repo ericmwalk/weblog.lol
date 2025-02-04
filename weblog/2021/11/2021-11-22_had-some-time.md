@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2021-11-22 13:05:10
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2021/11/22/had-some-time.html
 ---
 

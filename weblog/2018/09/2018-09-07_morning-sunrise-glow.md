@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2018-09-07 13:45:58
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2018/09/07/morning-sunrise-glow.html
 ---
 

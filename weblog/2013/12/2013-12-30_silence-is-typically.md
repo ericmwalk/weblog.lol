@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2013-12-30 22:46:44
 url: https://ericmwalk.blog/2013/12/30/silence-is-typically.html

@@ -1,8 +1,8 @@
 ---
+title: 
 publish: "true"
 date: 2025-01-21
-tags: Project Shed
-permalink: 2025/01/21/today-feels-like-an-inside
+tags: ProjectShed
 url: https://ericmwalk.blog/2025/01/21/today-feels-like-an-inside.html
 ---
 

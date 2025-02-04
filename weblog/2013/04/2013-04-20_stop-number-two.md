@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2013-04-20 18:21:46
 url: https://ericmwalk.blog/2013/04/20/stop-number-two.html

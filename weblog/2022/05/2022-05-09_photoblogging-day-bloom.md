@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2022-05-09 20:32:25
 url: https://ericmwalk.blog/2022/05/09/photoblogging-day-bloom.html

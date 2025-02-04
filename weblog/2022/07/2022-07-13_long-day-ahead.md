@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2022-07-13 07:10:00
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2022/07/13/long-day-ahead.html
 ---
 

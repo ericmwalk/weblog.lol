@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-03-07 08:07:38
-tags: "Running"
-permalink: /2024/03/07/well-this-was
+tags: Running
 url: https://ericmwalk.blog/2024/03/07/well-this-was.html
 ---
 

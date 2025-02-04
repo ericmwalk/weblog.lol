@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2022-09-25 15:31:31
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2022/09/25/had-to-motivate.html
 ---
 

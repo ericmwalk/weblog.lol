@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2021-10-26 18:30:05
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2021/10/26/photoblogging-day-bliss.html
 ---
 

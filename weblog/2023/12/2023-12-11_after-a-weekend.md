@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-12-11 23:00:24
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/12/11/after-a-weekend.html
 ---
 
@@ -9,4 +10,4 @@ After a weekend off I was glad to be able to get this [run](https://strava.com/a
 
 
 
-<img src="uploads/2023/0c94922605.jpg" width="600" height="450" alt="">
+![](https://ericmwalk.blog/uploads/2023/0c94922605.jpg)

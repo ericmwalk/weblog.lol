@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-09-05 21:29:30
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/09/05/took-a-half.html
 ---
 

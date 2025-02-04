@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2021-07-02 14:02:57
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2021/07/02/beautiful-morning-to.html
 ---
 

@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2017-06-11 14:39:19
-tags: "Exploring"
+tags: Exploring
 url: https://ericmwalk.blog/2017/06/11/detour-on-our.html
 ---
 

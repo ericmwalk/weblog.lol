@@ -1,11 +1,10 @@
 ---
+title: How Connected We Could be
 publish: "true"
 date: 2019-05-31 15:15:00
 tags: 
 url: https://ericmwalk.blog/2019/05/31/how-connected-we.html
 ---
-
-# How Connected We Could be
 
 *First I want to caveat this as there is not any detailed research or analysis done on this topic other than my own observations over the past week while traveling in China. In fact, I am currently writing this while flying back to the US and probably won't spend a lot of time editing it or polishing it up. Just some random observations.*
 

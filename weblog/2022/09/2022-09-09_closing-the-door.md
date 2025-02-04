@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2022-09-09 21:30:38
 url: https://ericmwalk.blog/2022/09/09/closing-the-door.html

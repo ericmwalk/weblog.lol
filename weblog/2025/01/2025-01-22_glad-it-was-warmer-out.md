@@ -1,8 +1,8 @@
 ---
+title: 
 publish: "true"
 date: 2025-01-22
 tags: Running
-permalink: 2025/01/22/glad-it-was-warmer-out
 url: https://ericmwalk.blog/2025/01/22/glad-it-was-warmer-out.html
 ---
 

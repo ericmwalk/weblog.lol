@@ -1,8 +1,8 @@
 ---
+title: 
 publish: "true"
 date: 2025-01-17
 tags: Running
-permalink: 2025/01/17/morning-run-and-the-weather
 url: https://ericmwalk.blog/2025/01/17/morning-run-and-the-weather.html
 Date & Time: Jan 17, 2025 at 7:21 AM
 Distance: 9.07mi || 14.6km

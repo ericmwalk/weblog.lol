@@ -1,10 +1,9 @@
 ---
+title: "Now that's different"
 publish: "true"
 date: 2014-10-13 07:32:00
 url: https://ericmwalk.blog/2014/10/13/now-thats-different.html
 ---
-
-# Now that's different
 
 If you have followed along you might have realized I have posted more often.  You might have also noticed that I am not always writing a lot and just posting interesting things (e.g., videos, writings, quotes).
 

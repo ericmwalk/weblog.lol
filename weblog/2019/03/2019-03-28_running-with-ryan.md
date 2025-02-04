@@ -1,11 +1,10 @@
 ---
+title: Running with Ryan Van Duzer
 publish: "true"
 date: 2019-03-28 16:15:00
 tags: Running, videos
 url: https://ericmwalk.blog/2019/03/28/running-with-ryan.html
 ---
-
-# Running with Ryan Van Duzer
 
 As you can probably tell from other things I post about on Social Media or this site, I really do enjoy running. It is something that got lost on me for a long period of time in my life but has really made its way back into my daily routine over the last three of years [Back to Running](https://ericmwalk.blog/2016/02/09/back-to-running.html).
 

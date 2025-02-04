@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2022-05-19 20:26:08
 url: https://ericmwalk.blog/2022/05/19/photoblogging-day-indulgence.html

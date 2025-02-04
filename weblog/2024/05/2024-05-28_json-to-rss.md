@@ -1,12 +1,10 @@
 ---
-publish: "false"
+title: "JSON to RSS for Micro.blog"
+publish: "true"
 date: 2024-05-28 20:48:09
-tags: "Running"
-permalink: /2024/05/28/json-to-rss
+tags: Running
 url: https://ericmwalk.blog/2024/05/28/json-to-rss.html
 ---
-
-# JSON to RSS for Micro.blog
 
 This started out long ago from a post I saw from Sven Dahlstrand ([@sod](https://micro.blog/sod)) where he had posted or replied to a post that he created a JSON feed that included at the bottom of each post where you could [reply in Micro.blog](https://micro.blog.via.dahlstrand.net/). This was a great news for me as I got to the point where I like to catch up every now and then on what is going on in my Timeline of Micro.blog but with out some sort of sync I wanted everything to just live in my RSS reader of choice. However, I was quickly sad that my current RSS process / application (*FreshRSS*) did not support JSON feeds.
 

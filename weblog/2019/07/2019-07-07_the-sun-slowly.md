@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2019-07-07 21:35:00
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2019/07/07/the-sun-slowly.html
 ---
 

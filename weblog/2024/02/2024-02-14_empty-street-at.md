@@ -1,7 +1,7 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-02-14 09:02:07
-permalink: /2024/02/14/empty-street-at
 url: https://ericmwalk.blog/2024/02/14/empty-street-at.html
 ---
 

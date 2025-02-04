@@ -1,11 +1,10 @@
 ---
+title: "How long do you help out a previous employer?"
 publish: "true"
 date: 2015-07-09 09:32:57
-tags: "blogging101"
+tags: blogging101
 url: https://ericmwalk.blog/2015/07/09/how-long-do.html
 ---
-
-# How long do you help out a previous employer?
 
 At what point is it unreasonable for a previous employer to continue asking questions of you?  I was gone for over 4 months and I still receive questions.
 

@@ -1,7 +1,7 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-06-01 12:39:00
-permalink: /2024/06/01/i-might-have
 url: https://ericmwalk.blog/2024/06/01/i-might-have.html
 ---
 

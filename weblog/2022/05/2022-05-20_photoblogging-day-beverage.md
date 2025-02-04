@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2022-05-20 22:26:13
 url: https://ericmwalk.blog/2022/05/20/photoblogging-day-beverage.html

@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2021-06-24 23:14:41
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2021/06/25/in-todays-running.html
 ---
 

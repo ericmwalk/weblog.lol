@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2021-12-22 20:00:22
-tags: "Running"
+tags: running
 url: https://ericmwalk.blog/2021/12/22/chanhassen-really-likes.html
 ---
 

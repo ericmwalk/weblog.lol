@@ -1,7 +1,7 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-03-17 21:04:42
-permalink: /2024/03/17/took-the-girls
 url: https://ericmwalk.blog/2024/03/17/took-the-girls.html
 ---
 

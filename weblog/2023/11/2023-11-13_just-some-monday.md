@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-11-13 14:47:00
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/11/13/just-some-monday.html
 ---
 

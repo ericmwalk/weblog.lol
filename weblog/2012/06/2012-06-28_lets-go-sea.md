@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2012-06-28 20:41:28
 url: https://ericmwalk.blog/2012/06/28/lets-go-sea.html

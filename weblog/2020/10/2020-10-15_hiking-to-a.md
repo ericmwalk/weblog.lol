@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2020-10-15 20:17:18
 url: https://ericmwalk.blog/2020/10/15/hiking-to-a.html

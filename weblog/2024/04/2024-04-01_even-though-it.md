@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-04-01 21:39:32
-tags: "Running"
-permalink: /2024/04/01/even-though-it
+tags: Running
 url: https://ericmwalk.blog/2024/04/01/even-though-it.html
 ---
 

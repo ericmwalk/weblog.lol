@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-01-08 22:06:52
-tags: "Running"
-permalink: /2024/01/08/making-fresh-tracks
+tags: Running
 url: https://ericmwalk.blog/2024/01/08/making-fresh-tracks.html
 ---
 

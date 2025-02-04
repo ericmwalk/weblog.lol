@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-04-22 14:03:57
-tags: "Running"
-permalink: /2024/04/22/the-seemingly-permanent
+tags: running
 url: https://ericmwalk.blog/2024/04/22/the-seemingly-permanent.html
 ---
 

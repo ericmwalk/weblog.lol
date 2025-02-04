@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2022-08-10 17:18:28
 url: https://ericmwalk.blog/2022/08/10/finished-reading-holy.html

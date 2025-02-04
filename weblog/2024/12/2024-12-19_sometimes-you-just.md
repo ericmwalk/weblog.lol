@@ -1,8 +1,7 @@
 ---
 title: 
 publish: "true"
-date: 2024-12-19 08:39
-permalink: /2024/12/19/sometimes-you-just
+date: 2024-12-19 08:39:58
 url: https://ericmwalk.blog/2024/12/19/sometimes-you-just.html
 ---
 

@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2018-09-12 13:33:49
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2018/09/12/some-interesting-looking.html
 ---
 

@@ -1,7 +1,7 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-01-24 11:12:56
-permalink: /2024/01/24/remember-that-time
 url: https://ericmwalk.blog/2024/01/24/remember-that-time.html
 ---
 

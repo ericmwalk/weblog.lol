@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2022-08-09 07:00:47
-tags: "Project Shed"
+tags: ProjectShed
 url: https://ericmwalk.blog/2022/08/09/another-task-partially.html
 ---
 

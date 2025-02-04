@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2015-07-24 15:28:24
 url: https://ericmwalk.blog/2015/07/24/sometimes-you-have.html

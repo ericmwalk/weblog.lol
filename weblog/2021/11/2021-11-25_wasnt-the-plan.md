@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2021-11-25 15:40:31
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2021/11/25/wasnt-the-plan.html
 ---
 

@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2021-10-03 20:08:34
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2021/10/03/photoblogging-day-majority.html
 ---
 

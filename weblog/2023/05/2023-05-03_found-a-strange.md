@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-05-03 22:43:59
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/05/03/found-a-strange.html
 ---
 

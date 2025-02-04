@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2016-04-22 05:22:31
-tags: "Running"
+tags: running
 url: https://ericmwalk.blog/2016/04/22/running-this-morning.html
 ---
 

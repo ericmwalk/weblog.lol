@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2018-06-22 06:19:35
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2018/06/22/as-much-fun.html
 ---
 

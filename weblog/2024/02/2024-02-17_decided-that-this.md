@@ -1,7 +1,7 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-02-17 21:11:00
-permalink: /2024/02/17/decided-that-this
 url: https://ericmwalk.blog/2024/02/17/decided-that-this.html
 ---
 

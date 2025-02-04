@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2022-09-04 21:34:40
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2022/09/04/wasnt-even-sure.html
 ---
 

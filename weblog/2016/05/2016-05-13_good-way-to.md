@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2016-05-13 06:17:36
 url: https://ericmwalk.blog/2016/05/13/good-way-to.html

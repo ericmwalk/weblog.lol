@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-07-06 22:32:54
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/07/06/trails-convinced-my.html
 ---
 

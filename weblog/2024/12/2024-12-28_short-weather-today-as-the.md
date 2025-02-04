@@ -1,8 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2024-12-28 21:41:56
 tags: Running
-permalink: /2024/12/28/short-weather-today-as-the
 url: https://ericmwalk.blog/2024/12/28/short-weather-today-as-the.html
 ---
 

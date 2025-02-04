@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2022-02-28 10:50:41
 url: https://ericmwalk.blog/2022/02/28/my-wife-captured.html

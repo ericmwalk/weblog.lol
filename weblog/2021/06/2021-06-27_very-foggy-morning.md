@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2021-06-27 22:07:58
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2021/06/27/very-foggy-morning.html
 ---
 

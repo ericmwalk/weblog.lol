@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-09-04 22:40:41
-tags: "Running"
-permalink: /2024/09/04/nothing-about-this
+tags: Running
 url: https://ericmwalk.blog/2024/09/04/nothing-about-this.html
 ---
 

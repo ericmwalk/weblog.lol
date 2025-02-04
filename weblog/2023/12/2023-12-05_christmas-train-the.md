@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-12-05 21:43:52
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/12/05/christmas-train-the.html
 ---
 
@@ -9,4 +10,4 @@ Christmas Train 🎄🚂... The Eastern Promenade Trail sure was slick out this 
 
 
 
-<img src="uploads/2023/6254ac7fcd.jpg" width="600" height="450" alt="">
+![](https://ericmwalk.blog/uploads/2023/6254ac7fcd.jpg)

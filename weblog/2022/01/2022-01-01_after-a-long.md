@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2022-01-01 20:56:00
 url: https://ericmwalk.blog/2022/01/01/after-a-long.html

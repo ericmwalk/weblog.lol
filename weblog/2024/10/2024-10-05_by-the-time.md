@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-10-05 14:27:22
-tags: "Running"
-permalink: /2024/10/05/by-the-time
+tags: Running
 url: https://ericmwalk.blog/2024/10/05/by-the-time.html
 ---
 

@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2023-05-26 20:25:04
 url: https://ericmwalk.blog/2023/05/26/camper-yard-mowed.html

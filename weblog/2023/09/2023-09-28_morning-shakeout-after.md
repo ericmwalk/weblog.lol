@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-09-28 14:03:00
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/09/28/morning-shakeout-after.html
 ---
 

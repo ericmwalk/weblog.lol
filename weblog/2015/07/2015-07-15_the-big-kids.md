@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2015-07-15 22:03:46
 url: https://ericmwalk.blog/2015/07/15/the-big-kids.html

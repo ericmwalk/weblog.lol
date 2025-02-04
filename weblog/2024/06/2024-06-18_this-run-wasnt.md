@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-06-18 12:16:46
-tags: "Running"
-permalink: /2024/06/18/this-run-wasnt
+tags: Running
 url: https://ericmwalk.blog/2024/06/18/this-run-wasnt.html
 ---
 

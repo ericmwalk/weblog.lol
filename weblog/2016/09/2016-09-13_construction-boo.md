@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2016-09-13 21:54:10
 url: https://ericmwalk.blog/2016/09/13/construction-boo.html

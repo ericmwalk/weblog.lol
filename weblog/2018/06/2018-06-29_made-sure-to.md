@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2018-06-29 07:44:59
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2018/06/29/made-sure-to.html
 ---
 

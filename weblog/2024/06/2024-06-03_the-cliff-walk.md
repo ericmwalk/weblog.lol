@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-06-03 15:15:52
-tags: "Running"
-permalink: /2024/06/03/the-cliff-walk
+tags: Running
 url: https://ericmwalk.blog/2024/06/03/the-cliff-walk.html
 ---
 

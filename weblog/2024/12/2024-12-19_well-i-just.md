@@ -1,7 +1,7 @@
 ---
+title: ""
 publish: "true"
 date: 2024-12-19 22:42:57
-permalink: /2024/12/19/well-i-just
 url: https://ericmwalk.blog/2024/12/19/well-i-just.html
 ---
 

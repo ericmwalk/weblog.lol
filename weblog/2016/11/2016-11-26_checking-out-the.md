@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2016-11-26 18:36:43
 url: https://ericmwalk.blog/2016/11/26/checking-out-the.html

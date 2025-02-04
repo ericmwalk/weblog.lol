@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-12-14 23:21:15
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/12/14/had-some-time.html
 ---
 
@@ -9,4 +10,4 @@ Had some time and with the warmer than normal weather I took it as an opportunit
 
 
 
-<img src="uploads/2023/9f47718ce1.jpg" width="600" height="450" alt=""><img src="uploads/2023/a490e91f97.jpg" width="600" height="450" alt="">
+![](https://ericmwalk.blog/uploads/2023/9f47718ce1.jpg)![](https://ericmwalk.blog/uploads/2023/a490e91f97.jpg)

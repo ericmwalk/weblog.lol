@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2022-08-27 21:23:06
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2022/08/27/misery-loves-company.html
 ---
 

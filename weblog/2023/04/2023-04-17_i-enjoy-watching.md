@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2023-04-17 17:43:54
 url: https://ericmwalk.blog/2023/04/17/i-enjoy-watching.html

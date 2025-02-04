@@ -1,12 +1,10 @@
 ---
+title: Spending time with Weblog
 publish: "true"
 Date: 2024-02-02 17:15
 tags: weblog
-permalink: /2024/02/02/spending-time-with-weblog
 url: https://ericmwalk.blog/2024/02/02/spending-time-with-weblog.html
 ---
-
-# Spending time with Weblog
 
 I have spent way more time than I would like to admit messing around with weblog.lol today. However, I am pleased with the overall result as I have a *working* website with an updated theme that I am happy with in the direction it is taking. I jokingly say *working* because for the life of me, the box below I cannot get to format right, no matter what I do. However, if you look at it now, it probably looks good enough that no one will be the wiser on how much effort I spent tinkering with it.
 

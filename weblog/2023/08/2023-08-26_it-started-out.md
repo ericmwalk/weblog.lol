@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-08-26 14:13:01
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/08/26/it-started-out.html
 ---
 

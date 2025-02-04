@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-07-17 22:52:16
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/07/17/starting-the-week.html
 ---
 

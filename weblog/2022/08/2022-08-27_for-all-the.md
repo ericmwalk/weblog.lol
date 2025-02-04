@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2022-08-27 06:34:00
 url: https://ericmwalk.blog/2022/08/27/for-all-the.html

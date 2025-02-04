@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2019-06-13 08:55:00
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2019/06/13/enjoying-the-new.html
 ---
 

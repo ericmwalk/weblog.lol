@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-06-09 14:12:08
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/06/09/little-bit-of.html
 ---
 

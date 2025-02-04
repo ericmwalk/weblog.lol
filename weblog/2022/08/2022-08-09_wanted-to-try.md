@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2022-08-09 22:21:54
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2022/08/09/wanted-to-try.html
 ---
 

@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-05-26 08:58:01
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/05/26/what-a-beautiful.html
 ---
 

@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2018-10-10 07:32:31
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2018/10/10/nice-run-along.html
 ---
 

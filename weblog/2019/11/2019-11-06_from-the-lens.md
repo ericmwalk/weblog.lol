@@ -1,11 +1,10 @@
 ---
+title: From the Lens - Grand Canyon
 publish: "true"
 date: 2019-11-06 06:20:20
 tags: Photos, WordlessWednesday, Exploring, FromtheLens
 url: https://ericmwalk.blog/2019/11/06/from-the-lens.html
 ---
-
-# From the Lens - Grand Canyon
 
 
 ![](https://ericmwalk.blog/uploads/2021/023611430c.jpg)

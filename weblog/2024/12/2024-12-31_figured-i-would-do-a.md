@@ -1,8 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2024-12-31T18:45:00-0600
 tags: Running
-permalink: /2024/12/31/figured-i-would-do-a
 url: https://ericmwalk.blog/2024/12/31/figured-i-would-do-a.html
 ---
 

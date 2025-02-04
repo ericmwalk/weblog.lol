@@ -1,11 +1,10 @@
 ---
+title: "The More of Less by Joshua Becker"
 publish: "true"
 date: 2016-05-31 10:04:00
 tags: running, books
 url: https://ericmwalk.blog/2016/05/31/the-more-of.html
 ---
-
-# The More of Less by Joshua Becker
 
 It has been more than three weeks since I have finished the book titled <a href="https://www.amazon.com/gp/product/B015BCX0X0/?tag=stthink-20" target="_blank" rel="noopener noreferrer" rel="nofollow">The More of Less: Finding the Life You Want Under Everything You Own</a> by Joshua Becker and honestly this was a book I really couldn't put down after I started it.
 

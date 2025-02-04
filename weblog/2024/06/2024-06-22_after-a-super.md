@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-06-22 11:16:00
-tags: "Running"
-permalink: /2024/06/22/after-a-super
+tags: Running
 url: https://ericmwalk.blog/2024/06/22/after-a-super.html
 ---
 

@@ -1,11 +1,10 @@
 ---
+title: Today was supposed to be…
 publish: "true"
 date: 2020-03-14 06:41:00
 tags: Running
 url: https://ericmwalk.blog/2020/03/14/today-was-supposed.html
 ---
-
-# Today was supposed to be…
 
 After getting back from a short run earlier this morning I am currently sitting in our kitchen drinking coffee and pondering what today was suppose to be. More specifically, I am sad thinking about what today was supposed to be.
 

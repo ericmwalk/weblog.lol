@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2014-02-21 11:37:01
 url: https://ericmwalk.blog/2014/02/21/nice-little-perk.html

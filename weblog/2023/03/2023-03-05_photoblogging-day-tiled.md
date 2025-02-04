@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2023-03-05 18:04:00
 url: https://ericmwalk.blog/2023/03/05/photoblogging-day-tiled.html

@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2022-05-12 22:05:00
 url: https://ericmwalk.blog/2022/05/12/photoblogging-day-tranquility.html

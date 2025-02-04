@@ -1,11 +1,10 @@
 ---
+title: "Things I am Pondering 🤔"
 publish: "true"
 date: 2023-08-01 21:46:37
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/08/01/things-i-am.html
 ---
-
-# Things I am Pondering 🤔
 
 These things have been swirling around in my mind all day. Some are actual questions I am pondering and probably need to look for advice from others that have similar issues (e.g., kids backups) and then others are just random things I am thinking about today. It might be the early morning hour I woke up, got a run in and have consumed a fair amount of coffee.
 

@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-09-07 21:21:46
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/09/07/it-was-still.html
 ---
 

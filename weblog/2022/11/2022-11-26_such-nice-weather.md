@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2022-11-26 18:48:37
-tags: "Running"
+tags: running
 url: https://ericmwalk.blog/2022/11/26/such-nice-weather.html
 ---
 

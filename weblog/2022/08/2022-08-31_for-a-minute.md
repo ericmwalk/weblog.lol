@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2022-08-31 20:38:38
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2022/08/31/for-a-minute.html
 ---
 

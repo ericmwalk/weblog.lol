@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2016-09-18 18:03:47
 url: https://ericmwalk.blog/2016/09/18/taking-flight.html

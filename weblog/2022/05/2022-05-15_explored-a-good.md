@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2022-05-15 13:09:44
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2022/05/15/explored-a-good.html
 ---
 

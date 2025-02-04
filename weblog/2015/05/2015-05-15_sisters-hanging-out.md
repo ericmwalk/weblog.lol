@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2015-05-15 16:00:00
 url: https://ericmwalk.blog/2015/05/15/sisters-hanging-out.html

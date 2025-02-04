@@ -1,11 +1,10 @@
 ---
+title: Does this still work...
 publish: "true"
 date: 2011-12-09 09:59:04
 tags: 
 url: https://ericmwalk.blog/2011/12/09/does-this-still.html
 ---
-
-# Does this still work...
 
 So much for trying to keep up with this blog as you can tell from my previous posts.  I guess I have been busy with life in general and other random things.
 

@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-10-10 19:21:47
-tags: "books"
+tags: books
 url: https://ericmwalk.blog/2023/10/10/not-going-to.html
 ---
 

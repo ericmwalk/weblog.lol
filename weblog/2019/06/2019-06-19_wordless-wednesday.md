@@ -1,11 +1,10 @@
 ---
+title: "Wordless Wednesday 06/19"
 publish: "true"
 date: 2019-06-19 12:44:41
 tags: Photos, WordlessWednesday, exploring, running
 url: https://ericmwalk.blog/2019/06/19/wordless-wednesday.html
 ---
-
-# Wordless Wednesday 06/19
 
 ![](https://ericmwalk.blog/uploads/2021/927ef2446e.jpg)
 

@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2023-10-28 09:45:09
 url: https://ericmwalk.blog/2023/10/28/new-dad-moment.html

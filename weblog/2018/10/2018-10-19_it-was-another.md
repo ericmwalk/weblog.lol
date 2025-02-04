@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2018-10-19 21:33:04
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2018/10/19/it-was-another.html
 ---
 

@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-03-25 18:10:05
-tags: "Running"
-permalink: /2024/03/25/compared-to-yesterday
+tags: Running
 url: https://ericmwalk.blog/2024/03/25/compared-to-yesterday.html
 ---
 

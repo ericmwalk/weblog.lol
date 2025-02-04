@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-01-10 10:45:00
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/01/10/going-to-be.html
 ---
 

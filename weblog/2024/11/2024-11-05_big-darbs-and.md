@@ -1,7 +1,7 @@
 ---
+title: ""
 publish: "true"
 date: 2024-11-05 13:53:46
-permalink: /2024/11/05/big-darbs-and
 url: https://ericmwalk.blog/2024/11/05/big-darbs-and.html
 ---
 

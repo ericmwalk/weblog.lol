@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2021-07-21 19:58:30
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2021/07/21/it-might-just.html
 ---
 

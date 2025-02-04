@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2018-09-22 12:54:27
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2018/09/22/such-a-beautiful.html
 ---
 

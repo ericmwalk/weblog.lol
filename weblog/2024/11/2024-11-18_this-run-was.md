@@ -1,8 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2024-11-18 19:11:35
 tags: Running
-permalink: /2024/11/18/this-run-was
 url: https://ericmwalk.blog/2024/11/18/this-run-was.html
 ---
 

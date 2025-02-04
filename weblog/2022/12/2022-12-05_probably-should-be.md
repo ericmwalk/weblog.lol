@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2022-12-05 00:07:25
 url: https://ericmwalk.blog/2022/12/05/probably-should-be.html

@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-09-11 19:06:10
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/09/11/meandering-monday-lead.html
 ---
 

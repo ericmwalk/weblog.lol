@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-01-23 20:25:00
-tags: "Running"
-permalink: /2024/01/23/the-run-itself
+tags: Running
 url: https://ericmwalk.blog/2024/01/23/the-run-itself.html
 ---
 

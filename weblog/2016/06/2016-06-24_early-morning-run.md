@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2016-06-24 05:59:08
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2016/06/24/early-morning-run.html
 ---
 

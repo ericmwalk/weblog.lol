@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2022-09-18 15:18:48
 url: https://ericmwalk.blog/2022/09/18/after-sitting-on.html

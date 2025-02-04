@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-04-11 21:41:39
-tags: "Running"
-permalink: /2024/04/11/this-day-has
+tags: Running
 url: https://ericmwalk.blog/2024/04/11/this-day-has.html
 ---
 

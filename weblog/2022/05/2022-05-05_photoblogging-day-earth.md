@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2022-05-05 19:38:41
 url: https://ericmwalk.blog/2022/05/05/photoblogging-day-earth.html

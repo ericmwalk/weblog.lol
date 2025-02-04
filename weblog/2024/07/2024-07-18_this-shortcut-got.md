@@ -1,7 +1,7 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-07-18 10:39:34
-permalink: /2024/07/18/this-shortcut-got
 url: https://ericmwalk.blog/2024/07/18/this-shortcut-got.html
 ---
 

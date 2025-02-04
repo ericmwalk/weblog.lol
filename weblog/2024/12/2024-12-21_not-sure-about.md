@@ -2,7 +2,6 @@
 title: ""
 publish: "true"
 date: 2024-12-21 10:34:52
-permalink: /2024/12/21/not-sure-about
 url: https://ericmwalk.blog/2024/12/21/not-sure-about.html
 ---
 

@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-01-09 22:29:52
-tags: "Dogs"
-permalink: /2024/01/09/took-big-darbs
+tags: Dogs
 url: https://ericmwalk.blog/2024/01/09/took-big-darbs.html
 ---
 

@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-08-15 21:04:03
-tags: "Running"
-permalink: /2024/08/15/after-lots-of
+tags: Running
 url: https://ericmwalk.blog/2024/08/15/after-lots-of.html
 ---
 

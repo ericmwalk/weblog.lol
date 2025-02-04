@@ -1,7 +1,7 @@
 ---
+title: ""
 publish: "true"
 date: 2024-12-09 20:48:08
-permalink: /2024/12/09/it-might-be
 url: https://ericmwalk.blog/2024/12/09/it-might-be.html
 ---
 

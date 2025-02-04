@@ -1,8 +1,8 @@
 ---
+title: 
 publish: "true"
 date: 2025-01-06T23:06:32-0600
 tags: Running
-permalink: /2025/01/06/good-run-to-start-the
 url: https://ericmwalk.blog/2025/01/06/good-run-to-start-the.html
 ---
 

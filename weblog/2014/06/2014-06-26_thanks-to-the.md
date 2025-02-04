@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2014-06-26 05:28:30
-tags: "Running"
+tags: running
 url: https://ericmwalk.blog/2014/06/26/thanks-to-the.html
 ---
 

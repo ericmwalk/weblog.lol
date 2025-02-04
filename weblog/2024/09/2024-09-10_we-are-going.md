@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-09-10 14:16:39
-tags: "Running"
-permalink: /2024/09/10/we-are-going
+tags: Running
 url: https://ericmwalk.blog/2024/09/10/we-are-going.html
 ---
 

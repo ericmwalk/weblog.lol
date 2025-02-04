@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2016-07-29 06:59:52
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2016/07/29/i-got-worked.html
 ---
 

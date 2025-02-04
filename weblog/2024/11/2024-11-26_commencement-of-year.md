@@ -1,8 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2024-11-26 09:12:55
-tags: "Backyard Rink"
-permalink: /2024/11/26/commencement-of-year
+tags: BackyardRink, BackyardRink
 url: https://ericmwalk.blog/2024/11/26/commencement-of-year.html
 ---
 

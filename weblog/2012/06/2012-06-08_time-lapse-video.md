@@ -1,11 +1,10 @@
 ---
+title: "Time Lapse Video in Yosemite"
 publish: "true"
 date: 2012-06-08 22:48:08
-tags: "video"
+tags: video
 url: https://ericmwalk.blog/2012/06/08/time-lapse-video.html
 ---
-
-# Time Lapse Video in Yosemite
 
 Here is an awesome time lapse video taken in Yosemite.
 

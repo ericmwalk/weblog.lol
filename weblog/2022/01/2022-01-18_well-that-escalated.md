@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2022-01-18 21:50:16
 url: https://ericmwalk.blog/2022/01/18/well-that-escalated.html

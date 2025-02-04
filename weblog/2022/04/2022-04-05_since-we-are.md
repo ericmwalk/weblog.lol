@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2022-04-05 10:10:52
-tags: "Status"
+tags: Status
 url: https://ericmwalk.blog/2022/04/05/since-we-are.html
 ---
 

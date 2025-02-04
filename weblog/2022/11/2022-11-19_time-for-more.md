@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2022-11-19 19:51:40
 url: https://ericmwalk.blog/2022/11/19/time-for-more.html

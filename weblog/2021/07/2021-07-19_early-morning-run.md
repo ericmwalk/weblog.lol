@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2021-07-19 16:02:20
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2021/07/19/early-morning-run.html
 ---
 

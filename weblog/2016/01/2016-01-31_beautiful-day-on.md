@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2016-01-31 14:25:43
 url: https://ericmwalk.blog/2016/01/31/beautiful-day-on.html

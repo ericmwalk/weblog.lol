@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2022-05-21 21:48:34
 url: https://ericmwalk.blog/2022/05/21/photoblogging-day-symmetry.html

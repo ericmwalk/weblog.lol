@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2013-04-20 16:43:31
 url: https://ericmwalk.blog/2013/04/20/wine-and-checkers.html

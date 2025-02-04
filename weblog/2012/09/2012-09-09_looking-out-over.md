@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2012-09-09 13:01:33
 url: https://ericmwalk.blog/2012/09/09/looking-out-over.html

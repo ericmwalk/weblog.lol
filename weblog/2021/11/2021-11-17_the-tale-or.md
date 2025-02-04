@@ -2,7 +2,7 @@
 title: "The Tale (or Trail) of 6 Tunnels"
 publish: "true"
 date: 2021-11-17 10:43:00
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2021/11/17/the-tale-or.html
 ---
 

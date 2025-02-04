@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2023-08-16 18:23:00
 url: https://ericmwalk.blog/2023/08/16/well-the-bees.html

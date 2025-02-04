@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2018-12-25 20:06:00
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2018/12/25/a-little-christmas.html
 ---
 

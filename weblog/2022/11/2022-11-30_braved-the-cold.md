@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2022-11-30 19:40:04
-tags: "Running"
+tags: running
 url: https://ericmwalk.blog/2022/11/30/braved-the-cold.html
 ---
 

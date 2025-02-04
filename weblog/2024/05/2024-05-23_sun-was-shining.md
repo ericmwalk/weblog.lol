@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-05-23 18:38:20
-tags: "Running"
-permalink: /2024/05/23/sun-was-shining
+tags: Running
 url: https://ericmwalk.blog/2024/05/23/sun-was-shining.html
 ---
 

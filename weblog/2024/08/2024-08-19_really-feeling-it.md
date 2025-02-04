@@ -1,7 +1,7 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-08-19 16:45:00
-permalink: /2024/08/19/really-feeling-it
 url: https://ericmwalk.blog/2024/08/19/really-feeling-it.html
 ---
 

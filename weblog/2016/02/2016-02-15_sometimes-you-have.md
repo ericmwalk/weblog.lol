@@ -1,11 +1,10 @@
 ---
+title: "Sometimes you have to ask"
 publish: "true"
 date: 2016-02-15 14:03:48
 tags: blogging101
 url: https://ericmwalk.blog/2016/02/15/sometimes-you-have.html
 ---
-
-# Sometimes you have to ask
 
 I am not one of those people to ask others for things. Specifically, in my career I am good at what I do but when I want to make a role change or find out about an opportunity from someone I end up dragging my feet and most of the time miss out on the opportunity. I tried to do better over the past couple of years but still it is something I am uncomfortable confronting people about. However, for those times that I have stuck my neck on the line it has been worth it even if it didn't end as I would ultimately hope but, at least, I didn't have to think I just missed out.
 

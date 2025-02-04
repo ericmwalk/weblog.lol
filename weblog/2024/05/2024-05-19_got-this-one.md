@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-05-19 13:53:38
-tags: "Running"
-permalink: /2024/05/19/got-this-one
+tags: Running
 url: https://ericmwalk.blog/2024/05/19/got-this-one.html
 ---
 

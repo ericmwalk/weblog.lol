@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-01-07 22:12:35
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/01/07/junk-miles-today.html
 ---
 

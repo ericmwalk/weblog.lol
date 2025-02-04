@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2017-08-01 14:30:00
 url: https://ericmwalk.blog/2017/08/01/bumblebee-boo.html

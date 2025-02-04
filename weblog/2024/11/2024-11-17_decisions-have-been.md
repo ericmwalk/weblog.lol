@@ -1,8 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2024-11-17 11:56:04
-tags: Backyard, Rink
-permalink: /2024/11/17/decisions-have-been
+tags: BackyardRink, BackyardRink
 url: https://ericmwalk.blog/2024/11/17/decisions-have-been.html
 ---
 

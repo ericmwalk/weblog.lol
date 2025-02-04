@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2014-06-21 07:00:46
 url: https://ericmwalk.blog/2014/06/21/kiddos-and-i.html

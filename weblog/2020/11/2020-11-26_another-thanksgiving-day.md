@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2020-11-26 23:56:23
 url: https://ericmwalk.blog/2020/11/26/another-thanksgiving-day.html

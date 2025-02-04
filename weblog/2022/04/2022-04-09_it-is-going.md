@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2022-04-09 08:35:22
 url: https://ericmwalk.blog/2022/04/09/it-is-going.html

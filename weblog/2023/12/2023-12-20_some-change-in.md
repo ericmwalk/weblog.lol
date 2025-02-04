@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-12-20 23:27:05
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/12/20/some-change-in.html
 ---
 
@@ -9,4 +10,4 @@ Some change in our evening activities today so after work I decided ramble aroun
 
 
 
-<img src="uploads/2023/200b3559ef.jpg" width="600" height="450" alt="">
+![](https://ericmwalk.blog/uploads/2023/200b3559ef.jpg)

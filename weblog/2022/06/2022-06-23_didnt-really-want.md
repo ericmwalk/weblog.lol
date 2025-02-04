@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2022-06-23 07:15:34
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2022/06/23/didnt-really-want.html
 ---
 

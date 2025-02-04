@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-09-25 05:26:28
-tags: "Running"
-permalink: /2024/09/25/another-early-morning
+tags: Running
 url: https://ericmwalk.blog/2024/09/25/another-early-morning.html
 ---
 

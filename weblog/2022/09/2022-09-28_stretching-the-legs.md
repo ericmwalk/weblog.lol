@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2022-09-28 21:08:03
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2022/09/28/stretching-the-legs.html
 ---
 

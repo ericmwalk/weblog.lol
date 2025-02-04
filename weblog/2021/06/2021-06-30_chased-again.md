@@ -2,7 +2,7 @@
 title: "Chased again 🏃‍♂️...🦅...🌳"
 publish: "true"
 date: 2021-06-30 10:36:01
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2021/06/30/chased-again.html
 ---
 

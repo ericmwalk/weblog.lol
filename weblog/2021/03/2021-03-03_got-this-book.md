@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2021-03-03 18:53:00
-tags: "books"
+tags: books
 url: https://ericmwalk.blog/2021/03/03/got-this-book.html
 ---
 

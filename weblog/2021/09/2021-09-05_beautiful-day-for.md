@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2021-09-05 20:46:00
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2021/09/05/beautiful-day-for.html
 ---
 

@@ -1,8 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2024-12-16 22:20:23
 tags: Running
-permalink: /2024/12/16/after-a-long
 url: https://ericmwalk.blog/2024/12/16/after-a-long.html
 ---
 

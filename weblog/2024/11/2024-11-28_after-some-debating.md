@@ -1,8 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2024-11-28 11:28:00
-tags: "Running"
-permalink: /2024/11/28/after-some-debating
+tags: Running
 url: https://ericmwalk.blog/2024/11/28/after-some-debating.html
 ---
 

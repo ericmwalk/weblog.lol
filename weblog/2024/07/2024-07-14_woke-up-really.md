@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-07-14 22:52:14
-tags: "Running"
-permalink: /2024/07/14/woke-up-really
+tags: Running
 url: https://ericmwalk.blog/2024/07/14/woke-up-really.html
 ---
 

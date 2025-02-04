@@ -1,11 +1,9 @@
 ---
-publish: "false"
+title: "GOTOES for Strava"
+publish: "true"
 date: 2024-08-29 14:14:26
-permalink: /2024/08/29/gotoes-for-strava
 url: https://ericmwalk.blog/2024/08/29/gotoes-for-strava.html
 ---
-
-# GOTOES for Strava
 
 I was doing some blog gardening today and stumbled across a picture I took when [hiking to Estes Cone back in 2017](https://ericmwalk.blog/2017/08/28/was-a-great.html) with my wife. We were out there for a wedding, and my good friend was telling us it was a "casual" walk, to which my wife didn’t agree after we got back that night. Anyway, as I was doing my usual cleanup, I realized it would be great to find my Strava activity from that day, as I was almost 100% certain I had it from back then, which I did, using a Fitbit Surge. 😱
 

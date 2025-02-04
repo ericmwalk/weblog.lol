@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2023-03-06 18:52:21
 url: https://ericmwalk.blog/2023/03/06/photoblogging-day-this.html

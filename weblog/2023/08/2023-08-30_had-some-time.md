@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-08-30 20:46:48
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/08/30/had-some-time.html
 ---
 

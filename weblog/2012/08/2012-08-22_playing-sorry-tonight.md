@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2012-08-22 21:51:14
 url: https://ericmwalk.blog/2012/08/22/playing-sorry-tonight.html

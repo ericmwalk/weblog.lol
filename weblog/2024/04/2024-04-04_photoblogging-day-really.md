@@ -1,7 +1,7 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-04-04 20:57:37
-permalink: /2024/04/04/photoblogging-day-really
 url: https://ericmwalk.blog/2024/04/04/photoblogging-day-really.html
 ---
 

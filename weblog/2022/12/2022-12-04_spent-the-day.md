@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2022-12-04 23:38:56
 url: https://ericmwalk.blog/2022/12/04/spent-the-day.html

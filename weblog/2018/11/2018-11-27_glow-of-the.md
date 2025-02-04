@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2018-11-27 07:15:50
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2018/11/27/glow-of-the.html
 ---
 

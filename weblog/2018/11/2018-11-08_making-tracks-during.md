@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2018-11-08 22:27:23
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2018/11/08/making-tracks-during.html
 ---
 

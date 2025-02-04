@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2022-08-07 18:38:53
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2022/08/07/did-some-exploring.html
 ---
 

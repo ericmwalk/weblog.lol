@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2021-12-07 23:53:51
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2021/12/07/first-real-amount.html
 ---
 

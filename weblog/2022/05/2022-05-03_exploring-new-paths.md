@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2022-05-03 11:40:35
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2022/05/03/exploring-new-paths.html
 ---
 

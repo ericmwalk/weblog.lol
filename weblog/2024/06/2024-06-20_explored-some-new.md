@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-06-20 18:16:05
-tags: "Running"
-permalink: /2024/06/20/explored-some-new
+tags: Running
 url: https://ericmwalk.blog/2024/06/20/explored-some-new.html
 ---
 

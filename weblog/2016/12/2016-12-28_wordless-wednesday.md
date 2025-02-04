@@ -1,11 +1,10 @@
 ---
+title: "Wordless Wednesday 12/28"
 publish: "true"
 date: 2016-12-28 22:38:05
 tags: Photos, WordlessWednesday, travel
 url: https://ericmwalk.blog/2016/12/28/wordless-wednesday.html
 ---
-
-# Wordless Wednesday 12/28
 
 ![](https://ericmwalk.blog/uploads/2022/815c82381c.jpg)
 *Sometimes what appears to be the path less traveled still has great views from the top (July 2004, North Ridge Trail Cadillac Mountain, Bar Harbor, ME)*

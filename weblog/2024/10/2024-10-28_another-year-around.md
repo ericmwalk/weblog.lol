@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-10-28 22:34:00
-tags: "Dogs"
-permalink: /2024/10/28/another-year-around
+tags: Dogs
 url: https://ericmwalk.blog/2024/10/28/another-year-around.html
 ---
 

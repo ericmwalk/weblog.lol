@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2022-05-13 13:47:39
 url: https://ericmwalk.blog/2022/05/13/thinking-about-friendships.html

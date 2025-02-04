@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2022-05-12 17:00:33
 url: https://ericmwalk.blog/2022/05/12/what-started-out.html

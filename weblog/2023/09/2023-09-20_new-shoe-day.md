@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-09-20 20:40:03
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/09/20/new-shoe-day.html
 ---
 

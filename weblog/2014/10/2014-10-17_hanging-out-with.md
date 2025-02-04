@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2014-10-17 06:27:23
 url: https://ericmwalk.blog/2014/10/17/hanging-out-with.html

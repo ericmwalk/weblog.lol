@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-05-05 11:53:27
-tags: "Running"
-permalink: /2024/05/05/the-kids-slept
+tags: Running
 url: https://ericmwalk.blog/2024/05/05/the-kids-slept.html
 ---
 

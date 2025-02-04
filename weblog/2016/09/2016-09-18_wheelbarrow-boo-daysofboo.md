@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2016-09-18 13:10:39
 url: https://ericmwalk.blog/2016/09/18/wheelbarrow-boo-daysofboo.html

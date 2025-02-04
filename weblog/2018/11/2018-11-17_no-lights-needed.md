@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2018-11-17 09:56:37
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2018/11/17/no-lights-needed.html
 ---
 

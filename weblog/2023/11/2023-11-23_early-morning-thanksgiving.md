@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-11-23 21:23:35
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/11/23/early-morning-thanksgiving.html
 ---
 

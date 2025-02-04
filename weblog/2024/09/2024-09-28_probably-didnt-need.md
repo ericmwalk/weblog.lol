@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-09-28 07:25:49
-tags: "Running"
-permalink: /2024/09/28/probably-didnt-need
+tags: Running
 url: https://ericmwalk.blog/2024/09/28/probably-didnt-need.html
 ---
 

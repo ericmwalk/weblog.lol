@@ -1,11 +1,10 @@
 ---
+title: "Thirty-Eight"
 publish: "true"
 date: 2019-03-24 09:12:00
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2019/03/24/thirtyeight.html
 ---
-
-# Thirty-Eight
 
 Last year was spent focusing on things that mattered not only to myself but my family too. I felt overall it was a very successful endeavor that allowed me to improve my health, mental state, as well as family time.
 

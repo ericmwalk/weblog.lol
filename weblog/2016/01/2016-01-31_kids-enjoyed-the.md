@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2016-01-31 15:30:07
 url: https://ericmwalk.blog/2016/01/31/kids-enjoyed-the.html

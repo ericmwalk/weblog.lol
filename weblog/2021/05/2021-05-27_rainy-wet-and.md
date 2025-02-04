@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2021-05-27 16:54:27
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2021/05/27/rainy-wet-and.html
 ---
 

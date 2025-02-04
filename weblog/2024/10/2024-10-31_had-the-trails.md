@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-10-31 21:01:48
-tags: "Running"
-permalink: /2024/10/31/had-the-trails
+tags: Running
 url: https://ericmwalk.blog/2024/10/31/had-the-trails.html
 ---
 

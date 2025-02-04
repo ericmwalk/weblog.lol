@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-09-02 19:47:14
-tags: "Running"
-permalink: /2024/09/02/day-was-too
+tags: Running
 url: https://ericmwalk.blog/2024/09/02/day-was-too.html
 ---
 

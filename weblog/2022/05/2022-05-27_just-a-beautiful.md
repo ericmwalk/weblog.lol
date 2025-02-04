@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2022-05-27 13:40:14
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2022/05/27/just-a-beautiful.html
 ---
 

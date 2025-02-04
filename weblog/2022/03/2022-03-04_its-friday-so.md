@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2022-03-04 19:20:00
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2022/03/04/its-friday-so.html
 ---
 

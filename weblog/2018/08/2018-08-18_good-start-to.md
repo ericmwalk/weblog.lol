@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2018-08-18 07:37:01
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2018/08/18/good-start-to.html
 ---
 

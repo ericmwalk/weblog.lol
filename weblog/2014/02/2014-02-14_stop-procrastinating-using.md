@@ -1,10 +1,9 @@
 ---
+title: "Stop Procrastinating...!!!! Using the 'Seinfeld Strategy'"
 publish: "true"
 date: 2014-02-14 13:03:25
 url: https://ericmwalk.blog/2014/02/14/stop-procrastinating-using.html
 ---
-
-# Stop Procrastinating...!!!! Using the 'Seinfeld Strategy'
 
 If it's a deadline, email, phone call, blogging, or working out everyone has something they procrastinate about and always say, "I wish I could do better." &nbsp;So,&nbsp;what is the "Seinfeld Strategy" and how does it work you are probably wondering. &nbsp;The advice that Jerry Seinfeld gave to Brad Issac (<a href="http://lifehacker.com/281626/jerry-seinfelds-productivity-secret"><em>LifeHacker</em></a>), who wanted to be a better comic, was simple, "Write everyday and don't break the chain."
 

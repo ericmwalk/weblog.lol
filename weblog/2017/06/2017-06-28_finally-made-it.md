@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2017-06-28 05:37:51
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2017/06/28/finally-made-it.html
 ---
 

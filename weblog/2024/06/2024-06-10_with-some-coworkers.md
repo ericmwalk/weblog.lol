@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-06-10 20:45:00
-tags: "Running"
-permalink: /2024/06/10/with-some-coworkers
+tags: Running
 url: https://ericmwalk.blog/2024/06/10/with-some-coworkers.html
 ---
 

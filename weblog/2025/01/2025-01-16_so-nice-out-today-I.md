@@ -1,8 +1,8 @@
 ---
+title: 
 publish: "true"
 date: 2025-01-16
 tags: Running
-permalink: 2025/01/16/so-nice-out-today-i
 url: https://ericmwalk.blog/2025/01/16/so-nice-out-today-i.html
 Date & Time: Jan 16, 2025 at 12:51 PM
 Distance: 5.1mi || 8.2km

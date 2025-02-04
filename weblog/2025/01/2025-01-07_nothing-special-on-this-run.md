@@ -1,8 +1,8 @@
 ---
+title: 
 publish: "true"
 date: 2025-01-07T18:45:00-0600
 tags: Running
-permalink: /2025/01/07/nothing-special-on-this-run
 url: https://ericmwalk.blog/2025/01/07/nothing-special-on-this-run.html
 ---
 

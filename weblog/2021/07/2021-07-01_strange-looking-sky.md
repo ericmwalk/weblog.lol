@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2021-07-01 22:37:02
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2021/07/01/strange-looking-sky.html
 ---
 

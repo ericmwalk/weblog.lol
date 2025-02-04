@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2015-09-08 06:51:25
 url: https://ericmwalk.blog/2015/09/08/having-a-special.html

@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-05-29 21:56:12
-tags: "Running"
-permalink: /2024/05/29/had-to-drop
+tags: Running
 url: https://ericmwalk.blog/2024/05/29/had-to-drop.html
 ---
 

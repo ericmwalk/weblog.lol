@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2013-04-28 17:38:06
 url: https://ericmwalk.blog/2013/04/28/check-out-my.html

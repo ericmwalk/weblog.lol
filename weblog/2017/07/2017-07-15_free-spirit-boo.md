@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2017-07-15 10:13:07
-tags: "Running"
+tags: 
 url: https://ericmwalk.blog/2017/07/15/free-spirit-boo.html
 ---
 

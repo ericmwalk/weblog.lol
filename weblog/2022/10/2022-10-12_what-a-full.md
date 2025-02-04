@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2022-10-12 17:31:01
 url: https://ericmwalk.blog/2022/10/12/what-a-full.html

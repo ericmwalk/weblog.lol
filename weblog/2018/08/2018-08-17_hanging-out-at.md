@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2018-08-17 17:10:56
 url: https://ericmwalk.blog/2018/08/17/hanging-out-at.html

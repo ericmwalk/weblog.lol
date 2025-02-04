@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2023-09-01 07:19:00
 url: https://ericmwalk.blog/2023/09/01/who-was-excited.html

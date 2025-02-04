@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-05-02 20:19:06
-tags: "Running"
-permalink: /2024/05/02/the-start-of
+tags: Running
 url: https://ericmwalk.blog/2024/05/02/the-start-of.html
 ---
 

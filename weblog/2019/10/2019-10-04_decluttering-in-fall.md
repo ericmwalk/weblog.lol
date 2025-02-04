@@ -1,11 +1,10 @@
 ---
+title: "Decluttering in Fall"
 publish: "true"
 date: 2019-10-04 14:42:00
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2019/10/04/decluttering-in-fall.html
 ---
-
-# Decluttering in Fall
 
 Fall is one of my favorite times of the year. Mostly because the weather is cooler outside and I have been known to pretend I am allergic to heat and humidity. As a runner, the cooler weather is welcome but you have to live with the downside of running in the dark morning or night hours. However, fall is another time when you need to start thinking about cleaning up the yard of leaves or putting away the summer stuff, and finding all the winter gear.
 

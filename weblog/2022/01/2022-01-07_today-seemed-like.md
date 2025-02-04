@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2022-01-07 13:40:30
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2022/01/07/today-seemed-like.html
 ---
 

@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-04-21 20:22:57
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/04/21/spent-the-day.html
 ---
 
@@ -9,4 +10,4 @@ Spent the day getting the campsite ready to go for the summer. I had to piece th
 
 
 
-<img src="uploads/2023/015f4cbeea.jpg" width="600" height="450" alt="">
+![](https://ericmwalk.blog/uploads/2023/015f4cbeea.jpg)

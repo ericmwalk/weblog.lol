@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2022-08-12 21:58:11
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2022/08/12/while-my-son.html
 ---
 

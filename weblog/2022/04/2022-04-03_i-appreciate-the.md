@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2022-04-03 17:42:03
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2022/04/03/i-appreciate-the.html
 ---
 

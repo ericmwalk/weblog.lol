@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2022-10-19 17:02:15
-tags: "Project Shed"
+tags: ProjectShed
 url: https://ericmwalk.blog/2022/10/19/another-task-completed.html
 ---
 

@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2018-09-11 19:03:49
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2018/09/11/never-know-what.html
 ---
 

@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2021-11-28 22:08:37
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2021/11/28/found-time-to.html
 ---
 

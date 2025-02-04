@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-07-19 16:53:20
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/07/19/after-the-rain.html
 ---
 

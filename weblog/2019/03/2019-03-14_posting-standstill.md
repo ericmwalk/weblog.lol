@@ -1,10 +1,9 @@
 ---
+title: "Posting Standstill"
 publish: "true"
 date: 2019-03-14 19:42:00
 url: https://ericmwalk.blog/2019/03/14/posting-standstill.html
 ---
-
-# Posting Standstill
 
 I have been at a standstill for the last three months since I had posted a hand full of new articles. As the days clicked by I finally decided I should really think about it as I would put pressure on myself to push publish but ultimately nothing ever happened.
 

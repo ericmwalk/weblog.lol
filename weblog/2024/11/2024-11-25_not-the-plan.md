@@ -1,8 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2024-11-25 21:27:52
 tags: Running
-permalink: /2024/11/25/not-the-plan
 url: https://ericmwalk.blog/2024/11/25/not-the-plan.html
 ---
 

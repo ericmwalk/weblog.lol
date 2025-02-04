@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2022-09-30 14:05:50
 url: https://ericmwalk.blog/2022/09/30/best-thing-about.html

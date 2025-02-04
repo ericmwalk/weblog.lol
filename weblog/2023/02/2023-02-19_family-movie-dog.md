@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2023-02-19 22:39:07
 url: https://ericmwalk.blog/2023/02/19/family-movie-dog.html
@@ -8,4 +9,4 @@ url: https://ericmwalk.blog/2023/02/19/family-movie-dog.html
 
 
 
-<img src="uploads/2023/4a627904d8.jpg" width="405" height="600" alt="">
+![](https://ericmwalk.blog/uploads/2023/4a627904d8.jpg)

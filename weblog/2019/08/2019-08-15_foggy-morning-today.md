@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2019-08-15 08:18:00
 url: https://ericmwalk.blog/2019/08/15/foggy-morning-today.html

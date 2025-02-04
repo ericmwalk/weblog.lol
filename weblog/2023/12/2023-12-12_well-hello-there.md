@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-12-12 21:03:12
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/12/12/well-hello-there.html
 ---
 
@@ -9,4 +10,4 @@ Well hello there... 🦃  Found a roadblock on my [run](https://strava.com/activ
 
 
 
-<img src="uploads/2023/41215f9eed.jpg" width="600" height="449" alt="">
+![](https://ericmwalk.blog/uploads/2023/41215f9eed.jpg)

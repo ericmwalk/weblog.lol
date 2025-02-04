@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-01-16 22:50:52
-tags: "Running"
-permalink: /2024/01/16/another-night-run
+tags: Running
 url: https://ericmwalk.blog/2024/01/16/another-night-run.html
 ---
 

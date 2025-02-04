@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-09-26 20:04:16
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/09/26/another-early-run.html
 ---
 

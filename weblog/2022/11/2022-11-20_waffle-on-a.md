@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2022-11-20 19:36:12
 url: https://ericmwalk.blog/2022/11/20/waffle-on-a.html

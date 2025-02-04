@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2021-11-07 20:52:52
-tags: "Project Shed"
+tags: ProjectShed
 url: https://ericmwalk.blog/2021/11/07/weekend-shed-trenching.html
 ---
 

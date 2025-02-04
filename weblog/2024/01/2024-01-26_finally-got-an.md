@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-01-26 23:44:31
-tags: "Running"
-permalink: /2024/01/26/finally-got-an
+tags: Running
 url: https://ericmwalk.blog/2024/01/26/finally-got-an.html
 ---
 

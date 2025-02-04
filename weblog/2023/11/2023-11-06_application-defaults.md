@@ -1,10 +1,9 @@
 ---
+title: "Application Defaults"
 publish: "true"
 date: 2023-11-06 11:18:34
 url: https://ericmwalk.blog/2023/11/06/application-defaults.html
 ---
-
-# Application Defaults
 
 Loved this idea from [Episode 097 of Hemispheric Views](https://listen.hemisphericviews.com/097) where they had a *Dual of the Defaults*! So to join in the fun as everyone else has I decided to make a list of what I use myself. I think the hardest part right now is a lot is in flux as I have started to use a Mac for my work job but more on that another time. However, this is how it looks right now as I am probably in transition still.
 

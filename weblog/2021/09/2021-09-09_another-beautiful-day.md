@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2021-09-09 12:26:27
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2021/09/09/another-beautiful-day.html
 ---
 

@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2018-05-04 12:27:48
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2018/05/04/i-cant-tell.html
 ---
 

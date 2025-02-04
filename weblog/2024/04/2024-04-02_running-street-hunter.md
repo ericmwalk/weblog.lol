@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-04-02 20:37:16
-tags: "Running"
-permalink: /2024/04/02/running-street-hunter
+tags: Running
 url: https://ericmwalk.blog/2024/04/02/running-street-hunter.html
 ---
 

@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-02-10 22:35:04
-tags: "Running"
-permalink: /2024/02/10/continuing-to-build
+tags: Running
 url: https://ericmwalk.blog/2024/02/10/continuing-to-build.html
 ---
 

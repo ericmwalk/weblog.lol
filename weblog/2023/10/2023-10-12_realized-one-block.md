@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-10-12 21:42:27
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/10/12/realized-one-block.html
 ---
 

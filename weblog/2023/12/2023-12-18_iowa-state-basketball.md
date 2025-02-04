@@ -1,10 +1,9 @@
 ---
+title: "2023 Iowa State Basketball Road Trip"
 publish: "true"
 date: 2023-12-18 09:34:35
 url: https://ericmwalk.blog/2023/12/18/iowa-state-basketball.html
 ---
-
-# 2023 Iowa State Basketball Road Trip
 
 Last year was the first year for a [Christmas gift to my son](https://ericmwalk.blog/2023/01/11/another-hr-drive.html) I took him to the Iowa State men's basketball game. I pulled him out of school a little early and we did a 3 hour trip down to Ames, Iowa for a 7pm game and then once it was done make the 3 hr drive home getting back around 1am.
 
@@ -12,6 +11,6 @@ This year he was asking for the same thing again as he had a great time and want
 
 Luckily, the men's game only lasted around 2 hrs so we could get on the road in good time and made it back to Eden Prairie by 10:30pm. I had a great day spending time with my son as we don't always have a free day where neither of us has something going on. I guess I need to put a reminder in my calendar for when the games come out so I can be on the front end of planning for next year and what games we might go watch.
 
-<img src="uploads/2023/918e3a2b-3bac-46d5-bdb6-257dc0722d8d.jpg" width="600" height="450" alt="">
+![](https://ericmwalk.blog/uploads/2023/918e3a2b-3bac-46d5-bdb6-257dc0722d8d.jpg)
 
-<img src="uploads/2023/3ec76cb2-5ec6-497b-a571-54c7104f064c.jpg" width="600" height="450" alt="">
+![](https://ericmwalk.blog/uploads/2023/3ec76cb2-5ec6-497b-a571-54c7104f064c.jpg)

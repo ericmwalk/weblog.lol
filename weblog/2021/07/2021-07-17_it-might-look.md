@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2021-07-17 22:12:03
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2021/07/17/it-might-look.html
 ---
 

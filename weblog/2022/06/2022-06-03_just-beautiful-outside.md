@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2022-06-03 12:41:14
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2022/06/03/just-beautiful-outside.html
 ---
 

@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2022-04-06 20:25:02
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2022/04/06/straight-as-an.html
 ---
 

@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2022-10-02 19:45:49
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2022/10/02/another-twin-cities.html
 ---
 

@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-03-21 22:09:46
-tags: "Running"
-permalink: /2024/03/21/needed-to-move
+tags: Running
 url: https://ericmwalk.blog/2024/03/21/needed-to-move.html
 ---
 

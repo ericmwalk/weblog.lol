@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-09-18 19:54:06
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/09/18/out-and-around.html
 ---
 

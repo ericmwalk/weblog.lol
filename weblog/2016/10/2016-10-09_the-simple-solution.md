@@ -1,11 +1,10 @@
 ---
+title: "The Simple Solution to Traffic"
 publish: "true"
 date: 2016-10-09 17:03:39
-tags: "video"
+tags: video
 url: https://ericmwalk.blog/2016/10/09/the-simple-solution.html
 ---
-
-# The Simple Solution to Traffic
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iHzzSao6ypE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 *via <a href="https://www.youtube.com/watch?v=iHzzSao6ypE">The Simple Solution to Traffic</a> by <a href="https://twitter.com/cgpgrey">@CGPGrey</a>*

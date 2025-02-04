@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-06-30 22:45:39
-tags: "Running"
-permalink: /2024/06/30/decided-to-get
+tags: Running
 url: https://ericmwalk.blog/2024/06/30/decided-to-get.html
 ---
 

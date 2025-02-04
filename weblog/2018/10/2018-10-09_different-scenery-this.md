@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2018-10-09 05:35:02
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2018/10/09/different-scenery-this.html
 ---
 

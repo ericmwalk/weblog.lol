@@ -1,8 +1,8 @@
 ---
+title: 
 publish: "true"
 date: 2025-01-18
 tags: 
-permalink: 2025/01/18/with-this-we-have-another
 url: https://ericmwalk.blog/2025/01/18/with-this-we-have-another.html
 ---
 

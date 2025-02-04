@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-03-23 13:30:28
-tags: "Running"
-permalink: /2024/03/23/even-with-the
+tags: Running
 url: https://ericmwalk.blog/2024/03/23/even-with-the.html
 ---
 

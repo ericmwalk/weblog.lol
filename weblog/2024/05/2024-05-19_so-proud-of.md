@@ -1,7 +1,7 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-05-19 20:28:13
-permalink: /2024/05/19/so-proud-of
 url: https://ericmwalk.blog/2024/05/19/so-proud-of.html
 ---
 

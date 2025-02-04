@@ -1,9 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2025-01-19
-tags:
-  - Project Shed
-permalink: 2025/01/19/is-it-a-good-morning
+tags: ProjectShed
 url: https://ericmwalk.blog/2025/01/19/is-it-a-good-morning.html
 ---
 

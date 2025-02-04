@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-07-26 22:32:53
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/07/26/it-looked-nice.html
 ---
 

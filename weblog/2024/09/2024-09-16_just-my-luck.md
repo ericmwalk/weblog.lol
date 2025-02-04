@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-09-16 19:46:50
-tags: "Running"
-permalink: /2024/09/16/just-my-luck
+tags: Running
 url: https://ericmwalk.blog/2024/09/16/just-my-luck.html
 ---
 

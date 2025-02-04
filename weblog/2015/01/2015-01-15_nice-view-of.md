@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2015-01-15 10:13:42
 url: https://ericmwalk.blog/2015/01/15/nice-view-of.html

@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2023-12-27 23:36:56
 url: https://ericmwalk.blog/2023/12/27/family-movie-night.html

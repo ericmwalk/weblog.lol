@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2021-11-14 22:25:00
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2021/11/14/after-a-busy.html
 ---
 

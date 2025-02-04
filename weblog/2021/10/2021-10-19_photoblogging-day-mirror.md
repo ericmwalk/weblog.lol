@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2021-10-19 15:55:00
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2021/10/19/photoblogging-day-mirror.html
 ---
 

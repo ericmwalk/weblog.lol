@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2022-10-14 07:24:59
-tags: "Dogs"
+tags: Dogs
 url: https://ericmwalk.blog/2022/10/14/snowy-walk-worth.html
 ---
 

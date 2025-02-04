@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2021-12-02 01:02:00
-tags: "Running"
+tags: running
 url: https://ericmwalk.blog/2021/12/02/running-log-xx.html
 ---
 

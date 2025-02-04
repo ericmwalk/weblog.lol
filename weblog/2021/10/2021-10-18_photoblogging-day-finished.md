@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2021-10-18 20:58:00
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2021/10/18/photoblogging-day-finished.html
 ---
 

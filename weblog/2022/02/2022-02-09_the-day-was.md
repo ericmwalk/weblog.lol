@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2022-02-09 20:35:27
-tags: "Dogs"
+tags: Dogs
 url: https://ericmwalk.blog/2022/02/09/the-day-was.html
 ---
 

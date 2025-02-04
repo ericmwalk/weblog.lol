@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2021-07-16 13:00:48
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2021/07/16/found-some-fun.html
 ---
 

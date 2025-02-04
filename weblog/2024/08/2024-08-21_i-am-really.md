@@ -1,7 +1,7 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-08-21 20:27:47
-permalink: /2024/08/21/i-am-really
 url: https://ericmwalk.blog/2024/08/21/i-am-really.html
 ---
 

@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2022-11-22 21:42:33
 url: https://ericmwalk.blog/2022/11/22/as-an-owner.html

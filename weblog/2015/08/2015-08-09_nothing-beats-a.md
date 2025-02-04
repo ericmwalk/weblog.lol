@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2015-08-09 21:13:53
 url: https://ericmwalk.blog/2015/08/09/nothing-beats-a.html

@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-03-11 19:48:46
-tags: "Running"
-permalink: /2024/03/11/now-that-is
+tags: Running
 url: https://ericmwalk.blog/2024/03/11/now-that-is.html
 ---
 

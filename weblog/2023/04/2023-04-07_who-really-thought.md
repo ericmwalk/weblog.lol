@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2023-04-07 22:22:55
 url: https://ericmwalk.blog/2023/04/07/who-really-thought.html

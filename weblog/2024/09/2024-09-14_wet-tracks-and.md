@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-09-14 12:26:02
-tags: "Running"
-permalink: /2024/09/14/wet-tracks-and
+tags: Running
 url: https://ericmwalk.blog/2024/09/14/wet-tracks-and.html
 ---
 

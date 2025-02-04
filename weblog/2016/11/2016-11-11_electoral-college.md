@@ -1,10 +1,9 @@
 ---
+title: "Electoral College"
 publish: "true"
 date: 2016-11-11 07:10:00
 url: https://ericmwalk.blog/2016/11/11/electoral-college.html
 ---
-
-# Electoral College
 
 I am not one to normally talk about politics nor do I want to bring up a large discussion of right or wrong regarding the outcome of who won.  I feel strongly that each person has a right to vote as well as vote for a candidate they feel strongly about.  However, after seeing the final results Wednesday morning, my very curious 7 1/2-year-old son had a lot of questions about the Electoral College.  Not to mention how could someone win overall without winning the popular vote.
 

@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2017-07-03 09:31:37
-tags: "Running"
+tags: running
 url: https://ericmwalk.blog/2017/07/03/beautiful-morning-to.html
 ---
 

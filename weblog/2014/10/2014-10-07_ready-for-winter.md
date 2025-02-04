@@ -1,11 +1,10 @@
 ---
+title: "Ready for winter?"
 publish: "true"
 date: 2014-10-07 07:41:29
-tags: "video"
+tags: video
 url: https://ericmwalk.blog/2014/10/07/ready-for-winter.html
 ---
-
-# Ready for winter?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W-QbHRVOfcM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

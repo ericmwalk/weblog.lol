@@ -1,8 +1,8 @@
 ---
+title: 
 publish: "true"
 date: 2025-01-10
 tags: 
-permalink: 2025/01/10/these-girls-got-it-done
 url: https://ericmwalk.blog/2025/01/10/these-girls-got-it-done.html
 ---
 

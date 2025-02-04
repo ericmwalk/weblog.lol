@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-06-26 07:59:09
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/06/26/early-morning-chicago.html
 ---
 

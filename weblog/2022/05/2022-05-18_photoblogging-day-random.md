@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2022-05-18 18:29:25
-tags: "Dogs"
+tags: Dogs
 url: https://ericmwalk.blog/2022/05/18/photoblogging-day-random.html
 ---
 

@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2015-06-16 19:58:05
 url: https://ericmwalk.blog/2015/06/16/baby-girl-checking.html

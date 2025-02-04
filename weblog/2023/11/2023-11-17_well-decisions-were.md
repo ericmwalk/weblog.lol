@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-11-17 23:39:37
-tags: "Backyard Rink"
+tags: BackyardRink, BackyardRink
 url: https://ericmwalk.blog/2023/11/17/well-decisions-were.html
 ---
 

@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2022-04-13 12:56:20
 url: https://ericmwalk.blog/2022/04/13/just-a-little.html

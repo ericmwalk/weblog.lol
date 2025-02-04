@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2013-12-23 21:45:02
 url: https://ericmwalk.blog/2013/12/23/the-homemade-zamboni.html

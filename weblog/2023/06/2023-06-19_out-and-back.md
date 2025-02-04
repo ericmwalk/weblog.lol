@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-06-19 21:12:56
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/06/19/out-and-back.html
 ---
 

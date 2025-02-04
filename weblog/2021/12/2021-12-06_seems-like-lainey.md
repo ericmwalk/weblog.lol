@@ -2,6 +2,7 @@
 title: ""
 publish: "true"
 date: 2021-12-06 13:44:57
+tags: dogs
 url: https://ericmwalk.blog/2021/12/06/seems-like-lainey.html
 ---
 

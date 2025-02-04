@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2015-01-22 20:45:08
 url: https://ericmwalk.blog/2015/01/22/playing-a-little.html

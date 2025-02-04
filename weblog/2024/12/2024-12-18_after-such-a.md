@@ -1,8 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2024-12-18 23:37:05
 tags: Running
-permalink: /2024/12/18/after-such-a
 url: https://ericmwalk.blog/2024/12/18/after-such-a.html
 ---
 

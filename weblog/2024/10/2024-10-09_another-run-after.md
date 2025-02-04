@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-10-09 21:45:01
-tags: "Running"
-permalink: /2024/10/09/another-run-after
+tags: Running
 url: https://ericmwalk.blog/2024/10/09/another-run-after.html
 ---
 

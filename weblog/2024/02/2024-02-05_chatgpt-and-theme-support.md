@@ -1,12 +1,10 @@
 ---
+title: ChatGPT and Theme Support
 publish: "true"
 Date: 2024-02-05 20:34
 tags: weblog
-permalink: /2024/02/05/chatgpt-and-theme-support
 url: https://ericmwalk.blog/2024/02/05/chatgpt-and-theme-support.html
 ---
-
-# ChatGPT and Theme Support
 
 I still like the work that I did late last week on the theme of this site, but I kept thinking I didn't have the colors right, as what I really wanted was something closer to the Dracula styling. Now, one could go through and change everything that I have done or snagged from others to get this looking like it is today. Or, I took the HTML template and put it in ChatGPT and asked it to update my theme in the Dracula style, and about 10 seconds later, what you are looking at now is the result. It would have most likely taken me much longer to get to the same result. I would have changed some things, checked it, and then repeated the process over and over, making sure that I got everything.
 

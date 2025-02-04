@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2016-09-10 17:26:19
 url: https://ericmwalk.blog/2016/09/10/sliding-boo.html

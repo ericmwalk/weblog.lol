@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2022-03-01 22:12:09
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2022/03/01/another-great-day.html
 ---
 

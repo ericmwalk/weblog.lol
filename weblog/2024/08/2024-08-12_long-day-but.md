@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-08-12 22:22:18
-tags: "Running"
-permalink: /2024/08/12/long-day-but
+tags: Running
 url: https://ericmwalk.blog/2024/08/12/long-day-but.html
 ---
 

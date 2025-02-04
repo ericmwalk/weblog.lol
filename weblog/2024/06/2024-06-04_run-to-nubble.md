@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-06-04 06:05:00
-tags: "Running"
-permalink: /2024/06/04/run-to-nubble
+tags: Running
 url: https://ericmwalk.blog/2024/06/04/run-to-nubble.html
 ---
 

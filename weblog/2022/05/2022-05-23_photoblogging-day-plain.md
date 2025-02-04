@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2022-05-23 21:41:31
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2022/05/23/photoblogging-day-plain.html
 ---
 

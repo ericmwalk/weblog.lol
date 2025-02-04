@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2022-07-22 18:50:45
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2022/07/22/had-the-trail.html
 ---
 

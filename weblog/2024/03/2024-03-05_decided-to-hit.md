@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-03-05 21:56:00
-tags: "Running"
-permalink: /2024/03/05/decided-to-hit
+tags: Running
 url: https://ericmwalk.blog/2024/03/05/decided-to-hit.html
 ---
 

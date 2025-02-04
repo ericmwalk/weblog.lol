@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2022-10-31 20:49:28
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2022/10/31/found-a-gap.html
 ---
 

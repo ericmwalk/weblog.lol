@@ -1,7 +1,7 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-04-06 20:02:51
-permalink: /2024/04/06/photoblogging-day-seems
 url: https://ericmwalk.blog/2024/04/06/photoblogging-day-seems.html
 ---
 

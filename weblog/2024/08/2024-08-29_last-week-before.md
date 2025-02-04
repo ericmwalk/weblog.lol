@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-08-29 14:48:47
-tags: "Running"
-permalink: /2024/08/29/last-week-before
+tags: Running
 url: https://ericmwalk.blog/2024/08/29/last-week-before.html
 ---
 

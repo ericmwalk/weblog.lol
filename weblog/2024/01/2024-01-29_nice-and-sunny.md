@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-01-29 14:38:35
-tags: "Running"
-permalink: /2024/01/29/nice-and-sunny
+tags: Running
 url: https://ericmwalk.blog/2024/01/29/nice-and-sunny.html
 ---
 

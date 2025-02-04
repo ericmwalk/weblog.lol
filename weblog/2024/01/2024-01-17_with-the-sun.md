@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-01-17 19:41:37
-tags: "Running"
-permalink: /2024/01/17/with-the-sun
+tags: Running
 url: https://ericmwalk.blog/2024/01/17/with-the-sun.html
 ---
 

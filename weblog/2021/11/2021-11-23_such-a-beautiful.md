@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2021-11-23 23:09:58
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2021/11/23/such-a-beautiful.html
 ---
 

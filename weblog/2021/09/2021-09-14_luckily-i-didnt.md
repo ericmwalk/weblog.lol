@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2021-09-14 13:14:00
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2021/09/14/luckily-i-didnt.html
 ---
 

@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2022-07-28 20:58:47
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2022/07/28/decided-to-take.html
 ---
 

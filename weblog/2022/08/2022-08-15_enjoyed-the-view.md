@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2022-08-15 22:23:55
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2022/08/15/enjoyed-the-view.html
 ---
 

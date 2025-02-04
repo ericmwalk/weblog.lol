@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-07-02 20:54:25
-tags: "Running"
-permalink: /2024/07/02/thankful-for-the
+tags: Running
 url: https://ericmwalk.blog/2024/07/02/thankful-for-the.html
 ---
 

@@ -2,7 +2,7 @@
 title: "4x4x40 Running Challenge 🏃‍♂️"
 publish: "true"
 date: 2021-12-01 00:58:00
-tags: "Running"
+tags: running
 url: https://ericmwalk.blog/2021/12/01/xx-running-challenge.html
 ---
 

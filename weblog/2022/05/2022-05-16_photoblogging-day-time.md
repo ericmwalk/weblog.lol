@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2022-05-16 20:44:58
 url: https://ericmwalk.blog/2022/05/16/photoblogging-day-time.html

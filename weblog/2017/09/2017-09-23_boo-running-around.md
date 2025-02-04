@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2017-09-23 09:40:06
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2017/09/23/boo-running-around.html
 ---
 

@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-08-04 20:23:26
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/08/04/some-mile-hot.html
 ---
 

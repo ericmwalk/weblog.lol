@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-03-06 21:57:17
-tags: "Running"
-permalink: /2024/03/06/shorter-and-quicker
+tags: Running
 url: https://ericmwalk.blog/2024/03/06/shorter-and-quicker.html
 ---
 

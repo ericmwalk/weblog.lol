@@ -1,8 +1,8 @@
 ---
+title:
 publish: "true"
 date: 2025-01-01
 tags: 
-permalink: /2025/01/01/i-enjoy-stumbling-upon-some
 url: https://ericmwalk.blog/2025/01/01/i-enjoy-stumbling-upon-some.html
 ---
 

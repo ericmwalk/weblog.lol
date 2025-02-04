@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2022-07-18 14:43:47
-tags: "Running"
+tags: running
 url: https://ericmwalk.blog/2022/07/18/another-warm-one.html
 ---
 

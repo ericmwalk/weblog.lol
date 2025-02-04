@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-04-28 22:04:00
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/04/28/rainy-friday-miles.html
 ---
 

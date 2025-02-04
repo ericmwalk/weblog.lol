@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2017-09-11 06:21:10
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2017/09/11/dark-morning-trails.html
 ---
 

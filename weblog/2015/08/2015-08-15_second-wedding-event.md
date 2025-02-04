@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2015-08-15 17:42:21
 url: https://ericmwalk.blog/2015/08/15/second-wedding-event.html

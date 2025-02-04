@@ -1,8 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2024-11-24 10:11:34
 tags: Running
-permalink: /2024/11/24/made-a-little
 url: https://ericmwalk.blog/2024/11/24/made-a-little.html
 ---
 

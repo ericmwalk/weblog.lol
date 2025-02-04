@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2019-01-10 20:46:00
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2019/01/10/considering-it-was.html
 ---
 

@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-09-20 08:59:48
-tags: "Running"
-permalink: /2024/09/20/early-morning-hockey
+tags: Running
 url: https://ericmwalk.blog/2024/09/20/early-morning-hockey.html
 ---
 

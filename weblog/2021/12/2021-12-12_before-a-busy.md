@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2021-12-12 20:00:00
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2021/12/12/before-a-busy.html
 ---
 

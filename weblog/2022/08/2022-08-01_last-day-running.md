@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2022-08-01 08:03:28
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2022/08/01/last-day-running.html
 ---
 

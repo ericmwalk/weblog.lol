@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-07-06 21:47:37
-tags: "Running"
-permalink: /2024/07/06/if-someone-suggests
+tags: Running
 url: https://ericmwalk.blog/2024/07/06/if-someone-suggests.html
 ---
 

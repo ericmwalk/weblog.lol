@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-07-30 21:34:39
-tags: "Running"
-permalink: /2024/07/30/was-hoping-there
+tags: Running
 url: https://ericmwalk.blog/2024/07/30/was-hoping-there.html
 ---
 

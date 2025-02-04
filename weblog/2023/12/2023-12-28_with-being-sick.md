@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2023-12-28 10:21:16
 url: https://ericmwalk.blog/2023/12/28/with-being-sick.html

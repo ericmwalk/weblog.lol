@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2022-05-08 20:59:20
 url: https://ericmwalk.blog/2022/05/08/photoblogging-day-union.html

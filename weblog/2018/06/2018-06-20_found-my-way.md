@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2018-06-20 05:14:40
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2018/06/20/found-my-way.html
 ---
 

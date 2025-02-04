@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2022-05-31 21:01:09
 url: https://ericmwalk.blog/2022/05/31/photoblogging-day-endurance.html

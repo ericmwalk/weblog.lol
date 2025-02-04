@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2013-10-14 10:05:01
 url: https://ericmwalk.blog/2013/10/14/kids-had-breakfast.html

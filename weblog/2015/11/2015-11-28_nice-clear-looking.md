@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2015-11-28 11:17:59
 url: https://ericmwalk.blog/2015/11/28/nice-clear-looking.html

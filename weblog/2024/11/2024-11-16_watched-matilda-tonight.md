@@ -1,7 +1,7 @@
 ---
+title: ""
 publish: "true"
 date: 2024-11-16 23:39:37
-permalink: /2024/11/16/watched-matilda-tonight
 url: https://ericmwalk.blog/2024/11/16/watched-matilda-tonight.html
 ---
 

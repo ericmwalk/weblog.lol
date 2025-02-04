@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2022-02-25 16:46:56
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2022/02/25/glad-the-sun.html
 ---
 

@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-08-25 17:51:09
-tags: "Running"
-permalink: /2024/08/25/new-running-shoe
+tags: Running
 url: https://ericmwalk.blog/2024/08/25/new-running-shoe.html
 ---
 

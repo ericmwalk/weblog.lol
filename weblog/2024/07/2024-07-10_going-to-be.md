@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-07-10 11:11:29
-tags: "Running"
-permalink: /2024/07/10/going-to-be
+tags: Running
 url: https://ericmwalk.blog/2024/07/10/going-to-be.html
 ---
 

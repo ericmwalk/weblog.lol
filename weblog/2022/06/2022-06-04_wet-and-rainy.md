@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2022-06-04 13:52:55
 url: https://ericmwalk.blog/2022/06/04/wet-and-rainy.html

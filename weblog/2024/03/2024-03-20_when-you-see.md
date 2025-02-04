@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-03-20 18:21:37
-tags: "Running"
-permalink: /2024/03/20/when-you-see
+tags: Running
 url: https://ericmwalk.blog/2024/03/20/when-you-see.html
 ---
 

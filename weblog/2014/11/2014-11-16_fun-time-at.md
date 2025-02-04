@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2014-11-16 19:58:54
 url: https://ericmwalk.blog/2014/11/16/fun-time-at.html

@@ -1,8 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2024-12-11 23:41:42
 tags: Running
-permalink: /2024/12/11/snow-and-cold
 url: https://ericmwalk.blog/2024/12/11/snow-and-cold.html
 ---
 

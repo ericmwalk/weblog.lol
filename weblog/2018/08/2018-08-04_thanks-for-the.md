@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2018-08-04 10:12:14
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2018/08/04/thanks-for-the.html
 ---
 

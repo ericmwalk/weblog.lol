@@ -2,7 +2,7 @@
 title: "Nostalgic November 🚂"
 publish: "true"
 date: 2021-11-18 23:00:05
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2021/11/18/nostalgic-november.html
 ---
 

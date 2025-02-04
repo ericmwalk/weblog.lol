@@ -1,8 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2024-11-13 22:58:32
 tags: Running
-permalink: /2024/11/13/min-to-burn
 url: https://ericmwalk.blog/2024/11/13/min-to-burn.html
 ---
 

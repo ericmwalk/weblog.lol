@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2022-11-17 11:07:28
-tags: "Project Shed"
+tags: ProjectShed
 url: https://ericmwalk.blog/2022/11/17/shed-office-faired.html
 ---
 

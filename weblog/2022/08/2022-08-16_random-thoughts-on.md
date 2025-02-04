@@ -1,11 +1,10 @@
 ---
+title: "Random thoughts on documenting travels and trips"
 publish: "true"
 date: 2022-08-16 08:50:47
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2022/08/16/random-thoughts-on.html
 ---
-
-# Random thoughts on documenting travels and trips
 
 Most likely the last big trip for this year has wrapped up and I am again reminded that I was going to attempt to post/record more of what happened so I would have a record of it in the future to look back on. However, as it has been almost two weeks since we got back and I haven’t posted anything from my last trip (or the first trip for that matter) except running pictures it doesn’t seem like I am going to start a new trend.
 

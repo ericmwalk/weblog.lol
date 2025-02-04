@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2015-03-21 17:17:28
 url: https://ericmwalk.blog/2015/03/21/the-backyard-rink.html

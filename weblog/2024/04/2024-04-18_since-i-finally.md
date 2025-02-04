@@ -1,7 +1,7 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-04-18 22:22:24
-permalink: /2024/04/18/since-i-finally
 url: https://ericmwalk.blog/2024/04/18/since-i-finally.html
 ---
 

@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-02-20 22:55:13
-tags: "Running"
-permalink: /2024/02/20/i-told-myself
+tags: Running
 url: https://ericmwalk.blog/2024/02/20/i-told-myself.html
 ---
 

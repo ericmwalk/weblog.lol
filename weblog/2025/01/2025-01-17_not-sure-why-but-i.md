@@ -1,8 +1,8 @@
 ---
+title: 
 publish: "true"
 date: 2025-01-17
 tags: 
-permalink: 2025/01/17/not-sure-why-but-i
 url: https://ericmwalk.blog/2025/01/17/not-sure-why-but-i.html
 ---
 

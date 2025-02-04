@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-08-23 07:36:24
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/08/23/thoughts-from-todays.html
 ---
 

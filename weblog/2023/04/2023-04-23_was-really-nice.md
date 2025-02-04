@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-04-23 10:22:09
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/04/23/was-really-nice.html
 ---
 
@@ -9,4 +10,4 @@ Was really nice outside this morning for this [run](http://www.strava.com/activi
 
 
 
-<img src="uploads/2023/02f15f2c18.jpg" width="600" height="450" alt="">
+![](https://ericmwalk.blog/uploads/2023/02f15f2c18.jpg)

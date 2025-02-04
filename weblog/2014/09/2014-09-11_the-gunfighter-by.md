@@ -1,11 +1,10 @@
 ---
+title: "'The Gunfighter' by Eric Kissack"
 publish: "true"
 date: 2014-09-11 17:17:20
-tags: "video"
+tags: video
 url: https://ericmwalk.blog/2014/09/11/the-gunfighter-by.html
 ---
-
-# 'The Gunfighter' by Eric Kissack
 
 Since I haven't posted anything lately I thought I would share this Short film I ran across thanks to <a href="https://twitter.com/tophergrace">Topher Grace</a> 'The Gunfighter' by Eric Kissack.  You should check it out as it is pretty funny.
 

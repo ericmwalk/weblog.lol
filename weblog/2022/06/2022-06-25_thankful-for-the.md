@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2022-06-25 16:10:00
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2022/06/25/thankful-for-the.html
 ---
 

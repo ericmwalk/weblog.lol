@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2013-08-26 22:14:57
 url: https://ericmwalk.blog/2013/08/26/photo-from-saturday.html

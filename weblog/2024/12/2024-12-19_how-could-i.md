@@ -1,8 +1,8 @@
 ---
+title: 
 publish: "true"
 date: 2024-12-19 19:00:56
 tags: Running
-permalink: /2024/12/19/how-could-i
 url: https://ericmwalk.blog/2024/12/19/how-could-i.html
 ---
 

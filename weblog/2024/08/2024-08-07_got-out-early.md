@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-08-07 07:54:37
-tags: "Running"
-permalink: /2024/08/07/got-out-early
+tags: Running
 url: https://ericmwalk.blog/2024/08/07/got-out-early.html
 ---
 

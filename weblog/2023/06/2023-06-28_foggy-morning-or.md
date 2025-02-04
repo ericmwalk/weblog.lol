@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-06-28 07:26:56
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/06/28/foggy-morning-or.html
 ---
 

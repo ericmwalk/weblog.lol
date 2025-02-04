@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2022-12-07 12:47:04
 url: https://ericmwalk.blog/2022/12/07/now-that-is.html

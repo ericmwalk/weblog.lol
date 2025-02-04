@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2015-09-17 20:31:48
 url: https://ericmwalk.blog/2015/09/17/this-kid-is.html

@@ -1,9 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2025-01-27
-tags:
-  - Running
-permalink: 2025/01/27/killing-some-time-while-the
+tags: Running
 url: https://ericmwalk.blog/2025/01/27/killing-some-time-while-the.html
 ---
 

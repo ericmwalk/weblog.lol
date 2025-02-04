@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2018-10-15 18:42:04
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2018/10/15/new-trail-before.html
 ---
 

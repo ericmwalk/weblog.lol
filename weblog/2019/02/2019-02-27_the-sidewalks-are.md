@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2019-02-27 22:09:00
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2019/02/27/the-sidewalks-are.html
 ---
 

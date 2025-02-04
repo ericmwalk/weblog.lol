@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-09-24 15:31:18
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/09/24/bug-light-and.html
 ---
 

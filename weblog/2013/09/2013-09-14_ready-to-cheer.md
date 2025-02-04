@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2013-09-14 10:17:22
 url: https://ericmwalk.blog/2013/09/14/ready-to-cheer.html

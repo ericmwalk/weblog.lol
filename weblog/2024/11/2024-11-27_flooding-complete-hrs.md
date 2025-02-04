@@ -1,8 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2024-11-27 11:22:00
-tags: "Backyard Rink"
-permalink: /2024/11/27/flooding-complete-hrs
+tags: BackyardRink, BackyardRink
 url: https://ericmwalk.blog/2024/11/27/flooding-complete-hrs.html
 ---
 

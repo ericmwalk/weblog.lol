@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-07-12 08:17:14
-tags: "Running"
-permalink: /2024/07/12/went-back-and
+tags: Running
 url: https://ericmwalk.blog/2024/07/12/went-back-and.html
 ---
 

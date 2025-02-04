@@ -1,11 +1,10 @@
 ---
+title: "Apple Watch ⌚️ - Strange Stop or Results"
 publish: "true"
 date: 2022-03-04 19:45:00
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2022/03/04/apple-watch-strange.html
 ---
-
-# Apple Watch ⌚️ - Strange Stop or Results
 
 I have been collecting this data and been reading articles for some time about the discrepancies in my **Apple Watch 6 vs my Garmin fēnix 5x**. However, I have not finished all of that yet and felt compelled to post this quickly as I ran across a very puzzling issue today that I am not even really sure where to start but this is how it went.
 

@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2012-11-16 23:25:31
 url: https://ericmwalk.blog/2012/11/16/trying-out-another.html

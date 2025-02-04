@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2021-06-14 08:22:27
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2021/06/14/change-of-plans.html
 ---
 

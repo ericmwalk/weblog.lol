@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-09-22 20:02:55
-tags: "Running"
-permalink: /2024/09/22/tour-of-south
+tags: Running
 url: https://ericmwalk.blog/2024/09/22/tour-of-south.html
 ---
 

@@ -2,7 +2,7 @@
 title: "Prespective..."
 publish: "true"
 date: 2021-09-17 10:39:58
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2021/09/17/prespective.html
 ---
 

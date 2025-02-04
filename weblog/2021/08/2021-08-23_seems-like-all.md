@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2021-08-23 07:05:00
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2021/08/23/seems-like-all.html
 ---
 

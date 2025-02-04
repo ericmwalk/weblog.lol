@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2021-11-29 21:53:00
 url: https://ericmwalk.blog/2022/01/06/finishing-touches-going.html

@@ -1,8 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2024-12-09 19:21:43
 tags: Running
-permalink: /2024/12/09/monday-morning-miles
 url: https://ericmwalk.blog/2024/12/09/monday-morning-miles.html
 ---
 

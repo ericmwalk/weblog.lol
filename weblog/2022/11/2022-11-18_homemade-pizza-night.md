@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2022-11-18 17:59:27
 url: https://ericmwalk.blog/2022/11/18/homemade-pizza-night.html

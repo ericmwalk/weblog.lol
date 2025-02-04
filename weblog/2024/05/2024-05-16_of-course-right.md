@@ -1,7 +1,7 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-05-16 13:08:44
-permalink: /2024/05/16/of-course-right
 url: https://ericmwalk.blog/2024/05/16/of-course-right.html
 ---
 

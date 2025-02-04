@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2018-11-04 07:33:37
-tags: "Dogs"
+tags: Dogs
 url: https://ericmwalk.blog/2018/11/04/seems-like-everyone.html
 ---
 

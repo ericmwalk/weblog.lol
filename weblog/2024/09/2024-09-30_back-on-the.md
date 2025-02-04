@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-09-30 20:33:00
-tags: "Running"
-permalink: /2024/09/30/back-on-the
+tags: Running
 url: https://ericmwalk.blog/2024/09/30/back-on-the.html
 ---
 

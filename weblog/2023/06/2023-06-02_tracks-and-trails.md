@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-06-02 10:45:00
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/06/02/tracks-and-trails.html
 ---
 

@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-09-01 19:56:39
-tags: "Running"
-permalink: /2024/09/01/well-i-wasnt
+tags: Running
 url: https://ericmwalk.blog/2024/09/01/well-i-wasnt.html
 ---
 

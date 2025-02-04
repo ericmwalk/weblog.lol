@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2013-01-21 20:43:27
 url: https://ericmwalk.blog/2013/01/21/my-project-for.html

@@ -1,11 +1,10 @@
 ---
+title: "Technology and Games to promote learning for all Students"
 publish: "true"
 date: 2014-11-17 08:29:30
 tags: blogging101, video
 url: https://ericmwalk.blog/2014/11/17/technology-and-games.html
 ---
-
-# Technology and Games to promote learning for all Students
 
 I can't believe I missed the video below as it practically happened in my own backyard. However, you have to watch this video of 5th grader Cordell Steiner giving a TEDx presentation at the University of St. Thomas about the benefits of video games in the classroom to further students learning. First of all, how impressive that he stood up in front of the audience and gave such a presentation.
 

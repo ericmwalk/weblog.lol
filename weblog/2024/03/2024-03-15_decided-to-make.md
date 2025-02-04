@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-03-15 21:11:31
-tags: "Running"
-permalink: /2024/03/15/decided-to-make
+tags: Running
 url: https://ericmwalk.blog/2024/03/15/decided-to-make.html
 ---
 

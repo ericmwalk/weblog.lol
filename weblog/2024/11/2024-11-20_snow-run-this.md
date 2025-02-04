@@ -1,8 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2024-11-20 22:23:13
 tags: Running
-permalink: /2024/11/20/snow-run-this
 url: https://ericmwalk.blog/2024/11/20/snow-run-this.html
 ---
 

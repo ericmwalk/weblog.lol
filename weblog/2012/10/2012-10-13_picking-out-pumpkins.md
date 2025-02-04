@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2012-10-13 11:28:37
 url: https://ericmwalk.blog/2012/10/13/picking-out-pumpkins.html

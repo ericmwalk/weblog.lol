@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-07-15 20:46:44
-tags: "Running"
-permalink: /2024/07/15/found-some-time
+tags: Running
 url: https://ericmwalk.blog/2024/07/15/found-some-time.html
 ---
 

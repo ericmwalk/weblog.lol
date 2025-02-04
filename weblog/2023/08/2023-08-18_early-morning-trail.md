@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-08-18 07:27:22
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/08/18/early-morning-trail.html
 ---
 

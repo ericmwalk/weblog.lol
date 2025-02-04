@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2021-12-13 19:45:34
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2021/12/13/finished-off-the.html
 ---
 

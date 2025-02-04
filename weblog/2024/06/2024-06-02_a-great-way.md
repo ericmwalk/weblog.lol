@@ -1,7 +1,7 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-06-02 14:25:55
-permalink: /2024/06/02/a-great-way
 url: https://ericmwalk.blog/2024/06/02/a-great-way.html
 ---
 

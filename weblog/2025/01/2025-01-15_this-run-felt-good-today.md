@@ -1,8 +1,8 @@
 ---
+title: 
 publish: "true"
 date: 2025-01-15
 tags: Running
-permalink: 2025/01/15/this-run-felt-good-today
 url: https://ericmwalk.blog/2025/01/15/this-run-felt-good-today.html
 Date & Time: Jan 15, 2025 at 10:07 AM
 Distance: 7.08mi || 11.4km

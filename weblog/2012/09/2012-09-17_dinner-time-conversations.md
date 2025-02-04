@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2012-09-17 17:29:00
 url: https://ericmwalk.blog/2012/09/17/dinner-time-conversations.html

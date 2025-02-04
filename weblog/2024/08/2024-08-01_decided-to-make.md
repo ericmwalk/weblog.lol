@@ -1,7 +1,7 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-08-01 21:53:52
-permalink: /2024/08/01/decided-to-make
 url: https://ericmwalk.blog/2024/08/01/decided-to-make.html
 ---
 

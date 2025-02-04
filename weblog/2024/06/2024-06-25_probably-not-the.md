@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-06-25 22:06:17
-tags: "Running"
-permalink: /2024/06/25/probably-not-the
+tags: Running
 url: https://ericmwalk.blog/2024/06/25/probably-not-the.html
 ---
 

@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2022-08-05 10:00:00
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2022/08/05/just-rambling-around.html
 ---
 

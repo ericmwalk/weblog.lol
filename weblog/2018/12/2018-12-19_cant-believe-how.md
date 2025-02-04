@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2018-12-19 18:14:00
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2018/12/19/cant-believe-how.html
 ---
 

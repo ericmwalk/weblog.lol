@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2022-07-24 12:34:37
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2022/07/24/the-freedom-trail.html
 ---
 

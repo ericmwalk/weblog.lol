@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-08-09 23:00:00
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/08/10/catching-the-sunrise.html
 ---
 

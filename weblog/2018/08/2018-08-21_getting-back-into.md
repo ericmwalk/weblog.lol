@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2018-08-21 08:35:23
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2018/08/21/getting-back-into.html
 ---
 

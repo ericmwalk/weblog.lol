@@ -1,7 +1,7 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-07-13 20:35:51
-permalink: /2024/07/13/spending-some-time
 url: https://ericmwalk.blog/2024/07/13/spending-some-time.html
 ---
 

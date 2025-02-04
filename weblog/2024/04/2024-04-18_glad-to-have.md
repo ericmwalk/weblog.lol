@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-04-18 19:20:27
-tags: "Running"
-permalink: /2024/04/18/glad-to-have
+tags: Running
 url: https://ericmwalk.blog/2024/04/18/glad-to-have.html
 ---
 

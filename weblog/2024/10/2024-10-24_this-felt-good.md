@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-10-24 19:15:14
-tags: "Running"
-permalink: /2024/10/24/this-felt-good
+tags: Running
 url: https://ericmwalk.blog/2024/10/24/this-felt-good.html
 ---
 

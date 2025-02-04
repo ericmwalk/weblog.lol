@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2014-10-19 21:59:44
 url: https://ericmwalk.blog/2014/10/19/gretchens-new-friend.html

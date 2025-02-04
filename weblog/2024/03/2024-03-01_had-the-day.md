@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-03-01 21:48:31
-tags: "Running"
-permalink: /2024/03/01/had-the-day
+tags: Running
 url: https://ericmwalk.blog/2024/03/01/had-the-day.html
 ---
 

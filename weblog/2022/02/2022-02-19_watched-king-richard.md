@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2022-02-19 22:46:53
 url: https://ericmwalk.blog/2022/02/19/watched-king-richard.html

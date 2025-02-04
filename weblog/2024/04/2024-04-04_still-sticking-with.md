@@ -1,11 +1,9 @@
 ---
-publish: "false"
+title: "Still Sticking with the USB sticks I see..."
+publish: "true"
 date: 2024-04-04 14:37:34
-permalink: /2024/04/04/still-sticking-with
 url: https://ericmwalk.blog/2024/04/04/still-sticking-with.html
 ---
-
-# Still Sticking with the USB sticks I see...
 
 I am baffled by what has been happening as I [posted in December](https://ericmwalk.blog/2023/12/22/thanks-for-taking.html) last year when I purchsed some picturs and was handed a USB stick. I am not quite sure what is happening that some companies resorting to sending (or giving) people pictures on USB sticks! Isn't this the age of highspeed internet, almost unlimited data, and cheap online storage? I thought this was long dead but to the point, I now have in my position two USB sticks from the same orginization that we purchased pictures from from our daughters dance competiation almost a month back. The first one that we recieved 2 weeks ago was corrupt so they had to mail us another one 🙄.
 

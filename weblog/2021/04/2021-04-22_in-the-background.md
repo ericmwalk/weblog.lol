@@ -2,7 +2,7 @@
 title: "In the Background of Pictures"
 publish: "true"
 date: 2021-04-22 21:32:00
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2021/04/22/in-the-background.html
 ---
 

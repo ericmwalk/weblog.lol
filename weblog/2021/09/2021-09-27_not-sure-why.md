@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2021-09-27 10:02:44
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2021/09/27/not-sure-why.html
 ---
 

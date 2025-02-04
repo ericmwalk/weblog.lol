@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-08-28 22:33:51
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/08/28/long-weekend-and.html
 ---
 

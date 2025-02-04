@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2022-12-08 10:15:38
-tags: "Backyard Rink"
+tags: BackyardRink, BackyardRink
 url: https://ericmwalk.blog/2022/12/08/with-the-temperature.html
 ---
 

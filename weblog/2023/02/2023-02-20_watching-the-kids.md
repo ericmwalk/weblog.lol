@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2023-02-20 16:21:39
 url: https://ericmwalk.blog/2023/02/20/watching-the-kids.html

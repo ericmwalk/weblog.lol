@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2022-03-28 16:19:25
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2022/03/28/wasnt-a-bad.html
 ---
 

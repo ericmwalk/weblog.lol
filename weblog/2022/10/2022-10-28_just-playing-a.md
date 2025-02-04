@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2022-10-28 21:43:33
 url: https://ericmwalk.blog/2022/10/28/just-playing-a.html

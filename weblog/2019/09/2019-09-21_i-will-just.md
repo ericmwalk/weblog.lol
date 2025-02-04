@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2019-09-21 21:26:00
 tags: dogs

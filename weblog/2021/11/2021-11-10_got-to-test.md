@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2021-11-10 23:08:25
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2021/11/10/got-to-test.html
 ---
 

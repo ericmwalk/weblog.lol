@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-07-11 22:49:26
-tags: "Running"
-permalink: /2024/07/11/another-humid-day
+tags: Running
 url: https://ericmwalk.blog/2024/07/11/another-humid-day.html
 ---
 

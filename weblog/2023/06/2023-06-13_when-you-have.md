@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2023-06-13 20:24:04
 url: https://ericmwalk.blog/2023/06/13/when-you-have.html

@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2021-07-07 21:50:16
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2021/07/07/finally-a-cool.html
 ---
 

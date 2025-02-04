@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-08-28 21:35:25
-tags: "Running"
-permalink: /2024/08/28/granted-it-has
+tags: Running
 url: https://ericmwalk.blog/2024/08/28/granted-it-has.html
 ---
 

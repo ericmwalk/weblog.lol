@@ -1,7 +1,7 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-01-17 07:34:00
-permalink: /2024/01/17/made-a-grave
 url: https://ericmwalk.blog/2024/01/17/made-a-grave.html
 ---
 

@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2022-07-04 13:27:43
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2022/07/04/the-local-run.html
 ---
 

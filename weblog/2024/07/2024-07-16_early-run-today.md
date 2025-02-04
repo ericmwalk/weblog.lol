@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-07-16 21:18:00
-tags: "Running"
-permalink: /2024/07/16/early-run-today
+tags: Running
 url: https://ericmwalk.blog/2024/07/16/early-run-today.html
 ---
 

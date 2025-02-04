@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-11-15 11:36:00
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/11/15/this-run-wasnt.html
 ---
 

@@ -1,7 +1,7 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-01-02 19:37:50
-permalink: /2024/01/02/over-a-year
 url: https://ericmwalk.blog/2024/01/02/over-a-year.html
 ---
 

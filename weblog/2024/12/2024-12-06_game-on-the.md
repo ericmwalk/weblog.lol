@@ -1,8 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2024-12-06 18:20:16
-tags: Backyard, Rink
-permalink: /2024/12/06/game-on-the
+tags: BackyardRink, BackyardRink
 url: https://ericmwalk.blog/2024/12/06/game-on-the.html
 ---
 

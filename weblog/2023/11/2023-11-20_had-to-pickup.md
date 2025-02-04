@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-11-20 22:32:15
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/11/20/had-to-pickup.html
 ---
 

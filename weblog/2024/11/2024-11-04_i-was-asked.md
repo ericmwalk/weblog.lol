@@ -1,8 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2024-11-04 22:18:35
 tags: Running
-permalink: /2024/11/04/i-was-asked
 url: https://ericmwalk.blog/2024/11/04/i-was-asked.html
 ---
 

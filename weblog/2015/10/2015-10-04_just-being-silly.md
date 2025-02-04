@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2015-10-04 19:40:09
 url: https://ericmwalk.blog/2015/10/04/just-being-silly.html

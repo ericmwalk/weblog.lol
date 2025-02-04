@@ -2,7 +2,7 @@
 title: "Reminded again why I got rid of my Fitbit!"
 publish: "true"
 date: 2021-03-05 10:49:09
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2021/03/05/reminded-again-why.html
 ---
 

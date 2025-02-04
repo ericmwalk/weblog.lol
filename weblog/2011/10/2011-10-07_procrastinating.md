@@ -1,10 +1,9 @@
 ---
+title: "Procrastinating...."
 publish: "true"
 date: 2011-10-07 09:10:20
 url: https://ericmwalk.blog/2011/10/07/procrastinating.html
 ---
-
-# Procrastinating....
 
 Ok, so how long has it been since I posted my "first" blog post to start this?  Let's not answer it as it is the post right before this and probably should be deleted anyways.
 

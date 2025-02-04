@@ -1,11 +1,10 @@
 ---
+title: "Welcome Up North!"
 publish: "true"
 date: 2019-08-23 16:15:01
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2019/08/23/welcome-up-north.html
 ---
-
-# Welcome Up North!
 
 Something is New around here... Welcome to Up North!
 <br>

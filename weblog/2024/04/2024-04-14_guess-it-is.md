@@ -1,7 +1,7 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-04-14 14:57:34
-permalink: /2024/04/14/guess-it-is
 url: https://ericmwalk.blog/2024/04/14/guess-it-is.html
 ---
 

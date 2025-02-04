@@ -2,7 +2,7 @@
 title: ""
 publish: "true"
 date: 2021-08-30 20:36:33
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2021/08/30/monday-morning-painfully.html
 ---
 

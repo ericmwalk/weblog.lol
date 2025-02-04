@@ -1,7 +1,7 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-06-12 20:31:31
-permalink: /2024/06/12/doing-some-volunteer
 url: https://ericmwalk.blog/2024/06/12/doing-some-volunteer.html
 ---
 

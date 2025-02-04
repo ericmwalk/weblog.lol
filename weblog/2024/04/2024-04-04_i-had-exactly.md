@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-04-04 20:52:17
-tags: "Running"
-permalink: /2024/04/04/i-had-exactly
+tags: Running
 url: https://ericmwalk.blog/2024/04/04/i-had-exactly.html
 ---
 

@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-04-15 21:10:22
-tags: "Running"
-permalink: /2024/04/15/wasnt-sure-how
+tags: Running
 url: https://ericmwalk.blog/2024/04/15/wasnt-sure-how.html
 ---
 

@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-05-01 22:30:20
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/05/01/was-windy-out.html
 ---
 

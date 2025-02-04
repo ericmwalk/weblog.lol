@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-08-01 12:09:10
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/08/01/well-it-kind.html
 ---
 

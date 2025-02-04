@@ -1,11 +1,10 @@
 ---
+title: "Keeping your Focus"
 publish: "true"
 date: 2017-10-17 15:58:21
-tags: "Blogging"
+tags: Blogging
 url: https://ericmwalk.blog/2017/10/17/keeping-your-focus.html
 ---
-
-# Keeping your Focus
 
 Becoming more focused requires an even greater skill at keeping your focus.
 

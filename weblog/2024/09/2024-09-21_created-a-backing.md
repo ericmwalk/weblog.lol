@@ -1,7 +1,7 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-09-21 20:43:00
-permalink: /2024/09/21/created-a-backing
 url: https://ericmwalk.blog/2024/09/21/created-a-backing.html
 ---
 

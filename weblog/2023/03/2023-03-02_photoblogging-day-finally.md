@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2023-03-02 21:55:03
 url: https://ericmwalk.blog/2023/03/02/photoblogging-day-finally.html
@@ -8,4 +9,4 @@ url: https://ericmwalk.blog/2023/03/02/photoblogging-day-finally.html
 
 
 
-<img src="uploads/2023/5d7482e33c.jpg" width="600" height="450" alt="">
+![](https://ericmwalk.blog/uploads/2023/5d7482e33c.jpg)

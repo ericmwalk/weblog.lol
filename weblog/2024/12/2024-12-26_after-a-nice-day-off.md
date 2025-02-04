@@ -1,8 +1,8 @@
 ---
+title: 
 publish: "true"
-date: 2024-12-26T18:43:00-0600
+date: 2024-12-26 18:43:00
 tags: Running
-permalink: /2024/12/26/after-a-nice-day-off
 url: https://ericmwalk.blog/2024/12/26/after-a-nice-day-off.html
 ---
 

@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2022-06-06 22:07:11
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2022/06/06/as-unplanned-days.html
 ---
 

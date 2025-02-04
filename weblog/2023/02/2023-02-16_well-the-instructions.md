@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-02-16 00:26:07
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/02/16/well-the-instructions.html
 ---
 
@@ -9,4 +10,4 @@ Well the instructions from [Open Core Legacy Patcher](https://dortania.github.io
 
 
 
-<img src="uploads/2023/4a5c3c6acf.jpg" width="285" height="514" alt="">
+![](https://ericmwalk.blog/uploads/2023/4a5c3c6acf.jpg)

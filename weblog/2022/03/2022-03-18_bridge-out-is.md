@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2022-03-18 15:53:39
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2022/03/18/bridge-out-is.html
 ---
 

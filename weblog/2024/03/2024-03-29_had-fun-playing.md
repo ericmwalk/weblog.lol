@@ -1,7 +1,7 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-03-29 22:44:00
-permalink: /2024/03/29/had-fun-playing
 url: https://ericmwalk.blog/2024/03/29/had-fun-playing.html
 ---
 

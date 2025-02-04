@@ -1,8 +1,8 @@
 ---
-publish: "false"
+title: ""
+publish: "true"
 date: 2024-04-13 19:03:29
-tags: "Running"
-permalink: /2024/04/13/sometimes-you-make
+tags: Running
 url: https://ericmwalk.blog/2024/04/13/sometimes-you-make.html
 ---
 

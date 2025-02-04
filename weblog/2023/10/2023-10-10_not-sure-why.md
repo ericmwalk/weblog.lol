@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2023-10-10 06:54:26
 url: https://ericmwalk.blog/2023/10/10/not-sure-why.html

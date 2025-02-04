@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2022-12-02 14:22:54
-tags: "Backyard Rink"
+tags: BackyardRink, BackyardRink
 url: https://ericmwalk.blog/2022/12/02/doesnt-everyone-spend.html
 ---
 

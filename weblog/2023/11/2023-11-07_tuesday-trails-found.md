@@ -1,7 +1,8 @@
 ---
+title: ""
 publish: "true"
 date: 2023-11-07 22:03:24
-tags: "Running"
+tags: Running
 url: https://ericmwalk.blog/2023/11/07/tuesday-trails-found.html
 ---
 
