@@ -1,10 +1,11 @@
 ---
-title: Another Chapter Closed 📕
 publish: "true"
 date: 2024-09-08 10:34
 url: https://ericmwalk.blog/2024/09/08/another-chapter-closed.html
 tags: []
 ---
+
+# Another Chapter Closed 📕
 
 A month ago, the title was officially signed over, and a cashier's check was placed in my hand for the sale of what was once our camper, golf cart, and, in theory, our seasonal spot at Kiesler’s in Waseca, MN. It’s been two years since we traded in our [RV](https://ericmwalk.blog/2022/09/28/goodbye-rv.html) for a larger camper at that same location. But now, as the time came to move on from that chapter, we’re also moving on from the entire campsite. This transition seemed to affect our youngest the most—not because of the camper itself but more because she had really embraced everything the campsite had to offer and loved being there. With the kids growing up, and our older two preferring to spend more time with friends back home during the summer, the weekends at the campsite were naturally winding down.
 
