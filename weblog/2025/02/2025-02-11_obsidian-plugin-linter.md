@@ -1,10 +1,11 @@
 ---
-title: Obsidian Plugin - Linter
 publish: "true"
 date: 2025-02-11 8:48
 tags: Obsidian
 url: 
 ---
+
+# Obsidian Plugin - Linter
 
 In my quest updating old blog posts that I have dumped all into Obsidian I found a great plugin called [Linter](https://github.com/platers/obsidian-linter). What it says it does is as follows:
 
