@@ -1,13 +1,12 @@
 ---
+title: Obsidian Plugin - Linter
 publish: "true"
 date: 2025-02-11 8:48
 tags: Obsidian
 url: 
 ---
 
-# Obsidian Plugin - Linter
-
-In my quest updating old blog posts that I have dumped all into Obsidian I found a great plugin called [Linter](https://github.com/platers/obsidian-linter). What it says it does is as follows:
+In my quest of updating old blog posts that I have dumped all into Obsidian I found a great plugin called [Linter](https://github.com/platers/obsidian-linter). What it says it does is as follows:
 
 > The [Linter is an Obsidian.md](https://platers.github.io/obsidian-linter/) plugin that is designed to help keep your notes in a more uniform pattern. It is designed to allow the user to specify which rules and settings to use so that they can try to make their notes as uniform as possible. This includes, but is not limited to, rules that affect: 
 > -  YAML frontmatter
