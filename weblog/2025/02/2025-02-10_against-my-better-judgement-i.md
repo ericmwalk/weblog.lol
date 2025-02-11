@@ -1,4 +1,5 @@
 ---
+title: ""
 publish: "true"
 date: 2025-02-10 14:33
 tags:
@@ -11,4 +12,4 @@ Against my better judgement I went out for a [run](https://www.strava.com/activi
 
 ![Wooden bridge stands over a small snow-covered path, surrounded by leafless trees casting long shadows in a quiet, sunlit winter forest.](https://ericmwalk.blog/uploads/2025/img-1926.jpeg)
 
-*Looks close at this photo and you will see a van driving towards me on this path. Yes, it is a bike/walking path not a road. Before I got to the bridge after taking this photo, they started reversing realizing their mistake or I guess they didn't want to run me down.*
+*Look close at this photo and you will see a van driving towards me on this path. Yes, it is a bike/walking path not a road. Before I got to the bridge after taking this photo, they started reversing realizing their mistake or I guess they didn't want to run me down.*
