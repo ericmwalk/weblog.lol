@@ -1,10 +1,11 @@
 ---
+title: ""
 publish: "true"
 date: 2022-10-31 23:40:00
-tags: 
+tags: []
 url: https://ericmwalk.blog/2022/10/31/going-to-give.html
 ---
 
 Going to give this a go with a picture directly and see if this gets sucked into Micro.blog
 
-![](https://therunphoto.files.wordpress.com/2022/11/img_2254.jpg)
+![Auto-generated description: Three children and a dog stand in shallow water surrounded by rocks and greenery.](https://ericmwalk.blog/uploads/2025/img-2254.jpg)
