@@ -1,6 +1,7 @@
 ---
+title: ""
 publish: "true"
-date: 2025-02-23 21:21
+date: 2025-02-21T21:21:00
 tags:
   - Running
 url: https://ericmwalk.blog/2025/02/21/it-was-a-nice-day.html
