@@ -11,32 +11,53 @@ jobs:
         uses: actions/checkout@v3
         with:
           fetch-depth: 0  # Fetch full Git history
-      - name: Update Title Line and Tags Line
+      - name: Update Title, Tags, and Ensure Proper Formatting
         run: |
           for file in $(git diff --name-only HEAD~1 HEAD | grep '.md'); do
             echo "Processing $file..."
+      
             # Process Title
             if grep -q '^title:' "$file"; then
               title_line=$(grep '^title:' "$file")
               title_value="$(echo "$title_line" | sed 's/^title: //; s/"//g')"
               sed -i '/^title:/d' "$file"  # Remove the title line
-              if [ -n "$title_value" ]; then
-                # Insert the title after the second --- only if there is a valid title value
-                awk -v title="# $title_value" 'BEGIN {found = 0} {print $0} /^---$/ {found++} found == 2 {print ""; print title; found++}' "$file" > temp && mv temp "$file"
-              fi
+            else
+              title_value=""
             fi
-            
-           # Process Tags
-          if grep -q '^tags:' "$file"; then
-            echo "Updating tags format..."
+      
+            # Process Tags
+            if grep -q '^tags:' "$file"; then
+              echo "Updating tags format..."
+              awk '
+                BEGIN {inside_tags=0; tags=""}
+                /^tags:/ {inside_tags=1; next}
+                inside_tags && /^[[:space:]]*- / {sub(/^[[:space:]]*- /, ""); tags = tags ? tags ", " $0 : $0; next}
+                inside_tags {inside_tags=0; print "tags: " tags}
+                {print}
+              ' "$file" > temp && mv temp "$file"
+            fi
+      
+            # Ensure Blank Line After YAML Front Matter
             awk '
-              BEGIN {inside_tags=0; tags=""}
-              /^tags:/ {inside_tags=1; next}
-              inside_tags && /^[[:space:]]*- / {sub(/^[[:space:]]*- /, ""); tags = tags ? tags ", " $0 : $0; next}
-              inside_tags {inside_tags=0; print "tags: " tags}
-              {print}
+              BEGIN {found = 0}
+              {print $0}
+              /^---$/ {
+                found++;
+                if (found == 2) print "";  # Add blank line after the second ---
+              }
             ' "$file" > temp && mv temp "$file"
-          fi
+      
+            # Insert Title if Available
+            if [ -n "$title_value" ]; then
+              awk -v title="# $title_value" '
+                BEGIN {found = 0}
+                {print $0}
+                /^---$/ {found++}
+                found == 2 && !title_inserted {
+                  print ""; print title; title_inserted=1;  # Add title after blank line
+                }
+              ' "$file" > temp && mv temp "$file"
+            fi
           done
       - name: Commit Changes
         run: |
