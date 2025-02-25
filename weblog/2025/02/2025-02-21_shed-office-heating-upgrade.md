@@ -1,10 +1,12 @@
 ---
-title: Shed Office Heating Upgrade
 publish: "true"
 date: 2025-02-20 08:42
-tags: ProjectShed
+tags: 
 url: https://ericmwalk.blog/2025/02/21/shed-office-heating-upgrade.html
 ---
+
+# Shed Office Heating Upgrade
+
 On a whim last week I decided I needed to get a little more heat flowing in the *Shed Office* as the electric heaters I have works great until the temps at night get down to -10ºF as it is a little too much for them to keep up even blasting all night (which I don't love doing). So some mornings I would wake up to 32ºF in the shed and if when I woke up I turned the heaters on it would take some time (sometimes half the day) to get the shed to a OK temp of in the high 40ºF so I could come out and then work. Because of that somedays I would just bail and try to work from the house.
 
 A couple weeks back I got a email with a deal on a mini propane heater that is for "Indoor / Outdoor use", however in the fine print is it **ONLY** supposed to be used indoors in an Emergency. After considering it I decided to pick one up as it was not overly expensive. Also, yes, heating my *Shed Office* so I can work is an emergency 😆. The heater is pretty basic as it is just a radiant propane heater instead of a forced air one so the nice thing is I can keep my other heaters going and not draw any other electricity. In a way it might have been nice to have one with a blower, I have actually been happy with how this is working with out a fan.
