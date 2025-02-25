@@ -1,10 +1,7 @@
 ---
-title: ""
 publish: "true"
 date: 2025-02-24 22:01
-tags:
-  - Running
-  - ProjectShed
+tags: Running, ProjectShed
 url: https://ericmwalk.blog/2025/02/24/such-a-nice-day-out.html
 Strava link: https://strava.com/activities/13717855647
 ---
