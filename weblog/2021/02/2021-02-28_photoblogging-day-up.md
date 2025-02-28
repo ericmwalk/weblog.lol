@@ -1,11 +1,10 @@
 ---
-title: ""
 publish: "true"
 date: 2021-02-28 22:51:23
 url: https://ericmwalk.blog/2021/02/28/photoblogging-day-up.html
-tags:
-  - Quotes
+tags: Quotes
 ---
+
 
 📷 Photoblogging: Day 28 - Up
 
