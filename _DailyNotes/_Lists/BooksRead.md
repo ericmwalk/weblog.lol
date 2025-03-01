@@ -1,8 +1,10 @@
 ---
-title: Books Read
 type: Page
 slug: books
 ---
+
+# Books Read
+
 # Recently Read
 
 ### 📚 [The Bourne Identity](https://www.goodreads.com/book/show/7869) - Jason Bourne, #1 - ★★★★☆
