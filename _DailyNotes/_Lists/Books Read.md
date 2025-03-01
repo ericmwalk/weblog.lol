@@ -2,7 +2,7 @@
 title: Books Read
 url: https://ericmwalk.blog/books-read/
 type: Page
-Path: /books
+slug: books
 publish: "true"
 ---
 # Recently Read
