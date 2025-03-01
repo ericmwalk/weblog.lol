@@ -1,8 +1,8 @@
 ーー-
-date: 2025-01-27 00:00
+date: 2025-01-27
+title: mysetup
 type: page
 slug: mysetup
-ogimage: https://cdn.grepjason.sh/image/weblog-og-image.png
 ---
 
 Example
