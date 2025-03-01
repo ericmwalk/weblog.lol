@@ -13,7 +13,7 @@ jobs:
           fetch-depth: 0  # Fetch full Git history
       - name: Update Title, Tags, and Ensure Proper Formatting
         run: |
-          for file in $(git diff --name-only HEAD~1 HEAD | grep '.md'); do
+          for file in $(git diff --name-only HEAD~1 HEAD | grep '.md' | grep -v '^static-pages/'); do
             echo "Processing $file..."
       
             # Process Title
