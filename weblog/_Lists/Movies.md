@@ -1,22 +1,10 @@
 ---
+title: 🍿 Movies
 url: https://ericmwalk.blog/movies/
 type: Page
 slug: movies
 publish: "true"
 ---
-
-<style>
-img {
-    display: block;
-    width: 200;
-    height: auto;
-    max-width: 100%;
-    border-radius: 0.5em;
-}
-</style>
-
-# 🍿 Movies
-
 ##  Recently Watched
 ### 🍿 [Bonhoeffer: Pastor. Spy. Assassin (2024)](https://www.themoviedb.org/movie/1079244) - ★★★★☆ 
 Enjoyed the movie overall. However, it was a little tough at times as it jumped back and forth in times to get you back and caught up to the present.
