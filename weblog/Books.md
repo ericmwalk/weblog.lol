@@ -3,14 +3,10 @@ url: https://ericmwalk.blog/books/
 date: 2025-03-03 13:14
 type: Page
 publish: "true"
-slug: books
 ---
-
-
-
 # 📚 Books
 
-# Recently Read
+## Recently Read
 
 ### 📚 [The Bourne Identity](https://www.goodreads.com/book/show/7869) - Jason Bourne, #1 - ★★★★☆
 Definitely strays from the movie and it’s been so long since I’ve watched a movie I’d like to see what some of the nuance differences were as the overall story differently. The book in my mind was rather long, but with that said I still wanted to hear it end so it did keep me returning even though overall from the movie had an idea what might have happened. 
