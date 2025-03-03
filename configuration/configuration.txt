@@ -8,7 +8,7 @@ Weblog description: Let's see what this is going to be
 Author: Eric
 // Canonical domain: elsewhere.tld
 Landing page: home
-Landing page template: Landing Page Template
+Landing page template: Main Template
 Random post location: /random
 
 ;; General config stuff
@@ -46,6 +46,11 @@ Date format: F j, Y
 
 Feed post count: 25
 // Feed post appendix: <p><em>Published with weblog.lol!</em></p>
+
+;; Pages
+;; -----------
+
+Page template: Pain Template
 
 
 
