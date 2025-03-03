@@ -4,6 +4,15 @@ type: Page
 slug: movies
 publish: "true"
 ---
+<style>
+img {
+    display: block;
+    width: 200;
+    height: auto;
+    max-width: 100%;
+    border-radius: 0.5em;
+}
+</style>
 
 # 🍿 Movies
 
