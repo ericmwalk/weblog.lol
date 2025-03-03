@@ -4,6 +4,7 @@ type: Page
 slug: movies
 publish: "true"
 ---
+
 <style>
 img {
     display: block;
