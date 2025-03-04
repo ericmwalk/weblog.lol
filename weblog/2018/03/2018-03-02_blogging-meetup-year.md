@@ -1,10 +1,12 @@
 ---
-title: Blogging Meetup - Year 2 Project Check-in
 publish: "true"
 date: 2018-03-02 06:13:00
-tags: Blogging, BloggingMeetup
+tags: 
 url: https://ericmwalk.blog/2018/03/02/blogging-meetup-year.html
 ---
+
+# Blogging Meetup - Year 2 Project Check-in
+
 
 Year 2 has come and gone… As I am excited to see another year of people using the Blogging Meetup, I hold back a little bit as I know I have been very distanced from it in the last year as I was working to prioritize various extra projects in my life last year.
 
