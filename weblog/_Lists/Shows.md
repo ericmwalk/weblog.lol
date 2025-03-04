@@ -1,10 +1,12 @@
 ---
-title: 📺 Shows
 url: https://ericmwalk.blog/shows/
 type: Page
 slug: shows
 publish: "true"
 ---
+
+# 📺 Shows
+
 ## Recently Watched
 ### 📺 [The Night Agent (2023) - Season 2](https://www.themoviedb.org/tv/129552) - ★★★☆☆
 Season 2 was up and down but it did keep our attention. I am looking to see how they weave season 3 into this as they promised it at the end of this season finally.
