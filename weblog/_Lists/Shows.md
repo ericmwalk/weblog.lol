@@ -1,16 +1,15 @@
 ---
+title: 📺 Shows
 url: https://ericmwalk.blog/shows/
 type: Page
 slug: shows
 publish: "true"
 ---
-
-# 📺 Shows
-
 ## Currently Watching
 ### 📺 [Severance (2022)](https://www.themoviedb.org/tv/95396)
 
 <img alt="Severance poster" src="https://image.tmdb.org/t/p/w780/pPHpeI2X1qEd1CS1SeyrdhZ4qnT.jpg" width=200 height=300)>
+
 ***
 
 ## Recently Watched
@@ -19,7 +18,8 @@ publish: "true"
 Season 2 was up and down but it did keep our attention. I am looking to see how they weave season 3 into this as they promised it at the end of this season finally.
 <img alt="The Night Agent poster" src="https://image.tmdb.org/t/p/w780/4c5yUNcaff4W4aPrkXE6zr7papX.jpg" width=200 height=300>
 	Watched on *2025-02-27*
-***
+
+---
 
 ### [The Night Agent (2023) - Season 1](https://www.themoviedb.org/tv/129552) - ★★★★☆
 We finished Season 1 and decided to hold off on kicking off Season 2 as the way each episode ends makes you want to keep going.
