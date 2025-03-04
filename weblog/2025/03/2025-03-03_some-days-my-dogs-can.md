@@ -1,11 +1,10 @@
 ---
-title: ""
 publish: "true"
 date: 2025-03-03 22:52
-tags:
-  - Dogs
+tags: Dogs
 url: https://ericmwalk.blog/2025/03/03/some-days-my-dogs-can.html
 ---
+
 Some days my Dogs can brighten my day or if at a minimum make me laugh… 
 
 I looked over this morning from the table and in this light it appears Lainey is looking angry at me.
