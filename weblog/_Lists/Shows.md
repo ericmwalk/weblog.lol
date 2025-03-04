@@ -1,18 +1,17 @@
 ---
+title: 📺 Shows
 url: https://ericmwalk.blog/shows/
 type: Page
 slug: shows
 publish: "true"
 ---
-
-# 📺 Shows
-
 ## Currently Watching
-### 📺 [Severance (2022)](https://www.themoviedb.org/tv/95396)
+### 📺 [Severance - Season 2](https://www.themoviedb.org/tv/95396)
 
 <img alt="Severance poster" src="https://image.tmdb.org/t/p/w780/pPHpeI2X1qEd1CS1SeyrdhZ4qnT.jpg" width=200 height=300)>
 
 ***
+<div id="Recently_Watched"></div>
 
 ## Recently Watched
 
@@ -62,7 +61,7 @@ Season 1 was good and can't wait for season 2 to start up again later this year.
 <img alt="Reacher poster" src="https://image.tmdb.org/t/p/w780/bQnnKBe3VsvXKMoNCaYmRzs1Dup.jpg" width=200 height=300>
 
 ***
-### 📺 [Severance (2022)](https://www.themoviedb.org/tv/95396) - ★★★★★
+### 📺 [Severance (2022) - Season 1](https://www.themoviedb.org/tv/95396) - ★★★★★
 
 <img alt="Severance poster|" src="https://image.tmdb.org/t/p/w780/lFf6LLrQjYldcZItzOkGmMMigP7.jpg" width=200 height=300>
 
