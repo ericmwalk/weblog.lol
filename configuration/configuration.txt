@@ -17,7 +17,7 @@ Random post location: /random
 Separator:  · 
 // Navigation: about, another-page, <a href="https://example.com">Example</a>, [Example](https://example.com)
 Files path: /files/
-Navigation: home, archive, [about](https://ericmwalk.omg.lol), [Now](https://ericmwalk.omg.lol/now) [<i class="fa-solid fa-rss"></i>](/rss.xml)
+Navigation: home, archive, [about](https://ericmwalk.omg.lol), [now](https://ericmwalk.omg.lol/now) [<i class="fa-solid fa-rss"></i>](/rss.xml)
 Landing page post count: 1
 // uncommented the line below
 Landing page post length: 45 words
