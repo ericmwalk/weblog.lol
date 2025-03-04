@@ -1,12 +1,10 @@
 ---
+title: 📺 Shows
 url: https://ericmwalk.blog/shows/
 type: Page
 slug: shows
 publish: "true"
 ---
-
-# 📺 Shows
-
 ## Currently Watching
 ### 📺 [Severance (2022)](https://www.themoviedb.org/tv/95396)
 
