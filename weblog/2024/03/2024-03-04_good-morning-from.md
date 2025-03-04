@@ -1,11 +1,10 @@
 ---
-title: ""
 publish: "true"
 date: 2024-03-04 17:10:56
-tags:
-  - Running
+tags: Running
 url: https://ericmwalk.blog/2024/03/04/good-morning-from.html
 ---
+
 
 Good morning from the East Coast! I am sure some of it is just a change of scenery and it helps that the sun rises earlier here than home but I really do enjoy these morning [runs](https://strava.com/activities/10887432974) watching the sunrise. 🌅
 
