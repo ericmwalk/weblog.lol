@@ -1,19 +1,17 @@
 ---
+title: 📺 Shows
 url: https://ericmwalk.blog/shows/
 type: Page
 slug: shows
 publish: "true"
 ---
-
-# 📺 Shows
-
 ## Currently Watching
 ### 📺 [Severance - Season 2](https://www.themoviedb.org/tv/95396)
 
 <img alt="Severance poster" src="https://image.tmdb.org/t/p/w780/pPHpeI2X1qEd1CS1SeyrdhZ4qnT.jpg" width=200 height=300)>
 
 ***
-<div id="Recently_Watched"></div>
+<div id="RecentlyWatched"></div>
 
 ## Recently Watched
 
