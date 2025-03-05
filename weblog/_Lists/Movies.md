@@ -1,10 +1,12 @@
 ---
-title: 🍿 Movies
 url: https://ericmwalk.blog/movies/
 type: Page
 slug: movies
 publish: "true"
 ---
+
+# 🍿 Movies
+
 ## Recently Watched
 
 ### 🍿 [Bonhoeffer: Pastor. Spy. Assassin (2024)](https://www.themoviedb.org/movie/1079244) - ★★★★☆ 
