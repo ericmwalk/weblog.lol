@@ -1,11 +1,13 @@
 ---
-title: 📺 Shows
 url: https://ericmwalk.blog/shows/
 type: Page
 slug: shows
 publish: "true"
-tags: []
+tags: 
 ---
+
+# 📺 Shows
+
 ## Currently Watching
 ### 📺 [High Potential (2024)](https://www.themoviedb.org/tv/226637) - Season 1 
 
