@@ -1,13 +1,17 @@
 ---
+title: 📺 Shows
 url: https://ericmwalk.blog/shows/
 type: Page
 slug: shows
 publish: "true"
+tags: []
 ---
-
-# 📺 Shows
-
 ## Currently Watching
+### 📺 [High Potential (2024)](https://www.themoviedb.org/tv/226637) - Season 1 
+
+<img alt="High Potential poster" src="https://image.tmdb.org/t/p/w780/sEWC7lzVKfuwXhzdahW4AX1F05s.jpg" width=200 height=300 >
+
+***
 ### 📺 [Severance - Season 2](https://www.themoviedb.org/tv/95396)
 
 <img alt="Severance poster" src="https://image.tmdb.org/t/p/w780/pPHpeI2X1qEd1CS1SeyrdhZ4qnT.jpg" width=200 height=300)>
