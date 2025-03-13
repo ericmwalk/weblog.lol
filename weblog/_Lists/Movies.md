@@ -1,13 +1,18 @@
 ---
+title: 🍿 Movies
 url: https://ericmwalk.blog/movies/
 type: Page
 slug: movies
 publish: "true"
 ---
-
-# 🍿 Movies
-
 ## Recently Watched
+### 🍿 [The Union (2024)](https://www.themoviedb.org/movie/704239) - ★★★★☆ 
+Entertaining movie to help pass the night while doing some work in a hotel room. I am not sure I had super high expectations for the movie but it was an action packed and yet funny at times movie.
+
+<img alt="The Union poster" src="https://image.tmdb.org/t/p/w780/d9CTnTHip1RbVi2OQbA2LJJQAGI.jpg" width=200 height=300 >
+	Watched on *2025-03-10*
+
+***
 
 ### 🍿 [Bonhoeffer: Pastor. Spy. Assassin (2024)](https://www.themoviedb.org/movie/1079244) - ★★★★☆ 
 Enjoyed the movie overall. However, it was a little tough at times as it jumped back and forth in times to get you back and caught up to the present.
