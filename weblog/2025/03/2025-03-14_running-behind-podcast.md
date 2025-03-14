@@ -1,12 +1,11 @@
 ---
+title: Running Behind Podcast
 publish: "true"
-date: 2025-03-14T21:30:00
-tags: Running
+date: 2025-03-14 15:30:00
+tags:
+  - Running
 url: https://ericmwalk.blog/2025/03/14/running-behind-podcast.html
 ---
-
-# Running Behind Podcast
-
 A friend of mine, Joey Metzger, has jumped into the podcast game with [Running Behind](https://podcasts.apple.com/kw/podcast/running-behind/id1795706178). On top of already making great [YouTube videos](https://www.youtube.com/@Run_Joey_Run) about his running adventures, he decided to take things further and launched the *Running Behind* podcast about a month ago. There is now, three episodes out there now that are fantastic and after catching up with him a couple weekends go for a run, I can say the guest lineup is only getting better. 
 
 ![Auto-generated description: A runner wearing colorful athletic gear is featured with a podcast title, Running Behind: A Podcast with Joey Metzger, against a purple background.](https://ericmwalk.blog/uploads/2025/running-behind-podcast.jpg)
