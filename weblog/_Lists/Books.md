@@ -1,14 +1,15 @@
 ---
+title: 📚 Books
 url: https://ericmwalk.blog/books/
 date: 2025-03-03 13:14
 type: Page
 publish: "true"
+tags: []
 ---
-
-# 📚 Books
-
 ## Currently Reading
+### 📚 [Golden Hour](https://www.goodreads.com/book/show/206180061-stuart-woods-golden-hour) - Teddy Fay, #7 
 
+<img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1718725769i/206180061.jpg" width=200 height=300>
 
 <div id="RecentlyRead"></div>
 ## Recently Read
