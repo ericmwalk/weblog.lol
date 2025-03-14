@@ -1,13 +1,11 @@
 ---
+title: 🍿 Movies
 url: https://ericmwalk.blog/movies/
 type: Page
 slug: movies
 publish: "true"
-tags: 
+tags: []
 ---
-
-# 🍿 Movies
-
 ## Recently Watched
 ### 🍿 [Ricky Stanicky (2024)](https://www.themoviedb.org/movie/1022690) - ★★★☆☆ 
 It was a good movie and helped me pass the time on my flight home. The underlying story at the end is a good one.
