@@ -1,14 +1,24 @@
 ---
+title: 🍿 Movies
 url: https://ericmwalk.blog/movies/
 type: Page
 slug: movies
 publish: "true"
-tags: 
+tags: []
 ---
-
-# 🍿 Movies
-
 ## Recently Watched
+### 🍿 [Blink Twice (2024)](https://www.themoviedb.org/movie/840705)  - ★★★☆☆ 
+Bummer is I started this movie on one of my flights and couldn’t get back to it for a week later. However, with the 23 min left it did come back to me. Overall, it was an interesting movie that kept trying to make you figure out the what is next and that kept up all the way to the end scene. So for that I was happy.
+<img alt="Blink Twice poster" src="https://image.tmdb.org/t/p/w780/lZGOK0I2DJSRlEPNOAFTSNxSjDD.jpg" width=200 height=300 >
+	Watched on *2025-03-16*
+
+***
+### 🍿 [Inside Out 2 (2024)](https://www.themoviedb.org/movie/1022789) - ★★★★☆ 
+Good movie and did a great job building off Inside Out 1. We have watched it before but after a long day of State Swim today it was a good way to cap off the night.
+<img alt="Inside Out 2 poster" src="https://image.tmdb.org/t/p/w780/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg" width=200 height=300 >
+	Watched on *2025-03-15*
+
+***
 ### 🍿 [Ricky Stanicky (2024)](https://www.themoviedb.org/movie/1022690) - ★★★☆☆ 
 It was a good movie and helped me pass the time on my flight home. The underlying story at the end is a good one.
 <img alt="Ricky Stanicky poster" src="https://image.tmdb.org/t/p/w780/oJQdLfrpl4CQsHAKIxd3DJqYTVq.jpg" width=200 height=300 >
@@ -126,6 +136,13 @@ Overall it really didn’t really do much for me but as with all movies I watche
 I have read the [book" src="https://ericmwalk.blog/2017/02/10/the-boys-in.html) and it is one of my favorites so it is not surprising that I like the movie too. It has been a while since I read it so I might have to put it back to the top of the list again.
 <img alt="The Boys in the Boat poster" src="https://image.tmdb.org/t/p/w780/ncJMztHprw3gLRAnDjNnnT23CIt.jpg" width=200 height=300>
 	Watched on *2024-05-10*
+
+***
+
+### 🍿 [3 Days to Kill (2014)](https://www.themoviedb.org/movie/192102)  - ★★★☆☆
+
+<img alt="3 Days to Kill poster" src="https://image.tmdb.org/t/p/w780/zkszfD4Bf3rzwcMZVstC1n40k3A.jpg" width=200 height=300 >
+	Watched on *2024-05-08*
 
 ***
 
