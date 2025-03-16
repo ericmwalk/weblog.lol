@@ -1,11 +1,13 @@
 ---
-title: 🍿 Movies
 url: https://ericmwalk.blog/movies/
 type: Page
 slug: movies
 publish: "true"
-tags: []
+tags: 
 ---
+
+# 🍿 Movies
+
 ## Recently Watched
 ### 🍿 [Blink Twice (2024)](https://www.themoviedb.org/movie/840705)  - ★★★☆☆ 
 Bummer is I started this movie on one of my flights and couldn’t get back to it for a week later. However, with the 23 min left it did come back to me. Overall, it was an interesting movie that kept trying to make you figure out the what is next and that kept up all the way to the end scene. So for that I was happy.
