@@ -1,11 +1,13 @@
 ---
-title: Movies
 url: https://ericmwalk.blog/movies/
 type: Page
 slug: movies
 publish: "true"
-tags: []
+tags: 
 ---
+
+# Movies
+
 ## Recently Watched
 ### 🍿 [You're Cordially Invited (2025)](https://www.themoviedb.org/movie/996821) - ★★★★☆ 
 Overall a really good movie with great little comedy parts buried in there. It was one of those movies you know something else bad (really meaning embarrassing) was going to happen and you were waiting for it.
