@@ -1,14 +1,18 @@
 ---
+title: Movies
 url: https://ericmwalk.blog/movies/
 type: Page
 slug: movies
 publish: "true"
-tags: 
+tags: []
 ---
-
-# 🍿 Movies
-
 ## Recently Watched
+### 🍿 [You're Cordially Invited (2025)](https://www.themoviedb.org/movie/996821) - ★★★★☆ 
+Overall a really good movie with great little comedy parts buried in there. It was one of those movies you know something else bad (really meaning embarrassing) was going to happen and you were waiting for it.
+<img alt="You're Cordially Invited poster" src="https://image.tmdb.org/t/p/w780/muXnwAdVdEEktto0NBNMyqK3uQH.jpg" width=200 height=300 >
+	Watched on *2025-03-17*
+
+***
 ### 🍿 [Blink Twice (2024)](https://www.themoviedb.org/movie/840705)  - ★★★☆☆ 
 Bummer is I started this movie on one of my flights and couldn’t get back to it for a week later. However, with the 23 min left it did come back to me. Overall, it was an interesting movie that kept trying to make you figure out the what is next and that kept up all the way to the end scene. So for that I was happy.
 <img alt="Blink Twice poster" src="https://image.tmdb.org/t/p/w780/lZGOK0I2DJSRlEPNOAFTSNxSjDD.jpg" width=200 height=300 >
