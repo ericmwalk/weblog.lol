@@ -1,11 +1,13 @@
 ---
-title: Movies
 url: https://ericmwalk.blog/movies/
 type: Page
 slug: movies
 publish: "true"
-tags: []
+tags: 
 ---
+
+# Movies
+
 ## Recently Watched
 
 ### 🍿 [Back in Action (2025)](https://www.themoviedb.org/movie/993710) - ★★★★☆ 
