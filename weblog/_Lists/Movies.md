@@ -1,14 +1,20 @@
 ---
+title: Movies
 url: https://ericmwalk.blog/movies/
 type: Page
 slug: movies
 publish: "true"
-tags: 
+tags: []
 ---
-
-# Movies
-
 ## Recently Watched
+
+### 🍿 [Back in Action (2025)](https://www.themoviedb.org/movie/993710) - ★★★★☆ 
+Well scripted action movie that has two big names in it. It isn’t any shocking story line but overall really good action show for what I was looking for.
+<img alt="Back in Action poster" src="https://image.tmdb.org/t/p/w780/3L3l6LsiLGHkTG4RFB2aBA6BttB.jpg" width=200 height=300 >
+	Watched on *2025-03-17*
+
+***
+
 ### 🍿 [You're Cordially Invited (2025)](https://www.themoviedb.org/movie/996821) - ★★★★☆ 
 Overall a really good movie with great little comedy parts buried in there. It was one of those movies you know something else bad (really meaning embarrassing) was going to happen and you were waiting for it.
 <img alt="You're Cordially Invited poster" src="https://image.tmdb.org/t/p/w780/muXnwAdVdEEktto0NBNMyqK3uQH.jpg" width=200 height=300 >
