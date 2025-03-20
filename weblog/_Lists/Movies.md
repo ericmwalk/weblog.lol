@@ -1,11 +1,13 @@
 ---
-title: Movies
 url: https://ericmwalk.blog/movies/
 type: Page
 slug: movies
 publish: "true"
-tags: []
+tags: 
 ---
+
+# Movies
+
 ## Recently Watched
 ### 🍿 [The Gray Man (2022)](https://www.themoviedb.org/movie/725201)  - ★★★★☆
 I might have been a little generous on my rating here but I thought the overall action was good and kept me wanting to see how the story ended. In fact at the end I felt like there could have been some more conclusions but maybe that is leaving it open to another one in the long future.
