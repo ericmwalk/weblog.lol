@@ -1,10 +1,12 @@
 ---
-title: Thirty-Eight
 publish: "true"
 date: 2019-03-24 09:12:00
-tags: []
+tags: 
 url: https://ericmwalk.blog/2019/03/24/thirtyeight.html
 ---
+
+# Thirty-Eight
+
 Last year was spent focusing on things that mattered not only to myself but my family too. I felt overall it was a very successful endeavor that allowed me to improve my health, mental state, as well as family time.
 
 Early on in the year we definitely decided to make Family a priority and carve out some time throughout the year. One of the first things that kind of popped up unexpectedly was that each kid got a mini vacation with a parent. My wife took our oldest and youngest to Arizona at different times as they coincided with other family events. Then I took our middle child on a daddy-daughter trip to Duluth where we spent time wandering around and exploring via kayak sea caves. Since I wasn’t at either of the Arizona trips, I can speak more to our trip to Duluth, MN and it was really fun. It was great to just connect one on one with our children since most of the time we have multiple around us.
