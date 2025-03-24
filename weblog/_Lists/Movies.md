@@ -1,11 +1,13 @@
 ---
-title: Movies
 url: https://ericmwalk.blog/movies/
 type: Page
 slug: movies
 publish: "true"
-tags: []
+tags: 
 ---
+
+# Movies
+
 ## Recently Watched
 ### 🍿 [A Real Pain (2024)](https://www.themoviedb.org/movie/1013850) - ★★☆☆☆ 
 Maybe I wasn’t in the mood for this kind of a movie but didn’t really do much for me. That is not to say anything was bad just not for me.
