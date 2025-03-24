@@ -1,12 +1,10 @@
 ---
+title: Forty-Four
 publish: "true"
 date: 2025-03-24T09:58:00
-tags: 
+tags: []
 url: https://ericmwalk.blog/2025/03/24/fortyfour.html
 ---
-
-# Forty-Four
-
 I’ve just spent the last two weeks in Portland Maine obviously traveling back on the weekend because I wanted to watch my daughter swim at her state competition. Now that I’m back, I’m reflecting on everything as I normally do when writing these for what have become almost yearly reviews.
 
 This past year has, as always, been full of changes. My youngest daughter decided to shift her focus from competitive dance to going all in on competitive swimming and she’s done amazing. I love watching everything she has accomplished so far this year and how much her work and effort is paying off. My middle child who has been a dedicated hockey player for as long as I can remember has really branched out this year. After giving up dance, she took some time off the period year, however now  it’s been great to see her grow and try new things from volleyball and soon to be track. My oldest has also had an interesting year. He’s still the kid who loves basketball, but he’s been hanging out with friends and trying new things like golf. Not to mention he started driving this past year! As he is almost now 16, his new thing is looking for a job. I am both anxious and excited for him to be able to drive himself to work, events and activities. The one thing over the past year for him that has been interesting to see is that he has gone on two trips with one of his friends and as much as I hate seeing him go I really love the connections he’s making and hearing all about it when he gets back.
@@ -15,7 +13,7 @@ The big news for our family this year is that we finally decided to [sell our ca
 
 ![A group of five people, including children and adults, are smiling and sitting together in a golf cart. They are outdoors, possibly at a campsite, with trailers and trees visible in the background. The adults are wearing casual clothes, and one is wearing sunglasses. The weather appears to be pleasant.](https://ericmwalk.blog/uploads/2025/img-0379.jpeg)
 
-Looking back at past years I always talk about running and honestly I haven’t done much with it lately but I did join a friend’s podcast to talk about running and I really enjoyed it. There may be more episodes in the future that I join him on and I look forward to that. Talking to him made me realize I have more to say but I don’t have the time or energy to start my own podcast so I would rather just join someone else’s and talk about what I know. I’m not saying it’s the greatest podcast just because I was on it but I really like what Joey is doing bringing in normal people like you and me to share their experiences. I felt the same way when I joined Off the Couch in the earlier part of their podcast however, I think as it grew they shifted toward professional athletes. It was an honor to be included but as someone who runs as a hobby and even though it is always interesting hearing people talk about how they got into running that are more professional, it’s harder to relate to career ultra-runners.
+Looking back at past years I always talk about running and honestly I haven’t done much with it lately but I did join a friend’s podcast to talk about running and I really enjoyed it. There may be more episodes in the future that I join him on and I look forward to that as well. Talking to him made me realize I have more to say but I don’t have the time or energy to start my own podcast so I would rather just join someone else’s and talk about what I know *(not that I really know that much but I do like to talk about running)*. I’m not saying it’s the greatest podcast just because I was on it but I really like what Joey is doing bringing in normal people like you and me to share their experiences. I felt the same way when I joined Off the Couch in the earlier part of their podcast however, I think as it grew they shifted toward professional athletes. It was an honor to be included but as someone who runs as a hobby and even though it is always interesting hearing people talk about how they got into running that are more professional, it’s harder to relate to career ultra-runners.
 
 From a work perspective I don’t have much to report but I am glad to be taking a year off from planning our big yearly team event. I know it doesn’t sound like much but even if you’re not handling the entire scope of planning a lot falls on you to ensure the week goes smoothly. I’m looking forward to showing up as just a participant this year fully engaging in the topics instead of spending the whole time thinking about logistics, taking frantic notes, and preparing recaps at the end of each day and week.
 
