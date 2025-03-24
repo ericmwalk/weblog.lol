@@ -1,21 +1,18 @@
 ---
+title: Thirty-Eight
 publish: "true"
 date: 2019-03-24 09:12:00
-tags: Running
+tags: []
 url: https://ericmwalk.blog/2019/03/24/thirtyeight.html
 ---
-
-# Thirty-Eight
-
 Last year was spent focusing on things that mattered not only to myself but my family too. I felt overall it was a very successful endeavor that allowed me to improve my health, mental state, as well as family time.
 
 Early on in the year we definitely decided to make Family a priority and carve out some time throughout the year. One of the first things that kind of popped up unexpectedly was that each kid got a mini vacation with a parent. My wife took our oldest and youngest to Arizona at different times as they coincided with other family events. Then I took our middle child on a daddy-daughter trip to Duluth where we spent time wandering around and exploring via kayak sea caves. Since I wasn’t at either of the Arizona trips, I can speak more to our trip to Duluth, MN and it was really fun. It was great to just connect one on one with our children since most of the time we have multiple around us.
 
-
-![](https://ericmwalk.blog/uploads/2022/d0d7fa161f.jpg)
+![|700x700](https://ericmwalk.blog/uploads/2022/d0d7fa161f.jpg)
 *April and Gretchen in Arizona on a Mountain in Phoenix (April 2018)*
 
-![](https://ericmwalk.blog/uploads/2022/d0d7fa161f.jpg)
+![A child and an adult pose in front of a carved wooden bear sculpture surrounded by white birch trees. The child is wearing sunglasses, a blue "Be Kind" shirt, and neon yellow shorts, while the adult is in an orange shirt with the word "Hardware" visible. They stand inside a building with wooden beams visible on the ceiling. Two smaller carved bear figures are climbing the trees behind them.](https://ericmwalk.blog/uploads/2025/8fd8409a4b.jpeg)
 *Brecken and April in Arizona at Bearizona (June 2018)*
 
 ![](https://ericmwalk.blog/uploads/2022/a76ef195d1.jpg)
@@ -43,11 +40,11 @@ Finally, besides everyone being healthy we welcomed a new member of our family t
 ![](https://ericmwalk.blog/uploads/2022/b4e0d00f43.jpg)
 *Lainey at 2 months old (September 2018)*
 
-<i>As you can see she is not as petite as she was when we first got her :) .
+*As you can see she is not as petite as she was when we first got her :) .*
 
 Everyone in the family loves her to death even though we miss our old pets. This has oddly enough been a little bit of an adjustment as we really did take advantage of a pet free lifestyle over the summer. Now that everything has changed, it is a good change but we are back to moring upfront planning to make sure Lainey can either come with us or has another place to stay.</p>
 
-<p>As I continue into this next year, a new word that keeps popping up in my head is <b>Embrace</b>. It builds upon last year as I want to embrace those things that my family and I enjoy and continue to cut out other areas that do not bring us joy. This not only goes for personal things but work related stuff as well, I know there is time to focus at work but also I want to start embracing the opportunities that are placed before me instead of always trying to run to or think about the next shiny object.
+As I continue into this next year, a new word that keeps popping up in my head is **Embrace**. It builds upon last year as I want to embrace those things that my family and I enjoy and continue to cut out other areas that do not bring us joy. This not only goes for personal things but work related stuff as well, I know there is time to focus at work but also I want to start embracing the opportunities that are placed before me instead of always trying to run to or think about the next shiny object.
 
 If I am true to myself in this upcoming year I know this will be a challenge to keep but I am really up for it as it has been on my mind for a while.
 
