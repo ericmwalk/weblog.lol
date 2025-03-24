@@ -1,14 +1,19 @@
 ---
+title: Movies
 url: https://ericmwalk.blog/movies/
 type: Page
 slug: movies
 publish: "true"
-tags: 
+tags: []
 ---
-
-# Movies
-
 ## Recently Watched
+### 🍿 [A Real Pain (2024)](https://www.themoviedb.org/movie/1013850) - ★★☆☆☆ 
+Maybe I wasn’t in the mood for this kind of a movie but didn’t really do much for me. That is not to say anything was bad just not for me.
+<img alt="A Real Pain poster" src="https://image.tmdb.org/t/p/w780/67xRIXm5TxXRT4nV2V4AEJ9yq2d.jpg" width=200 height=300 >
+	Watched on *2025-03-21*
+
+***
+
 ### 🍿 [The Gray Man (2022)](https://www.themoviedb.org/movie/725201)  - ★★★★☆
 I might have been a little generous on my rating here but I thought the overall action was good and kept me wanting to see how the story ended. In fact at the end I felt like there could have been some more conclusions but maybe that is leaving it open to another one in the long future.
 <img alt="The Gray Man poster" src="https://image.tmdb.org/t/p/w780/5Eom3JsXgQlCj6QIsGCwXkX7wyH.jpg" width=200 height=300 >
