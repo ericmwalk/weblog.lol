@@ -1,10 +1,12 @@
 ---
-title: Running Route Diverted - Portland Maine
 publish: "true"
 date: 2025-03-26T09:20:00
-tags: []
+tags: 
 url: https://ericmwalk.blog/2025/03/26/running-route-diverted-portland-maine.html
 ---
+
+# Running Route Diverted - Portland Maine
+
 Because I’m a slightly curious person, after coming across all the mess on my usual running route in Portland, Maine, I had to dig into why they seem to be moving this narrow-gauge railroad track over by about 5-10 feet and causing havoc on my favorite trail along the water. 
 
 *That is right don’t mess with my normal paths or I might get curious!*
