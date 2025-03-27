@@ -36,7 +36,6 @@ jobs:
                 {print}
               ' "$file" > temp && mv temp "$file"
             fi
-
       
             # Ensure Blank Line After YAML Front Matter
             awk '
@@ -59,13 +58,23 @@ jobs:
                 }
               ' "$file" > temp && mv temp "$file"
             fi
+
+            # Update Links After Second ---
+            awk '
+              BEGIN {found = 0}
+              { 
+                print $0;
+                if ($0 ~ /^---$/) found++;
+                if (found >= 2) gsub(/\(https:\/\/ericmwalk\.blog\/([0-9]{4}\/[^)]*)\.html\)/, "(https://runs.lol/\1)");
+              }
+            ' "$file" > temp && mv temp "$file"
           done
       - name: Commit Changes
         run: |
           git config --global user.name "ericmwalk"
           git config --global user.email "eric@brebs.net"
           git add .
-          git diff --cached --quiet || git commit -m "Updated title line in updated files"
+          git diff --cached --quiet || git commit -m "Updated title line and links in updated files"
           git push
 
   weblog_import:
@@ -88,4 +97,3 @@ jobs:
         env:
           ADDRESS: ericmwalk
           WEBLOG_API_KEY: ${{ secrets.WEBLOG_API_KEY }}
-          
