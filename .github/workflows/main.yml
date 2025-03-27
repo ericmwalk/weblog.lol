@@ -15,7 +15,7 @@ jobs:
         run: |
           for file in $(git diff --name-only HEAD~1 HEAD | grep '.md' | grep -v '^static-pages/'); do
             echo "Processing $file..."
-
+      
             # Process Title
             if grep -q '^title:' "$file"; then
               title_line=$(grep '^title:' "$file")
@@ -24,7 +24,7 @@ jobs:
             else
               title_value=""
             fi
-
+      
             # Process Tags
             if grep -q '^tags:' "$file"; then
               echo "Updating tags format..."
@@ -37,6 +37,7 @@ jobs:
               ' "$file" > temp && mv temp "$file"
             fi
 
+      
             # Ensure Blank Line After YAML Front Matter
             awk '
               BEGIN {found = 0}
@@ -46,7 +47,7 @@ jobs:
                 if (found == 2) print "";  # Add blank line after the second ---
               }
             ' "$file" > temp && mv temp "$file"
-
+      
             # Insert Title if Available
             if [ -n "$title_value" ]; then
               awk -v title="# $title_value" '
@@ -57,6 +58,7 @@ jobs:
                   print ""; print title; title_inserted=1;  # Add title after blank line
                 }
               ' "$file" > temp && mv temp "$file"
+            fi
           done
       - name: Commit Changes
         run: |
@@ -82,6 +84,8 @@ jobs:
         run: git log --oneline -5
       - id: weblog_import
         uses: neatnik/weblog.lol@v1
+
         env:
           ADDRESS: ericmwalk
           WEBLOG_API_KEY: ${{ secrets.WEBLOG_API_KEY }}
+          
