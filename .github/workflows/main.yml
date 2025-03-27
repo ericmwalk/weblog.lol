@@ -66,7 +66,7 @@ jobs:
                 if ($0 ~ /^---$/) found++;
                 if (found == 2) process = 1;
                 if (process) {
-                  gsub(/\(https:\/\/ericmwalk\.blog\/([0-9]{4}\/[^)]*)\.html\)/, "(https://runs.lol/\\1)", $0);
+                  $0 = gensub(/\(https:\/\/ericmwalk\.blog\/([0-9]{4}\/[^)]*)\.html\)/, "(https://runs.lol/\\1)", "g", $0);
                 }
                 print;
               }
