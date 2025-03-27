@@ -11,7 +11,7 @@ jobs:
         uses: actions/checkout@v3
         with:
           fetch-depth: 0  # Fetch full Git history
-      - name: Update Title, Tags, and Ensure Proper Formatting
+      - name: Update Title, Tags, Links and Ensure Proper Formatting
         run: |
           for file in $(git diff --name-only HEAD~1 HEAD | grep '.md' | grep -v '^static-pages/'); do
             echo "Processing $file..."
@@ -61,11 +61,12 @@ jobs:
 
             # Update Links After Second ---
             awk '
-              BEGIN {found = 0}
+              BEGIN {found = 0; process = 0}
               { 
-                print $0;
                 if ($0 ~ /^---$/) found++;
-                if (found >= 2) gsub(/\(https:\/\/ericmwalk\.blog\/([0-9]{4}\/[^)]*)\.html\)/, "(https://runs.lol/\1)");
+                if (found == 2) process = 1;
+                if (process) gsub(/\(https:\/\/ericmwalk\.blog\/([0-9]{4}\/[^)]*)\.html\)/, "(https://runs.lol/\1)");
+                print $0;
               }
             ' "$file" > temp && mv temp "$file"
           done
