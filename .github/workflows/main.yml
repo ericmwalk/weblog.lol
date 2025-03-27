@@ -18,7 +18,21 @@ jobs:
           replace_blog_links() {
             for file in $(git diff --name-only HEAD~1 HEAD | grep '.md' | grep -v '^static-pages/'); do
               echo "Replacing links in $file..."
-              sed -E -i "s~https://ericmwalk\.blog/([0-9]{4}/[0-9]{2}/[0-9]{2}/[^) \"']+)(\.html)?~https://runs.lol/\1~g" "$file"
+
+              # Split YAML and body
+              awk '
+                BEGIN {yaml=1; count=0}
+                /^---$/ {count++; if (count==2) {yaml=0; print; next}}
+                yaml {print > "yaml.tmp"; next}
+                {print > "body.tmp"}
+              ' "$file"
+
+              # Process body
+              sed -E "s~https://ericmwalk\.blog/([0-9]{4}/[0-9]{2}/[0-9]{2}/[^) \"']+)(\.html)?~https://runs.lol/\1~g" body.tmp > body_fixed.tmp
+
+              # Reassemble
+              cat yaml.tmp body_fixed.tmp > "$file"
+              rm yaml.tmp body.tmp body_fixed.tmp
             done
           }
 
@@ -101,3 +115,4 @@ jobs:
         env:
           ADDRESS: ericmwalk
           WEBLOG_API_KEY: ${{ secrets.WEBLOG_API_KEY }}
+``
