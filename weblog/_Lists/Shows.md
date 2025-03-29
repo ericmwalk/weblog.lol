@@ -1,28 +1,37 @@
 ---
+title: 📺 Shows
 url: https://ericmwalk.blog/shows/
 type: Page
 slug: shows
 publish: "true"
-tags: 
+tags: []
 ---
-
-# 📺 Shows
-
 ## Currently Watching
+### 📺 [Alert: Missing Persons Unit (2023)](https://www.themoviedb.org/tv/202308) - Season 3
+
+<img alt="Alert: Missing Persons Unit poster" src="https://image.tmdb.org/t/p/w780/lLRC3GSYiFVHsxgc9tvmR6WjcOu.jpg" width=200 height=300 >
+
+***
+### 📺 [The Rookie (2018)](https://www.themoviedb.org/tv/79744) - Season 7
+
+<img alt="The Rookie poster" src="https://image.tmdb.org/t/p/w780/bL1mwXDnH5fCxqc4S2n40hoVyoe.jpg)" width=200 height=300 >
+
+***
 ### 📺 [High Potential (2024)](https://www.themoviedb.org/tv/226637) - Season 1 
 
 <img alt="High Potential poster" src="https://image.tmdb.org/t/p/w780/sEWC7lzVKfuwXhzdahW4AX1F05s.jpg" width=200 height=300 >
-
-***
-### 📺 [Severance - Season 2](https://www.themoviedb.org/tv/95396)
-
-<img alt="Severance poster" src="https://image.tmdb.org/t/p/w780/pPHpeI2X1qEd1CS1SeyrdhZ4qnT.jpg" width=200 height=300)>
 
 ***
 <div id="RecentlyWatched"></div>
 
 ## Recently Watched
 
+### 📺 [Severance - Season 2](https://www.themoviedb.org/tv/95396) - ★★★★★
+Season 2 did not disappoint and there was just a lot going that I found myself rewatching episodes as I felt like I might have missed some stuff along the way. I guess that is what makes it that good. It sounds like a Season 3 might be in order so I am already looking forward to that but not sure what direction it will take. I guess that is going to be the thing keeping people wanting more to see what is next.
+
+<img alt="Severance poster" src="https://image.tmdb.org/t/p/w780/pPHpeI2X1qEd1CS1SeyrdhZ4qnT.jpg" width=200 height=300)>
+
+***
 ### 📺 [The Night Agent (2023) - Season 2](https://www.themoviedb.org/tv/129552) - ★★★☆☆
 Season 2 was up and down but it did keep our attention. I am looking to see how they weave season 3 into this as they promised it at the end of this season finally.
 <img alt="The Night Agent poster" src="https://image.tmdb.org/t/p/w780/4c5yUNcaff4W4aPrkXE6zr7papX.jpg" width=200 height=300>
