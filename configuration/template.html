@@ -328,24 +328,26 @@ article > ol {
     margin-left: 0.5em;
 }
 
+/* Webring styling */
 .webring-container {
     display: flex;
     flex-direction: row;
-    gap: 1rem; /* Reduced gap for smaller space */
-    margin-top: 1.5rem; /* Reduced margin */
-    padding: 0.75rem 1.5rem 0.5rem; /* Reduced padding */
+    gap: 0.5rem; /* Further reduced gap for tight space */
+    margin-top: 1rem; /* Smaller margin */
+    padding: 0.5rem 1rem; /* Reduced padding for smaller container */
     background-color: var(--articleBG);
     border-radius: 0.5em;
     justify-content: space-between;
     align-items: center;
-    max-width: 40em; /* Adjusted max-width for smaller container */
+    max-width: 35em; /* Adjusted max-width to fit all content on one line */
     margin-left: auto;
     margin-right: auto;
+    overflow: hidden; /* Ensure no overflow to prevent text breaking */
 }
 
 .webring-container .webring-text {
     flex: 1;
-    font-size: 0.9rem; /* Reduced font size */
+    font-size: 0.75rem; /* Smaller font size */
     color: var(--foreground);
 }
 
@@ -356,12 +358,12 @@ article > ol {
 
 .webring-links a {
     display: inline-block;
-    padding: 0.3em 0.6em; /* Reduced padding */
+    padding: 0.25em 0.5em; /* Even smaller padding */
     background: var(--accent);
     color: var(--foreground);
     border-radius: 0.3em;
     text-decoration: none;
-    font-size: 0.9rem; /* Reduced font size */
+    font-size: 0.75rem; /* Smaller font size */
 }
 
 .webring-links a:hover {
