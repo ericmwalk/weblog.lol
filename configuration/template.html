@@ -331,21 +331,21 @@ article > ol {
 .webring-container {
     display: flex;
     flex-direction: row;
-    gap: 2rem;
-    margin-top: 3rem;
-    padding: 1rem 2rem 0.75rem;
+    gap: 1rem; /* Reduced gap for smaller space */
+    margin-top: 1.5rem; /* Reduced margin */
+    padding: 0.75rem 1.5rem 0.5rem; /* Reduced padding */
     background-color: var(--articleBG);
     border-radius: 0.5em;
     justify-content: space-between;
     align-items: center;
-    max-width: 50em;
+    max-width: 40em; /* Adjusted max-width for smaller container */
     margin-left: auto;
     margin-right: auto;
 }
 
 .webring-container .webring-text {
     flex: 1;
-    font-weight: bold;
+    font-size: 0.9rem; /* Reduced font size */
     color: var(--foreground);
 }
 
@@ -356,12 +356,12 @@ article > ol {
 
 .webring-links a {
     display: inline-block;
-    padding: 0.4em 0.8em;
+    padding: 0.3em 0.6em; /* Reduced padding */
     background: var(--accent);
     color: var(--foreground);
     border-radius: 0.3em;
     text-decoration: none;
-    font-weight: bold;
+    font-size: 0.9rem; /* Reduced font size */
 }
 
 .webring-links a:hover {
