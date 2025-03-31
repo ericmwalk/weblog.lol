@@ -329,26 +329,29 @@ article > ol {
 }
 
 /* Webring styling */
+
 .webring-container {
     display: flex;
     flex-direction: row;
-    gap: 0.2rem; /* Further reduced gap for tight space */
-    margin-top: 1rem; /* Smaller margin */
-    padding: 0.5rem 1rem; /* Reduced padding for smaller container */
+    gap: 0.2rem; /* Smallest gap possible */
+    margin-top: 1rem; /* Small margin */
+    padding: 0.25rem 0.5rem; /* Smaller padding */
     background-color: var(--articleBG);
     border-radius: 0.5em;
     justify-content: space-between;
     align-items: center;
-    max-width: 35em; /* Adjusted max-width to fit all content on one line */
+    max-width: 30em; /* Reduced max-width for tight fitting */
     margin-left: auto;
     margin-right: auto;
-    overflow: hidden; /* Ensure no overflow to prevent text breaking */
+    white-space: nowrap; /* Ensures the content stays in one line */
+    overflow: hidden; /* Prevents overflow */
 }
 
 .webring-container .webring-text {
     flex: 1;
-    font-size: 0.75rem; /* Smaller font size */
+    font-size: 0.75rem; /* Smallest font size */
     color: var(--foreground);
+    font-style: italic; /* This makes the text italic */
 }
 
 .webring-container .webring-links {
@@ -358,18 +361,19 @@ article > ol {
 
 .webring-links a {
     display: inline-block;
-    padding: 0.25em 0.5em; /* Even smaller padding */
+    padding: 0.2em 0.4em; /* Reduced padding to fit content tightly */
     background: var(--accent);
     color: var(--foreground);
     border-radius: 0.3em;
     text-decoration: none;
-    font-size: 0.75rem; /* Smaller font size */
+    font-size: 0.75rem; /* Small font size for the links */
 }
 
 .webring-links a:hover {
     background: var(--link);
     color: var(--background);
 }
+
     
 </style>
 </head>
