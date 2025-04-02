@@ -1,11 +1,13 @@
 ---
-title: Movies
 url: https://ericmwalk.blog/movies/
 type: Page
 slug: movies
 publish: "true"
-tags: []
+tags: 
 ---
+
+# Movies
+
 ## Recently Watched
 ### 🍿 [Deadpool & Wolverine (2024)](https://www.themoviedb.org/movie/533535) - ★★★★★ 
 I won’t like I have been a fan of he other ones and you always worry with another movie in the series but this one didn’t disappoint in my opinion. Great cast of crew and I like how they weave in other characters.
