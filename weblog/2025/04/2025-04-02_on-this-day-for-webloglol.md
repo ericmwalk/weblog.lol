@@ -1,10 +1,12 @@
 ---
-title: On this day for weblog.lol
 publish: "true"
 date: 2025-04-02T10:04:00
 tags: 
 url: https://ericmwalk.blog/2025/04/02/on-this-day-for-webloglol.html
 ---
+
+# On this day for weblog.lol
+
 This is a delayed write up, or should I say I have been testing it for the past couple of weeks before I shared it. First off I want to ~~blame~~ thank [Jason](https://grepjason.sh) for the shove in the right direction on trying to create my own script for weblog.lol instead of just complaining that I have the "On this day" link on my Micro.blog site and it sure would be nice if I had it on my currently mirrored weblog.lol site. He really just gave me the quick answer of "I am sure it is possible" and there I went down the rabbit hole to figure out how to make it possible with my limited technical knowhow as well as well as various GPT's at my disposal.
 
 *If you just want the script click her to go directly to the bottom of this page or feel free to read though the short story.*
