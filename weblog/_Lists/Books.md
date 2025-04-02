@@ -1,17 +1,15 @@
 ---
+title: 📚 Books
 url: https://ericmwalk.blog/books/
 date: 2025-03-03 13:14
 type: Page
 publish: "true"
-tags: 
+tags: []
 ---
-
-# 📚 Books
-
 ## Currently Reading
+### [The Last Minute]() - Sam Capra #2
 
-*Seems like I need to find a new book.*
-
+<img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1341125208i/11488406.jpg" width=200 height=300>
 
 
 ***
@@ -19,9 +17,17 @@ tags:
 
 ## Recently Read
 
+### 📚 [Cold Paradise](https://www.goodreads.com/book/show/156616.Cold_Paradise) - Stone Barrington #7  - ★★★★☆
+Another good Stone Barrington book that kept me company running some long runs the past two weeks. It was interesting to see how one plot unfolded from the prior books and then it is still keeping another story along in the fold.
+<img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1389557088i/156616.jpg" width=200 height=300>
+	Finished Reading on *2025-04-01*
+***
+
+
 ### 📚 [Golden Hour](https://www.goodreads.com/book/show/206180061-stuart-woods-golden-hour) - Teddy Fay, #7  - ★★★★☆
 I have really been enjoying the Teddy Fay offshoots from the Stone Barrington Novels. I have enjoyed all 7 so far but there is a slight part of me worried that I am not sure how many more there will be. However, this one kind of ended that could make one leg end entirety but I am guessing that there will still be a door to open on these kind of tales.
 <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1718725769i/206180061.jpg" width=200 height=300>
+	Finished Reading on *2025-03-22*
 ***
 
 ### 📚 [Swimming to Catalina](https://www.goodreads.com/book/show/156621.Swimming_to_Catalina) - Stone Barrington, #4  - ★★★★☆
