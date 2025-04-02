@@ -1,14 +1,18 @@
 ---
+title: Movies
 url: https://ericmwalk.blog/movies/
 type: Page
 slug: movies
 publish: "true"
-tags: 
+tags: []
 ---
-
-# Movies
-
 ## Recently Watched
+### 🍿 [Deadpool & Wolverine (2024)](https://www.themoviedb.org/movie/533535) - ★★★★★ 
+I won’t like I have been a fan of he other ones and you always worry with another movie in the series but this one didn’t disappoint in my opinion. Great cast of crew and I like how they weave in other characters.
+<img alt="Deadpool & Wolverine poster" src="https://image.tmdb.org/t/p/w780/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg" width=200 height=300 >
+	Watched on *2025-04-02*
+
+***
 ### 🍿 [A Real Pain (2024)](https://www.themoviedb.org/movie/1013850) - ★★☆☆☆ 
 Maybe I wasn’t in the mood for this kind of a movie but didn’t really do much for me. That is not to say anything was bad just not for me.
 <img alt="A Real Pain poster" src="https://image.tmdb.org/t/p/w780/67xRIXm5TxXRT4nV2V4AEJ9yq2d.jpg" width=200 height=300 >
