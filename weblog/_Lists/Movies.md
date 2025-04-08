@@ -1,11 +1,13 @@
 ---
-title: Movies
 url: https://ericmwalk.blog/movies/
 type: Page
 slug: movies
 publish: "true"
-tags: []
+tags: 
 ---
+
+# Movies
+
 ## Recently Watched
 ### 🍿 [Heretic (2024)](https://www.themoviedb.org/movie/1138194) - ★★★☆☆ 
 Very interesting movie and I wasn’t sure what to expect at the beginning. I don’t think I would watch it again but it did keep me interested to find out what was next on our flight home.
