@@ -1,14 +1,18 @@
 ---
+title: Movies
 url: https://ericmwalk.blog/movies/
 type: Page
 slug: movies
 publish: "true"
-tags: 
+tags: []
 ---
-
-# Movies
-
 ## Recently Watched
+### 🍿 [Heretic (2024)](https://www.themoviedb.org/movie/1138194) - ★★★☆☆ 
+Very interesting movie and I wasn’t sure what to expect at the beginning. I don’t think I would watch it again but it did keep me interested to find out what was next on our flight home.
+<img alt="Heretic poster" src="https://image.tmdb.org/t/p/w780/fr96XzlzsONrQrGfdLMiwtQjott.jpg" width=200 height=300 >
+	Watched on *2025-04-08*
+
+***
 ### 🍿 [Deadpool & Wolverine (2024)](https://www.themoviedb.org/movie/533535) - ★★★★★ 
 I won’t like I have been a fan of he other ones and you always worry with another movie in the series but this one didn’t disappoint in my opinion. Great cast of crew and I like how they weave in other characters.
 <img alt="Deadpool & Wolverine poster" src="https://image.tmdb.org/t/p/w780/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg" width=200 height=300 >
