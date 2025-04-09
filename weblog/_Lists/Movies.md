@@ -1,11 +1,13 @@
 ---
-title: Movies
 url: https://ericmwalk.blog/movies/
 type: Page
 slug: movies
 publish: "true"
-tags: []
+tags: 
 ---
+
+# Movies
+
 ## Recently Watched
 ### 🍿 [Kraven the Hunter (2024)](https://www.themoviedb.org/movie/539972) - ★★★☆☆ 
 Was an entertaining movie overall not sure I fully grasped the tie in to the Spider-Man series but I am not a big comic buff. It for sure left as a cliffhanger at the end setting it up for what could be another movie at another time.
