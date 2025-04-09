@@ -1,14 +1,18 @@
 ---
+title: Movies
 url: https://ericmwalk.blog/movies/
 type: Page
 slug: movies
 publish: "true"
-tags: 
+tags: []
 ---
-
-# Movies
-
 ## Recently Watched
+### 🍿 [Kraven the Hunter (2024)](https://www.themoviedb.org/movie/539972) - ★★★☆☆ 
+Was an entertaining movie overall not sure I fully grasped the tie in to the Spider-Man series but I am not a big comic buff. It for sure left as a cliffhanger at the end setting it up for what could be another movie at another time.
+<img alt="Kraven the Hunter poster" src="https://image.tmdb.org/t/p/w780/1GvBhRxY6MELDfxFrete6BNhBB5.jpg" width=200 height=300 >
+	Watched on *2025-04-08*
+
+***
 ### 🍿 [Heretic (2024)](https://www.themoviedb.org/movie/1138194) - ★★★☆☆ 
 Very interesting movie and I wasn’t sure what to expect at the beginning. I don’t think I would watch it again but it did keep me interested to find out what was next on our flight home.
 <img alt="Heretic poster" src="https://image.tmdb.org/t/p/w780/fr96XzlzsONrQrGfdLMiwtQjott.jpg" width=200 height=300 >
