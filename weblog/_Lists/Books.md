@@ -1,17 +1,15 @@
 ---
+title: 📚 Books
 url: https://ericmwalk.blog/books/
 date: 2025-03-03 13:14
 type: Page
 publish: "true"
-tags: 
+tags: []
 ---
-
-# 📚 Books
-
 ## Currently Reading
-### [The Last Minute]() - Sam Capra #2
+### 📚 [The Last Minute (2012)](https://www.google.com/books/edition/The_Last_Minute/OE4Pn6luOGAC?hl=en) Sam Capra #2 by Jeff Abbott
 
-<img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1341125208i/11488406.jpg" width=200 height=300>
+<img alt="The Last Minute poster" src="http://books.google.com/books/content?id=3aHV5_xP-qoC&printsec=frontcover&img=1&zoom=1&source=gbs_api" width=200 height=300 >
 
 
 ***
