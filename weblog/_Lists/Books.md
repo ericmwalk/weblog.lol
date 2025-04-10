@@ -7,7 +7,6 @@ publish: "true"
 tags: []
 ---
 ## Currently Reading
-### 📚 [The Last Minute (2011)](https://www.google.com/books/edition/The_Last_Minute/3aHV5_xP-qoC?hl=en) Sam Capra #2 by Jeff Abbott
 
 <img alt="The Last Minute poster" src="http://books.google.com/books/content?id=3aHV5_xP-qoC&printsec=frontcover&img=1&zoom=1&source=gbs_api" width=200 height=300 >
 
