@@ -1,17 +1,16 @@
 ---
+title: Being Rich vs Being Poor
 publish: "true"
 date: 2019-04-11 13:45:00
 url: https://ericmwalk.blog/2019/04/11/being-rich-vs.html
 tags: 
 ---
 
-# Being Rich vs Being Poor
-
-
 Watching this video by Casey Neistat the other day brought a couple of thoughts to mind that I wanted to share. However, before I jump into my own thoughts I really think you should watch the video as he brings up some really good points on being Rich vs being Poor.
 
-<iframe width=100% src="https://www.youtube.com/embed/ROfBLx6bLZI">
-</iframe>
+<div class="video-container">
+  <embed src="https://www.youtube.com/embed/ROfBLx6bLZI"></embed>
+</div>
 
 ### Recap
 For a little recap, in case you didn’t watch the video but I really think you should, Casey boils it down to everyone has ***Life Problems*** which consist of Happiness, Love, Fulfillment, and Purpose (at a minimum). However, if you are poor on top of those problems you have the big gorilla which is ***Money Problems*** because you don’t know where you are going to live, how to put food on the table, take care of yourself when you are sick, or maybe even not sure how to get to your job without proper transportation.
