@@ -11,5 +11,5 @@ location: /on-this-day
 
 <script src="https://scripts.brebs.net/on-this-day.js"></script>
 
-</body>
+</body> 
 
