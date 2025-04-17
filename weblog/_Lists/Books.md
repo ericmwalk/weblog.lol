@@ -1,23 +1,23 @@
 ---
+title: 📚 Books
 url: https://ericmwalk.blog/books/
 date: 2025-03-03 13:14
 type: Page
 publish: "true"
-tags: 
+tags: []
 ---
-
-# 📚 Books
-
 ## Currently Reading
-### 📚 [The Last Minute (2011)](https://www.google.com/books/edition/The_Last_Minute/3aHV5_xP-qoC?hl=en) Sam Capra #2 *by Jeff Abbott*
+Looks lonely here… I think I need to find another book to read.
 
-<img alt="The Last Minute poster" src="http://books.google.com/books/content?id=3aHV5_xP-qoC&printsec=frontcover&img=1&zoom=2&source=gbs_api" width=200 height=300 >
-
-
-***
 <div id="RecentlyRead"></div>
 
 ## Recently Read
+### 📚 [The Last Minute (2011)](https://www.google.com/books/edition/The_Last_Minute/3aHV5_xP-qoC?hl=en) - Sam Capra #2 by Jeff Abbott   - ★★★★☆
+After reading the 1 book Aderline in this series, it was good and I was very curious how book 2 was going to turn out. I will say it didn’t disappoint as there was the underlying story still of Sam but it did allow you to get more of the story around other characters backgrounds. Very good book and kept my interest and mind thinking while traveling and running.
+<img alt="The Last Minute poster" src="http://books.google.com/books/content?id=3aHV5_xP-qoC&printsec=frontcover&img=1&zoom=2&source=gbs_api" width=200 height=300 >
+	Finished Reading on *2025-04-16*
+
+***
 
 ### 📚 [Cold Paradise](https://www.goodreads.com/book/show/156616.Cold_Paradise) - Stone Barrington #7  - ★★★★☆
 Another good Stone Barrington book that kept me company running some long runs the past two weeks. It was interesting to see how one plot unfolded from the prior books and then it is still keeping another story along in the fold.
