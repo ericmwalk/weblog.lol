@@ -1,10 +1,10 @@
 ---
-title: ""
 publish: "true"
 date: 2025-04-16T14:28:00
-tags: []
+tags: 
 url: https://ericmwalk.blog/2025/04/16/happy-birthday-to-my-amazing.html
 ---
+
 Happy Birthday to my amazing Wife who keeps it all together! *Not to mention puts up with me and my craziness of running.*
 
 ![A family gathers around a birthday cake with "April 23" written on it. A girl in a purple dress holds a small brown dog, while two other people stand beside her. Another person holds a black dog. The setting appears to be a living room with a couch and large windows in the](https://ericmwalk.blog/uploads/2025/img-3445.jpeg)
