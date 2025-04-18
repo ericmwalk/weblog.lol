@@ -1,17 +1,25 @@
 ---
+title: 📚 Books
 url: https://ericmwalk.blog/books/
 date: 2025-03-03 13:14
 type: Page
 publish: "true"
-tags: 
+tags: []
 ---
-
-# 📚 Books
-
 ## Currently Reading
-Looks lonely here… I think I need to find another book to read.
-
 <div id="RecentlyRead"></div>
+### 📚 [My Year of Running Dangerously (2015)](https://www.google.com/books/edition/My_Year_of_Running_Dangerously/1N9JBgAAQBAJ?hl=en) by Tom Foreman 
+
+<img alt="My Year of Running Dangerously poster" src="http://books.google.com/books/content?id=1N9JBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=200 height=300 >
+
+***
+### 📚 [Camino Ghosts (2025)](https://www.google.com/books/edition/Camino_Ghosts/89k5EQAAQBAJ?hl=en) by John Grisham 
+
+<img alt="Camino Ghosts poster" src="http://books.google.com/books/content?id=89k5EQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=200 height=300 >
+
+
+
+***
 
 ## Recently Read
 ### 📚 [The Last Minute (2011)](https://www.google.com/books/edition/The_Last_Minute/3aHV5_xP-qoC?hl=en) - Sam Capra #2 by Jeff Abbott   - ★★★★☆
