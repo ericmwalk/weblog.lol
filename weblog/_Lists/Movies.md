@@ -1,11 +1,13 @@
 ---
-title: Movies
 url: https://ericmwalk.blog/movies/
 type: Page
 slug: movies
 publish: "true"
-tags: []
+tags: 
 ---
+
+# Movies
+
 ## Recently Watched
 ### 🍿 [A Complete Unknown (2024)](https://www.themoviedb.org/movie/661539) - ★★★★☆ 
 I thought this was a really good movie and great acting all around. Also, I enjoyed the music and seeing the back story of Bob Dylan.
