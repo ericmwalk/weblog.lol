@@ -1,14 +1,25 @@
 ---
+title: Movies
 url: https://ericmwalk.blog/movies/
 type: Page
 slug: movies
 publish: "true"
-tags: 
+tags: []
 ---
-
-# Movies
-
 ## Recently Watched
+### 🍿 [A Complete Unknown (2024)](https://www.themoviedb.org/movie/661539) - ★★★★☆ 
+I thought this was a really good movie and great acting all around. Also, I enjoyed the music and seeing the back story of Bob Dylan.
+<img alt="A Complete Unknown poster" src="https://image.tmdb.org/t/p/w780/llWl3GtNoXosbvYboelmoT459NM.jpg" width=200 height=300 >
+	Watched on *2025-04-22*
+
+***
+### 🍿 [iHostage (2025)](https://www.themoviedb.org/movie/1371202)  - ★☆☆☆☆ 
+I really can’t recommend this movie. I am one of those people once I start watching a movie I need to see it though to the end. This is one of them, I won’t even say it is the worst movie I have ever seen and in fact after it was done I realized it was based on a true story. However, it kind of leaves you hanging in the end (though I guess in the real world they didn’t now) and since it was made in a different language I am not sure why it is hard for me to watch a movie when the words they say do not match their mouth.
+<img alt="iHostage poster" src="https://image.tmdb.org/t/p/w780/h87bgIhs4keL005Ch5aeKhnaAIL.jpg" width=200 height=300 >
+	Watched on *2025-04-18*
+
+***
+
 ### 🍿 [Kraven the Hunter (2024)](https://www.themoviedb.org/movie/539972) - ★★★☆☆ 
 Was an entertaining movie overall not sure I fully grasped the tie in to the Spider-Man series but I am not a big comic buff. It for sure left as a cliffhanger at the end setting it up for what could be another movie at another time.
 <img alt="Kraven the Hunter poster" src="https://image.tmdb.org/t/p/w780/1GvBhRxY6MELDfxFrete6BNhBB5.jpg" width=200 height=300 >
