@@ -1,13 +1,11 @@
 ---
+title: 📚 Books
 url: https://ericmwalk.blog/books/
 date: 2025-03-03 13:14
 type: Page
 publish: "true"
-tags: 
+tags: []
 ---
-
-# 📚 Books
-
 ## Currently Reading
 
 ### 📚 [My Year of Running Dangerously (2015)](https://www.google.com/books/edition/My_Year_of_Running_Dangerously/1N9JBgAAQBAJ?hl=en) by Tom Foreman 
@@ -17,6 +15,7 @@ tags:
 ***
 
 <div id="RecentlyRead"></div>
+
 ## Recently Read
 
 ### 📚 [Camino Ghosts (2025)](https://www.google.com/books/edition/Camino_Ghosts/89k5EQAAQBAJ?hl=en) by John Grisham - ★★★★★
