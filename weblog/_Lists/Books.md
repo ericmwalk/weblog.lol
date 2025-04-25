@@ -1,30 +1,29 @@
 ---
+title: 📚 Books
 url: https://ericmwalk.blog/books/
 date: 2025-03-03 13:14
 type: Page
 publish: "true"
-tags: 
+tags: []
 ---
-
-# 📚 Books
-
 ## Currently Reading
-<div id="RecentlyRead"></div>
+
 ### 📚 [My Year of Running Dangerously (2015)](https://www.google.com/books/edition/My_Year_of_Running_Dangerously/1N9JBgAAQBAJ?hl=en) by Tom Foreman 
 
 <img alt="My Year of Running Dangerously poster" src="http://books.google.com/books/content?id=1N9JBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=200 height=300 >
 
 ***
-### 📚 [Camino Ghosts (2025)](https://www.google.com/books/edition/Camino_Ghosts/89k5EQAAQBAJ?hl=en) by John Grisham 
 
+<div id="RecentlyRead"></div>
+## Recently Read
+
+### 📚 [Camino Ghosts (2025)](https://www.google.com/books/edition/Camino_Ghosts/89k5EQAAQBAJ?hl=en) by John Grisham - ★★★★★
+It has been a while since I read the other books in the Camino series and it didn’t disappoint. It went in a different direction than what I remembered the other two as Bruce Cable was not the main person of the story but merely a connector of things. Overall. I thought the book was well worth the listen and actually Whoopi Goldberg did the narration which was pretty neat as well.
 <img alt="Camino Ghosts poster" src="http://books.google.com/books/content?id=89k5EQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=200 height=300 >
-
-
 
 ***
 
-## Recently Read
-### 📚 [The Last Minute (2011)](https://www.google.com/books/edition/The_Last_Minute/3aHV5_xP-qoC?hl=en) - Sam Capra #2 by Jeff Abbott   - ★★★★☆
+### 📚 [The Last Minute (2011)](https://www.google.com/books/edition/The_Last_Minute/3aHV5_xP-qoC?hl=en) - Sam Capra #2 by Jeff Abbott - ★★★★☆
 After reading the 1 book Aderline in this series, it was good and I was very curious how book 2 was going to turn out. I will say it didn’t disappoint as there was the underlying story still of Sam but it did allow you to get more of the story around other characters backgrounds. Very good book and kept my interest and mind thinking while traveling and running.
 <img alt="The Last Minute poster" src="http://books.google.com/books/content?id=3aHV5_xP-qoC&printsec=frontcover&img=1&zoom=2&source=gbs_api" width=200 height=300 >
 	Finished Reading on *2025-04-16*
