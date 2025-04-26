@@ -1,11 +1,13 @@
 ---
-title: 📚 Books
 url: https://ericmwalk.blog/books/
 date: 2025-03-03 13:14
 type: Page
 publish: "true"
-tags: []
+tags: 
 ---
+
+# 📚 Books
+
 ## Currently Reading
 
 ### 📚 [Criminal Mischief (2021)](https://www.google.com/books/edition/Criminal_Mischief/toUmEAAAQBAJ?hl=en) by Stuart Woods
