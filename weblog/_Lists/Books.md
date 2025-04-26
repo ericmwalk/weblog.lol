@@ -1,20 +1,18 @@
 ---
+title: 📚 Books
 url: https://ericmwalk.blog/books/
 date: 2025-03-03 13:14
 type: Page
 publish: "true"
-tags: 
+tags: []
 ---
-
-# 📚 Books
-
 ## Currently Reading
 
-📚 [Criminal Mischief (2021)](https://www.google.com/books/edition/Criminal_Mischief/toUmEAAAQBAJ?hl=en) by Stuart Woods
+### 📚 [Criminal Mischief (2021)](https://www.google.com/books/edition/Criminal_Mischief/toUmEAAAQBAJ?hl=en) by Stuart Woods
 
-![Criminal Mischief poster](http://books.google.com/books/content?id=toUmEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+![Criminal Mischief poster](http://books.google.com/books/content?id=toUmEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api” width=200 height=300 )
 
-
+***
 ### 📚 [My Year of Running Dangerously (2015)](https://www.google.com/books/edition/My_Year_of_Running_Dangerously/1N9JBgAAQBAJ?hl=en) by Tom Foreman 
 
 <img alt="My Year of Running Dangerously poster" src="http://books.google.com/books/content?id=1N9JBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=200 height=300 >
