@@ -1,20 +1,13 @@
 ---
+title: 📚 Books
 url: https://ericmwalk.blog/books/
-date: 2025-03-03 13:14
+date: 2025-05-11T13:14:00
 type: Page
 publish: "true"
 tags: 
 ---
-
-# 📚 Books
-
 ## Currently Reading
 
-### 📚 [Criminal Mischief (2021)](https://www.google.com/books/edition/Criminal_Mischief/toUmEAAAQBAJ?hl=en) by Stuart Woods
-
-<img alt="Criminal Mischief poster" src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1633354765i/57658659.jpg" width=200 height=300 >
-
-***
 ### 📚 [My Year of Running Dangerously (2015)](https://www.google.com/books/edition/My_Year_of_Running_Dangerously/1N9JBgAAQBAJ?hl=en) by Tom Foreman 
 
 <img alt="My Year of Running Dangerously poster" src="http://books.google.com/books/content?id=1N9JBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=200 height=300 >
@@ -24,10 +17,24 @@ tags:
 <div id="RecentlyRead"></div>
 
 ## Recently Read
+### 📚 [Robert B. Parker's Hot Property (2024)](https://www.google.com/books/edition/Robert_B_Parkers_Hot_Property/gYz3EAAAQBAJ?hl=en) by Mike Lupica - ★★★★☆ 
+It has been a while since I have had the pleasure of listening to a Spencer novel, this one didn’t disappoint either. Also, I always enjoy when they have characters from other books enter twine into the story as well.
+<img alt="Robert B. Parker's Hot Property poster" src="http://books.google.com/books/content?id=gYz3EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=200 height=300 >
+	Finished Reading on *2025-05-10*
+
+***
+
+### 📚 [Criminal Mischief (2021)](https://www.google.com/books/edition/Criminal_Mischief/toUmEAAAQBAJ?hl=en) by Stuart Woods
+
+<img alt="Criminal Mischief poster" src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1633354765i/57658659.jpg" width=200 height=300 >
+	Finished Reading on *2025-05-01*
+
+***
 
 ### 📚 [Camino Ghosts (2025)](https://www.google.com/books/edition/Camino_Ghosts/89k5EQAAQBAJ?hl=en) by John Grisham - ★★★★★
 It has been a while since I read the other books in the Camino series and it didn’t disappoint. It went in a different direction than what I remembered the other two as Bruce Cable was not the main person of the story but merely a connector of things. Overall. I thought the book was well worth the listen and actually Whoopi Goldberg did the narration which was pretty neat as well.
 <img alt="Camino Ghosts poster" src="http://books.google.com/books/content?id=89k5EQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=200 height=300 >
+	Finished Reading on *2025-04-21*
 
 ***
 
