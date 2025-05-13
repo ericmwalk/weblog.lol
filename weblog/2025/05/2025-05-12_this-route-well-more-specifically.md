@@ -1,12 +1,11 @@
 ---
-title: ""
 publish: "true"
 date: 2025-05-12 19:03
-tags:
-  - Running
+tags: Running
 url: https://ericmwalk.blog/2025/05/12/this-route-well-more-specifically.html
 Strava link: https://www.strava.com/activities/14461028518
 ---
+
 This route, well more specifically Mackworth Island State Park has been on my list to [run](https://www.strava.com/activities/14461028518) to for a while now. It was very interesting roaming around that little park as it had a nice trail all around the outside. In fact there was a Pet Cemetery for Governor Baxter Dog's. 🤔
 
 ![A serene view of a calm, reflective body of water under a cloudy sky, with a distant shoreline lined with trees. Rocks and dark sand are visible in the foreground.](https://ericmwalk.blog/uploads/2025/img-3747.jpeg)
