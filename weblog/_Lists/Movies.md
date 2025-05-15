@@ -1,11 +1,13 @@
 ---
-title: Movies
 url: https://ericmwalk.blog/movies/
 type: Page
 slug: movies
 publish: "true"
-tags: []
+tags: 
 ---
+
+# Movies
+
 ## Recently Watched
 ### 🍿 [The Gentlemen (2020)](https://www.themoviedb.org/movie/522627) - ★★★★☆ 
 I enjoyed the overall movie and how they did the story. Just a great Guy Ritchie movie as you would expect. Not to mention a great cast of characters.
