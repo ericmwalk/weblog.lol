@@ -1,18 +1,23 @@
 ---
+title: Movies
 url: https://ericmwalk.blog/movies/
 type: Page
 slug: movies
 publish: "true"
-tags: 
+tags: []
 ---
-
-# Movies
-
 ## Recently Watched
+
 ### 🍿 [The Gentlemen (2020)](https://www.themoviedb.org/movie/522627) - ★★★★☆ 
 I enjoyed the overall movie and how they did the story. Just a great Guy Ritchie movie as you would expect. Not to mention a great cast of characters.
 <img alt="The Gentlemen poster" src="https://image.tmdb.org/t/p/w780/jtrhTYB7xSrJxR1vusu99nvnZ1g.jpg" width=200 height=300 >
 	Watched on *2025-05-14*
+
+***
+### 🍿 [Den of Thieves (2018)](https://www.themoviedb.org/movie/449443) - ★★ ☆ ☆ ☆ 
+It was a good movie and maybe after the long day I wasn’t into this but overall nothing sticks out to me. However, I will probably watch the new one of this and see how I like it.
+<img alt="Den of Thieves poster" src="https://image.tmdb.org/t/p/w780/dAP5NpkrMMczir5dUPjRR6ywqgz.jpg" width=200 height=300 >
+	Watched on *2025-05-12*
 
 ***
 ### 🍿 [A Complete Unknown (2024)](https://www.themoviedb.org/movie/661539) - ★★★★☆ 
