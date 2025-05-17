@@ -1,11 +1,13 @@
 ---
-title: Movies
 url: https://ericmwalk.blog/movies/
 type: Page
 slug: movies
 publish: "true"
-tags: []
+tags: 
 ---
+
+# Movies
+
 ## Recently Watched
 ### 🍿 [Inheritance (2025)](https://www.themoviedb.org/movie/1297860) - ★★★★☆ 
 Was a good movie and good way to pass the extra time I got to be on the airplane today. 
