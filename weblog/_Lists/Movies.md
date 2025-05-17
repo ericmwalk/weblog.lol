@@ -1,14 +1,24 @@
 ---
+title: Movies
 url: https://ericmwalk.blog/movies/
 type: Page
 slug: movies
 publish: "true"
-tags: 
+tags: []
 ---
-
-# Movies
-
 ## Recently Watched
+### 🍿 [Inheritance (2025)](https://www.themoviedb.org/movie/1297860) - ★★★★☆ 
+Was a good movie and good way to pass the extra time I got to be on the airplane today. 
+<img alt="Inheritance poster" src="https://image.tmdb.org/t/p/w780/aZGpn6GTtLFkkJ0LmeHtifL1Jw8.jpg" width=200 height=300 >
+	Watched on *2025-05-16*
+
+***
+### 🍿 [Glass Onion: A Knives Out Mystery (2022)](https://www.themoviedb.org/movie/661374) - ★★★★☆ 
+Great movie to keep you thinking. I was gonna try to do some work while watching this movie but honestly, I had to keep my focus on it so I could try to figure out what’s next.
+<img alt="Glass Onion: A Knives Out Mystery poster" src="https://image.tmdb.org/t/p/w780/vDGr1YdrlfbU9wxTOdpf3zChmv9.jpg" width=200 height=300 >
+	Watched on *2025-05-15*
+
+***
 
 ### 🍿 [The Gentlemen (2020)](https://www.themoviedb.org/movie/522627) - ★★★★☆ 
 I enjoyed the overall movie and how they did the story. Just a great Guy Ritchie movie as you would expect. Not to mention a great cast of characters.
