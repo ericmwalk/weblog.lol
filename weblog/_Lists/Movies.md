@@ -1,11 +1,13 @@
 ---
-title: 🎥 Movies
 url: https://ericmwalk.blog/movies/
 type: Page
 slug: movies
 publish: "true"
-tags: []
+tags: 
 ---
+
+# 🎥 Movies
+
 ## Recently Watched
 ### 🍿 [Instant Family (2018)](https://www.themoviedb.org/movie/491418) - ★★★★☆ 
 With activities rained out last night we came home to find our youngest had just started this movie so we all joined in as a family. It is a good movie and I guess nice we all were around watching it.
