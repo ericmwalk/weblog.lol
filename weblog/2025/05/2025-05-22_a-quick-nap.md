@@ -1,10 +1,12 @@
 ---
-title: A quick nap
 publish: "true"
 date: 2025-05-22 15:27
-tags: []
+tags: 
 url: https://ericmwalk.blog/2025/05/22/a-quick-nap.html
 ---
+
+# A quick nap
+
 I found myself struggling to focus this afternoon as I was just really tired from all of the meetings today as well as just tired from the week so far. Sitting in the shed working away it was warm and I was getting sleepy. So what did I do, took an 8 min break with my eyes closed and felt as good as new and pushed on though the rest of the day.
 
 To be clear, I don't like to take naps as people would think of naps. However, a short timed amount like today is perfect for me. I always set a timer because I can't have it be more than 15 min so today I set it for 10 but woke up before then.
