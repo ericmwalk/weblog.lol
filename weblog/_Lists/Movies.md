@@ -1,11 +1,13 @@
 ---
-title: 🎥 Movies
 url: https://ericmwalk.blog/movies/
 type: Page
 slug: movies
 publish: "true"
-tags: []
+tags: 
 ---
+
+# 🎥 Movies
+
 ## Recently Watched
 ### 🍿 [Fountain of Youth (2025)](https://www.themoviedb.org/movie/1098006) - ★★★★☆ 
 Good Friday night movie to watch with our youngest. Reminded me a lot of the National Treasure movies and I did enjoy this movie as well.
