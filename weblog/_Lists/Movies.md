@@ -1,14 +1,18 @@
 ---
+title: 🎥 Movies
 url: https://ericmwalk.blog/movies/
 type: Page
 slug: movies
 publish: "true"
-tags: 
+tags: []
 ---
-
-# 🎥 Movies
-
 ## Recently Watched
+### 🍿 [Fountain of Youth (2025)](https://www.themoviedb.org/movie/1098006) - ★★★★☆ 
+Good Friday night movie to watch with our youngest. Reminded me a lot of the National Treasure movies and I did enjoy this movie as well.
+<img alt="Fountain of Youth poster" src="https://image.tmdb.org/t/p/w780/4iWjGghUj2uyHo2Hyw8NFBvsNGm.jpg" width=200 height=300 >
+	Watched on *2025-05-23*
+
+***
 ### 🍿 [Instant Family (2018)](https://www.themoviedb.org/movie/491418) - ★★★★☆ 
 With activities rained out last night we came home to find our youngest had just started this movie so we all joined in as a family. It is a good movie and I guess nice we all were around watching it.
 <img alt="Instant Family poster" src="https://image.tmdb.org/t/p/w780/xYV1mODz99w7AjKDSQ7h2mzZhVe.jpg" width=200 height=300 >
