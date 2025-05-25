@@ -1,11 +1,13 @@
 ---
-title: 🎥 Movies
 url: https://ericmwalk.blog/movies/
 type: Page
 slug: movies
 publish: "true"
-tags: []
+tags: 
 ---
+
+# 🎥 Movies
+
 ## Recently Watched
 ### 🍿 [Clue (1985)](https://www.themoviedb.org/movie/15196) - ★★★☆☆ 
 We played the board game as a full family tonight and the girls were intrigued to watch the movie. I will say it was interesting but not something that I think I would watch over and over again.
