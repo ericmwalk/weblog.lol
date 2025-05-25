@@ -1,14 +1,18 @@
 ---
+title: 🎥 Movies
 url: https://ericmwalk.blog/movies/
 type: Page
 slug: movies
 publish: "true"
-tags: 
+tags: []
 ---
-
-# 🎥 Movies
-
 ## Recently Watched
+### 🍿 [Clue (1985)](https://www.themoviedb.org/movie/15196) - ★★★☆☆ 
+We played the board game as a full family tonight and the girls were intrigued to watch the movie. I will say it was interesting but not something that I think I would watch over and over again.
+<img alt="Clue poster" src="https://image.tmdb.org/t/p/w780/aRxbYOYHS8T73nzR8hsLousoplR.jpg" width=200 height=300 >
+	Watched on *2025-05-24*
+
+***
 ### 🍿 [Fountain of Youth (2025)](https://www.themoviedb.org/movie/1098006) - ★★★★☆ 
 Good Friday night movie to watch with our youngest. Reminded me a lot of the National Treasure movies and I did enjoy this movie as well.
 <img alt="Fountain of Youth poster" src="https://image.tmdb.org/t/p/w780/4iWjGghUj2uyHo2Hyw8NFBvsNGm.jpg" width=200 height=300 >
