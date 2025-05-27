@@ -1,14 +1,24 @@
 ---
+title: 🎥 Movies
 url: https://ericmwalk.blog/movies/
 type: Page
 slug: movies
 publish: "true"
-tags: 
+tags: []
 ---
-
-# 🎥 Movies
-
 ## Recently Watched
+### 🍿 [The Electric State (2025)](https://www.themoviedb.org/movie/777443) - ★★★★☆ 
+Another good family movie to pass the night away. There is some interesting ways items are discussed or portrayed that really make you think. However, overall good fun for the evening.
+<img alt="The Electric State poster" src="https://image.tmdb.org/t/p/w780/sI2NiMU8o65hmIMY0JI9CjJ0p7f.jpg" width=200 height=300 >
+	Watched on *2025-05-26*
+
+***
+### 🍿 [Paddington in Peru (2024)](https://www.themoviedb.org/movie/516729) - ★★★★☆ 
+Good movie and the whole family watched it as we watched the original a couple days ago.
+<img alt="Paddington in Peru poster" src="https://image.tmdb.org/t/p/w780/rzfqeLdHIysJGrspMICyedpqDqt.jpg" width=200 height=300 >
+	Watched on *2025-05-25*
+
+***
 ### 🍿 [Clue (1985)](https://www.themoviedb.org/movie/15196) - ★★★☆☆ 
 We played the board game as a full family tonight and the girls were intrigued to watch the movie. I will say it was interesting but not something that I think I would watch over and over again.
 <img alt="Clue poster" src="https://image.tmdb.org/t/p/w780/aRxbYOYHS8T73nzR8hsLousoplR.jpg" width=200 height=300 >
