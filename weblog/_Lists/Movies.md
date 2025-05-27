@@ -1,11 +1,13 @@
 ---
-title: 🎥 Movies
 url: https://ericmwalk.blog/movies/
 type: Page
 slug: movies
 publish: "true"
-tags: []
+tags: 
 ---
+
+# 🎥 Movies
+
 ## Recently Watched
 ### 🍿 [The Electric State (2025)](https://www.themoviedb.org/movie/777443) - ★★★★☆ 
 Another good family movie to pass the night away. There is some interesting ways items are discussed or portrayed that really make you think. However, overall good fun for the evening.
