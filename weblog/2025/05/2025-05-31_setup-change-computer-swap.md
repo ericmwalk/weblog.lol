@@ -1,10 +1,12 @@
 ---
-title: Setup Change - Computer Swap
 publish: "true"
 date: 2025-05-29 08:44
-tags: []
+tags: 
 url: https://ericmwalk.blog/2025/05/31/setup-change-computer-swap.html
 ---
+
+# Setup Change - Computer Swap
+
 I have been spending more time than I like to admit making small (but big to me changes) in some setups I have. I was going to put all of the changes in just this post but relized after writing the first one might have gone into too much detail so I will break it out as I probably need more time to polish how to describe the other setup changes.
 
 The first and easiest one was my beloved **MacBook Air M2** 16GB RAM and 500GB storage. It’s such a great machine, and when I bought it, I was actually able to use it for my day job instead of the Windows machine they gave me. That worked well for about nine months, but then (like companies do) security got ratcheted up and I couldn't access our Google Suite of things (e.g., email specifically) so it became less than ideal to keep using it.
