@@ -1,14 +1,24 @@
 ---
+title: 🎥 Movies
 url: https://ericmwalk.blog/movies/
 type: Page
 slug: movies
 publish: "true"
-tags: 
+tags: []
 ---
-
-# 🎥 Movies
-
 ## Recently Watched
+### 🍿 [Homefront (2013)](https://www.themoviedb.org/movie/204082) - ★★★★☆ 
+Just a fun action packed movie like you would expect from Jason Statham. I have seen the is before but can’t beat a rewatch in the morning with my oldest daughter. Not a bad way to start the day.
+<img alt="Homefront poster" src="https://image.tmdb.org/t/p/w780/6pF8D9bDIAmuHgCqGKEfuNWRQam.jpg" width=200 height=300 >
+	Watched on *2025-06-08*
+
+***
+### 🍿 [Remember the Titans (2000)](https://www.themoviedb.org/movie/10637) - ★★★★★ 
+Just a solid movie that I remember enjoying a long time ago and still enjoyed it today. It was even better to watch with my oldest daughter as she was curious what it was all about and wanted to watch.
+<img alt="Remember the Titans poster" src="https://image.tmdb.org/t/p/w780/825ohvC4wZ3gCuncCaqkWeQnK8h.jpg" width=200 height=300 >
+	Watched on *2025-06-06*
+
+***
 ### 🍿 [The Electric State (2025)](https://www.themoviedb.org/movie/777443) - ★★★★☆ 
 Another good family movie to pass the night away. There is some interesting ways items are discussed or portrayed that really make you think. However, overall good fun for the evening.
 <img alt="The Electric State poster" src="https://image.tmdb.org/t/p/w780/sI2NiMU8o65hmIMY0JI9CjJ0p7f.jpg" width=200 height=300 >
@@ -18,7 +28,7 @@ Another good family movie to pass the night away. There is some interesting ways
 ### 🍿 [Paddington in Peru (2024)](https://www.themoviedb.org/movie/516729) - ★★★★☆ 
 Good movie and the whole family watched it as we watched the original a couple days ago.
 <img alt="Paddington in Peru poster" src="https://image.tmdb.org/t/p/w780/rzfqeLdHIysJGrspMICyedpqDqt.jpg" width=200 height=300 >
-	Watched on *2025-05-25*
+	Watched on *2025-05-24*
 
 ***
 ### 🍿 [Clue (1985)](https://www.themoviedb.org/movie/15196) - ★★★☆☆ 
