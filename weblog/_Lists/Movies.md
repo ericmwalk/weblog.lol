@@ -1,11 +1,13 @@
 ---
-title: 🎥 Movies
 url: https://ericmwalk.blog/movies/
 type: Page
 slug: movies
 publish: "true"
-tags: []
+tags: 
 ---
+
+# 🎥 Movies
+
 ## Recently Watched
 ### 🍿 [Homefront (2013)](https://www.themoviedb.org/movie/204082) - ★★★★☆ 
 Just a fun action packed movie like you would expect from Jason Statham. I have seen the is before but can’t beat a rewatch in the morning with my oldest daughter. Not a bad way to start the day.
