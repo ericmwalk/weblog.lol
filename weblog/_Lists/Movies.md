@@ -1,11 +1,13 @@
 ---
-title: 🎥 Movies
 url: https://ericmwalk.blog/movies/
 type: Page
 slug: movies
 publish: "true"
-tags: []
+tags: 
 ---
+
+# 🎥 Movies
+
 ## Recently Watched
 ### 🍿 [Here Comes the Boom (2012)](https://www.themoviedb.org/movie/87826) - ★★★★☆ 
 Good movie overall and what you would expect from a Kevin James movie. Was entertaining and the best part was both older kids watched the whole thing with me. I actually can't believe I haven't seen this movie before seeing how it came out in 2012.
