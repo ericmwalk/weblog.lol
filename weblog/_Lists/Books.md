@@ -1,13 +1,11 @@
 ---
+title: 📚 Books
 url: https://ericmwalk.blog/books/
 date: 2025-05-11T13:14:00
 type: Page
 publish: "true"
 tags: 
 ---
-
-# 📚 Books
-
 ## Currently Reading
 
 ### 📚 [My Year of Running Dangerously (2015)](https://www.google.com/books/edition/My_Year_of_Running_Dangerously/1N9JBgAAQBAJ?hl=en) by Tom Foreman 
@@ -19,6 +17,14 @@ tags:
 <div id="RecentlyRead"></div>
 
 ## Recently Read
+
+### 📚 [Two Dollar Bill (2005)](https://www.google.com/books/edition/Two_Dollar_Bill/IFfMBgAAQBAJ?hl=en) - Stone Barrington, #9 -  by Stuart Woods - ★★★★☆ 
+
+<img alt="Two Dollar Bill poster" src="http://books.google.com/books/content?id=IFfMBgAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" width=200 height=300 >
+	Finished Reading on *2025-06-11*
+
+***
+
 ### 📚 [Juror #3 (2018)](https://www.google.com/books/edition/Juror_3/bmF9DQAAQBAJ?hl=en) by James Patterson - ★★★★☆ 
 I’m actually surprised I’ve never read this book before as I’ve read a lot of James Patterson’s. I was pleasantly surprised this was pretty good and then in reality there was almost 2 stories and I’ll be curious if there’s more to the series.
 <img alt="Juror #3 poster" src="http://books.google.com/books/content?id=bmF9DQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=200 height=300 >
