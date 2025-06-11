@@ -1,11 +1,13 @@
 ---
-title: 📚 Books
 url: https://ericmwalk.blog/books/
 date: 2025-05-11T13:14:00
 type: Page
 publish: "true"
 tags: 
 ---
+
+# 📚 Books
+
 ## Currently Reading
 
 ### 📚 [My Year of Running Dangerously (2015)](https://www.google.com/books/edition/My_Year_of_Running_Dangerously/1N9JBgAAQBAJ?hl=en) by Tom Foreman 
