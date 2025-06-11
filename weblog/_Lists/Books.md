@@ -1,13 +1,11 @@
 ---
+title: 📚 Books
 url: https://ericmwalk.blog/books/
 date: 2025-05-11T13:14:00
 type: Page
 publish: "true"
 tags: 
 ---
-
-# 📚 Books
-
 ## Currently Reading
 
 ### 📚 [My Year of Running Dangerously (2015)](https://www.google.com/books/edition/My_Year_of_Running_Dangerously/1N9JBgAAQBAJ?hl=en) by Tom Foreman 
@@ -19,6 +17,20 @@ tags:
 <div id="RecentlyRead"></div>
 
 ## Recently Read
+### 📚 [Juror #3 (2018)](https://www.google.com/books/edition/Juror_3/bmF9DQAAQBAJ?hl=en) by James Patterson - ★★★★☆ 
+I’m actually surprised I’ve never read this book before as I’ve read a lot of James Patterson’s. I was pleasantly surprised this was pretty good and then in reality there was almost 2 stories and I’ll be curious if there’s more to the series.
+<img alt="Juror #3 poster" src="http://books.google.com/books/content?id=bmF9DQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=200 height=300 >
+	Finished Reading on *2025-05-30*
+
+***
+
+### 📚 [Worst Fears Realized (1999)](https://www.google.com/books/edition/Worst_Fears_Realized/WX1bAAAAMAAJ?hl=en) - Stone Barrington, #5  -  by Stuart Woods  - ★★★★☆ 
+I have enjoyed starting from the begining of the Stone series as it starts to piece things I heard in the leater books.
+<img alt="Worst Fears Realized poster" src="http://books.google.com/books/content?id=WX1bAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" width=200 height=300 >
+	Finished Reading on *2025-05-21*
+
+***
+
 ### 📚 [Robert B. Parker's Hot Property (2024)](https://www.google.com/books/edition/Robert_B_Parkers_Hot_Property/gYz3EAAAQBAJ?hl=en) by Mike Lupica - ★★★★☆ 
 It has been a while since I have had the pleasure of listening to a Spencer novel, this one didn’t disappoint either. Also, I always enjoy when they have characters from other books enter twine into the story as well.
 <img alt="Robert B. Parker's Hot Property poster" src="http://books.google.com/books/content?id=gYz3EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api" width=200 height=300 >
@@ -26,8 +38,8 @@ It has been a while since I have had the pleasure of listening to a Spencer nove
 
 ***
 
-### 📚 [Criminal Mischief (2021)](https://www.google.com/books/edition/Criminal_Mischief/toUmEAAAQBAJ?hl=en) by Stuart Woods
-
+### 📚 [Criminal Mischief (2021)](https://www.google.com/books/edition/Criminal_Mischief/toUmEAAAQBAJ?hl=en) - Stone Barrington, #60  -  by Stuart Woods ★★★★☆
+Just a good Stone Barrington novel that you would expect and how they are written.
 <img alt="Criminal Mischief poster" src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1633354765i/57658659.jpg" width=200 height=300 >
 	Finished Reading on *2025-05-01*
 
@@ -47,7 +59,7 @@ After reading the 1 book Aderline in this series, it was good and I was very cur
 
 ***
 
-### 📚 [Cold Paradise](https://www.goodreads.com/book/show/156616.Cold_Paradise) - Stone Barrington #7  - ★★★★☆
+### 📚 [Cold Paradise](https://www.goodreads.com/book/show/156616.Cold_Paradise) - Stone Barrington, #7  - ★★★★☆
 Another good Stone Barrington book that kept me company running some long runs the past two weeks. It was interesting to see how one plot unfolded from the prior books and then it is still keeping another story along in the fold.
 <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1389557088i/156616.jpg" width=200 height=300>
 	Finished Reading on *2025-04-01*
@@ -190,7 +202,7 @@ Definitely strays from the movie and it’s been so long since I’ve watched a 
 ***
 
 
-### 📚 [Stuart Woods Smolder by Brett Battles](https://goodreads.com/book/show/61723825) Stone Barrington #65 - ★★★★☆ 
+### 📚 [Stuart Woods Smolder by Brett Battles](https://goodreads.com/book/show/61723825) Stone Barrington, #65 - ★★★★☆ 
 <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1718810575l/61723825._SY475_.jpg" width=200 height=300>
 	Finished Reading on *2024-08-25*
 ***
@@ -802,7 +814,7 @@ Definitely strays from the movie and it’s been so long since I’ve watched a 
 ***
 
 
-### 📚 [Class Act by Stuart Woods](https://goodreads.com/book/show/55868470) Stone Barrington #58 - ★★★★☆ 
+### 📚 [Class Act by Stuart Woods](https://goodreads.com/book/show/55868470) Stone Barrington, #58 - ★★★★☆ 
 <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1615870272l/55868470.jpg" width=200 height=300>
 	Finished Reading on *2021-08-23*
 ***
