@@ -1,14 +1,19 @@
 ---
+title: 🎥 Movies
 url: https://ericmwalk.blog/movies/
 type: Page
 slug: movies
 publish: "true"
-tags: 
+tags: []
 ---
-
-# 🎥 Movies
-
 ## Recently Watched
+### 🍿 [Here Comes the Boom (2012)](https://www.themoviedb.org/movie/87826) - ★★★★☆ 
+Good movie overall and what you would expect from a Kevin James movie. Was entertaining and the best part was both older kids watched the whole thing with me. I actually can't believe I haven't seen this movie before seeing how it came out in 2012.
+<img alt="Here Comes the Boom poster" src="https://image.tmdb.org/t/p/w780/g3ZjNkQP4M7Cs0clPD9q7EO2P1g.jpg" width=200 height=300 >
+	Watched on *2025-06-08*
+
+***
+
 ### 🍿 [Homefront (2013)](https://www.themoviedb.org/movie/204082) - ★★★★☆ 
 Just a fun action packed movie like you would expect from Jason Statham. I have seen the is before but can’t beat a rewatch in the morning with my oldest daughter. Not a bad way to start the day.
 <img alt="Homefront poster" src="https://image.tmdb.org/t/p/w780/6pF8D9bDIAmuHgCqGKEfuNWRQam.jpg" width=200 height=300 >
