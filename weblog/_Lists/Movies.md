@@ -1,11 +1,13 @@
 ---
-title: 🎥 Movies
 url: https://ericmwalk.blog/movies/
 type: Page
 slug: movies
 publish: "true"
-tags: []
+tags: 
 ---
+
+# 🎥 Movies
+
 ## Recently Watched
 ### 🍿 [Shrek (2001)](https://www.themoviedb.org/movie/808) - ★★★★☆ 
 It has been a long time since I have watched this movie. Definitely the animation shows but still a good movie and worth the laughs. Also, I couldn’t believe my daughter has never seen it before. 😬
