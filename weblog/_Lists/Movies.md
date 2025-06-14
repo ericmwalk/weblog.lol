@@ -1,14 +1,30 @@
 ---
+title: 🎥 Movies
 url: https://ericmwalk.blog/movies/
 type: Page
 slug: movies
 publish: "true"
-tags: 
+tags: []
 ---
-
-# 🎥 Movies
-
 ## Recently Watched
+### 🍿 [Shrek (2001)](https://www.themoviedb.org/movie/808) - ★★★★☆ 
+It has been a long time since I have watched this movie. Definitely the animation shows but still a good movie and worth the laughs. Also, I couldn’t believe my daughter has never seen it before. 😬
+<img alt="Shrek poster" src="https://image.tmdb.org/t/p/w780/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg" width=200 height=300 >
+	Watched on *2025-06-13*
+
+***
+### 🍿 [Dog Man (2025)](https://www.themoviedb.org/movie/774370) - ★★★★☆ 
+Good family movie to watch with my oldest daughter. It was her pick so how could I say no.
+<img alt="Dog Man poster" src="https://image.tmdb.org/t/p/w780/89wNiexZdvLQ41OQWIsQy4O6jAQ.jpg" width=200 height=300 >
+	Watched on *2025-06-13*
+
+***
+### 🍿 [Paul Blart: Mall Cop 2 (2015)](https://www.themoviedb.org/movie/256961) - ★★★★☆ 
+The perfect movie for a Thursday night. I guess my daughter had never seen this one so it made the easy choice of selecting.
+<img alt="Paul Blart: Mall Cop 2 poster" src="https://image.tmdb.org/t/p/w780/qML63w7vgspicwLK6xXGLK17cM0.jpg" width=200 height=300 >
+	Watched on *2025-06-12*
+
+***
 ### 🍿 [Here Comes the Boom (2012)](https://www.themoviedb.org/movie/87826) - ★★★★☆ 
 Good movie overall and what you would expect from a Kevin James movie. Was entertaining and the best part was both older kids watched the whole thing with me. I actually can't believe I haven't seen this movie before seeing how it came out in 2012.
 <img alt="Here Comes the Boom poster" src="https://image.tmdb.org/t/p/w780/g3ZjNkQP4M7Cs0clPD9q7EO2P1g.jpg" width=200 height=300 >
