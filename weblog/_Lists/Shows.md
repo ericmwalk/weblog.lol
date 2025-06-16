@@ -1,11 +1,13 @@
 ---
-title: 📺 Shows
 url: https://ericmwalk.blog/shows/
 type: Page
 slug: shows
 publish: "true"
-tags: []
+tags: 
 ---
+
+# 📺 Shows
+
 ## Currently Watching
 ### 📺 [Stick (2025)](https://www.themoviedb.org/tv/248830) - ★★★★☆ 
 So far it has been a good show and now my son and I are waiting for the next episode as we played catch up today.
