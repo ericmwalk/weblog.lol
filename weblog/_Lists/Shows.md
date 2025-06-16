@@ -1,14 +1,29 @@
 ---
+title: 📺 Shows
 url: https://ericmwalk.blog/shows/
 type: Page
 slug: shows
 publish: "true"
-tags: 
+tags: []
 ---
-
-# 📺 Shows
-
 ## Currently Watching
+### 📺 [Stick (2025)](https://www.themoviedb.org/tv/248830) - ★★★★☆ 
+So far it has been a good show and now my son and I are waiting for the next episode as we played catch up today.
+<img alt="Stick poster" src="https://image.tmdb.org/t/p/w780/y8EWrf5Ry1WmYksWT7MOPWexvr5.jpg" width=200 height=300 >
+
+***
+### 📺 [Reacher (2022)] - Season 3 (https://www.themoviedb.org/tv/108978) 
+
+<img alt="Reacher poster" src="https://image.tmdb.org/t/p/w780/31GlRQMiDunO8cl3NxTz34U64rf.jpg" width=200 height=300 >
+
+***
+### 📺 [Leverage: Redemption (2021)](https://www.themoviedb.org/tv/106502 ) - Season 2
+
+<img alt="Leverage: Redemption poster" src="https://image.tmdb.org/t/p/w780/bIiOOUpelBRmFzveOhmm8QZ8VAe.jpg" width=200 height=300 >
+
+***
+
+
 ### 📺 [Alert: Missing Persons Unit (2023)](https://www.themoviedb.org/tv/202308) - Season 3
 
 <img alt="Alert: Missing Persons Unit poster" src="https://image.tmdb.org/t/p/w780/lLRC3GSYiFVHsxgc9tvmR6WjcOu.jpg" width=200 height=300 >
@@ -99,6 +114,13 @@ Season 1 was good and can't wait for season 2 to start up again later this year.
 
 <img alt="Human Target poster" src="https://image.tmdb.org/t/p/w780/28DQmHuzVetpvq3dcK0snfEXflG.jpg" width=200 height=300>
 ***
+
+### 📺 [Leverage (2008)](https://www.themoviedb.org/tv/7482) - ★★★★☆ 
+
+<img alt="Leverage poster" src="https://image.tmdb.org/t/p/w780/t5KJXooBqJLKUClpvYuSKNrcYGy.jpg" width=200 height=300 >
+
+***
+
 
 ### 📺 [Seinfeld (1989) - Season 1-9](https://www.themoviedb.org/tv/1400) - ★★★★★
 
