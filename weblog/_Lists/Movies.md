@@ -1,14 +1,30 @@
 ---
+title: 🎥 Movies
 url: https://ericmwalk.blog/movies/
 type: Page
 slug: movies
 publish: "true"
-tags: 
+tags: []
 ---
-
-# 🎥 Movies
-
 ## Recently Watched
+### 🍿 [The Fall Guy (2024)](https://www.themoviedb.org/movie/746036) - ★★★★☆ 
+Actually was a pretty good movie. Started it a long time ago but never finished it so we restarted it today and watched it all the way through. Overall, good action packed movie with a good underlying story. It is interesting to think of how many stunt doubles were actually in this movie about a stunt double. 
+<img alt="The Fall Guy poster" src="https://image.tmdb.org/t/p/w780/e7olqFmzcIX5c23kX4zSmLPJi8c.jpg" width=200 height=300 >
+	Watched on *2025-06-16*
+
+***
+### 🍿 [Now You See Me 2 (2016)](https://www.themoviedb.org/movie/291805) - ★★★★☆ 
+
+<img alt="Now You See Me 2 poster" src="https://image.tmdb.org/t/p/w780/A81kDB6a1K86YLlcOtZB27jriJh.jpg" width=200 height=300 >
+	Watched on *2025-06-14*
+
+***
+### 🍿 [Now You See Me (2013)](https://www.themoviedb.org/movie/75656) - ★★★★★ 
+
+<img alt="Now You See Me poster" src="https://image.tmdb.org/t/p/w780/tWsNYbrqy1p1w6K9zRk0mSchztT.jpg" width=200 height=300 >
+	Watched on *2025-06-14*
+
+***
 ### 🍿 [Shrek (2001)](https://www.themoviedb.org/movie/808) - ★★★★☆ 
 It has been a long time since I have watched this movie. Definitely the animation shows but still a good movie and worth the laughs. Also, I couldn’t believe my daughter has never seen it before. 😬
 <img alt="Shrek poster" src="https://image.tmdb.org/t/p/w780/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg" width=200 height=300 >
