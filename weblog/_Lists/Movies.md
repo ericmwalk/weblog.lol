@@ -1,11 +1,13 @@
 ---
-title: 🎥 Movies
 url: https://ericmwalk.blog/movies/
 type: Page
 slug: movies
 publish: "true"
-tags: []
+tags: 
 ---
+
+# 🎥 Movies
+
 ## Recently Watched
 ### 🍿 [The Fall Guy (2024)](https://www.themoviedb.org/movie/746036) - ★★★★☆ 
 Actually was a pretty good movie. Started it a long time ago but never finished it so we restarted it today and watched it all the way through. Overall, good action packed movie with a good underlying story. It is interesting to think of how many stunt doubles were actually in this movie about a stunt double. 
