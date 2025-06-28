@@ -1,11 +1,13 @@
 ---
-title: 🎥 Movies
 url: https://ericmwalk.blog/movies/
 type: Page
 slug: movies
 publish: "true"
-tags: []
+tags: 
 ---
+
+# 🎥 Movies
+
 ## Recently Watched
 ### 🍿 [The Intern (2015)](https://www.themoviedb.org/movie/257211) - ★★★★☆ 
 Kind of forgot about this movie over the years but a really good one still.
