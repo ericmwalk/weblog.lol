@@ -1,14 +1,24 @@
 ---
+title: 🎥 Movies
 url: https://ericmwalk.blog/movies/
 type: Page
 slug: movies
 publish: "true"
-tags: 
+tags: []
 ---
-
-# 🎥 Movies
-
 ## Recently Watched
+### 🍿 [The Intern (2015)](https://www.themoviedb.org/movie/257211) - ★★★★☆ 
+Kind of forgot about this movie over the years but a really good one still.
+<img alt="The Intern poster" src="https://image.tmdb.org/t/p/w780/9UoAC9tu8kIyRy8AcJnGhnH0gOH.jpg" width=200 height=300 >
+	Watched on *2025-06-27*
+
+***
+### 🍿 [The Internship (2013)](https://www.themoviedb.org/movie/116741) - ★★★★☆ 
+Owen Wilson and Vince Vaughn are in their prime in this movie, such a great movie.
+<img alt="The Internship poster" src="https://image.tmdb.org/t/p/w780/hIh3ZgsZ31nbUAGn5SKIZGKiKCX.jpg" width=200 height=300 >
+	Watched on *2025-06-25*
+
+***
 ### 🍿 [The Fall Guy (2024)](https://www.themoviedb.org/movie/746036) - ★★★★☆ 
 Actually was a pretty good movie. Started it a long time ago but never finished it so we restarted it today and watched it all the way through. Overall, good action packed movie with a good underlying story. It is interesting to think of how many stunt doubles were actually in this movie about a stunt double. 
 <img alt="The Fall Guy poster" src="https://image.tmdb.org/t/p/w780/e7olqFmzcIX5c23kX4zSmLPJi8c.jpg" width=200 height=300 >
