@@ -1,11 +1,13 @@
 ---
-title: 🎥 Movies
 url: https://ericmwalk.blog/movies/
 type: Page
 slug: movies
 publish: "true"
-tags: []
+tags: 
 ---
+
+# 🎥 Movies
+
 ## Recently Watched
 ### 🍿 [Enola Holmes (2020)](https://www.themoviedb.org/movie/497582) - ★★★★☆ 
 Not sure why I have never seen this movie before but trying to find something to watch tonight with our youngest she was intrigued as well and I actually thought it was overall a good movie and now can’t wait to watch number 2 to see what that is all about.
