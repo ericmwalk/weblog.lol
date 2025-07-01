@@ -384,10 +384,12 @@ article > ol {
     background: var(--link);
     color: var(--background);
 }
-#applause-placeholder {
+    
+/* Make applause section align left and wrap cleanly */
+#applause-placeholder.applause-left {
   display: flex;
   flex-wrap: wrap;
-  justify-content: center;
+  justify-content: flex-start; /* ← key to left-align */
   gap: 1rem;
   margin: 1rem 0;
 }
@@ -415,6 +417,7 @@ article > ol {
   display: block;
   line-height: 1.2em;
 }
+
 
     
 </style>
@@ -450,7 +453,7 @@ article > ol {
         </h3>
         <h3 class="applause">: &nbsp;</h3>
         <!-- Applause Script -->
-        <div id="applause-placeholder" style="text-align: center; margin: 2rem 0;"></div>
+        <div id="applause-placeholder" class="applause-left"></div>
           <script src="https://applause.brebs.net/applause.js?group=omg" defer></script>
 
     <div class="item">
