@@ -1,11 +1,10 @@
 ---
-title: ""
 publish: "true"
 date: 2021-07-01 22:37:02
-tags:
-  - Running
+tags: Running
 url: https://ericmwalk.blog/2021/07/01/strange-looking-sky.html
 ---
+
 Strange looking sky this morning. Too bad I had to cut my [run](https://www.strava.com/activities/5557477903) a little short and I was still cutting it short for my 6:30am work meeting. Glad we didn’t have to have video on this morning 😁🏃🏻‍♂️.
 
 
