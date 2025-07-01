@@ -316,18 +316,18 @@ h3.current-status:before {
     margin-right: 0.8rem;
 }
 
-h3.applause:before {
-  content: "\e1a8";
-  font: var(--fa-font-solid);
-  margin-right: 0.8rem;
-}
-    
 h3.contact-me:before {
   content: "\f573";
   font: var(--fa-font-solid);
   margin-right: 0.8rem;
 }
 
+h3.applause:before {
+  content: "\e1a8";
+  font: var(--fa-font-solid);
+  margin-right: 0.8rem;
+}
+    
 h3.about-this:before {
     content: "\f05a";
     font: var(--fa-font-solid);
@@ -388,6 +388,30 @@ article > ol {
     color: var(--background);
 }
 
+/* applause styling */
+#applause-placeholder.applause-centered {
+  display: flex;
+  justify-content: center;
+  margin: 2rem 0;
+}
+
+#applause-placeholder .applause-entry {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: var(--articleBG);
+  padding: 0.75em;
+  border-radius: 0.5em;
+  text-align: center;
+  width: 120px;
+}
+
+#applause-placeholder .applause-entry img {
+  max-width: 60px;
+  margin-bottom: 0.5em;
+  border-radius: 0.4em;
+}
+
     
 </style>
 </head>
@@ -420,10 +444,7 @@ article > ol {
             <a rel="me" href="https://social.lol/@ericmwalk" title="My Mastodon instance."><i class="fa-brands fa-fw fa-mastodon"></i></a>&nbsp;
             <a rel="me" href="https://www.strava.com/athletes/ericmwalk" title="Strava"><i class="fa-brands fa-fw fa-strava"></i></a>
         </h3>
-        <h3 class="applause">: &nbsp;</h3>
-        <!-- Applause Script -->
-        <div id="applause-placeholder" style="text-align: center; margin: 2rem 0;"></div>
-          <script src="https://applause.brebs.net/applause.js?group=omg" defer></script>
+    </div>
     <div class="item">
         <h3 class="recent-posts">recent posts</h3>
         {recent-posts}
@@ -446,6 +467,10 @@ article > ol {
     </p>
 </footer>
 
+<!-- Applause Script -->
+<div id="applause-placeholder" style="display: flex; justify-content: center; margin: 2rem 0;"></div>
+<script src="https://applause.brebs.net/applause.js?group=omg" defer></script>
+
 <div class="webring-container">
     <div class="webring-text">
         <p>This site is a member of <a href="https://webri.ng/webring/webloglol">The Unofficial weblog.lol Webring</a>.</p>
@@ -456,4 +481,5 @@ article > ol {
 </div>
 
 </body>
+</html>
 </html>
