@@ -1,11 +1,13 @@
 ---
-title: 🎥 Movies
 url: https://ericmwalk.blog/movies/
 type: Page
 slug: movies
 publish: "true"
-tags: []
+tags: 
 ---
+
+# 🎥 Movies
+
 ## Recently Watched
 ### 🍿 [A Working Man (2025)](https://www.themoviedb.org/movie/1197306) - ★★★★☆ 
 How can you not like this movie. Not that it is much different than any other Jason Statham movie but still enjoyable to watch.
