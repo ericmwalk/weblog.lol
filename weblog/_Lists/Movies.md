@@ -1,14 +1,30 @@
 ---
+title: 🎥 Movies
 url: https://ericmwalk.blog/movies/
 type: Page
 slug: movies
 publish: "true"
-tags: 
+tags: []
 ---
-
-# 🎥 Movies
-
 ## Recently Watched
+### 🍿 [A Working Man (2025)](https://www.themoviedb.org/movie/1197306) - ★★★★☆ 
+How can you not like this movie. Not that it is much different than any other Jason Statham movie but still enjoyable to watch.
+<img alt="A Working Man poster" src="https://image.tmdb.org/t/p/w780/6FRFIogh3zFnVWn7Z6zcYnIbRcX.jpg" width=200 height=300 >
+	Watched on *2025-06-30*
+
+***
+### 🍿 [Love Hurts (2025)](https://www.themoviedb.org/movie/1226406) - ★★★★☆ 
+I do actually enjoy movies like this it is really just all action packed with fighting. We started this as a family last night but everyone wanted to bail, so I had to then finish it today as I can't ever seem to NOT finish watching a movie.
+<img alt="Love Hurts poster" src="https://image.tmdb.org/t/p/w780/skPPVeHoTTVVSJlb0Ib5vrqiuA4.jpg" width=200 height=300 >
+	Watched on *2025-06-30*
+
+***
+### 🍿 [Invincible (2006)](https://www.themoviedb.org/movie/11652) - ★★★★☆ 
+Can’t go wrong with a fun family movie like this one. After a failed start with a differet one as the family was not necessarily in the mood to watch such a thing.
+<img alt="Invincible poster" src="https://image.tmdb.org/t/p/w780/oEaUMn5POAiMLnU6hKOBKoZbDpo.jpg" width=200 height=300 >
+	Watched on *2025-06-29*
+
+***
 ### 🍿 [Enola Holmes (2020)](https://www.themoviedb.org/movie/497582) - ★★★★☆ 
 Not sure why I have never seen this movie before but trying to find something to watch tonight with our youngest she was intrigued as well and I actually thought it was overall a good movie and now can’t wait to watch number 2 to see what that is all about.
 <img alt="Enola Holmes poster" src="https://image.tmdb.org/t/p/w780/riYInlsq2kf1AWoGm80JQW5dLKp.jpg" width=200 height=300 >
