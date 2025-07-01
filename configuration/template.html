@@ -385,6 +385,30 @@ article > ol {
     color: var(--background);
 }
 
+/* applause styling */
+#applause-placeholder.applause-centered {
+  display: flex;
+  justify-content: center;
+  margin: 2rem 0;
+}
+
+#applause-placeholder .applause-entry {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: var(--articleBG);
+  padding: 0.75em;
+  border-radius: 0.5em;
+  text-align: center;
+  width: 120px;
+}
+
+#applause-placeholder .applause-entry img {
+  max-width: 60px;
+  margin-bottom: 0.5em;
+  border-radius: 0.4em;
+}
+
     
 </style>
 </head>
@@ -439,6 +463,7 @@ article > ol {
         Made with <a href="https://home.omg.lol/" title="Love by prami at omg.lol"><i class="fa-solid fa-heart"></i></a> at <a href="https://weblog.lol">weblog.lol</a> &copy; 2022 - {year}
     </p>
 </footer>
+
 <div id="applause-placeholder" style="text-align: center; margin: 2rem 0;"></div>
 <script src="https://applause.brebs.net/applause.js?group=omg" defer></script>
 
