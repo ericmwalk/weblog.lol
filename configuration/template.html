@@ -387,12 +387,12 @@ article > ol {
     
 /* Make applause section align left and wrap cleanly */
 #applause-placeholder.applause-left {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: flex-start; /* ← key to left-align */
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
   gap: 1rem;
   margin: 1rem 0;
 }
+
 
 #applause-placeholder .applause-entry {
   display: flex;
