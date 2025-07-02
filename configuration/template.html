@@ -476,13 +476,14 @@ article > ol {
 <script>
   window.webmentionConfig = {
     target: window.location.href,
+    container: '.webmentions',
     fetch: true,
     format: 'html',
     endpoint: 'https://webmention.io/api/mentions.jf2'
   };
 </script>
-
 <script src="https://unpkg.com/webmentionjs@latest/webmention.min.js" async></script>
+<button onclick="window.webmentionLoader.load();">🔄 Force Load Webmentions</button>
 
     
 <div class="weblog-info">
