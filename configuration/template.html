@@ -467,6 +467,14 @@ article > ol {
   text-decoration: underline;
 }
 
+.mention-summary {
+  font-size: 0.95em;
+  margin-bottom: 1em;
+  font-style: italic;
+  color: var(--foreground);
+}
+
+
 
 
 </style>
@@ -494,6 +502,7 @@ article > ol {
 <!-- Webmentions Display -->
 <section class="webmentions">
   <h3><i class="fa-solid fa-comments"></i> Comments & Interactions</h3>
+  <div class="mention-summary"></div>
   <ul id="mention-list"></ul>
 </section>
 
@@ -504,41 +513,59 @@ article > ol {
   const data = await response.json();
 
   const list = document.getElementById('mention-list');
+  const summary = document.querySelector('.mention-summary');
 
   if (!data.children || data.children.length === 0) {
-    list.innerHTML = "<li>No webmentions yet.</li>";
+    summary.innerHTML = "<p>No webmentions yet.</p>";
     return;
   }
 
+  let replies = [];
+  let likes = [];
+  let replyCount = 0;
+  let likeCount = 0;
+
   data.children.forEach(entry => {
-    const li = document.createElement('li');
+    const type = entry["wm-property"];
     const author = entry.author?.name || "Someone";
     const authorURL = entry.author?.url || "#";
     const avatar = entry.author?.photo || "";
-    const type = entry["wm-property"];
-
-    let content = "";
+    const authorHTML = `<a href="${authorURL}">${author}</a>`;
+    const avatarHTML = avatar
+      ? `<img src="${avatar}" alt="${author}'s avatar" style="height:2em;width:2em;border-radius:50%;vertical-align:middle;margin-right:0.5em;">`
+      : "";
 
     if (type === "in-reply-to" && entry.content?.text) {
-      content = `<p><strong><a href="${authorURL}">${author}</a> replied:</strong> ${entry.content.text}</p>`;
-    } else if (type === "like-of") {
-      content = `<p><strong><a href="${authorURL}">${author}</a></strong> liked this.</p>`;
-    } else if (type === "repost-of") {
-      content = `<p><strong><a href="${authorURL}">${author}</a></strong> reposted this.</p>`;
+      replies.push(`<li>${avatarHTML}<p>${authorHTML} replied: ${entry.content.text}</p></li>`);
+      replyCount++;
     }
 
-    if (avatar) {
-      content = `<img src="${avatar}" alt="${author}'s avatar" style="height:1.5em;vertical-align:middle;border-radius:50%;margin-right:0.5em;">` + content;
+    if (type === "like-of") {
+      likes.push(`<li>${avatarHTML}<p>${authorHTML} liked this.</p></li>`);
+      likeCount++;
     }
+  });
 
-    li.innerHTML = content;
+  // Update summary
+  summary.innerHTML = `<p>💬 ${replyCount} &nbsp; ❤️ ${likeCount}</p>`;
+
+  // Append replies first
+  replies.forEach(html => {
+    const li = document.createElement('li');
+    li.innerHTML = html;
+    list.appendChild(li);
+  });
+
+  // Append likes second
+  likes.forEach(html => {
+    const li = document.createElement('li');
+    li.innerHTML = html;
     list.appendChild(li);
   });
 })();
 </script>
 
-
-    
+<!-- Weblog info at bottom of the page-->
 <div class="weblog-info">
     <div class="item">
         <h3 class="current-status">status</h3>
