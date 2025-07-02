@@ -472,11 +472,16 @@ article > ol {
   <div class="wm-reposts"></div>
 </section>
 
+<!-- Only ONE config block -->
 <script>
   window.webmentionConfig = {
-    target: window.location.href  // Explicitly define the target URL as I am guessing it is how this template pulls things.
+    target: window.location.href,
+    fetch: true,
+    format: 'html',
+    endpoint: 'https://webmention.io/api/mentions.jf2'
   };
 </script>
+
 <script src="https://unpkg.com/webmentionjs@latest/webmention.min.js" async></script>
 
     
