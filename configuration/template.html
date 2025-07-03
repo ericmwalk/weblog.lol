@@ -415,6 +415,7 @@ article > ol {
 }
 
 /* Webmention styling */
+/* Webmention Enhanced Display */
 .webmentions {
   margin-top: 2em;
   padding: 1em;
@@ -422,59 +423,76 @@ article > ol {
   border-radius: 0.5em;
 }
 
-.webmentions h3 {
-  font-family: 'VC Honey Deck', serif;
-  margin-bottom: 1em;
-}
-
-.webmentions ul {
-  list-style: none;
-  padding-left: 0;
-  margin: 0;
-}
-
-.webmentions li {
-  display: flex;
-  align-items: flex-start;
-  gap: 0.75em;
-  padding: 0.75em 0;
-  border-bottom: 1px solid var(--accent);
-}
-
-.webmentions li:last-child {
-  border-bottom: none;
-}
-
-.webmentions img {
-  height: 2em;
-  width: 2em;
-  border-radius: 50%;
-  flex-shrink: 0;
-}
-
-.webmentions p {
-  margin: 0;
-  line-height: 1.4;
-}
-
-.webmentions a {
-  color: var(--link);
-  text-decoration: none;
-  font-weight: bold;
-}
-
-.webmentions a:hover {
-  text-decoration: underline;
-}
-
-.mention-summary {
+.mention-summary-bar p {
   font-size: 0.95em;
   margin-bottom: 1em;
   font-style: italic;
   color: var(--foreground);
 }
 
+.mention-avatars {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5em;
+  margin-bottom: 1.5em;
+}
 
+.likes-row, .boosts-row {
+  display: flex;
+  align-items: center;
+  gap: 0.5em;
+}
+
+.emoji-label {
+  font-size: 1.25em;
+  line-height: 1;
+}
+
+.avatar-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25em;
+}
+
+.avatar-list img {
+  height: 2em;
+  width: 2em;
+  border-radius: 50%;
+  display: block;
+}
+
+.comment-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.comment-list li {
+  border-top: 1px solid var(--accent);
+  padding: 1em 0;
+}
+
+.comment-list li:first-child {
+  border-top: none;
+}
+
+.comment-author {
+  display: flex;
+  align-items: center;
+  gap: 0.5em;
+  font-weight: bold;
+}
+
+.comment-author img {
+  height: 2em;
+  width: 2em;
+  border-radius: 50%;
+}
+
+.comment-content {
+  margin-top: 0.5em;
+  font-size: 0.95em;
+}
 
 
 </style>
@@ -501,9 +519,12 @@ article > ol {
 
 <!-- Webmentions Display -->
 <section class="webmentions">
-  <h3><i class="fa-solid fa-comments"></i> Comments </h3>
-  <div class="mention-summary"></div>
-  <ul id="mention-list"></ul>
+  <div class="mention-summary-bar"></div>
+  <div class="mention-avatars">
+    <div class="likes-row"></div>
+    <div class="boosts-row"></div>
+  </div>
+  <ul class="comment-list"></ul>
 </section>
 
 <script>
@@ -512,58 +533,56 @@ article > ol {
   const response = await fetch(`https://webmention.io/api/mentions.jf2?target=${encodeURIComponent(target)}`);
   const data = await response.json();
 
-  const list = document.getElementById('mention-list');
-  const summary = document.querySelector('.mention-summary');
+  const summaryBar = document.querySelector('.mention-summary-bar');
+  const likesRow = document.querySelector('.likes-row');
+  const boostsRow = document.querySelector('.boosts-row');
+  const commentList = document.querySelector('.comment-list');
 
-  if (!data.children || data.children.length === 0) {
-    summary.innerHTML = "<p>No webmentions yet.</p>";
-    return;
-  }
-
-  let replies = [];
-  let likes = [];
-  let replyCount = 0;
-  let likeCount = 0;
+  let likeCount = 0, boostCount = 0, commentCount = 0;
+  let likeAvatars = [], boostAvatars = [];
 
   data.children.forEach(entry => {
     const type = entry["wm-property"];
-    const author = entry.author?.name || "Someone";
-    const authorURL = entry.author?.url || "#";
-    const avatar = entry.author?.photo || "";
-    const authorHTML = `<a href="${authorURL}">${author}</a>`;
-    const avatarHTML = avatar
-      ? `<img src="${avatar}" alt="${author}'s avatar" style="height:2em;width:2em;border-radius:50%;vertical-align:middle;margin-right:0.5em;">`
-      : "";
-
-    if (type === "in-reply-to" && entry.content?.text) {
-      replies.push(`<li>${avatarHTML}<p>${authorHTML} replied: ${entry.content.text}</p></li>`);
-      replyCount++;
-    }
+    const author = entry.author;
+    const avatar = author?.photo || '';
+    const authorURL = author?.url || '#';
+    const authorName = author?.name || 'Someone';
+    const authorHTML = `<a href="${authorURL}" title="${authorName}"><img src="${avatar}" alt="${authorName}'s avatar"></a>`;
 
     if (type === "like-of") {
-      likes.push(`<li>${avatarHTML}<p>${authorHTML} liked this.</p></li>`);
       likeCount++;
+      likeAvatars.push(authorHTML);
+    }
+
+    if (type === "repost-of") {
+      boostCount++;
+      boostAvatars.push(authorHTML);
+    }
+
+    if (type === "in-reply-to" && entry.content?.text) {
+      commentCount++;
+      const li = document.createElement('li');
+      li.innerHTML = `
+        <div class="comment-author">
+          <img src="${avatar}" alt="${authorName}'s avatar">
+          <a href="${authorURL}">${authorName}</a>
+        </div>
+        <div class="comment-content">${entry.content.text}</div>
+      `;
+      commentList.appendChild(li);
     }
   });
 
-  // Update summary
-  summary.innerHTML = `<p>💬 ${replyCount} &nbsp; ❤️ ${likeCount}</p>`;
-
-  // Append replies first
-  replies.forEach(html => {
-    const li = document.createElement('li');
-    li.innerHTML = html;
-    list.appendChild(li);
-  });
-
-  // Append likes second
-  likes.forEach(html => {
-    const li = document.createElement('li');
-    li.innerHTML = html;
-    list.appendChild(li);
-  });
+  summaryBar.innerHTML = `<p>💬 ${commentCount} &nbsp; ❤️ ${likeCount} &nbsp; 🚀 ${boostCount}</p>`;
+  if (likeAvatars.length > 0) {
+    likesRow.innerHTML = `<div class="emoji-label">❤️</div><div class="avatar-list">${likeAvatars.join('')}</div>`;
+  }
+  if (boostAvatars.length > 0) {
+    boostsRow.innerHTML = `<div class="emoji-label">🚀</div><div class="avatar-list">${boostAvatars.join('')}</div>`;
+  }
 })();
 </script>
+
 
 <!-- Weblog info at bottom of the page-->
 <div class="weblog-info">
