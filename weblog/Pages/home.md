@@ -1,12 +1,10 @@
 ---
+title: home
 publish: "true"
 date: 2025-07-03T09:33:00
 type: page
 location: /home
 ---
-
-# home
-
 
 # <i class="fas fa-door-open"></i> home
 
@@ -19,5 +17,3 @@ This website is kind of my place on the internet that I am thinking will be the 
 However, this here site has been more hand crafted with the theme, look, and behind the scenes scripts that is much easier for me to tinker with so I have some more control on what is going on. This has been great as it has given me a chance to flex new skills of website tinkering.
 
 I still have more work to do here but I like how everything has turned out since brining all my old stuff in. I still need to make some better connections behind the scenes but overall it is in good shape.
-
-
