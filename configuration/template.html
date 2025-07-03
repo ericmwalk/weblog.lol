@@ -631,30 +631,32 @@ article > ol {
           Mentioned this post: <a href="${entry.url}" target="_blank">${entry.url}</a>
         </div>
       `;
-      mentionList.appendChild(li);
-    }
-
-  });
-
-summaryBar.innerHTML = `
-  <p>
-    <i class="fa-regular fa-comments"></i> ${commentCount} &nbsp;
-    <i class="fa-solid fa-heart"></i> ${likeCount} &nbsp;
-    <i class="fa-solid fa-rocket"></i> ${boostCount}
-  </p>`;
-if (likeAvatars.length > 0) {
-  likesRow.innerHTML = `
-    <div class="emoji-label"><i class="fa-solid fa-heart"></i></div>
-    <div class="avatar-list">${likeAvatars.join('')}</div>
-  `;
-}
-
-if (boostAvatars.length > 0) {
-  boostsRow.innerHTML = `
-    <div class="emoji-label"><i class="fa-solid fa-rocket"></i></div>
-    <div class="avatar-list">${boostAvatars.join('')}</div>
-  `;
-}
+    mentionList.appendChild(li);
+            }
+        
+          });
+        
+        summaryBar.innerHTML = `
+          <p>
+            <i class="fa-regular fa-comments"></i> ${commentCount} &nbsp;
+            <i class="fa-solid fa-heart"></i> ${likeCount} &nbsp;
+            <i class="fa-solid fa-rocket"></i> ${boostCount}
+          </p>`;
+        if (likeAvatars.length > 0) {
+          likesRow.innerHTML = `
+            <div class="emoji-label"><i class="fa-solid fa-heart"></i></div>
+            <div class="avatar-list">${likeAvatars.join('')}</div>
+          `;
+        }
+        
+        if (boostAvatars.length > 0) {
+          boostsRow.innerHTML = `
+            <div class="emoji-label"><i class="fa-solid fa-rocket"></i></div>
+            <div class="avatar-list">${boostAvatars.join('')}</div>
+          `;
+        }
+})();
+</script>
 
 <!-- Weblog info at bottom of the page-->
 <div class="weblog-info">
