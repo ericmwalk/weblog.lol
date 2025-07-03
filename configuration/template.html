@@ -643,14 +643,18 @@ summaryBar.innerHTML = `
     <i class="fa-solid fa-rocket"></i> ${boostCount}
   </p>`;
 if (likeAvatars.length > 0) {
-    likesRow.innerHTML = `<div class="emoji-label">❤️</div><div class="avatar-list">${likeAvatars.join('')}</div>`;
-  }
-  if (boostAvatars.length > 0) {
-    boostsRow.innerHTML = `<div class="emoji-label">🚀</div><div class="avatar-list">${boostAvatars.join('')}</div>`;
-  }
-})();
-</script>
+  likesRow.innerHTML = `
+    <div class="emoji-label"><i class="fa-solid fa-heart"></i></div>
+    <div class="avatar-list">${likeAvatars.join('')}</div>
+  `;
+}
 
+if (boostAvatars.length > 0) {
+  boostsRow.innerHTML = `
+    <div class="emoji-label"><i class="fa-solid fa-rocket"></i></div>
+    <div class="avatar-list">${boostAvatars.join('')}</div>
+  `;
+}
 
 <!-- Weblog info at bottom of the page-->
 <div class="weblog-info">
