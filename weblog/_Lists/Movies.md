@@ -1,14 +1,18 @@
 ---
+title: 🎥 Movies
 url: https://ericmwalk.blog/movies/
 type: Page
 slug: movies
 publish: "true"
-tags: 
+tags: []
 ---
-
-# 🎥 Movies
-
 ## Recently Watched
+### 🍿 [Enola Holmes 2 (2022)](https://www.themoviedb.org/movie/829280) - ★★★★☆ 
+Very similar style to the first one but I still enjoyed this as it was a new story with more twists and turns along the way. I heard there might be a third one coming at some point and I think my youngest and I will be ready for it when it comes out.
+<img alt="Enola Holmes 2 poster" src="https://image.tmdb.org/t/p/w780/tegBpjM5ODoYoM1NjaiHVLEA0QM.jpg" width=200 height=300 >
+	Watched on *2025-07-03*
+
+***
 ### 🍿 [A Working Man (2025)](https://www.themoviedb.org/movie/1197306) - ★★★★☆ 
 How can you not like this movie. Not that it is much different than any other Jason Statham movie but still enjoyable to watch.
 <img alt="A Working Man poster" src="https://image.tmdb.org/t/p/w780/6FRFIogh3zFnVWn7Z6zcYnIbRcX.jpg" width=200 height=300 >
