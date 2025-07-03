@@ -1,12 +1,10 @@
 ---
+title: home
 publish: "true"
-date: 2025-04-11 14:25
+date: 2025-07-03T09:33:00
 type: page
 location: /home
 ---
-
-# home
-
 
 # <i class="fas fa-door-open"></i> home
 
