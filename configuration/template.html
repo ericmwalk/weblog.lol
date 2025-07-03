@@ -493,6 +493,20 @@ article > ol {
   margin-top: 0.5em;
   font-size: 0.95em;
 }
+.comment-reply-link {
+  margin-top: 0.25em;
+  font-size: 0.85em;
+}
+
+.comment-reply-link a {
+  color: var(--link);
+  text-decoration: none;
+}
+
+.comment-reply-link a:hover {
+  text-decoration: underline;
+}
+
 
 
 </style>
@@ -561,14 +575,17 @@ article > ol {
 
     if (type === "in-reply-to" && entry.content?.text) {
       commentCount++;
-      const li = document.createElement('li');
-      li.innerHTML = `
-        <div class="comment-author">
-          <img src="${avatar}" alt="${authorName}'s avatar">
-          <a href="${authorURL}">${authorName}</a>
-        </div>
-        <div class="comment-content">${entry.content.text}</div>
-      `;
+    const li = document.createElement('li');
+    li.innerHTML = `
+      <div class="comment-author">
+        <img src="${avatar}" alt="${authorName}'s avatar">
+        <a href="${authorURL}">${authorName}</a>
+      </div>
+      <div class="comment-content">${entry.content.text}</div>
+      <div class="comment-reply-link">
+        <a href="${entry.url}" target="_blank" rel="nofollow">↩ Reply on Mastodon</a>
+      </div>
+    `;
       commentList.appendChild(li);
     }
   });
