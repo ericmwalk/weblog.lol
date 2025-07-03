@@ -415,7 +415,6 @@ article > ol {
 }
 
 /* Webmention styling */
-/* Webmention Enhanced Display */
 .webmentions {
   margin-top: 2em;
   padding: 1em;
@@ -506,6 +505,35 @@ article > ol {
 .comment-reply-link a:hover {
   text-decoration: underline;
 }
+.mention-list {
+  list-style: none;
+  padding: 0;
+  margin: 2em 0 0;
+  border-top: 1px dashed var(--accent);
+}
+
+.mention-list li {
+  padding: 1em 0;
+  border-bottom: 1px solid var(--accent);
+}
+
+.mention-author {
+  display: flex;
+  align-items: center;
+  gap: 0.5em;
+  font-weight: bold;
+}
+
+.mention-author img {
+  height: 2em;
+  width: 2em;
+  border-radius: 50%;
+}
+
+.mention-content {
+  margin-top: 0.25em;
+  font-size: 0.9em;
+}
 
 
 
@@ -539,6 +567,7 @@ article > ol {
     <div class="boosts-row"></div>
   </div>
   <ul class="comment-list"></ul>
+  <ul class="mention-list"></ul>
 </section>
 
 <script>
@@ -551,6 +580,8 @@ article > ol {
   const likesRow = document.querySelector('.likes-row');
   const boostsRow = document.querySelector('.boosts-row');
   const commentList = document.querySelector('.comment-list');
+  const mentionList = document.querySelector('.mention-list');
+
 
   let likeCount = 0, boostCount = 0, commentCount = 0;
   let likeAvatars = [], boostAvatars = [];
@@ -588,6 +619,21 @@ article > ol {
     `;
       commentList.appendChild(li);
     }
+
+    if (type === "mention-of") {
+      const li = document.createElement('li');
+      li.innerHTML = `
+        <div class="mention-author">
+          <img src="${avatar}" alt="${authorName}'s avatar">
+          <a href="${authorURL}">${authorName}</a>
+        </div>
+        <div class="mention-content">
+          Mentioned this post: <a href="${entry.url}" target="_blank">${entry.url}</a>
+        </div>
+      `;
+      mentionList.appendChild(li);
+    }
+
   });
 
   summaryBar.innerHTML = `<p>💬 ${commentCount} &nbsp; ❤️ ${likeCount} &nbsp; 🚀 ${boostCount}</p>`;
