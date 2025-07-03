@@ -636,8 +636,13 @@ article > ol {
 
   });
 
-  summaryBar.innerHTML = `<p>💬 ${commentCount} &nbsp; ❤️ ${likeCount} &nbsp; 🚀 ${boostCount}</p>`;
-  if (likeAvatars.length > 0) {
+summaryBar.innerHTML = `
+  <p>
+    <i class="fa-regular fa-comments"></i> ${commentCount} &nbsp;
+    <i class="fa-solid fa-heart"></i> ${likeCount} &nbsp;
+    <i class="fa-solid fa-rocket"></i> ${boostCount}
+  </p>`;
+if (likeAvatars.length > 0) {
     likesRow.innerHTML = `<div class="emoji-label">❤️</div><div class="avatar-list">${likeAvatars.join('')}</div>`;
   }
   if (boostAvatars.length > 0) {
