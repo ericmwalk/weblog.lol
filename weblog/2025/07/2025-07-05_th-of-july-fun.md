@@ -1,10 +1,12 @@
 ---
-title: 4th of July Fun!
 publish: "true"
 date: 2025-07-05 08:17
-tags: []
+tags: 
 url: https://ericmwalk.blog/2025/07/05/th-of-july-fun.html
 ---
+
+# 4th of July Fun!
+
 Had a really great 4th of July with family, we started our day with the new annual 5K run. Everyone did a great job on the run and finished. The best part is all of the cousins drifted together to run with someone and finished together as well. Which I guess left me running alone and in hindsight I should have brought my headphones to pass the time in the heat.
 
 After the run we stayed around the festivities and found a spot to watch the Delano parade. Once that got done, we headed to my brother and sister-in-laws house to enjoy their backyard pool while eating and hanging out. Once the sun started to go behind trees to give us some shade from the heat we decided to get a little friend game of Kubb going! We brought our set but come to find out after we played it with them last time they have now picked up their own set and are playing it.
