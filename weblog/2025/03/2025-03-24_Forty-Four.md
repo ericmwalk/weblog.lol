@@ -1,12 +1,10 @@
 ---
+title: Forty-Four
 publish: "true"
 date: 2025-03-24T09:58:00
-tags: 
-url: https://ericmwalk.blog/2025/03/24/fortyfour.html
+tags: []
+url: https://ericmwalk.blog/2025/03/24/fortyfour/
 ---
-
-# Forty-Four
-
 I’ve just spent the last two weeks in Portland Maine obviously traveling back on the weekend because I wanted to watch my daughter swim at her state competition. Now that I’m back, I’m reflecting on everything as I normally do when writing these for what have become almost yearly reviews.
 
 This past year has, as always, been full of changes. My youngest daughter decided to shift her focus from competitive dance to going all in on competitive swimming and she’s done amazing. I love watching everything she has accomplished so far this year and how much her work and effort is paying off. My middle child who has been a dedicated hockey player for as long as I can remember has really branched out this year. After giving up dance, she took some time off the period year, however now  it’s been great to see her grow and try new things from volleyball and soon to be track. My oldest has also had an interesting year. He’s still the kid who loves basketball, but he’s been hanging out with friends and trying new things like golf. Not to mention he started driving this past year! As he is almost now 16, his new thing is looking for a job. I am both anxious and excited for him to be able to drive himself to work, events and activities. The one thing over the past year for him that has been interesting to see is that he has gone on two trips with one of his friends and as much as I hate seeing him go I really love the connections he’s making and hearing all about it when he gets back.
@@ -25,4 +23,4 @@ Looking ahead to 2025 I really want to embrace the shifts in my kids’ activiti
 
 *In full disclosure I recorded as much of this as I could on a flight back to Minnesota from Detroit as I was stuck in airports for way to long due to delays then edited it over the following days.*
 
-Previously: [35](https://ericmwalk.blog/2016/03/24/thirtyfive.html), [36](https://ericmwalk.blog/2017/03/24/thirtysix.html), [37](https://ericmwalk.blog/2018/03/24/thirtyseven.html), [38](https://ericmwalk.blog/2019/03/24/thirtyeight.html), [39](https://ericmwalk.blog/2020/03/24/thirtynine.html), [40](https://ericmwalk.blog/2021/03/24/forty.html), [41](https://ericmwalk.blog/2022/03/24/fortyone.html), [42](https://ericmwalk.blog/2023/03/24/fortytwo.html), [43](https://ericmwalk.blog/2023/03/24/fortythree.html)
+Previously: [35](https://ericmwalk.blog/2016/03/24/thirtyfive/), [36](https://ericmwalk.blog/2017/03/24/thirtysix/), [37](https://ericmwalk.blog/2018/03/24/thirtyseven/), [38](https://ericmwalk.blog/2019/03/24/thirtyeight/), [39](https://ericmwalk.blog/2020/03/24/thirtynine.html), [40](https://ericmwalk.blog/2021/03/24/forty/), [41](https://ericmwalk.blog//2022/03/24/fortyone/), [42](https://ericmwalk.blog/2023/03/24/fortytwo/), [43](https://ericmwalk.blog/2023/03/24/fortythree/)
