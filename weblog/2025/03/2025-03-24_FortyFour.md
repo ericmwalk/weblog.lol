@@ -6,6 +6,7 @@ url: https://ericmwalk.blog/2025/03/24/fortyfour/
 ---
 
 
+
 # Forty-Four
 
 I’ve just spent the last two weeks in Portland Maine obviously traveling back on the weekend because I wanted to watch my daughter swim at her state competition. Now that I’m back, I’m reflecting on everything as I normally do when writing these for what have become almost yearly reviews.
