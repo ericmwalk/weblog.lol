@@ -4,7 +4,6 @@ publish: "true"
 date: 2018-07-07 09:27:53
 url: https://ericmwalk.blog/2018/07/07/ready-to-start.html
 ---
-
 Ready to start day 2...
 ☑️ Coffee
 ☑️ Navigation
