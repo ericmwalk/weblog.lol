@@ -1,11 +1,10 @@
 ---
-title: ""
 publish: "true"
 date: 2021-07-08 16:12:00
-tags:
-  - Running
+tags: Running
 url: https://ericmwalk.blog/2021/07/08/there-has-to-be-something.html
 ---
+
 There has to be something fun on the other side of the tunnel 🤣.
 
 ![](https://ericmwalk.blog/uploads/2021/93140f2bf9.jpg)
