@@ -1,10 +1,10 @@
 ---
-title: ""
 publish: "true"
 date: 2025-07-07 22:23
-tags: []
+tags: 
 url: https://ericmwalk.blog/2025/07/07/we-got-lucky-golfing-tonight.html
 ---
+
 We got lucky golfing tonight with no heavy rain tonight and just finished up before it got too dark.
 
 ![A serene landscape featuring a green, grassy hill under a purple sky. A faint rainbow arches over the horizon, framed by tall, leafy trees on both sides.](https://ericmwalk.blog/uploads/2025/img-4737.jpeg)
